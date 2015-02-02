@@ -2283,7 +2283,7 @@ Le papier est tombé de 24 centimes en 1862 à 2 centimes en 1900.
 
 Le papier journal qui avant la guerre se vendait 28 fr. les 100 kg., était en février 1918 à 180 fr
 
-Le prix du papier est devenu excessif dans les pays où la monnaie a été d’préciée au cours de 1a guerre. On peut dire, par exemple, qu’en Belgique, alors que le coefficient de dépréciation de la monnaie est de 7, on paie jusqu’à 12. 14 et 15 le papier. C'est immédiatement une entrave à la production.
+Le prix du papier est devenu excessif dans les pays où la monnaie a été d’préciée au cours de la guerre. On peut dire, par exemple, qu’en Belgique, alors que le coefficient de dépréciation de la monnaie est de 7, on paie jusqu’à 12. 14 et 15 le papier. C'est immédiatement une entrave à la production.
 
 Le papier qu'on payait en 1914. 30 fr. les 100 kg. en France, y monte jusqu'à 415 fr.
 
@@ -3034,7 +3034,7 @@ A la paléographie appartient donc toute la partie pour ainsi dire extérieure d
 
 4. Histoire. - La Paléographie est relativement récente. Avant le XVIIe siècle et les premiers travaux des bénédictins, on n'en possédait même pas les premiers élé ments : quelques rares érudits, depuis la Renaissance, s’étaient appliqués au déchiffrement des manuscrits et des diplômes; mais leurs efforts restaient isolés et leur science personnelle. Les archivistes même des ahhayes considéraient comme indéchiffrables les textes d’écriture mérovingienne dont les dépôts renfermaient les plus précieux spécimens. Ils consignaient naïvement en note leur complète ignorance. Ainsi se perdirent beaucoup de manuscrits considérés comme uniques. Le Père Pape broeck entreprit au XVIIe siècle de recueillir les que'ques règles éparses qui pouvaient servir aux premiers éléments de paléographie ; il les consigna dans la préface du tome II (avril) des Acta Sanctorum et cet informe essai donna à Mabillon l'idée de son célèbre traité De rc diplo-matica (1681, in fol,). Montfaucon composa une Paléographie grecque (1708, in fol.) donnant le» renseignements les plus utiles. Les grands travaux ont été complétés jusqu'à nos jours notamment par Kopp Paleographia Criiica (Mannheim 1817, 4 vol, n-8°) ; Natalis de Wailly, Eléments de Paléographie (Paris, 1838. 2 vol. gr, ïn-4") ; A. Chassant Paléographie des chartes et des manuscrits du XIe au XVIIe siècle (1847, in-8"). etc.
 
-5. Le déchiffrement. — Le déchiffrement des écritures anciennes rencontre quatre ordres de difficultés: 1” La signification des caractères par rapport à 1a langue employée ; 2° la détermination des caractères employé» ; 3° la forme des lettres à distinguer les unes des autres ; 4° les abréviations ; 5° les signes abréviatifs et les monogrammes.
+5. Le déchiffrement. — Le déchiffrement des écritures anciennes rencontre quatre ordres de difficultés: 1” La signification des caractères par rapport à la langue employée ; 2° la détermination des caractères employé» ; 3° la forme des lettres à distinguer les unes des autres ; 4° les abréviations ; 5° les signes abréviatifs et les monogrammes.
 6, Forme des écritures anciennes. — L'écriture cursive des Grecs était difficile à déchiffrer étant fort irrégulière; les lettres sont inégales, les plus petites sont enclavées dan» les grandes, plusieurs sont tout à fait défectueuses et l'absence de tout signe de ponctuation, les mots coupés arbitrairement à la fin des lignes. L'écriture cursive des Romains est plus indéchiffrable encore; elle a un bel aspect, les traits sont élégants et variés, mais il faut la plus grande attention pour isoler les lettres les unes des autres à cause des liaisons, des traits parasites et de la position excessivement inclinée des caractères. Les liaisons des lettres concourent dans une certaine mesure à leur formation et les rendent méconnaissables en les faisant varier à l'infini. De plus, comme dans la capitale, il n'y a aucune séparation entre les mots.
 
 222.152 GRAPHOLOGIE.
@@ -3278,7 +3278,7 @@ On entend par idéographie de» signe» qui expriment directement l’idée et n
 
 Tandis que les Chinois abandonnent l’idéographie et adoptent notre alphabet, voila que l’Occident lui reconnaît des avantages et fait des essais pour y revenir.
 
-En apprenant l’écriture et l’orthographe, on n’npprend guère de notions ; et 1a communication de peuple à peuple reconnaît les obstacles de la langue.
+En apprenant l’écriture et l’orthographe, on n’npprend guère de notions ; et la communication de peuple à peuple reconnaît les obstacles de la langue.
 
 Les néoglyphea. U nouvelle écriture mondiale du Prof. Alex. Sommer-Batek (Prague).
 
@@ -3394,7 +3394,7 @@ On est parvenu, à l’intermédiaire d’un système photo électrique, a trans
 
 Pour correspondre avec les esprits désincarnés, on a imaginé un tableau portant les lettres de l’alphabet et qu’on appelle le « Ja Ne ». Il a donné lieu récemment ?>ar perfectionnement à un téléphone avec l'au delà. (2)
 
-2. A l’écriture Spirite se rattache 1a question de la photographie directe de la pensée. Certains n écartent pas la possibilité qu’un jour, par quelques procédé» encore ignorés, la pensée pourra s’enregistrer »ans intermédiaire sur quelque plaque ou papier spécialement sensible. ?? 2
+2. A l’écriture Spirite se rattache la question de la photographie directe de la pensée. Certains n écartent pas la possibilité qu’un jour, par quelques procédé» encore ignorés, la pensée pourra s’enregistrer »ans intermédiaire sur quelque plaque ou papier spécialement sensible. ?? 2
 ( I ) Pierre Henri : « Une application de la photoélec tricité ». Revue scientifique. 23 avril 1932, p. 239.
 (2) Voir Bulletin de la Société Métaphysique de Relui, que. 1932
 
@@ -4248,7 +4248,7 @@ I. La Parole. — La parole est une voix articulée qui exprime quelque idée pr
 
 Lloqucntia, en latin, signifie fart de bien dite ce qu on a à dire. Au delà de la littérature, de l'expression et de l’exprimée, il y a 1 «ineffable» : parvenir par la méditation à de» zones de pensées dépassant le niveau Je l’expression verbale où toute pensée rétrécie par I expression perd immédiatement sa qualité. Alors, le rôle de la suggestion commence.
 
-Elargir de plus en plus la parole — non pas véritablement en cercles ni ondes concentriques — car les ondes à la surface de l'eau s'engendrent par chocs et restent à 1a surface, tandis que la parole et l'élargissement de U parole doit se faire par lien et c’est l'image de !a spirale, la spire de la paro’e s'élargissant, s’élevant toujours plus.
+Elargir de plus en plus la parole — non pas véritablement en cercles ni ondes concentriques — car les ondes à la surface de l'eau s'engendrent par chocs et restent à la surface, tandis que la parole et l'élargissement de U parole doit se faire par lien et c’est l'image de !a spirale, la spire de la paro’e s'élargissant, s’élevant toujours plus.
 
 2. La parole sacrée. — La parole jusqu'à nos jours a conservé quelque chose de mystérieux et de supérieur.
 
@@ -4588,7 +4588,7 @@ En meme temps la corrélation deviendra de plus en plus
 
 Ainsi entrevu, le Livre devient le moyen d'élaboration de la pensée humaine, la concrétion de cette pensée à ses degrés les plus élevés. La Bibliologie ne se borne pins à être technologique. Elle devient, on l'a vu. psychologique, pédagogique, sociologique.
 
-2. Dans la présentation du sujet ici. il y a lieu de distinguer les questions suivantes : a) les règles de 1a composition littéraire en général, le terme littéraire s’étendant ici à tout ce qui est lettre ou écrit, donc à la science et à la technique non moins qu’à la littérature. La composition littéraire est dite aussi Rhétorique ; b) le style en généra!; c) les divers types d'exposés; d) les diverses espèces d’ouvrages ou formes de livre; e) l'ensemble de livres qu'on peut distinguer en scientifiques d'une part et littéraires d'autre part, (I)
+2. Dans la présentation du sujet ici. il y a lieu de distinguer les questions suivantes : a) les règles de la composition littéraire en général, le terme littéraire s’étendant ici à tout ce qui est lettre ou écrit, donc à la science et à la technique non moins qu’à la littérature. La composition littéraire est dite aussi Rhétorique ; b) le style en généra!; c) les divers types d'exposés; d) les diverses espèces d’ouvrages ou formes de livre; e) l'ensemble de livres qu'on peut distinguer en scientifiques d'une part et littéraires d'autre part, (I)
 
 3, La forme d'un livre est très différente selon qu'il s'agit d'une oeuvre littéraire ou d'une œuvre scientifique. Fantaisie et imagination dans un cas ; rigueur scientifique et rationalisation dans l'autre. Cependant les formes d'exposés. qu'elles soient littéraires ou scientifiques, ont de commun de nombreux éléments qu'il convient d'examiner ensemble. (I)
 (I) Tout ce qui concerne ta Littérature est classé ci-après ainsi que tout ce qui concerne les Fcriüains, Pour l’étude des formes, voir aussi ce qui est dit sous Formules, Bilan e! Méthodes pédagogiques.
@@ -5568,7 +5568,7 @@ a) En principe les ouvrages doivent être daté».
 
 b) Dans les manuscrits la date est placée à la fin. Dans les ouvrages imprimés elle est ordinairement placée sous la page titre, parfois en forme « achevé d’imprimer s, parfois auprès du nom de l'imprimeur.
 
-c) Beaucoup d’œuvres ne sont pas datées, sont antidatées ou postdatées. La détermination de 1a date doit faire parfois l'objet d'études très nombreuses.
+c) Beaucoup d’œuvres ne sont pas datées, sont antidatées ou postdatées. La détermination de la date doit faire parfois l'objet d'études très nombreuses.
 
 Ainsi, l'on débat depuis longtemps la date de la compo sition des huit livre» de la Politique d'Aristote. Tantôt le Livre VIII est attribué au* débuts de la maturité d'Aristote, tantôt à ses dernières années.
 
@@ -6637,7 +6637,7 @@ h) Les auteurs des grands traités scientifiques sont placés devant une tâche 
 
 241  DOCUMENTS BIBLIOGRAPHIQUES
 
-l'avenir des retouches et des adaptations pourront devenir nécessaires ? Ne serait-il pas regrettable et prématuré, par exemple, de mutiler actuellement l’œuvre admirable de KreSnel, sous prétexte do la souder en un ensemble plus homogène aux théories électro-magnétiques ? Il n'est donc pas de science, à l'heure présente, dont l’exposé »oit hérissé d'autant d'écueils que celui de nos connaissances en Physique, si I on tient compte surtout de 1a difficulté de discerner les travaux qui doivent rester, dans l'avalanche de matériaux trop souvent médiocres dont la science est de plus en plut encombrée, conséquence inévitable de son extrême diffusion, s
+l'avenir des retouches et des adaptations pourront devenir nécessaires ? Ne serait-il pas regrettable et prématuré, par exemple, de mutiler actuellement l’œuvre admirable de KreSnel, sous prétexte do la souder en un ensemble plus homogène aux théories électro-magnétiques ? Il n'est donc pas de science, à l'heure présente, dont l’exposé »oit hérissé d'autant d'écueils que celui de nos connaissances en Physique, si I on tient compte surtout de la difficulté de discerner les travaux qui doivent rester, dans l'avalanche de matériaux trop souvent médiocres dont la science est de plus en plut encombrée, conséquence inévitable de son extrême diffusion, s
 
 Le Traité de Physique de Chivolson est présenté comme un intermédiaire entre les livres classiques, rédigés souvent en vue d'un programme d'examen détermine et les mémoires originaux des ouvrages spéciaux.
 
@@ -6914,7 +6914,7 @@ Un mécène — c'est la première fois que cela se produit — a fondé un inst
 D'autre part, une » Enciclopedia delle encidopedie » est en cours, en 16 parties spéciales de 1,000 pages, mais en vente séparément. L'œuvre sera complétée par deux volumes de dictionnaire synthétique. Comprenant tous ? les mots du savoir su.vi d'une brève interprétation et de ?
 références aux volumes où la matière a été traitée, c'est donc une fusion de la méthode alphabétique et de la méthode synthétique (trattatistico).
 
-c) L'Encyclopædia Britannica a été fondée en 1768. La 14’ édition récemment parue offre des faits typiques du degré de développement où en sont arrivées les grandes encyclopédies. L'édition a été réalisée par 1a coopération de 3,500 collaborateurs de partout. Il a été dépensé £ 400.00Ü avant toute impression. L'œuvre totale a coûté £ 500,000 (environ 62 millions de francs belges). Il n'y avait plus eu refonte de l'Encyclopacdia depuis vingt ans. Les éditeurs annoncent leur œuvre comme la première Encyclopaedia s humanised s, pratique au plus haut degré, complètement « pictured » (illustré) et non seulement à jour, mais s à la minute s. Elle est l'œuvre d'une firme: *The Encyclopredia Britannica Cy Ltd», qui a fait copyright tout son contenu en 1929. L'éditeur en chef a été Mr. J. L. Garvín. Les éditeurs ont formulé ainsi les buts multiples qu’ils ont eu en vue : Pour tou* ceux qui désirent comprendre le temps extraordinaire où nous vivons, les nouveaux mécanismes, les nouvelles structures sociales et économiques. Le s digest » des informations universelles que I on peut obtenir n importe ou, sur n'importe quel sujet. Toutes les connaissances assimilées par l’Humanité et les informations indispensables sur aujourd'hui. Accessibilité immédiate à toutes les connaissances, les faits et les théories, tout ce qui est arrivé dans le monde et tout ce qui existe aujourd'hui, La solution apporte à généraliser des problèmes qui se posent à chacun à chaque instant dans la vie, dire comment faire une multitude de choses. Elle répond au besoin de lecture. Elle permet de continuer seul son instruction, la matière y étant exposée par les meilleurs maîtres. ( I ) L'Encyclopédie comprend approximativement le contenu de 500 livres de format moyen. Au prix moyen de 10 s. 6 d. chacun, cela ferait £262.10 *., soit approximativement dix foi» le prix de l'Encyclopédie. Elle comprend 500 cartes, dont 192 en couleurs, et réunies en un volume avec un index géographique de 100,000 noms de lieu (Atlas-Index). Des bibliographies sont données à la fin de chaque article pour diriger la lecture. L'index alphabétique comporte un volume séparé : il comprend 500 mille rubriques, 15,000 illustrations visualisant le texte, plus de 1,200 planches, dont beaucoup en couleurs.
+c) L'Encyclopædia Britannica a été fondée en 1768. La 14’ édition récemment parue offre des faits typiques du degré de développement où en sont arrivées les grandes encyclopédies. L'édition a été réalisée par la coopération de 3,500 collaborateurs de partout. Il a été dépensé £ 400.00Ü avant toute impression. L'œuvre totale a coûté £ 500,000 (environ 62 millions de francs belges). Il n'y avait plus eu refonte de l'Encyclopacdia depuis vingt ans. Les éditeurs annoncent leur œuvre comme la première Encyclopaedia s humanised s, pratique au plus haut degré, complètement « pictured » (illustré) et non seulement à jour, mais s à la minute s. Elle est l'œuvre d'une firme: *The Encyclopredia Britannica Cy Ltd», qui a fait copyright tout son contenu en 1929. L'éditeur en chef a été Mr. J. L. Garvín. Les éditeurs ont formulé ainsi les buts multiples qu’ils ont eu en vue : Pour tou* ceux qui désirent comprendre le temps extraordinaire où nous vivons, les nouveaux mécanismes, les nouvelles structures sociales et économiques. Le s digest » des informations universelles que I on peut obtenir n importe ou, sur n'importe quel sujet. Toutes les connaissances assimilées par l’Humanité et les informations indispensables sur aujourd'hui. Accessibilité immédiate à toutes les connaissances, les faits et les théories, tout ce qui est arrivé dans le monde et tout ce qui existe aujourd'hui, La solution apporte à généraliser des problèmes qui se posent à chacun à chaque instant dans la vie, dire comment faire une multitude de choses. Elle répond au besoin de lecture. Elle permet de continuer seul son instruction, la matière y étant exposée par les meilleurs maîtres. ( I ) L'Encyclopédie comprend approximativement le contenu de 500 livres de format moyen. Au prix moyen de 10 s. 6 d. chacun, cela ferait £262.10 *., soit approximativement dix foi» le prix de l'Encyclopédie. Elle comprend 500 cartes, dont 192 en couleurs, et réunies en un volume avec un index géographique de 100,000 noms de lieu (Atlas-Index). Des bibliographies sont données à la fin de chaque article pour diriger la lecture. L'index alphabétique comporte un volume séparé : il comprend 500 mille rubriques, 15,000 illustrations visualisant le texte, plus de 1,200 planches, dont beaucoup en couleurs.
 
 En tête de chaque grand article traitant des grandes divisions de connaissances, il y a une introduction indiquant quels articles sont à lire pour avoir une connaissance appropriée du sujet. Ceci est une caractéristique nouvelle. (I)
 (I) La présentation dit ; e It in not only a book to consult, but a book to enjoy, without any sacrifice of that erudition which has been the peculiar glory of the Britannica in the past, it has been « humanised » so that the riches of all knowledge are accessible and intelligible to the plain man. s
@@ -7632,7 +7632,7 @@ b) Avec le télégraphe et le téléphone les journaux locaux ont 6 ou 8 heures,
 
 Il faut assurer à l'Allemagne l'indépendance absolue et la liberté de ses informations.
 
-c) Le journal s’est distingué de 1a revue et maintenant les informations se distinguent des journaux (bureaux «t agences de presse, les communiqués, les dépêches). A l'Exposition Pressa les mot « Nachrichtenwesen » avait pris place à côté de celui de Zeitungswesen. (Runkel. --Oefïentlicher Nachrichtendienste, 1928.)
+c) Le journal s’est distingué de la revue et maintenant les informations se distinguent des journaux (bureaux «t agences de presse, les communiqués, les dépêches). A l'Exposition Pressa les mot « Nachrichtenwesen » avait pris place à côté de celui de Zeitungswesen. (Runkel. --Oefïentlicher Nachrichtendienste, 1928.)
 
 d) Pendant la guerre, on a voulu supprimer les agences. Elles sont revenues plus puissantes. Havas et Reuter avec les 18 agences nationales se sont entendues. Elles ont divisé le monde au point de vue des nouvelles. Rien ne passe qui ne soit contrôlé nationalement ou par les pays qui ont le monopole chez d autres,
 
@@ -7737,7 +7737,7 @@ Le journalisme a fait surgir tout un ensemble d institutions communes pour les r
 
 a) En Amérique le journalisme a pénétré dans les Universités. A Columbia, il a élevé le journaliste nu rang d'un professionnel, bien que ce soit peut être une affaire. A Berlin, à l’Université on a créé non seulement une chaire de journalisme (Zeitungswissenschaft), mais un Institut, laboratoire ou bibliothèque où 800 journaux sont découpés et classés. Il y a les Ecoles de Journalisme à l’Université de Chicago, Philadelphie, Colombo (Ohio) qui ont de» cours préparatoires de journalisme. Université catholique de Lille. En Allemagne, professeur Koch à Heidelberg. Le Secrétariat du Volksverein de Miinchen-Gladbach s’e»t transformé en une école de journalisme.
 
-b) La Maison de la Presse de Paris créée pendant la guerre (rue François l#r) n’a été fermée qu'en décembre 1922. Elle comprenait un service d'informations recevant. analysant et diffusant les contenus de la Presse du monde entier ; un service de propagande répandant des opinions. Ce dernier service avait 1a naïveté de se présenter ouvertement comme organisme de propagande française, afin que nul n’en ignore.
+b) La Maison de la Presse de Paris créée pendant la guerre (rue François l#r) n’a été fermée qu'en décembre 1922. Elle comprenait un service d'informations recevant. analysant et diffusant les contenus de la Presse du monde entier ; un service de propagande répandant des opinions. Ce dernier service avait la naïveté de se présenter ouvertement comme organisme de propagande française, afin que nul n’en ignore.
 
 La « Maison de la Bonne Presse » (Paris. 5, rue Bayard) fondée par les A«»omptionnistes et reprise par M. P. Feron-Vrau. est aujourd’hui une maison d’édition considérable. Elle comprend un personnel de près de 6f0
 
@@ -8509,7 +8509,7 @@ V' Livres fvopuioircs. — Le grand mouvement de diffusion de la science auquel 
 
 2° Livre» pro/cssîonne/s. Livres de métier. — Leur importance grandit à raison de la spécialisation de la complexité et des incessants changements de la technique. Mais d’autre part, l’introduction des machines enlève leur valeur aux connaissances individuelles. Les livre» professionnels évoluent vers des livres d’industrie,
 
-3° Ouvrage» dit» de Vulgarisation. — Il y a toute une catégorie de livres qui ne représentent aucune notion nouvelle ou scientifique, mais qui ont pour objet de placer à 1a portée du vulgaire les indications qui s’expriment en
+3° Ouvrage» dit» de Vulgarisation. — Il y a toute une catégorie de livres qui ne représentent aucune notion nouvelle ou scientifique, mais qui ont pour objet de placer à la portée du vulgaire les indications qui s’expriment en
 
 termes scientifiques et dans leur appareil compliqué. Ex. : Livres de médecine usuelle, Traités usuels de droit.
 
@@ -9918,7 +9918,7 @@ Les diverses espèces d’archives sont : 1° les archives des particuliers comp
 4 Fonctions et utilisation.
 
 Le» archives sont de plus en plus fouillées et refouillées. C’est que l’Histoire cesse d*être une spécialité, le récit des événements politiques ayant rapport avec l’autorité, donc avec les prince» aux temps passés. L’histoire, c’est ¡a relation de ce que toiles choses ont été dans le passé, les personnes, les objets, les oeuvres, les idées, les sciences. le» arts, le travail, tout l’homme et toute la civilisation. Les archives alors sont des sources parmi lesquelles investiguer l’état passé, l’état transitoire et fugitif du
-(1) L’art. 12 des statuts du Parti de l’ordre politique national à Genève porte : * En ca» de dissolution les » archives sont détruites en tout ou en partie ou eon-a fiées en mains sûres par ordre du chef, avec interdic-» tion de les laisser consulter avant l’expiration d’un délai » de cinquante ans, sous peine de droit et tous dommages et intérêts. » Il demeure toujours important que des mesures soient prises contre la destruction d’archives d'associations et d’archives de particuliers ayant été associés à 1a vie publique. Tous lieux de conservation, moyennant garantie, devraient être les dépôts d’archives nationales. Un grand dépôt international devra trouver sa place au Mundaneum.
+(1) L’art. 12 des statuts du Parti de l’ordre politique national à Genève porte : * En ca» de dissolution les » archives sont détruites en tout ou en partie ou eon-a fiées en mains sûres par ordre du chef, avec interdic-» tion de les laisser consulter avant l’expiration d’un délai » de cinquante ans, sous peine de droit et tous dommages et intérêts. » Il demeure toujours important que des mesures soient prises contre la destruction d’archives d'associations et d’archives de particuliers ayant été associés à la vie publique. Tous lieux de conservation, moyennant garantie, devraient être les dépôts d’archives nationales. Un grand dépôt international devra trouver sa place au Mundaneum.
 242 ???
 
 5 Institutions connexes.
@@ -10140,7 +10140,7 @@ d) La lecture de la musique est l’action de saisir rapidement, d’après la n
 
 e) La réforme de la notation mus'cale fut I objet de nombreux travaux, lia tendent vers une a notation continue » (Houtstont, Pierre Hans, etc.). Le système traditionnel altère les notes par des dièzes et des bémols, simple» ou doubles. Depuis l’adoption de la gamme tempérée, on n’a plus distingué que onze tons, soit une division de l'octave en douze derni-tons égaux. Or. avec les sept notes actuelles et les dièzes et les bémols simples ou doubles, on les altère, ce qui donne en réalité 7x5
 
-35 notes écrites différente» pour onze sons. Le bécarre rétablit 1a touche et l'on dispose de clés diverses. La musique moderne étant dissonante et modérée à l’excès, l’indication de la tonalité par l’armature a la clé est devenue inopérante puisque à peine établie, on la quitte pour passer à une autre.
+35 notes écrites différente» pour onze sons. Le bécarre rétablit la touche et l'on dispose de clés diverses. La musique moderne étant dissonante et modérée à l’excès, l’indication de la tonalité par l’armature a la clé est devenue inopérante puisque à peine établie, on la quitte pour passer à une autre.
 
 La notation continue a plusieurs avantages : 1° elle supprime 1rs altérations et contre-altérations qui affectent jusque 80 ‘/0 des notes ; 2° elle établit une portée continue avec une seule clé et des signes de tonalité-modalité; 3" supprimant la gravure à la main, elle permet d'écrire les partitions à la machine à écrire et à la linotype; 4" elle lirni'e les erreurs de copie à la gravure évaluées à 10 %; 5' elle supprime en moyenne 80 % des signes; 6° elle diminue de moitié le prix de la musique ; 7° elle traduit les sons à la vue par les arabesques des notes.
 
@@ -12701,7 +12701,7 @@ b) Les machines à relier font merveille. Elles tendent de plus en plus à cueil
 
 9. — Organisation de i imprimerie.
 
-a) Dans la plupart des pays, les imprimeries ont une forte base corporative, patron* d’un côté, ouvriers de l'autre, parfois des corporations mixtes. Les organisations établissent des contrats collectifs et de véritables codes eu 1a matière, fi existe un Congrès international des Imprimeurs; il a chargé une Commission d organiser un bureau international d’études pour l’industrie du livre.
+a) Dans la plupart des pays, les imprimeries ont une forte base corporative, patron* d’un côté, ouvriers de l'autre, parfois des corporations mixtes. Les organisations établissent des contrats collectifs et de véritables codes eu la matière, fi existe un Congrès international des Imprimeurs; il a chargé une Commission d organiser un bureau international d’études pour l’industrie du livre.
 
 b) 11 existe de remarquables musées de l’imprimerie, entr’autres le Gutenberg Muséum de Mayence, le Musée de Berne, le Musée Plantin à Anvers, le Musée du Livre à Leipzig. Certaines grandes imprimeries ont formé des petits musées. On a créé des collections de documents typographiques. La Bibliothèque typographique de Jersey City. La Bibliothèque des arts graphiques d'Edmond Morin à Paris. La Bibliothèque du Kunstgewerbe Muséum à Berlin.
 
@@ -12731,7 +12731,7 @@ Il ne suffit donc pas d’écrire, d’imprimer, d’éditer, il faut encore se 
 
 e) Il serait intéressant ici de posséder des coefficients pour évaluer ln vitesse de propagation d'une idée par le Livre.
 
-Quel temps s'écoule-t-il entre le moment où le fait est découvert, l’idée conçue et le moment de 1a lecture. Il y a une durée nécessaire pour écrire, imprimer, distribuer, faire rendre compte, faire lire. Cette durée est variable d’après les procédés employés à cet effet.
+Quel temps s'écoule-t-il entre le moment où le fait est découvert, l’idée conçue et le moment de la lecture. Il y a une durée nécessaire pour écrire, imprimer, distribuer, faire rendre compte, faire lire. Cette durée est variable d’après les procédés employés à cet effet.
 
 253.1 L’Edition.
 ^^^^^^^^^^^^^^^^^
@@ -14938,7 +14938,7 @@ Rome et éventuellement de condamnation. (Ex. Les luttes à Rome au XVIIe et XVI
 
 f) La censure religieuse existe encore sous la forme d»-. l’approbation ou de l’imprimatur de livres ayant caractère théologique ou ecclésiastique. L'imprimatur n’engage pas l’Eglise.
 
-g) L'Eglise romaine a instauré l'Index des livres prohibés (Index librorum prohibitorum). Une congrégation romaine en est chargée. Si tel livre est mis à l'index et non tel autre, qui est encore plus fort, cela tient à ce que l’attention de l'Eglise est attirée sur un livre, soit par une dénonciation qu’on lui a faite, soit par une question qu'on lui a posée, soit par une campagne qui a été menée au sujet de ce livre, soit surtout A cause de 1a célébrité de l’auteur.
+g) L'Eglise romaine a instauré l'Index des livres prohibés (Index librorum prohibitorum). Une congrégation romaine en est chargée. Si tel livre est mis à l'index et non tel autre, qui est encore plus fort, cela tient à ce que l’attention de l'Eglise est attirée sur un livre, soit par une dénonciation qu’on lui a faite, soit par une question qu'on lui a posée, soit par une campagne qui a été menée au sujet de ce livre, soit surtout A cause de la célébrité de l’auteur.
 
 257 Utilisation du Livre. La lecture.
 --------------------------------------
@@ -16989,7 +16989,7 @@ c) Renaissance et temps modernes. — La Renaissance découvre l’antiquité. E
 
 *364*  UNITES OU ENSEMBLES  324
 
-encore aujourd hui. Plantin à Anvers (vers 1530). Fon* dation à Pans de la Bibliothèque nationale (1595), et de l'imprimerie nationale. Les premiers journaux. La consti-tution des sciences en corps de doctrines autonomes. XVIIIe siècle : les idées travaillent le peuple. L’encyclopédie de Diderot et d'Alembert. Le rôle des livres, du pamphlet et des journaux politiques dans la Révolution tiançaitc. XIX' s.f-c.e: lei invention, mécaniques appliquées à la production du Livre; 1a reproduction photo-mécanique de l’image; le triomphe de la démocratie; la diffusion de l’enseignement; le régime constitutionnel dans les grands Etats basé sur la liberté de la parole et de la presse; progrès dans l’organisation administrat.ve des Etats et rôle des imprimés de toute espèce à ce point de vue. Développement des sciences sur la base de la division du travail ; organisation rattonnellc de Ja librairie et de la presse scientifiques; la revue, le journal d’information. La librairie et l'édition se font universelles, ¡«s bibliothèques géantes et les éditions géantes. Organ.sation internationale du Livre et de la Documentation.
+encore aujourd hui. Plantin à Anvers (vers 1530). Fon* dation à Pans de la Bibliothèque nationale (1595), et de l'imprimerie nationale. Les premiers journaux. La consti-tution des sciences en corps de doctrines autonomes. XVIIIe siècle : les idées travaillent le peuple. L’encyclopédie de Diderot et d'Alembert. Le rôle des livres, du pamphlet et des journaux politiques dans la Révolution tiançaitc. XIX' s.f-c.e: lei invention, mécaniques appliquées à la production du Livre; la reproduction photo-mécanique de l’image; le triomphe de la démocratie; la diffusion de l’enseignement; le régime constitutionnel dans les grands Etats basé sur la liberté de la parole et de la presse; progrès dans l’organisation administrat.ve des Etats et rôle des imprimés de toute espèce à ce point de vue. Développement des sciences sur la base de la division du travail ; organisation rattonnellc de Ja librairie et de la presse scientifiques; la revue, le journal d’information. La librairie et l'édition se font universelles, ¡«s bibliothèques géantes et les éditions géantes. Organ.sation internationale du Livre et de la Documentation.
 
 3 Le* Phases.
 
@@ -18720,7 +18720,7 @@ repéré, éventuellement détachable,
 
 a) En haut de chaque page l'indication du sujet, de l'article ou de la rubrique générale avec l’indice décimal (indication repérée si l’article est en continuation).
 
-b) Au bas de chaque page le titre de la revue, sa date et la pagination. Celle-ci en grands caractères très lisible» et placé» vers la marge extérieure pour faciliter la consultation »ans devoir ouvrir les pages entièrement (exemple: 1a revue Le Papier).
+b) Au bas de chaque page le titre de la revue, sa date et la pagination. Celle-ci en grands caractères très lisible» et placé» vers la marge extérieure pour faciliter la consultation »ans devoir ouvrir les pages entièrement (exemple: la revue Le Papier).
 
 10° Grandes rubriques ou titres collectifs: Indiquer le sujet de la rubrique en mots matières avec indice décimal correspondant. On obtient un titre d'aspect agréable en le plaçant dans un encadrement au haut de la page de départ de chaque grande rubrique avec au milieu les mots, à droite l'indice décimal et o gauche répétition du nom ou de quelque vignette appropriée (ex. : Le Papier, 1930.01.15). (I)
 vignette du nom  Commerce extérieur  382
@@ -18742,7 +18742,7 @@ d) de rendre facile la séparation de chacun des articles pour en former dans le
 
 Io Les articles portent les indices de la C. D.
 
-2° Les pages de la revue portent les indices de la C. D. conjointement avec les chiffres de 1a pagination.
+2° Les pages de la revue portent les indices de la C. D. conjointement avec les chiffres de la pagination.
 
 3° Le sommaire est divisé en trois colonnes : Titres, pages, rubriques en C. D.
 
@@ -19012,7 +19012,7 @@ tables de matières et de sommaires. Tous ces modes de coopération mis en oeuvr
 
 a) Catalogue collectif général des grandes Bibliothèques du monde. La Bibliographie renseigne sur l’existence des ouvrages, le catalogue sur leur possession par des Bibliothèques déterminées. Mais il va de soi que Us notices sont fondamentalement les mêmes dans les deux cas II suffirait donc de porter sur les fiches bibliographiques le» indications relatives au catalogue. En fait, db aujourd'hui, le Répertoire a commencé à être combiné avec semblable Catalogue.
 
-b) Répertoires portant sur des séries particulières de données contenues dans des documents bibliographiques. Ainsi les Répertoires des comptes rendus, des lois, des brevets, de la statistique, des constantes théoriques et pratiques, des illustrations documentaires. Ainsi encore l *s Répertoires à établir à l’usage spécial de 1a librairie ancienne et qui devraient servir à faciliter la rencontre di- l’offre et de la demande des ouvrages à vendre de seconde main.
+b) Répertoires portant sur des séries particulières de données contenues dans des documents bibliographiques. Ainsi les Répertoires des comptes rendus, des lois, des brevets, de la statistique, des constantes théoriques et pratiques, des illustrations documentaires. Ainsi encore l *s Répertoires à établir à l’usage spécial de la librairie ancienne et qui devraient servir à faciliter la rencontre di- l’offre et de la demande des ouvrages à vendre de seconde main.
 
 c) Répertoire des analyses. En principe le R. B. U. ne concerne que la bibliographe-titre (ou primaire). Mais il est tout désigné pour concentrer les notices bibliographiques analytiques (abstracts). Les notices de base sont identiques dans les deux cas. Il y a intérêt à voir se multiplier les informations sur le contenu des travaux, **t même des notes sur leur valeur et éventuellement les critiques dont ils sont l’objet en ayant bien soin toutefois que ces deux dernières espèces d’élément», de caractère personnel et subjectif, soient présentés sous la responsabilité d’un critique signant la notice. Enfin, dès aujourd’hui, le Répertoire Universel contient de nombreuses notices analytiques et l’I. I. B. a demandé, aux auteurs et éditeurs de telles notices, d’appliquer les recommandations générale« relatives au format, aux fiches et è la classification décimale.
 
@@ -20169,7 +20169,7 @@ devant un appareil qui produise immédiatement la transcription écrite de la pa
 a) L’Humanité est à un tournant de son histoire. La masse des données acquises est formidable. Il faut de nouveaux instruments pour les simplifier, les condenser ou jamais l'intelligence ne saura ni surmonter les difficultés qui l'accablent, ni réaliser les progrès qu’elle entrevoit et auxquels elle aspire.
 
 (I) Sur les transformations du livre et son avenir, voir la mémoire Paul Otlet dans le Festchrift du Musée Gutenberg, Mayence 1925.
-b) La Connaissance primitive, l’Activité primitive, la Sensibilité primitive, étaient fort simples, et elles étaient étroitement liées. La Langue créée alors fut un moyen d'exprimer les unes et les autres. Elles ouvrent à l’homme l’horizon nouveau et la possibilité de vaincre les premières difficultés. 1-a langue en effet, lui donna un moyen de perfectionner la Pensée intérieure et la mémoire. Elle mit en sa possession un instrument grâce auquel il put déterminer en quelque sorte toutes les choses à sa portée, les évoquer, les analyser, les combiner. L'Ecriture fut inventée, autre moyen de s'exprimer, idéographiquement d'abord, alpbabétiquemnt ensuite. La Logique se constitua parallèlement à la Grammaire et à la Littérature écrite. Il advint que les mots se formèrent séparément, mais tous s'interfluençant et constituant le système de la langue. Après un long temps, l’examen seul de son langage amena l'Homme à constituer sa Science et sa Philosophie. Un jour vint où la Méthode s'affirma et par elle le moyen régulier d’examiner les choses en elles-mêmes, d'en découvrir de nouvelles, de refouler le langage au deuxième plan. La Systématisation des connaissances en fut accrue. La Terminologie scientifique fit ses premiers progrès et l'écriture alphabétique apparut insuffisante au point dr faire place à 1a Notation et a la Figuration, au Systématique. La Mesure, c’est-à-dire la comparaison précise et exprimée en nombre fit son entrée et par elle les sciences se modelèrent peu à peu sur le type des Mathématiques, faisant place au Calcul et revêtant la forme déductive. Cependant s'affirma la Technique, terme qui dans son sens large signifie ’es applications des sciences aux problèmes de In vie. LrActivité pure en fut entièrement transformée. Elle se fit raisonnée, englobant des ensembles de plus en plus larges, Par l'Organisation, la Standardisation et la production en séries elle accrut son Efficience.
+b) La Connaissance primitive, l’Activité primitive, la Sensibilité primitive, étaient fort simples, et elles étaient étroitement liées. La Langue créée alors fut un moyen d'exprimer les unes et les autres. Elles ouvrent à l’homme l’horizon nouveau et la possibilité de vaincre les premières difficultés. 1-a langue en effet, lui donna un moyen de perfectionner la Pensée intérieure et la mémoire. Elle mit en sa possession un instrument grâce auquel il put déterminer en quelque sorte toutes les choses à sa portée, les évoquer, les analyser, les combiner. L'Ecriture fut inventée, autre moyen de s'exprimer, idéographiquement d'abord, alpbabétiquemnt ensuite. La Logique se constitua parallèlement à la Grammaire et à la Littérature écrite. Il advint que les mots se formèrent séparément, mais tous s'interfluençant et constituant le système de la langue. Après un long temps, l’examen seul de son langage amena l'Homme à constituer sa Science et sa Philosophie. Un jour vint où la Méthode s'affirma et par elle le moyen régulier d’examiner les choses en elles-mêmes, d'en découvrir de nouvelles, de refouler le langage au deuxième plan. La Systématisation des connaissances en fut accrue. La Terminologie scientifique fit ses premiers progrès et l'écriture alphabétique apparut insuffisante au point dr faire place à la Notation et a la Figuration, au Systématique. La Mesure, c’est-à-dire la comparaison précise et exprimée en nombre fit son entrée et par elle les sciences se modelèrent peu à peu sur le type des Mathématiques, faisant place au Calcul et revêtant la forme déductive. Cependant s'affirma la Technique, terme qui dans son sens large signifie ’es applications des sciences aux problèmes de In vie. LrActivité pure en fut entièrement transformée. Elle se fit raisonnée, englobant des ensembles de plus en plus larges, Par l'Organisation, la Standardisation et la production en séries elle accrut son Efficience.
 
 c) Telle est à larges traits, l'esquisse de révolution accomplie, véritable déterminisme des faits, liés les uns aux autres et s’engendrant les uns les autres.
 
