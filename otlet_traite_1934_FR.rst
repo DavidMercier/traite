@@ -4971,7 +4971,7 @@ d) Sciences naturelles. Les sciences naturelles sont arrivées à des types d'ex
 (I) Voir « Une Croisade ». Journal des Tribunaux (Bruxelles, 2 février 1902).
 types morphologiques et en remontant à ceux-ci, on peut trouver la description précisa et détaillée de sa conformation intérieure, sauf des différences secondaires qui n'altèrent point sa constitution essentielle et qui indiquent les diagnoses par lesquelles ont le fait dériver du type.
 
-e) Botanique, Elle répartit ses matières en quelques types d’ouvrages. Les flores (simple catalogue ou ouvrages méthodiques où sont décrits les végétaux indigènes). Les ouvrages généraux, où sont réunis en un corps d’ouvrage toutes les plantes disposées méthodiquement et décrites d'une manière claire et concise (synopsis, prodromus. nomenclature). Le* monographies où les auteurs ne font connaître qu'une seule famille.
+e) Botanique, Elle répartit ses matières en quelques types d’ouvrages. Les flores (simple catalogue ou ouvrages méthodiques où sont décrits les végétaux indigènes). Les ouvrages généraux, où sont réunis en un corps d’ouvrage toutes les plantes disposées méthodiquement et décrites d'une manière claire et concise (synopsis, prodromus. nomenclature). Les monographies où les auteurs ne font connaître qu'une seule famille.
 
 f) Technique. La technique ou science de l’action toujours directe et toujours pressée, s'expose de plus en plus en des formes directes instructives, dépouillées de l'inutile.
 
@@ -7135,7 +7135,7 @@ Il a paru des revues « en volumes » comme on pourrait les appeler. Chaque num�
 241.315 PARTIES.
 ..................
 
-La revue comprend tiois éléments fondamentaux: a) les rubriques permanentes permettant de suivre la science ou l'objet du périodique, le mouvement sous ses divers aspects ; b) le» études sur des points particuliers (monographies) ; c) les études synthétiques qui exposent un problème dan» toute son étendue et sa complexité. Un bon périodique spécial se compose donc de rubriques les unes variables, les autres permanentes. Il se compose éventuellement: 1° d'un éditorial présentant certains faits, en soulignant V Importance ; 2° d’articles de fond; 3° de mélangea et variétés, documents inédits, notes, critiques, etc ; 4° de bibliographies méthodiques (de comptes rendus critiques) ; 5° d’une chronique donnant des précisions sur les travaux entrepris ou en cours, l'état présent d'une question, des détails intéressant les personnes, etc. (faits, documents),
+La revue comprend trois éléments fondamentaux: a) les rubriques permanentes permettant de suivre la science ou l'objet du périodique, le mouvement sous ses divers aspects ; b) le» études sur des points particuliers (monographies) ; c) les études synthétiques qui exposent un problème dan» toute son étendue et sa complexité. Un bon périodique spécial se compose donc de rubriques les unes variables, les autres permanentes. Il se compose éventuellement: 1° d'un éditorial présentant certains faits, en soulignant V Importance ; 2° d’articles de fond; 3° de mélangea et variétés, documents inédits, notes, critiques, etc ; 4° de bibliographies méthodiques (de comptes rendus critiques) ; 5° d’une chronique donnant des précisions sur les travaux entrepris ou en cours, l'état présent d'une question, des détails intéressant les personnes, etc. (faits, documents),
 
 L'« article » est l’écrit de dimensions régulières qui s'insère dans les périodiques et autres publications analogues et dans lequel on traite de questions plus ou moins importantes,
 
@@ -7209,7 +7209,7 @@ tiques de l'esprit de chaque nation. Ils sont parmi les instruments de l’histo
 
 Le journal est avant tout « journal », c’est-à-dire relation des événements qui se produisent dans le monde au jour le jour, comme au temps d'une vie moins accélérée le» « annales » s’écrivaient c à l’an l’an ».
 
-c) Le journal offre ces trois tendances: 1° il s adresse au public, à la grande masse de lecteurs (chercher à étendre leur nombre); 2° il concentre les nouvelles et les informations (s’efforcer de les multiplier) ; 3° étant périodique et assumant une fonction régulière, il tend à être le plus fréquent possible.
+c) Le journal offre ces trois tendances: 1° il s'adresse au public, à la grande masse de lecteurs (chercher à étendre leur nombre); 2° il concentre les nouvelles et les informations (s’efforcer de les multiplier) ; 3° étant périodique et assumant une fonction régulière, il tend à être le plus fréquent possible.
 
 d) Le journal constitue une espèce bien caractérisée de document. Il constitue aussi un genre littéraire. Non seulement l’article de journal, son esprit, son allure, sa composition, mais le journal tout entier,
 
@@ -7286,7 +7286,7 @@ de fer qui transportent les journaux. La télégraphie, 1rs câbles, les télép
 
 j) De nos jours deux tendances: Les grands journaux
 
-de Paris ont pour caractéristique leurs chroniques criminelles. La chronique judiciaire, dit Tarde, à elle seule a fait commettre plus de crimes par la contagion du meurtre et du vol que l’école n a jamais pu en empêcher. Le* journaux de province ont pour caractéristique les personnalités. Parce que le peuple comprend plus aisément les images concrètes que les idées abstraites, ils délaissent la discussion des idées et ne combattent les opinions qu'à coup de personnalités offensantes sur ceux qui les prônent. Tous ils poursuivent non pas le bien de la foule, mais leur argent et la déclaration d’éducation et d’autres belles choses ne sont que des mots de façade derrière quoi se fait la besogne cupide. J. Pigelet.
+de Paris ont pour caractéristique leurs chroniques criminelles. La chronique judiciaire, dit Tarde, à elle seule a fait commettre plus de crimes par la contagion du meurtre et du vol que l’école n'a jamais pu en empêcher. Les journaux de province ont pour caractéristique les personnalités. Parce que le peuple comprend plus aisément les images concrètes que les idées abstraites, ils délaissent la discussion des idées et ne combattent les opinions qu'à coup de personnalités offensantes sur ceux qui les prônent. Tous ils poursuivent non pas le bien de la foule, mais leur argent et la déclaration d’éducation et d’autres belles choses ne sont que des mots de façade derrière quoi se fait la besogne cupide. J. Pigelet.
 
 k) Quant à l’avenir il semble devoir être caractérisé par la concentration des journaux ; la transmission instantanée des illustrations à distance. Les substituts du journal : la radio (journal diffusé, la presse parlante ou informations journalistiques à domicile); le cinéma (actualités, la presse filmée). Demain la presse télévisionnée.
 
@@ -8553,7 +8553,7 @@ d) Certaines éditions sont dites « définitives ». Expression malheureuse. Qu
 
 e) Souvent les éditions successives ne se distinguent de la première que par une meilleure systématisation des idées et une documentation plus complète, l'idée maîtresse demeurant inchangée. Les diverses éditions d'un ouvrage en constituent en quelque sorte l'évolution. Celle-ci dans une certaine mesure se conjugue avec l’évolution de Ja science contemporaine. Les éditions successives doivent donc compléter l’œuvre et la corriger parallèlement au progrès incessant de» découverte*. L’œuvre d’un auteur se perfectionne a travers des éditions successive*. Un ouvrage, parti de quelques pages finit par former un gros volume. L’édition successive d’une œuvre va en se développant et en s’améliorant. Elle rappelle le germe qui grandit, la plante qui meurt chaque année et Tenait au printemps suivant, toute renouvelée dans sa sève et ses verdures, toute agrandie après le repos fécond de l’hiver.
 
-f) Des ouvrages ont cent ans d'existence et par des éditions successives sont constamment rajeunis à travers le» années. Ainsi le n Stieler Atlas » édité par Julius Pertes (lrw édition en 1823). De même « L'Atlas Vidal Lahlache » est constamment tenu à jour, s’améliorant et se complétant. Il est des livres qui se publient en édition» annuelles. Ex. : Le* « Leitfaden für den Unterricht der Géographie ».
+f) Des ouvrages ont cent ans d'existence et par des éditions successives sont constamment rajeunis à travers le» années. Ainsi le n Stieler Atlas » édité par Julius Pertes (lrw édition en 1823). De même « L'Atlas Vidal Lahlache » est constamment tenu à jour, s’améliorant et se complétant. Il est des livres qui se publient en édition» annuelles. Ex. : Les « Leitfaden für den Unterricht der Géographie ».
 
 g) Un roman avant d’être publié en livre paraît aujourd'hui dans une revue ou en feuilleton dans un journal. Il en est parfois de même de» mémoires, des relations de voyage, voire d'études scientifiques.
 
@@ -9268,7 +9268,7 @@ Du us touLes les bibliothèques il y a intérêt à constituer un fonds spécial
 242.3 Iconographie. Estampes, grav-res, photographie.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Les documents dont :1 s'agit ici ont pour caractéristique de genre d'être des images, d'être concrets, et d’avoir soit une existence autonome, soit d’être insérés dans un autre document.
+Les documents dont il s'agit ici ont pour caractéristique de genre d'être des images, d'être concrets, et d’avoir soit une existence autonome, soit d’être insérés dans un autre document.
 
 242.31 Les Images. L'iconographie.
 """""""""""""""""""""""""""""""""""
@@ -9368,7 +9368,7 @@ Les Congrès internationaux ont préconisé l'établissement d’un Index Iconog
 
 A raison de leur intérêt, de leur valeur, et du coût de production, on est amené à conserver les clichés ou matrices des images qu'il s’agisse de dessins, gravures ou photographies.
 
-Le* clichés ont diverses (ormes : les plaques de verre négatives, les diapositives pour projection, les simili ou photogravures destinés à l’impression. Des mesures doivent être prises pour les conserver car ils constituent une valeur réelle et ils sont de nature, par le prêt, à améliorer, grandement l'Enseignement, les conférences, les publications. Il y a aussi les bois et le* cuivres. On a récemment mis en lumière l'importance des grandes chalcographies nationales, formées de cuivres gravés (notamment celles du Louvre à Paris). ,
+Les clichés ont diverses (ormes : les plaques de verre négatives, les diapositives pour projection, les simili ou photogravures destinés à l’impression. Des mesures doivent être prises pour les conserver car ils constituent une valeur réelle et ils sont de nature, par le prêt, à améliorer, grandement l'Enseignement, les conférences, les publications. Il y a aussi les bois et le* cuivres. On a récemment mis en lumière l'importance des grandes chalcographies nationales, formées de cuivres gravés (notamment celles du Louvre à Paris). ,
 
 Un mot français unique manque pour dénoncer semblable collection. Le Buffalo Muséum of Science, qui a 70,000 clichés avec manuscrits descriptifs, l'appelle « l.antern SUde Library s.
 
@@ -9479,7 +9479,7 @@ Il y a les affiches publicitaires (commerce), les affiches administratives, les 
 
 On imprime des affiches sur toile atteignant de grandes dimensions (pat ex. celle pour le roman /4nn Fichera, dr Sinclair Lewis, prix Nobel. 3 m. X 0.45 ).
 
-Le* compagnies de chemins de fer publient des affiches sur les villes et les sites de leur réseau. Les gares sont devenues ainsi des sortes de salons de peinture. On a créé des types de grande* affiches photographiques.
+Lescompagnies de chemins de fer publient des affiches sur les villes et les sites de leur réseau. Les gares sont devenues ainsi des sortes de salons de peinture. On a créé des types de grande* affiches photographiques.
 
 5. Affiches politiques.
 
@@ -10130,7 +10130,7 @@ DOCUMENTS GRAPHIQUES  242
 
 donnait Ic chant choral et pratiquait le chant inonodiquc, principe de notre récitatif et tic notre déclamation lyrique.
 
-c) Il faut lire 1*histoire infiniment compliquée de la composition et de l'écriture musicale pour ne rendre compte du rôle de cette cernière a la fois pour l’élaho-ration et pour la conservation des compositions. La paiéo-giaphie musicale (séméiogt aphte) a connu bien des particularités, chefs, modes, temps, prolations. altérations, conformations des notes et pauses, points, color, ligatures, etc. Il y a eu les neumes, les notes, plus tard la portée que seule nous connaissons de nos jours. La musique a été monophonique puis polyphonique. La succession des notes en différentes hauteurs constituent les premiers éléments schématiques de la mélodie. Les places où se produisent ces montées et descentes mélodiques, suivant leur rapport avec les éléments modaux et autres, prennent une signification syndoxique particulière. Une ou plusieurs courbes mélodique* comportant les éléments de l'introduction et de la conclusion constituent la phrase, l/ordre mélodique incomplet en soi, se détermine, « prend forme » avec lu durér relative accordée aux notes. La phrase musicale débute par 1'ictus initial qui constitue* l’élan du départ. Par celui-ci, le« notes s’intensifient, rythmiquement, c’est a dire que \es valeurs de durée mesurées rigoureusement d'après une unité type, étalon (musica rnensuraU ) ou seulement énoncées en longue ou brève et non exactement mesurée (musica plana) au fur et à mesure de leur succession perdent chacune une partie de leur durée ou longueur théorique. Cette intensification, protase. par In diminution progressive des valeurs parvenues a son maximum prend le nom d'accent ngogique. Celui-ci précède I apodose qui, contrairement n la protase fait augmenter proportionnellement et progressivement la durée des notes, rigoureuse mesure et non à mesure qu’elle s approchent de mora vocia qui précède le repos. La juste valeur agogique donnée aux note» par rapport à la place qu’elles occupent dans la protase et dans l'apodose constitue le rythme. Lej compositeurs uux XVe et XVIe siècles avaient l’habitude d écrire sur des cartellcs. ou morceaux de parchemin, la partition. Le* parties séparées étaient transcrites dans les livre» de choeur ou on les disposait sur une ou deux pages. Le livre de chœur était l’unique exemplaire autour duquel se disposaient tous les chanteurs pour l’exécution. Plus tard, lorsque la musique fut imprimée, on trouva rarement les partie* ainsi disposées. La manière la plus usitée fut celle d’un cahier par parties. Au temps de In grande époque contrepointique, la partition proprement dite était inconnue. Le premier essai de partition, seion le sens moderne, remonte à la fin du XVIe siècle. C’était par la seule audition que l’on pouvait prendre connaissance des œuvres musicales de ces temps, leur disposition par partie séparées ne permettait point la lecture simultanée de ces diverses parties. L on sentit peu la nécessité visuelle de l’ensemble des parties contre-
+c) Il faut lire 1*histoire infiniment compliquée de la composition et de l'écriture musicale pour ne rendre compte du rôle de cette cernière a la fois pour l’élaho-ration et pour la conservation des compositions. La paiéo-giaphie musicale (séméiogt aphte) a connu bien des particularités, chefs, modes, temps, prolations. altérations, conformations des notes et pauses, points, color, ligatures, etc. Il y a eu les neumes, les notes, plus tard la portée que seule nous connaissons de nos jours. La musique a été monophonique puis polyphonique. La succession des notes en différentes hauteurs constituent les premiers éléments schématiques de la mélodie. Les places où se produisent ces montées et descentes mélodiques, suivant leur rapport avec les éléments modaux et autres, prennent une signification syndoxique particulière. Une ou plusieurs courbes mélodique* comportant les éléments de l'introduction et de la conclusion constituent la phrase, l/ordre mélodique incomplet en soi, se détermine, « prend forme » avec lu durér relative accordée aux notes. La phrase musicale débute par 1'ictus initial qui constitue* l’élan du départ. Par celui-ci, le« notes s’intensifient, rythmiquement, c’est a dire que \es valeurs de durée mesurées rigoureusement d'après une unité type, étalon (musica rnensuraU ) ou seulement énoncées en longue ou brève et non exactement mesurée (musica plana) au fur et à mesure de leur succession perdent chacune une partie de leur durée ou longueur théorique. Cette intensification, protase. par In diminution progressive des valeurs parvenues a son maximum prend le nom d'accent ngogique. Celui-ci précède I apodose qui, contrairement n la protase fait augmenter proportionnellement et progressivement la durée des notes, rigoureuse mesure et non à mesure qu’elle s approchent de mora vocia qui précède le repos. La juste valeur agogique donnée aux note» par rapport à la place qu’elles occupent dans la protase et dans l'apodose constitue le rythme. Lej compositeurs uux XVe et XVIe siècles avaient l’habitude d écrire sur des cartellcs. ou morceaux de parchemin, la partition. Lesparties séparées étaient transcrites dans les livre» de choeur ou on les disposait sur une ou deux pages. Le livre de chœur était l’unique exemplaire autour duquel se disposaient tous les chanteurs pour l’exécution. Plus tard, lorsque la musique fut imprimée, on trouva rarement les partie* ainsi disposées. La manière la plus usitée fut celle d’un cahier par parties. Au temps de In grande époque contrepointique, la partition proprement dite était inconnue. Le premier essai de partition, seion le sens moderne, remonte à la fin du XVIe siècle. C’était par la seule audition que l’on pouvait prendre connaissance des œuvres musicales de ces temps, leur disposition par partie séparées ne permettait point la lecture simultanée de ces diverses parties. L on sentit peu la nécessité visuelle de l’ensemble des parties contre-
 
 *213*
 
@@ -10319,7 +10319,7 @@ Le livre n'est qu'un moyen: ce n'est pas un but. D'autres moyens existent et peu
 
 I. Notion.
 
-a) Le document écrit ou graphique est la représentation des chose» matérielles ou des images intellectuelles et abstraite* de* chose». Le* chose* matérielle* elles-mêmes
+a) Le document écrit ou graphique est la représentation des chose» matérielles ou des images intellectuelles et abstraite* de* chose». Leschoses matérielles elles-mêmes
 (objets) peuvent être tenues pour documents lorsqu'elles sont érigées comme éléments sensibles, directs d'études, ou de preuves d'une démonstration, Il s’agit alors de « documentation objective » et de « documenta/tion automatique 9.
 
 b) Les objets de toute espèce donnent lieu à des collections. Ainsi les objets naturels: minéraux (éléments et composés chimiques, roches), plantes (herbes, bois, racines) animaux (anatomie, tératologie), Ainsi les objets créés par l'homme: matières, produits, objets techniques.
@@ -12809,7 +12809,7 @@ c) Lors de son centenaire, la librairie Hachette, qui est maintenant au capital 
 
 5 — Contra/ d édition et mode d'édition.
 
-a) Le* contrats entre auteur et éditeur ont trois formes: I" l’éditeur édite aux frais de l’auteur; 2U l’éditeur achète le manuscrit, ou une édition, ou une traduction; 3° l'éditeur paye une redevance (pourcentage royalty). L'auteur doit surveiller le tirage et l’habitude criticable des « passes ». L'auteur reçoit des exemplaires pour sa distribution gratuite, la diffusion d’ordre scientifique. (1)
+a) Lescontrats entre auteur et éditeur ont trois formes: I" l’éditeur édite aux frais de l’auteur; 2U l’éditeur achète le manuscrit, ou une édition, ou une traduction; 3° l'éditeur paye une redevance (pourcentage royalty). L'auteur doit surveiller le tirage et l’habitude criticable des « passes ». L'auteur reçoit des exemplaires pour sa distribution gratuite, la diffusion d’ordre scientifique. (1)
 
 b) On a élaboré un contrat type d’édition. L'Institut International de Coopération Intellectuelle a abordé l’examen de cette question.
 
@@ -13574,7 +13574,7 @@ transmis. L’Allemagne, par exemple, a envoyé en 1933. 10,869.204 de télégra
 
 4. — Forme des télégramme».
 
-Le* télégrammes constituent une grande variété de types : ordinaire, sur formule de luxe, différé, de presse, télégrammes-lettres, de fin de semaine, de souhaits et félicitations, télégrammes urgents, télégrammes-mandats, phototélégrammes.
+Lestélégrammes constituent une grande variété de types : ordinaire, sur formule de luxe, différé, de presse, télégrammes-lettres, de fin de semaine, de souhaits et félicitations, télégrammes urgents, télégrammes-mandats, phototélégrammes.
 
 5. — Organisation de» services.
 
@@ -14478,7 +14478,7 @@ Signaler le millésime (date) en tête de la seconde ligne, à gauche, sous le n
 
 21. DESCRIPTION DE L’OUVRAGE
 
-211. Titre de l'ouvrage. -—» Reproduire intégralement, entre deux tirets, le titre de l'ouvrage (à moins qu’il ne soit trop long, en respectant son orthorgnphe, même défec tueuse ; mais en ce cas. signaler les fautes par l'indication entre parenthèses (sic), — Ne pas suivre la ponctuation du titre, si ce n'est dans les notices détaillées de livres rares, en faisant alors usage du signe pour marquer la fin de chaque ligne et reproduire la disposition materielle des titres. Ne pas reproduire les tirets qui peuvent se trouver dans les titres pour indiquer des parties; les remplacer par d'autres signes, tels que : I, 2... — Abréger éventuellement les titres trop longs en indiquant par des points ... les parties supprimées. — Le caractère Ac doit être transcrit dans la langue du titre : et. and. und, en ... — Les mots en d’autres langues que celle du titre se reproduisent en italiques. — N. B. - Le titre d’un mémoire ou d'un article paru dans un périodique s’énonce aussi intégralement. Comme source, on y fait mention seulement du nom du périodique, suivi de la ville d'édition et de la date (avec n°. éventuellement la série avec les pages initiales et finales). —Le* articles sans titres sont répertoriés sous un titre sommaire précédé du mot : « Sur... s inscrit entre crochets ???sur...???. Les notices qui décrivent les périodiques en tant que collections portent la périodicité, l'existence des tables, leur forme ; une f si le périodique a cessé de paraître.
+211. Titre de l'ouvrage. -—» Reproduire intégralement, entre deux tirets, le titre de l'ouvrage (à moins qu’il ne soit trop long, en respectant son orthorgnphe, même défec tueuse ; mais en ce cas. signaler les fautes par l'indication entre parenthèses (sic), — Ne pas suivre la ponctuation du titre, si ce n'est dans les notices détaillées de livres rares, en faisant alors usage du signe pour marquer la fin de chaque ligne et reproduire la disposition materielle des titres. Ne pas reproduire les tirets qui peuvent se trouver dans les titres pour indiquer des parties; les remplacer par d'autres signes, tels que : I, 2... — Abréger éventuellement les titres trop longs en indiquant par des points ... les parties supprimées. — Le caractère Ac doit être transcrit dans la langue du titre : et. and. und, en ... — Les mots en d’autres langues que celle du titre se reproduisent en italiques. — N. B. - Le titre d’un mémoire ou d'un article paru dans un périodique s’énonce aussi intégralement. Comme source, on y fait mention seulement du nom du périodique, suivi de la ville d'édition et de la date (avec n°. éventuellement la série avec les pages initiales et finales). —Lesarticles sans titres sont répertoriés sous un titre sommaire précédé du mot : « Sur... s inscrit entre crochets ???sur...???. Les notices qui décrivent les périodiques en tant que collections portent la périodicité, l'existence des tables, leur forme ; une f si le périodique a cessé de paraître.
 
 212. Nom et prénom. — Répéter le nom et le prénom de l’auteur dans la copie du titre, qu’il précède ou suive le titre et indépendamment de la mention déjà faite en vedette sous IL
 
@@ -15960,7 +15960,7 @@ a) Angleterre. — L'Angleterre possédait beaucoup de bibliothèques au moyen �
 
 262 BIBLIOTHEQUES. COLLECTIONS *339*
 
-à la Réforme. Le* bibliothèques d’Oxford et de Cambridge paraissent avoir précédé In fondation de* bibliothèques universitaires ailleurs. Le British Mu# :um est le plus grand centre d’activité scient fique anglais. Il date de 1753 et ses collection# ne le cèdent qu’à celles de la Nationale et de îti Bibliothèque Lénine, fi reçoit annuellement environ 60.000 volume# par le Copyright.
+à la Réforme. Lesbibliothèques d’Oxford et de Cambridge paraissent avoir précédé In fondation de* bibliothèques universitaires ailleurs. Le British Mu# :um est le plus grand centre d’activité scient fique anglais. Il date de 1753 et ses collection# ne le cèdent qu’à celles de la Nationale et de îti Bibliothèque Lénine, fi reçoit annuellement environ 60.000 volume# par le Copyright.
 
 En Angleterre, il y a 500 systèmes de bibliothèques, installés dans un millier de bâtiments. Cent millions d'ouvrages par an circulent dans les mains des lecteurs. A Croydon par exemple, agglomération de 200.000 habitants, 700 lecteurs se présentent par jour aux bibliothèques.
 
@@ -16487,7 +16487,7 @@ a) Au temps de l'autocratie, c'étaient les conseillers privé* du Prince, perso
 
 b) Puis vint l’organisation d'une hiérarchie de fonctionnaires faisant rapporta et propositions, mais c'étaient des agents pavés, ne jouissant d’aucune indépendance d’esprit. Le problème rest- d’ailleurs ouvert, aujourd'hui encore, du droit du fonctionnaire ouant è l'obéissance aux ordre* irrationnel* ou soulevant l'obîectîon de sa conscience.
 
-c) Le* expert* ont été nommé* ensuite. (I) Tls »ont désigné* n raison de leur compétence connue et ils sont supposé» libres de toute entrave dans l'exposé de leur opinion. Simple supposition cependant, car le fait même de leur désignation Implioue un choix intéressé et. en fait, l'expert est rarement indépendant.
+c) Les experts ont été nommés ensuite. (I) Tls »ont désigné* n raison de leur compétence connue et ils sont supposé» libres de toute entrave dans l'exposé de leur opinion. Simple supposition cependant, car le fait même de leur désignation Implioue un choix intéressé et. en fait, l'expert est rarement indépendant.
 
 d) L'organisation objective d- la fonction scientifique en fixant par un statut régulier les rapports entre le» pouvoirs publics et leurs administrations, d'une psrt et. d’autre part, les organismes savants indépendants av-c les travaux ou service» dont Ils sont chargé* par convention*.
 
@@ -16584,7 +16584,7 @@ La mise des données en forme telle que toutes concourent à constituer pour l�
 
 Dans chaque organisme établir un Manuel Général comportant: 1° la classification synthétique de l’organisme mise en rapport de concordance avec la classification décimale universelle (î); 2° la description de l’organisme
 
-(l) Pour les développements. voir les travaux de l’Institut International de Bibhovraphîe et de Documentation e* les collections tvpes et comparée» forcées au Palais Mondial. En particulier, voir: 1° La Classification universelle décimale. 2° L’Atlas administratif. 3° La collection comparée des formules, par établissement et dan« leur unité or^anioue nar types de formules comparées. 4rt Le* tra'tés Paul Otlet : a) Manuel de la Documentation Administrative (publication nn 137) ; b) Sur les possibilité* pour les entités administratives d’avoir à tout moment leur situation présentée documentairement (pu blication n# 162).
+(l) Pour les développements. voir les travaux de l’Institut International de Bibhovraphîe et de Documentation e* les collections tvpes et comparée» forcées au Palais Mondial. En particulier, voir: 1° La Classification universelle décimale. 2° L’Atlas administratif. 3° La collection comparée des formules, par établissement et dans leur unité or^anioue nar types de formules comparées. 4rt Les traités Paul Otlet : a) Manuel de la Documentation Administrative (publication nn 137) ; b) Sur les possibilité* pour les entités administratives d’avoir à tout moment leur situation présentée documentairement (pu blication n# 162).
 
 
 ====
@@ -16637,7 +16637,7 @@ do 1*1. I. B. n° 137 et 162 mentionnées ci-dessus. Rapport sur l'avenir de la 
 
 *356* LE LIVRE ET LE DOCUMENT 265
 
-d) Le* chose* rassemblées en leur entier, ou par échantillons (partie d'une matière homogène) constituent des document* par le fait de l'intention qui préside au rassemblement (collection) et qui sont utiles à l'étude, à l'en*eignement, à la recherche.
+d) Les choses rassemblées en leur entier, ou par échantillons (partie d'une matière homogène) constituent des document* par le fait de l'intention qui préside au rassemblement (collection) et qui sont utiles à l'étude, à l'en*eignement, à la recherche.
 
 e) La présentation des objets, ail repos ou en mouvement, les musées, les expositions, les démonstrations, ont le* plus grandes affinités et sont en un certain sens le* espèces d'un genre commun basé d’une part sur la vue des choses, d’autre part sur le fait que le» pièces sont essentiellement a trois dimensions.
 
@@ -16991,7 +16991,7 @@ c) Renaissance et temps modernes. — La Renaissance découvre l’antiquité. E
 
 encore aujourd hui. Plantin à Anvers (vers 1530). Fon* dation à Pans de la Bibliothèque nationale (1595), et de l'imprimerie nationale. Les premiers journaux. La consti-tution des sciences en corps de doctrines autonomes. XVIIIe siècle : les idées travaillent le peuple. L’encyclopédie de Diderot et d'Alembert. Le rôle des livres, du pamphlet et des journaux politiques dans la Révolution tiançaitc. XIX' s.f-c.e: lei invention, mécaniques appliquées à la production du Livre; la reproduction photo-mécanique de l’image; le triomphe de la démocratie; la diffusion de l’enseignement; le régime constitutionnel dans les grands Etats basé sur la liberté de la parole et de la presse; progrès dans l’organisation administrat.ve des Etats et rôle des imprimés de toute espèce à ce point de vue. Développement des sciences sur la base de la division du travail ; organisation rattonnellc de Ja librairie et de la presse scientifiques; la revue, le journal d’information. La librairie et l'édition se font universelles, ¡«s bibliothèques géantes et les éditions géantes. Organ.sation internationale du Livre et de la Documentation.
 
-3 Le* Phases.
+3 Les Phases.
 
 Toute histoire est divisée en deux manières : par date (chronologie), par phases (phaséologie, stades, époques). En vertu de la première, on se borne à déterminer la localisation d’un événement dans le temps, en vertu de la seconde, on détermine la division du temps d après la duré© de quelques grands faits subordonnant ou influençant les autres et s’étant succédé selon une certaine ratio. La chronologie est commune à l’h sloire générale et à 1*histoire spéciale bien que, dans ce dernier cas, il i»e soit fait mention que des fa.ts généraux influençant les faits spéciaux et, quant à ceux-ci seulement, les faits intéressant la spécialité à I exclusion des autres. Les phases au contraire sont distinctes, selon qu il s agit d’histoire générale ou d’histoire spéciale, distinctes aussi d’après chaque histoire spéciale.
 
@@ -17354,7 +17354,7 @@ b) En principe on peut distinguer suivant un ordre croissant de combinaisons :
 
 Par le» même* procédé»: tableau, dessin, gravure, photographie, etc.
 
-4 ' Le* écrits (Biblion). On distingue qu ils sont ou relatif* directement à la réalité ou bien relatifs à une image, et alors ils sont : a) ou relatifs à une reproduction de la réalité, soit tableau, dessin, gravure, photographie, sculpture ; b) ou relatifs à une reproduction d*une reproduction laite à son tour par tableau, dessin, gravure, photographie ou sculpture.
+4 ' Les écrits (Biblion). On distingue qu ils sont ou relatif* directement à la réalité ou bien relatifs à une image, et alors ils sont : a) ou relatifs à une reproduction de la réalité, soit tableau, dessin, gravure, photographie, sculpture ; b) ou relatifs à une reproduction d*une reproduction laite à son tour par tableau, dessin, gravure, photographie ou sculpture.
 
 c) Les réalités, les images, les écrit» peuvent, les uns comme les autres, donner lieu : 1° à des collections soit particulières soit universelles ;2° au catalogue de ces collections particulières, soit le catalogue universel.
 
@@ -18415,7 +18415,7 @@ tance morale qui pourrait porter ombrage à la liberté de conscience du lecteur
 
 416 Opérations.
 
-a) Le* opérations relatives aux Livres et aux Document* »’enchaînent et forment un cycle; le* une* conduisant à la préparation de» travaux (manuscrit») et à leur publication)* le» autres intervenant âpre» que 1 œuvre est née, qu’elle a revêtu les condition» nécessaire» à »on existence individuelle. Ce »ont le» opérations nécessaire» à sa diffusion et à son incorporation dans le total de la Documentation, l'Encyclopédie ou le Livre Universel.
+a) Les opérations relatives aux Livres et aux Documents s’enchaînent et forment un cycle; les unes conduisant à la préparation de» travaux (manuscrit») et à leur publication)* le» autres intervenant âpre» que 1 œuvre est née, qu’elle a revêtu les condition» nécessaire» à »on existence individuelle. Ce »ont le» opérations nécessaire» à sa diffusion et à son incorporation dans le total de la Documentation, l'Encyclopédie ou le Livre Universel.
 
 b) Il est opportun de considérer dans leur ensemble les 
 diverses opérations et manipulations auxquelles donnent 
@@ -18436,7 +18436,7 @@ au point.
 
 Parmi les autres facteurs d'organisation il y a à ranger la finance, les conventions, la réglementation.
 
-1. *Finance*. — Chaque organisme, chaque travail »e développe dans le milieu économique de la société. Il y a donc lieu à financement c’est-à-dire à disposition de moyen d'argent nécessaire pour payer personnel., matières et premier établissement.
+1. *Finance*. — Chaque organisme, chaque travail se développe dans le milieu économique de la société. Il y a donc lieu à financement c’est-à-dire à disposition de moyen d'argent nécessaire pour payer personnel., matières et premier établissement.
 
 Les conditions de financiement sont particulière» à chacun. Mais il serait désirable de voir constituer un Fonds mondial pour subvenir aux insuffisance» de fond» spéciaux et leur assurer des complément» en vue de dispositions et lâche» onéreuses nécessitée» par l'organisation internationale.
 
@@ -19141,7 +19141,7 @@ Mettre à l'abri, à l’endroit tenu comme le plus protégé du monde contre le
 
 Au sein de la Bibliothèque mondiale doivent être constitués des Fonds Internationaux et Collections Internationales pour les brevets d'invention, les recueils des lo s promulguées, les statistiques, les manuscrits et papiers d'archives modernes, les musiques, les photographies, *cs gravures, les films cinématographiques, les disques de phonographe, etc.
 
-4. Organisation et Coopération. — L'organisation doit être celle d’une Fondation autonome, coopérative, administrant tous les fonds possédés ou déposés; chaque participation doit pouvoir éventuellement conserver la propriété d** ses ouvrages ou collections, mais en mettre en commun la jouissance. Le* intéressés ont a être représentés au sein du Conseil d'administration de la Fondation.
+4. Organisation et Coopération. — L'organisation doit être celle d’une Fondation autonome, coopérative, administrant tous les fonds possédés ou déposés; chaque participation doit pouvoir éventuellement conserver la propriété d** ses ouvrages ou collections, mais en mettre en commun la jouissance. Les intéressés ont a être représentés au sein du Conseil d'administration de la Fondation.
 
 F.n particulier, l'Association Internationale des Editeurs et celle des Auteurs et Editeurs devraient coopérer à l’Institution afin de réaliser au poiat de vue mondial, ce que lea Editeurs allemands ont déjà fait à Leipzig pour lr livre allemand (Deutsche Bücherei).
 
@@ -19586,7 +19586,7 @@ les aecords antérieurs. Le Palais Mondial put alors continuer A ae développer.
 
 Cadre dc la Documentation, du Musée et de l'Enseignement,
 
-A) Le* Sciences. (Données générales et synthétiques).
+A) Les Sciences. (Données générales et synthétiques).
 
 1. La quantité et l'étendue: Nombre et espace. Les Mathématiques. — 2. La matière et l'énergie : Les éléments et les forces, les corps célestes et la terre. La Physique, la Chimie, l'Astronomie et la Géologie. — 3. La vie, ses formes et variétés, sa continuité. La Biologie et 1 Histoire naturelle. — L'esprit et son mécanisme, 1 âme et scs facultés. La Psychologie. — 6. L'explication des choses et des systèmes. La Philosophie. — 7. La Divinité.
 
