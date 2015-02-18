@@ -10271,7 +10271,7 @@ La dimension des médailles s appelle module. On distingue. dans le» médailles
 
 Ses progrès furent très grands le jour où fut écartée l'idée fausse que médailles et monnaies devaient faire la matière de deux sciences distinctes.
 
-d) On peut former une classe spéciale de documents constitués par le# plaques et images honorifiques qui se disposent sur la poitrine, autour du corps, en écharpe ei en bandoulière ou présentées aux funérailles sur des coussins. Avec les écussons, le* armoiries, les figures de blasons, les obit, disposés dans les églises en accessoires de dalles tombales et, dans les cimetières, les croix, tombes et mausolées, il y a là un langage conventionnel qui s’exprime à l'aide d'objets qui sont comme des documents.
+d) On peut former une classe spéciale de documents constitués par le# plaques et images honorifiques qui se disposent sur la poitrine, autour du corps, en écharpe et en bandoulière ou présentées aux funérailles sur des coussins. Avec les écussons, le* armoiries, les figures de blasons, les obit, disposés dans les églises en accessoires de dalles tombales et, dans les cimetières, les croix, tombes et mausolées, il y a là un langage conventionnel qui s’exprime à l'aide d'objets qui sont comme des documents.
 
 e) La classification des médailles et des monnaies se fait de diverses manières d’après la matière, d après le temps, d’après l’ordre géographique.
 
@@ -15408,7 +15408,7 @@ f) La lecture des romans peut finir par altérer violemment la régularité du f
 
 contraction ou dilatation de» vaisseaux, des spasmes des muscles organiques... comme aussi des exaltations et des dépressions, des clarté« et des obscurcissements de V’esprit. (Don Ktphatl Salillos.) Il n’est pas tare qu« le* femmes adonnées à ces lectures souffrent d hystérie, aient des cauchemar* et, pour le plus futile motif, éclatent en sanglot» nerveux. Après avoir lu un roman qui les a impressionnées, certaine» personnes sentent leur esprit s'obscurcir, perdent la mémoire et restent quelque temps comme hébétée», sans trop savoir ou elles sont. Le roman est pour certain» une véritable suggestion dégénérant en folie et actes criminels. (I)
 
-g) L’étude de» troubles même physiologiques causés par la lecture des romans est une voie permettant d’établir des relations entre le mot lu, sa représentation mentale ei la réalité. (Psychologie bibliologique. )
+g) L’étude de» troubles même physiologiques causés par la lecture des romans est une voie permettant d’établir des relations entre le mot lu, sa représentation mentale et la réalité. (Psychologie bibliologique. )
 
 258.15 Influence du livre sur l’action.
 """"""""""""""""""""""""""""""""""""""""
@@ -15508,7 +15508,7 @@ h) De plus en plus la bibliophilie est devenue une mode. La spéculation et le s
 
 a) Les livres et les documents ne sont pas essentiellement des biens corruptibles, périssables ou qui se détruisent par l'usage qu'on en fait. Ce sont des biens à durée continue pour lesquels s'imposent des mesures de conservation leur permettant de traverser les âges. Ces mesures visent à la fois la conservation physique et la sécurité sociale ; elles ont à se concilier avec les mesures propres à en faciliter l'usage. Ces points ont été traités notamment sous le n° 26 Collections et n° 283.1 Hygiène.
 
-b) Distinguant entre l'existence intellectuelle d’un livre ei son existence matérielle, on arrive à considérer que le livre est conservé pourvu que quelques exemplaires, un
+b) Distinguant entre l'existence intellectuelle d’un livre et son existence matérielle, on arrive à considérer que le livre est conservé pourvu que quelques exemplaires, un
 (I) John T. Wintcrich: A primer of Book collecting (London 1928). — Bernard Grasset : La chose littéraire, Paris. Gallimard 1929. — Emile Henriot : 5ur la Bibliophilie. c Gazetet de Lausanne s, 9 mai 1930.
 seul tout au moins, ait pu être sauvé de la destruction. On peut alors le reproduire. C'est le cas de la plupart des livres parus depuis un certain temps.
 
@@ -15793,7 +15793,7 @@ b) Les Offices sont nés de deux nécessités : Io Celle de donner plus d'ampleu
 
 c) Les travaux des offices sont donc tantôt à l'état de prototype, or’ginaux et non publiés, tantôt & l’état d’impression. Ils sont ou non accessibles au public, gratuitement ou moyennant rémunération : on peut les consulter sur place où seules des copies sont délivrées ap.-àj demande par correspondance.
 
-d) L'Office International de Bibliographie, qui a été créé en 1893. est le premier office en ordre de date ei il a pris immédiatement la forme coopérative et Internationale. Depuis les offices se sont multiplié, soit généraux pour un pays, soit spéciaux pour une branche de science ou d'activité. Les bibliothèques qui avaient réalisé d'admirables catalogues de leurs livres, les éditeurs c!e bibliographies de livres qui avaient créé de8 organisations pour leurs publications, ne sont trouvés débordés quand à la fin du siècle dernier, les périodiques scientifiques ont été produits de toutes parts et ont eu bientôt concentré le plus récent et le plus important de la production en sciences. Il était impossible à chaque bibliothèque de répertorier le contenu des périodiques qu’elle recevait. La fonction nouvelle créa Vorgane nouveau.
+d) L'Office International de Bibliographie, qui a été créé en 1893. est le premier office en ordre de date et il a pris immédiatement la forme coopérative et Internationale. Depuis les offices se sont multiplié, soit généraux pour un pays, soit spéciaux pour une branche de science ou d'activité. Les bibliothèques qui avaient réalisé d'admirables catalogues de leurs livres, les éditeurs c!e bibliographies de livres qui avaient créé de8 organisations pour leurs publications, ne sont trouvés débordés quand à la fin du siècle dernier, les périodiques scientifiques ont été produits de toutes parts et ont eu bientôt concentré le plus récent et le plus important de la production en sciences. Il était impossible à chaque bibliothèque de répertorier le contenu des périodiques qu’elle recevait. La fonction nouvelle créa Vorgane nouveau.
 
 r) Mais de nos jours un mouvement nouveau se dessine.
 
