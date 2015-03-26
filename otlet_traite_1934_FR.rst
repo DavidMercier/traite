@@ -289,7 +289,7 @@ De l’enquête sur les faits et de leur examen général on peut dégager l’e
 
 L'Organisation internationale sera confiée à des organes internationaux sous l’autorité et avec la coopération des quels œuvreront les organes spéciaux. Les organismes spéciaux seront les uns privés (Associations internatio nafes), les autres officiels (Société des Nations, Union Panaméricaine, Unions officielles des Gouvernements).
 
-8° Les noyaux d’une telle organisation existent déjà largement mais épars, incomplets plus ou moins développés, travaillant sans coordination ni souci d’éviter les doubles emplois et de combler les lacunes. Ce sont : a) Les offices de documentation, les œuvres d information, les bibliothèques spéciales en certains pays; b) Les Unions nationales de Documentation ; c) Les Bibliothèques nationales avec leurs services de catalogues collectifs et de prêts; d) Le Service international des échanges; e) Les organisations productrices des catalogues et des bibliographies ; f) Les Bureaux des grandes publications périodi ques ou des publications à édition renouvelée : Revues, grands traités, encyclopédies; g) les Offices publics, scientifiques ou sociaux, qui recueillent et distribuent des informations utiles aux administrations publiques de tous degrés; h) Les organes de documentation, information et publication fonctionnant au sein des Associations privées, mixtes ou officielles; les services de cet ordre en liaison avec la Société des Nations; Secrétariat, Bureau International du Travail, Commission de Coopération Intellectuelle, Organisation internationale des Transports, Orga nisation économique et financière. Comités nationaux de coopération intellectuelle; i) L’Office et l'Institut International de Bibliographie, l'Institut International de Docu mentation ainsi que l’Union des Associations Internationales. Celle-ci, d’accord avec I I. I. B. s'est attachée à susciter une meilleure organisation de U documentation au sein des Associations Internationales.
+8° Les noyaux d’une telle organisation existent déjà largement mais épars, incomplets plus ou moins développés, travaillant sans coordination ni souci d’éviter les doubles emplois et de combler les lacunes. Ce sont : a) Les offices de documentation, les œuvres d information, les bibliothèques spéciales en certains pays; b) Les Unions nationales de Documentation ; c) Les Bibliothèques nationales avec leurs services de catalogues collectifs et de prêts; d) Le Service international des échanges; e) Les organisations productrices des catalogues et des bibliographies ; f) Les Bureaux des grandes publications périodi ques ou des publications à édition renouvelée : Revues, grands traités, encyclopédies; g) les Offices publics, scientifiques ou sociaux, qui recueillent et distribuent des informations utiles aux administrations publiques de tous degrés; h) Les organes de documentation, information et publication fonctionnant au sein des Associations privées, mixtes ou officielles; les services de cet ordre en liaison avec la Société des Nations; Secrétariat, Bureau International du Travail, Commission de Coopération Intellectuelle, Organisation internationale des Transports, Orga nisation économique et financière. Comités nationaux de coopération intellectuelle; i) L’Office et l'Institut International de Bibliographie, l'Institut International de Docu mentation ainsi que l’Union des Associations Internationales. Celle-ci, d’accord avec I I. I. B. s'est attachée à susciter une meilleure organisation de Ildocumentation au sein des Associations Internationales.
 
 9° Il sera organisé, par voie de libre Convention internationale groupant les organismes publics et privés, et à l'intermédiaire d’un Office centra) mondial, un Réseau Universel mettant en rapport coopératif tous les Offices particuliers de documentation, à la fois pour la production et pour l’utilisation.
 
@@ -2598,7 +2598,7 @@ C'est Aide Manuce qui, pour faciliter la diffusion de la littérature latine, ad
 
 Grand ou petit livre. — Ils ont l'un et l'autre des avantages suivant le cas. (Ex. : grand ou petit dictionnaire de langue). Avoir tout réuni en un volume est pratique pour la consultation, mais le volume est lourd, se déplace difficilement et son maniement est plut lent lors de la consultation.
 
-On n’a pas renoncé aux ouvrages minuscules. L'éditeur u l'araporevala de Bombay» publie le Kotan, le Bhagavad-
+On n’a pas renoncé aux ouvrages minuscules. L'éditeur Ill'araporevala de Bombay» publie le Kotan, le Bhagavad-
 221 [
 Gîta, le Khordeh Avesta en petites éditions d'un pouce sur 3/4 de pouce, reliées en métal avec verres grossissants.
 
@@ -3174,7 +3174,7 @@ Les Chinois, les Araires, les Turcs, les Indiens, les Persans ont porté très h
 
 Léon Bloy un jour de misère, proposa au comte Robert de Montesquieu Fezcnsac. poète et descendant dune illustre famille française, de « transcrire lui-même son livre — La Chauve-Souris — sur un vélin fastueux, en écriture divine de moine carolingien, et d’orner chaque, page d'exfoliations extraordinaires, m II ajoutait « me voila prêt à vous donner un an de ma vie épouvantable, à faire pour vous un chef-d’œuvre, si vous voulez me sauver, car je péris absolument. ?? Le poète, bien qu immensément riche et d’une prodigalité vaniteuse, refusa.
 
-4. Le chef-d'œuvre calligraphique a souvent consisté en certaines acrobaties et prouesses scripturaires. Ainsi, le fait d écrire microscopiquement. Aelien parle d un homme qui, après avoir écrit un distique en lettres d or pouvait le renfermer dans l’écorce d’un grain de blé, un autre traçant des vers d’Homère sur un grain de millet. Cicéron rapporte avoir vu l’Illiade écrite sur parchemin pouvant se renfermer dans une coquille de noix. U y a loin de ces œuvres de patience aux manuscrits latins du IVe siècle dont les caractères avaient une s» grande dimension que Saint Jérôme les appelait des fardeaux écrits.
+4. Le chef-d'œuvre calligraphique a souvent consisté en certaines acrobaties et prouesses scripturaires. Ainsi, le fait d écrire microscopiquement. Aelien parle d un homme qui, après avoir écrit un distique en lettres d or pouvait le renfermer dans l’écorce d’un grain de blé, un autre traçant des vers d’Homère sur un grain de millet. Cicéron rapporte avoir vu l’Illiade écrite sur parchemin pouvant se renfermer dans une coquille de noix. Ily a loin de ces œuvres de patience aux manuscrits latins du IVe siècle dont les caractères avaient une s» grande dimension que Saint Jérôme les appelait des fardeaux écrits.
 
 D’autre part des calligraphes se sont ingéniés à tracer des figures de personnes ou d'objets à l’aide de fines lignes d’écriture. 1
 (1) Développement des maîtres calligraphes anglais du commencement des premiers scriptoria monastique??» du moyen âge à la domination de l'écriture commerciale du XIXe siècle. The english writing-masters and their Copying Book 1570-1800. A biographical dictionary and a Bibliography by Ambroise Hcsh with an introduction on tbe development of Handwriting by Stanley Mori'son. Cambrigde-Universty Press, 1931.
@@ -3280,7 +3280,7 @@ Tandis que les Chinois abandonnent l’idéographie et adoptent notre alphabet, 
 
 En apprenant l’écriture et l’orthographe, on n’npprend guère de notions ; et la communication de peuple à peuple reconnaît les obstacles de la langue.
 
-Les néoglyphea. U nouvelle écriture mondiale du Prof. Alex. Sommer-Batek (Prague).
+Les néoglyphea. Ilnouvelle écriture mondiale du Prof. Alex. Sommer-Batek (Prague).
 
 222.162 STENOGRAPHIE.
 ......................
@@ -3462,7 +3462,7 @@ Au début, les besoins pratiques de l'écriture ont été fort limités, par ex.
 
 ELEMENTS GRAPHIQUES  222
 
-lement le besoin d’écriture s’est étendu. U te confond avec le besoin de document et se mesure comme lui.
+lement le besoin d’écriture s’est étendu. Ilte confond avec le besoin de document et se mesure comme lui.
 
 222.174 UNIFICATION DES ECRITURES :
 ....................................
@@ -4159,7 +4159,7 @@ Certains éditeurs excellent à donner à une simple plaquette toute l’importa
 
 Mais l’art appliqué au livre n’a pas toujours été judicieusement réparti. * Les ouvrages les moins destinés à demeurer dans les bibliothèques, ces milliers d’opuscules boiteux sur des questions de petite érudition provinciale ou ces romans de cape et d’épée tard venus, sont d’ordinaire les mieux imprimés et les plus soignés, au rebours d’autres plus importants composés en tête de clou et dont le papier s’effrite. * (Bouchot. Le Livre, p. 238.)
 
-223 Elémentalinguistique». Le» langues
+223 Elémentalinguistiques. Le» langues
 
 Les documents pour la plupart sont constitués d’éléments linguistiques ; ils sont exprimés en une certaine langue ; ils sont une traduction en signes alphabétiques de* mots du langage.
 ( î ) L. Titz. — L'esthétique du livre moderne. Publica* tion du Musée du Livre. XIII, 1910.
@@ -4194,7 +4194,7 @@ L’impossibilité de transférer la pensée est absolue et insurmontable. Celui
 (I) Henri De Man. — Nationalisme et Socialisme. Equilibre, mai 1932, p. 26,
 inférence de sa propre pensée conclure que celui qui parle a pensé à la même chose que lui. Ce qui passe dans la parole entre les deux personnes est simplement un son. dégagé de tous les sens. Les paroles participent donc de cette double nature : avoir un sens, être un son.
 
-Chaque homme adulte est le dépôt vivant d'une connaissance profonde du langage. Non seulement il possède un vaste emmagasinement de mots, mais U est en quelque sorte un artiste dans la manière de les employer. ( I )
+Chaque homme adulte est le dépôt vivant d'une connaissance profonde du langage. Non seulement il possède un vaste emmagasinement de mots, mais il est en quelque sorte un artiste dans la manière de les employer. ( I )
 
 4. Xlaitrise de la tangue. — Lin Japonais a dit : La langue n'est pas seulement vivace, elle est une créature douée de la plus délicate sensibilité. Elle dirige l’homme bien plus qu'elle n'est dirigée. L'homme peut être libre de prononcer le premier mot, mais il est moins libre quant aux mots suivants : le prestige de la langue commence à agir et à entraîner la pensée.
 
@@ -4246,9 +4246,9 @@ I. La Parole. — La parole est une voix articulée qui exprime quelque idée pr
 
 *86*  LE LIVRE ET LE DOCUMENT  223
 
-Lloqucntia, en latin, signifie fart de bien dite ce qu on a à dire. Au delà de la littérature, de l'expression et de l’exprimée, il y a 1 «ineffable» : parvenir par la méditation à de» zones de pensées dépassant le niveau Je l’expression verbale où toute pensée rétrécie par I expression perd immédiatement sa qualité. Alors, le rôle de la suggestion commence.
+Lloqucntia, en latin, signifie fart de bien dite ce qu on a à dire. Au delà de la littérature, de l'expression et de l’exprimée, il y a l'«ineffable» : parvenir par la méditation à de» zones de pensées dépassant le niveau de l’expression verbale où toute pensée rétrécie par I expression perd immédiatement sa qualité. Alors, le rôle de la suggestion commence.
 
-Elargir de plus en plus la parole — non pas véritablement en cercles ni ondes concentriques — car les ondes à la surface de l'eau s'engendrent par chocs et restent à la surface, tandis que la parole et l'élargissement de U parole doit se faire par lien et c’est l'image de !a spirale, la spire de la paro’e s'élargissant, s’élevant toujours plus.
+Elargir de plus en plus la parole — non pas véritablement en cercles ni ondes concentriques — car les ondes à la surface de l'eau s'engendrent par chocs et restent à la surface, tandis que la parole et l'élargissement de la parole doit se faire par lien et c’est l'image de !a spirale, la spire de la paro’e s'élargissant, s’élevant toujours plus.
 
 2. La parole sacrée. — La parole jusqu'à nos jours a conservé quelque chose de mystérieux et de supérieur.
 
@@ -4345,7 +4345,7 @@ La transcription phonétique des chansons populaires produit de précieux docume
 
 4. Chaque peuple a eu sa langue, sa poésie et *a littérature. Ces biens ont eu le même sort que leurs possesseurs. Un peuple s’emparait-il d’une riche contrée pour y fonder un empire durable et florissant, sa langue ne tardait pas à se développer avec les connaissances, les mœurs et les institutions. Ce peuple, au contraire, vaincu par les ennemis du dehors et la corruption du dedans, s’affaissait-il sur lui-même, le langage tombait en ruine avec lui et ses riches matériaux servaient à constituer de nouveaux édifices.
 
-3. A l’intermédiaire du livre et du document se poursuit la lutte des langues. Une langue ne s'étend que si elle est l’organe d’une civilisation douée de prestige. Ainsi U « Koinê ionienne attique » a remplacé tous les autres parlers grecs. Ainsi !e latin l'a emporté sur les parlera barbares ; l’espagnol et le portugais sur ceux des peuples de l'Amérique du Sud; l’anglais sur ceux des peuple’ de l'Amérique du Nord. La multiplication des « langues communes b, dans l’Europe d’aujourd'hui, et cela en un temps où il y a au fond unité de civilisation matérielle et intellectuelle, est une anomalie. ( I )
+3. A l’intermédiaire du livre et du document se poursuit la lutte des langues. Une langue ne s'étend que si elle est l’organe d’une civilisation douée de prestige. Ainsi Il« Koinê ionienne attique » a remplacé tous les autres parlers grecs. Ainsi !e latin l'a emporté sur les parlera barbares ; l’espagnol et le portugais sur ceux des peuples de l'Amérique du Sud; l’anglais sur ceux des peuple’ de l'Amérique du Nord. La multiplication des « langues communes b, dans l’Europe d’aujourd'hui, et cela en un temps où il y a au fond unité de civilisation matérielle et intellectuelle, est une anomalie. ( I )
 
 Le phénomène a interlingua » se poursuit; il y a eu dans le passé des langues communes intermédiaires, il pourra en naître dans l'avenir.
 
@@ -4410,7 +4410,7 @@ Le latin, le grec, l’italien, l'espagnol s’écrivent comme ils sont pariés.
 
 ritude de règles et une innombrable quantité d'exceptions. C’est avant tout une langue de nuances. Aucune autre peut-être n'a autant de moyens de varier la pensée à l'aide de certains procédés de syntaxe, qui malheureusement sont souvent fort subtils. Ecrivains, lexicographes se perdent dans des détails insignifiants et que l’on ne parvient pas à régler d une manière sûre. Ex.: l'emploi des majuscules, l’usage du tiret, la formation du pluriel dans les mots composés, les règles du participe passé.
 
-Après trois cents années d'existence, l'Académie française a fait paraître récemment sa grammaire toujours retardée. Elle a soulevé une tempête de protestations. L'orthographe est exigée partout mais non toujours obtenue. u Faire des vers sans mettre l'orthographe, a dit le P. Petit, c'e»t porter un habit brodé sans avoir de chemise s. Napoléon ne connaissait pas l’orthographe, ni avant lui, Henri IV, Louis XIV, le Maréchal de Richelieu.
+Après trois cents années d'existence, l'Académie française a fait paraître récemment sa grammaire toujours retardée. Elle a soulevé une tempête de protestations. L'orthographe est exigée partout mais non toujours obtenue. « Faire des vers sans mettre l'orthographe, a dit le P. Petit, c'est porter un habit brodé sans avoir de chemise ». Napoléon ne connaissait pas l’orthographe, ni avant lui, Henri IV, Louis XIV, le Maréchal de Richelieu.
 
 3. Pour presque toutes les langues, il existe un mouvement réformateur : en français, en anglais, en allemand, en néerlandais, etc. Des ouvrages paraissent en orthographe simplifiée. (I)
 
@@ -4461,7 +4461,7 @@ Est en cause ici toute la lexigraphie. Cette phrase : La documentation internati
 223.7 Langues internationales.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. Le français, l’anglais, l'allemand. l'espagnol sont des langues dites internationales à cause de leur grande diffu sion. Le français a été longtemps la langue diplomatique. L'anglais a reçu un traitement égal au français à U Société des Nations. Tous les documents y sont publiés dans les deux langues.
+1. Le français, l’anglais, l'allemand. l'espagnol sont des langues dites internationales à cause de leur grande diffu sion. Le français a été longtemps la langue diplomatique. L'anglais a reçu un traitement égal au français à la Société des Nations. Tous les documents y sont publiés dans les deux langues.
 
 Les ouvrages publiés ou traduits en anglais auront dans une immense population un très grand débit. Ce sera pour les écrivains et les traducteurs un encouragement que ni l’allemand ni le français ne pourront offrir. Le tiers de la population du globe comprendra bientôt l’anglais.
 
@@ -4673,7 +4673,7 @@ Exorde, exposition, prévision, preuves, réfutation, récapitulation, pérorais
 
 n’en sortait pas. En réalité toutes ces parties se retrouvent dans les discours spontanés, les moins étudiés. Mais la rhétorique ancienne consistait précisément à les dissimuler à recouvrir le squelette de muscles et de peau.
 
-Mais voici que depuis l'antiquité la science a fait son œuvre. C’est elle toute entière qui correspond à la partie invention ; et pour une partie c’est la mathématique moderne qui offre la forme d’énonciation la plus avancée. U n'en demeure pas moins que l'idée de rationaliser le discours comme la langue, comme la pensée, fut une pensée géniale des Grecs et qu’en possession des moyens nouveaux dont nous disposons, nous avons à reprendre cette œuvre en l’élargissant. C’est notamment une des tâches de la Documentologie.
+Mais voici que depuis l'antiquité la science a fait son œuvre. C’est elle toute entière qui correspond à la partie invention ; et pour une partie c’est la mathématique moderne qui offre la forme d’énonciation la plus avancée. Il n'en demeure pas moins que l'idée de rationaliser le discours comme la langue, comme la pensée, fut une pensée géniale des Grecs et qu’en possession des moyens nouveaux dont nous disposons, nous avons à reprendre cette œuvre en l’élargissant. C’est notamment une des tâches de la Documentologie.
 
 224.2 Le style.
 ^^^^^^^^^^^^^^^^
@@ -4825,7 +4825,7 @@ Les ouvrages didactique* attachent beaucoup d'impor- ' lance au « plan d'étude
 
 Un livre aussi peut être considéré comme une marche : un point de départ et un but vers lequel on progresse.
 
-2. C’est un problème général en documentation que de déterminer les rapports entre les divers ordres de classement : matière, lieu, temps, forme et langue. Chacun de ces ordres constitue en lui-même une succession dont la ratio de U progression lui est propre, et c'est erreur de réduire en fragments cet ordre que d*y introduire, à chaque échelon, les documents d’un autre ordre.
+2. C’est un problème général en documentation que de déterminer les rapports entre les divers ordres de classement : matière, lieu, temps, forme et langue. Chacun de ces ordres constitue en lui-même une succession dont la ratio de la progression lui est propre, et c'est erreur de réduire en fragments cet ordre que d'y introduire, à chaque échelon, les documents d’un autre ordre.
 
 3. L'étude d’un sujet, la préparation et la rédaction d’un ouvrage pourront se permettre avec diverses catégories de formes de document. Par ex.: le texte, les illustrations, les listes bibliographiques, les listes chrono logiques, les extraits anthologiques d'ordre littéraire, les notes explicatives détaillant les documents justificatifs (Poésie sur le sujet). On peut établir les données de ces formes différentes en plusieurs séries documentaires distinctes constituées en fiches ou dossiers séparés ; on peut aussi réaliser un exposé unique combinant toutes les formes : l'illustration étant placée en regard ou au milieu du texte, les notes et la bibliographie disposées en notes inframarginales, les citations ou extraits poétiques ou littéraires, les faits chronologiques et les documents insérés à leur place dans le texte lui-même.
 
@@ -4928,7 +4928,7 @@ On peut rédiger l'exposé dans l’ordre suivant : définition, proposition, pr
 8. Desiderata. Recommandations. — Les recommandations, suggestions et desiderata suivants sont proposés pour une claire exposition: 1° la pensée sefa divisée; 2° les parties seront reliées les unes aux autres, formant «chaîne», chaque point étant un problème ou un aspect spécial du sujet traité. Parfois ces point» sont strictement classés, parfois ils sont réunis par les liens d’un raisonnement bien articulé ; 3° elles seront classées ; 4Ü exprimées en termes adéquats, précis, concis, vivant»; 5° disposées en divisions numérotées; 6° chaque division sera rubri-quée : 7° elle sera susceptible de se condenser en une proposition énoncée clairement ; 8° la pensée toute entière pourra donc être liée à un résumé intégral formé de l’ensemble des propositions particulières exprimé dans les divisions du développement ; 9° termes précis, répéter les mêmes mots plutôt qu’un équivalent; 10° phrase construite simplement, sans inversion, courte; 11° exposé direct, enchaînement des idées directs sans incidences (dégression) ; 12° système logique de division et subdivision apparaissant bien nettement tout en soignant la rédaction littéraire ; 13° l’illustration, rée'le et schématique; 14° les références d’une partie à l’autre de l’exposé; 15° présenter éventuellement dans le texte les données générales et renvoyer les noies de tou*e espèce dans une seconde partie. Quelquefois l’auteur fait un exposé synthétique, à l’occasion d’une polémique, mais renvoie à un appendice les notes où la discussion reprend ses droits. Un savant aux idée« synthétiques, après avoir produit beaucoup d’idée» particulières, finit par incorporer ses études particulières è un ouvrage général; (I) 16° indiquer les sources bibliographiques. Au point de vue de l’exposition la méthode scientifique veut des renvois confirmatifs au bas des pages ou à la fin du volume. Indication des sources exactes de l’affirmation produite. La science devient liste, inventaire, tableau numérique. Ex. classification du spectre, des étoiles: catalogue du Harvard College Observatory ;
 
 (I) Voir à titre ci exemple : Freemantle. Comparative politics.
-17“ donner des résumés. Il y a l'exposé, le résumé de l’exposé et paifois le résumé du résumé (l); 1801 établir des tableaux. Les données de U science tendent de plus en plus à être «tabuliséeî», à prendre la forme de tableaux soit en colonnes correspondant aux caractéristiques ou parties à relever, soit en schémas systématiques.
+17“ donner des résumés. Il y a l'exposé, le résumé de l’exposé et paifois le résumé du résumé (l); 1801 établir des tableaux. Les données de la science tendent de plus en plus à être «tabulisées», à prendre la forme de tableaux soit en colonnes correspondant aux caractéristiques ou parties à relever, soit en schémas systématiques.
 
 9. Observations complémentaires.
 
@@ -5146,24 +5146,24 @@ qu’un jeu d’esprit. Mais les Anciens, et surtout les Orien taux, dont la lan
 225 Éléments scientifiques ou littéraires du livre : Les données de l’exposé.
 ------------------------------------------------------------------------------
 
-1. Le contenant. — Les éléments considérés précédemment sont ceux du « contenant » ou « forme » dans le sens large du mot (éléments matériels, graphiques, lin guistiques, intellectuels). Les éléments considérés ici sont ceux du « contenu » ou « fond ». Ce sont les cléments scientifiques ou littéraires, les données mêmes de l’exposé faits et idées.
+1. Le contenant. — Les éléments considérés précédemment sont ceux du « contenant » ou « forme » dans le sens large du mot (éléments matériels, graphiques, linguistiques, intellectuels). Les éléments considérés ici sont ceux du « contenu » ou « fond ». Ce sont les cléments scientifiques ou littéraires, les données mêmes de l’exposé faits et idées.
 
-Derrière le Livre s contenant s. il y a le . contenu >. la Littérature au sens large, (les lettres, la s chose littéraire » : Res litteraria. Materia Bibliologica, Res scripta. l’Encyclopédie immatérielle des connaissances).
+Derrière le Livre « contenant «, il y a le « contenu ». la Littérature au sens large, (les lettres, la s chose littéraire » : Res litteraria. Materia Bibliologica, Res scripta. l’Encyclopédie immatérielle des connaissances).
 
-En fait. In matière des livre’, c’est tout Ce qui est constaté Cl pensé, senti et éprouvé, voulu et proposé. La division de la matière en scientifique, littéraire, pratique ou d’action sociale est relativement récente. Il y a eu au début confusion et mélange, puis lente différenciation Cette matière n’a d’autre limite que la Pensée humaine, laquelle, elle-même, n’a en principe d'autres limites que la Réalité universelle.
+En fait, la matière des livres, c’est tout ce qui est constaté et pensé, senti et éprouvé, voulu et proposé. La division de la matière en scientifique, littéraire, pratique ou d’action sociale est relativement récente. Il y a eu au début confusion et mélange, puis lente différenciation Cette matière n’a d’autre limite que la Pensée humaine, laquelle, elle-même, n’a en principe d'autres limites que la Réalité universelle.
 
 Les traditions orales ont fini par être écrites comme les coutumes ont été rédigées : les chansons populaires transcrites, les paysages, les sites, les industries, les choses photographiées ou filmées.
 
 A grands traits on peut répartir les livres produits dan» les catégories suivantes ; ouvrages anciens, ayant une valeur par eux-mêmes ou comme sources de l’Histoire; ouvrages littéraires; ouvrages scientifiques; ouvrages techniques et professionnel»; publications administratives officielles ; publications commerciale».
 
-2. Contenu de la motte de» livret. — A quoi sont consacrés ces millions d ouvrages, ces centaines de mil lions de documents écrits chaque jou>, à la vie plus ou moins durable ou éphémère et dont, ne fût-ce que d’un instant et sur un point particulier, (’effet est venu s’inscrire dan» In Réalité Universelle ) Tout le Travail de l’Intelli genco aboutit à des pensées, A des unions, des combinai sons, des cycle* de pensée», constituant les système», le* théories, faits des vérités, d'erreur, d’opinion. Il aboutit en un mot A des Idéologies qui tendent, par synthèse et élimination, A une mentalité Universelle et Humaine.
+2. Contenu de la motte des livrets — A quoi sont consacrés ces millions d'ouvrages, ces centaines de millions de documents écrits chaque jour, à la vie plus ou moins durable ou éphémère et dont, ne fût-ce que d’un instant et sur un point particulier, (’effet est venu s’inscrire dan» In Réalité Universelle ) Tout le Travail de l’Intelli genco aboutit à des pensées, A des unions, des combinai sons, des cycle* de pensée», constituant les système», le* théories, faits des vérités, d'erreur, d’opinion. Il aboutit en un mot A des Idéologies qui tendent, par synthèse et élimination, A une mentalité Universelle et Humaine.
 
 
 ====
 
 225 *107*
 
-Pour se rendre compte de ce que contient U masse des livres, il y a lieu: 1° d’en faire une statistique classée;
+Pour se rendre compte de ce que contient la masse des livres, il y a lieu: 1° d’en faire une statistique classée;
 
 2 d'envisager les causes générales de la production;
 
@@ -5200,11 +5200,11 @@ c) Après la destruction de l'Empire romain, les lettres se retirèrent en Orien
 
 *108*  LE LIVRE ET L.E DOCUMENT  225
 
-une érudition mesquine, étroite, sans portée, à la mesure des esprits byzantins, pour qui des discussions puériles tenaient lieu de vie intellectuelle. Toutefois la Bibliothèque, composée au IXe siècle par le patriarche Photius, reste un modèle. C'est l'analyse de 280 ouvrages de poésie, d'éloquence, de théologie, de philosophie et de linguis tique : extraits et jugements. Le recueil de Sindas (XIe siècle) à la fois lexique, encyclopédique et biographique, est une compilation sans méthode.
+une érudition mesquine, étroite, sans portée, à la mesure des esprits byzantins, pour qui des discussions puériles tenaient lieu de vie intellectuelle. Toutefois la Bibliothèque, composée au IXe siècle par le patriarche Photius, reste un modèle. C'est l'analyse de 280 ouvrages de poésie, d'éloquence, de théologie, de philosophie et de linguistique : extraits et jugements. Le recueil de Sindas (XIe siècle) à la fois lexique, encyclopédique et biographique, est une compilation sans méthode.
 
 d) L'Erudition moderne naquit en Occident, peu de temps avant que la prise de Constantinople par les Turcs ait fait émigrer en Italie les savants et les lettrés. Ils ont nom de Chrysoloras, Bessarion, 1 héodore Gaza, Lascaris, George de Trebizonde, Phiielphc, Pogge, Ange Folitien.
 
-e) Puis vint la découverte et les progrès de l'Imprimerie. Le travail des érudits consista à retrouver, à publier et à réparer les débris des lettres et des sciences anciennes, gâtées en tant d'endroits par l'ignorance des esprits. Beaucoup de ces hommes furent les premiers comme imprimeurs (Aide Manuce). Les vastes et précieux répertoires intituléi : u Trésor de *a Langue latine » et « Trésor de la Langue grecque s. Erasme, Scaliger, Casaubon, Guillaume Budé, créateur de la Bibliothèque de Fontaine bleau, berceau de la Nationale et créateur des chaires libres de latin, de grec et d'hébreu, origine du Collège de France. — Juste Lipse, Montaigne, Rabelais.
+e) Puis vint la découverte et les progrès de l'Imprimerie. Le travail des érudits consista à retrouver, à publier et à réparer les débris des lettres et des sciences anciennes, gâtées en tant d'endroits par l'ignorance des esprits. Beaucoup de ces hommes furent les premiers comme imprimeurs (Aide Manuce). Les vastes et précieux répertoires intitulés : « Trésor de la Langue latine » et « Trésor de la Langue grecque s. Erasme, Scaliger, Casaubon, Guillaume Budé, créateur de la Bibliothèque de Fontaine bleau, berceau de la Nationale et créateur des chaires libres de latin, de grec et d'hébreu, origine du Collège de France. — Juste Lipse, Montaigne, Rabelais.
 
 f) Au XVIIe siècle, l'emploi des formules et des cita Lions, l'apparut pédant qui ne dispurut que graduellement (Molière, qui crée le type de Vadius dont l'original était Ménage).
 
@@ -5363,7 +5363,7 @@ tète et qui tiennent à l’œuvre elle-même par une relation régulière.
 
 Des règles ont été adoptées par I Association des éditeurs anglais pour la rédaction des pages de titre. (2)
 
-C'est la page titre qui fournit les principaux éléments de U notice bibliographique. L’I. f. B. a proposé que l'on imprime, sur le plat et au dos de chaque ouvrage, l'indice de la Classification décimale et. au verso de la page titre, une notice bibliographique complète portant, explicitement et en forme régulière, tous les éléments nécessaires à son identification. Cette notice servirait ainsi. Une fois pour toutes, aux diverses descriptions qui en seraient faites. En la reproduisant en triple exemplaire sut feuille détachée (slips) sur fiches, tout possesseur aurait 1: moyen pratique de faire figurer l'ouvrage dans ses cata-? logues ou répertoires, sans effort de rédaction ni même de copie. (3)
+C'est la page titre qui fournit les principaux éléments de la notice bibliographique. L’I. f. B. a proposé que l'on imprime, sur le plat et au dos de chaque ouvrage, l'indice de la Classification décimale et. au verso de la page titre, une notice bibliographique complète portant, explicitement et en forme régulière, tous les éléments nécessaires à son identification. Cette notice servirait ainsi. Une fois pour toutes, aux diverses descriptions qui en seraient faites. En la reproduisant en triple exemplaire sut feuille détachée (slips) sur fiches, tout possesseur aurait 1: moyen pratique de faire figurer l'ouvrage dans ses cata-? logues ou répertoires, sans effort de rédaction ni même de copie. (3)
 
 Le U. S. A. Government a pris l’initiative d’insérer dans ses ouvrages une page dite « Library Catalogue Slip » sur laquelle sont imprimées, prêtes pour le bibliothécaire, les entrées par l'auteur, sujet et série.
 
@@ -5720,7 +5720,7 @@ Une unité extérieure et qui ne cadre pas exactement avec l'unité de pensée. 
 
 Les études d'une science sont trop vastes pour être enfermées en deux ou trois volumes.
 
-b) Le chapitre définit chacune des parties dans lesquelles se divbe une œuvre ou un écrit aux fins du meilleur ordre et de U plus facile intelligence de la matière dont il est traité.
+b) Le chapitre définit chacune des parties dans lesquelles se divbe une œuvre ou un écrit aux fins du meilleur ordre et de la plus facile intelligence de la matière dont il est traité.
 
 Un chapitre correspond a une question en science.
 
@@ -5757,7 +5757,7 @@ Quantité d’ouvrage» dont le» »tiilr» oui été annoncées (h suivre) n’
 233.2 Notation des divisions.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-La notation des divisions réalise un système pratique et précis. (I) Il sert à la consultation, à la référence et à U signalisation.
+La notation des divisions réalise un système pratique et précis. (I) Il sert à la consultation, à la référence et à la signalisation.
 
 La notation des paragraphes peut tenir lieu de transition. Le lien peut être dans la pensée qui se suit et embrasse sans peine de» objets divers parce qu’elle les rupporte tous à un objet supérieur parfaitement déterminé.
 
@@ -5859,7 +5859,7 @@ Pour les journaux on pourrait convenir d indiquer la page, la colonne et le rang
 
 soit p. (I—4—3).
 
-b) La partie de pag et par conséquent la partie d* * U colonne peuvent être indiquées en divisant la page en 5 par les lettres A. B C D E écrites en marge.
+b) La partie de page et par conséquent la partie de la colonne peuvent être indiquées en divisant la page en 5 par les lettres A. B C D E écrites en marge.
 
 Ainsi, dans Qué.ard. Supercheries littéraires et Barbier. Dictionnaire des ouvrages anonymes.
 
@@ -6056,7 +6056,7 @@ Date de ri  promulgation Analyse Numéro  tiu  journal Date  du  journal Observa
 Henri Mazel a émis le vœu de voir dresser une chro-nologie historique des événements racontés et une table philosophique des principales idées de i*oeuvre.
 c) Lista de* auteur*. — Listes des auteurs dont les opinions ?ont discutées ou citées dans cet ouvrage. (Ex.: Vareiiles Sommières: Les personnes morales.
 
-d) Table* de personnages. — U s'agit non des auteurs ni des personnes mentionnées, mais de personnes fictives introduites dans les œuvres d'imagination. MM. Christophe et Cerfbeer ont publié un «Répertoire alphabétique des personnages » de la Comédie humaine de Balzac (il y en a plus de mille) .
+d) Table* de personnages. — Il s'agit non des auteurs ni des personnes mentionnées, mais de personnes fictives introduites dans les œuvres d'imagination. MM. Christophe et Cerfbeer ont publié un «Répertoire alphabétique des personnages » de la Comédie humaine de Balzac (il y en a plus de mille) .
 
 e) Iconographie. — Table des figures et des cartes (par n° de figure et selon l’ordre des pages). Table des gravures. Table des planches (reproductions photographiques. hors texte).
 
@@ -6077,7 +6077,7 @@ h) Concordances. — On donne le nom de Concordance de la Bible à une sorte de 
 
 *122* LE LIVRE ET LE DOCUMENT 234
 
-La première concordance hébraïque a été faite de 1438 à 1443, par le rabbin Marehodée Nathan, qui adopta la division par chapitres du cardinal Hugues, et y ajouta 1 % subdivision par versets. U n’existe pas de véritable concordance grecque pour l’Ancien l'estame^ît, mais on en possède plusieurs pour le Nouveau; la première a été composée par Xiste Bétulius, en 1546, et complétée plus lard par Kobert Etienne. (1)
+La première concordance hébraïque a été faite de 1438 à 1443, par le rabbin Marehodée Nathan, qui adopta la division par chapitres du cardinal Hugues, et y ajouta 1 % subdivision par versets. Iln’existe pas de véritable concordance grecque pour l’Ancien l'estame^ît, mais on en possède plusieurs pour le Nouveau; la première a été composée par Xiste Bétulius, en 1546, et complétée plus lard par Kobert Etienne. (1)
 
 i) labié des espèces. — Les descriptions des espèces et en particulier les espèces nouvelles ont une grande importance dans les Sciences de la Nature. Pour faciliter le> recherches comprimes, on indique les espèces usitées dans un index spécial, Ainsi, par ex., la Table des Protozoaires dans le Traüé de Zoologie Concrète d Yves Delage. Cette table est imprimée en deux sortes de caractères : l'un plus gros pour les noms de groupe, l'autre plus petit pour les noms de genre. Dans chacune des deux séries on trouvera deux sortes de noms. Les uns sans parenthèses, alignés au bord de la colonne, sont ceux de groupes adoptés ou de genre décrits dans l’ouvrage. Les autres, entre parenthèses et en recul sur l’alignement de li colonne, désignent les synonymes, soit de groupes, soit de genres décrits et chaque synonyme est suivi d’un mot sans parenthèses qui est le nom du groupe ou du genre dont il est synonyme et qui est décrit dans l'ouvrage n la page indiquée par le numéro qui suit son nom à sa place alphabétique. Cela permet de trouver immédiatement les noms ces genres et des groupes non acceptés dans l’ouvrage, et relégués par l'auteur en synonyme. Mais il fallait en outre faire l’opération inverse, et Lndi quer pour chacun des groupes et des genres acceptés par l’auteur les noms synonymes admis par d autres auteurs. D'ordinaire, c’est dans le corps du texte que se trouvent ces indications, mais ici c’est dans la table qu elles sont reléguées, placées entre parenthèses à la suite des noms acceptés, après le numéro indiquant le renvoi au texte.
 
@@ -6128,7 +6128,7 @@ Classification décimale. Ils ont indique visiblement cet ordre en plaçant les 
 
 3" Il est demandé d adjoindre à tous les documents, livres, articles de périodiques, brevets, etc., le ou les indices de la Classification décimale qui correspond à la matière traitée. Il est utile de mentionner ces mêmes indices à la suite de chaque chapitre et même de chaque paragraphe des ouvrages scientifiques. Il y aurait à cela trois avantages : concordance de la classification particulière propre à l'ouvrage avec la Classification universelle ; élaboration de la table décimale des concordances à placer in fine du volume; facilité donnée pour la dissection de l'ouvrage et la répartition de ses fragments dans les dossiers respectifs de l’Encyclopédie documentaire.
 
-4° Adjonction aux autre» tables et index. — Les tables de matières décimales selon la C. D. sont surtout précieuses au point de vue des langues. C'est un fait connu qu'il faut beaucoup moins de temps pour apprendre à lire une langue que pour la parler ou l'écrire, et que U plupart des personnes qui font des recherches sont habituées à lire les revue-j de leur spécialité en plusieurs langues. Cette lecture est rendue facile par le grand nombre de mots techniques qui sont presque tous internationaux et aussi par l'illustration qui devient de plus en plus abondante. Mais il y a grosse difficulté à se servir des index alphabétiques : là il faut connaître à fond la langue et sa synonymie. Un index décimal rend ici des services considérables.
+4° Adjonction aux autre» tables et index. — Les tables de matières décimales selon la C. D. sont surtout précieuses au point de vue des langues. C'est un fait connu qu'il faut beaucoup moins de temps pour apprendre à lire une langue que pour la parler ou l'écrire, et que Ilplupart des personnes qui font des recherches sont habituées à lire les revue-j de leur spécialité en plusieurs langues. Cette lecture est rendue facile par le grand nombre de mots techniques qui sont presque tous internationaux et aussi par l'illustration qui devient de plus en plus abondante. Mais il y a grosse difficulté à se servir des index alphabétiques : là il faut connaître à fond la langue et sa synonymie. Un index décimal rend ici des services considérables.
 
 235 Autres parties du livre.
 -----------------------------
@@ -6318,7 +6318,7 @@ c) A d'autres points de vue encore, les œuvres peuvent être distinguées de di
 240.3 Histoire. Evolution. Génétique.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Les espèces d'ouvrages, à la manière de U plupart des œuvres humaines, ont été formés au cours du temps, tantôt par l’action collective, les ouvrages se transformant lentement et fragmentairement sous l’influence les uns des autres ; tantôt par l’action individuelle, un auteur créant une œuvre qui devient un type. A l'origine tout es*, complexe, vague, confus ; ensuite tout tend à se
+Les espèces d'ouvrages, à la manière de Ilplupart des œuvres humaines, ont été formés au cours du temps, tantôt par l’action collective, les ouvrages se transformant lentement et fragmentairement sous l’influence les uns des autres ; tantôt par l’action individuelle, un auteur créant une œuvre qui devient un type. A l'origine tout es*, complexe, vague, confus ; ensuite tout tend à se
 
 (1) L'œuvre (en lat. opéra, mot dérivé de opus, operis) est le résultat permanent du travail ou de l’action, en particulier une production de l’esprit, en très particulier un écrit, un livre. Bien que « ouvrage » se rapporte à la chose faite et œuvre à l'action, le mot œuvres au pluriel, s'applique pourtant aux écrits d’un auteur, mais toujours avec un sens général : œuvres complètes, œuvres posthumes. Quand on veut parler spécialement de l’une d’elles, (’idée devenant plus précise, plus matérielle, s’exprime par le mot ouvrage.
 diversifier, s’individualiser, se préciser. Cette double action est déterminée tantôt par des besoins pratiques, tantôt par des considération» théoriques où intervient ta Logique, l’Esthétique, les fins morales. L'évolution se poursuit sou# nos yeux.
@@ -6794,7 +6794,7 @@ Le traité classique en élimine cependant tout ce qui trop récent ou trop indi
 
 j) Le traité doit présenter des concentrations classées de données. Il y a des travaux possible* avec l'appareil bibliographique existant, mais fastidieux et provoquant le gaspillage du temps. Ainsi par ex., avec certains traités de zoologie, l'étudiant est obligé de prendre un animal et de rechercher, dans le chapitre anatomique tout ce que 1
 (1) E. Brucker; L'éducation de l'esprit scientifique. Revue scientifique. 30 mai 1906.
-l'on dit de lui en citant son nom entre parenthèses, à la suite de quelque courte indication, de manière à se constituer un type au moins sur lequel il puisse reposer son esprit. Mais jamais il r'y arrive, car celui que l'on cite à propos de l'appareil digestif n'est plus cité quand on passe au système nerveux ou aux organes de la reproduction. Il n'arrive jamais que le même soit pris à propos de toutes les fonctions et l'étudiant se résigne, de guerre lasse, à prendre les choses comme il les trouve et à rester dans le vague des abstractions. Ce travail qu'il n'a pu faire, c'est à l'auteur à le faire pour lui. C'est à fauteur à lui présenter let chose » dans la /orme où U le désire, où il a besoin qu elles soient pour en avoir une notion précise et pour le» retenir. (Yves Delage.)
+l'on dit de lui en citant son nom entre parenthèses, à la suite de quelque courte indication, de manière à se constituer un type au moins sur lequel il puisse reposer son esprit. Mais jamais il r'y arrive, car celui que l'on cite à propos de l'appareil digestif n'est plus cité quand on passe au système nerveux ou aux organes de la reproduction. Il n'arrive jamais que le même soit pris à propos de toutes les fonctions et l'étudiant se résigne, de guerre lasse, à prendre les choses comme il les trouve et à rester dans le vague des abstractions. Ce travail qu'il n'a pu faire, c'est à l'auteur à le faire pour lui. C'est à fauteur à lui présenter let chose » dans la /orme où Ille désire, où il a besoin qu elles soient pour en avoir une notion précise et pour le» retenir. (Yves Delage.)
 
 j) Le traité, par son contenu et sa présentation, sera un stimulant au développement de la science et non une cristallisation. En montrant les progrès dans le passé, il doit être un rappel pour le progrès dans l'avenir: en indiquant les points acquis, il doit signaler les problème’ posés et restant a résoudre.
 
@@ -6852,7 +6852,7 @@ il donne en peu de aigues tout ce que le lecteur a besoin de savoir ; il replace
 241.222 HISTORIQUE.
 ....................
 
-L idée de réunir dans un seul ouvrage toutes les connaissances humaines est fort ancienne. Les premiers livres confondaient tout ; c'était des polygraphies dans toute la force du terme. L'œuvre du temps a consisté à distinguer les genres. Aussi les anciens livres sacrés, la Bible notamment, étaient de véritables encyclopédies. Moïse et Confucius ont été des centralisateurs. Les exposés de la philosophie antique, épanouis dans l'œuvre d'Aristote, offrent une idée de l'encyclopédie. Les écrits des poly-graphes grecs, ceux de Caton, Varon et Pline, ont un caractère encyclopédique. Au Ve siècle de notre ers, Martianus Capclla réunit en un seul livre les sept sciences qui composaient alors tout le savoir humain : grammaire, dialectique, rhétorique, géométrie, astrologie, arithmétique et musique. En avançant dans le moyen âge, on rencontre des encyclopédies spécialement consacrées à telle ou telle science et connue sous le nom de « Summae » ou u Spécula ». Salomon, évêque de Constance, tenta au IXe siècle un OicUonarium Universale. L œuvre littéraire gigantesque du moyen âge est l encyclopédie d Albert Le Grand, 2I volumes in-folio dans l'édition Jammy (1615) et 38 in-quarto dans l'édition Sorgnet (I890-99). Saint-Thomas d'Aquin produisit sa Somme qui a traversé les âges. Sous le régime de saint l-ouis, au XIIIe siècle, le dominicain Vincent de Beauvais composa à la demande du roi, son Spéculum historiale, naturale, doctrinale et morale, vaste compilation destinée à reproduire les notions éparses dans les divers écrits. Cependant dans tous ces ouvrages l'idée d une encyclopédie demeurait encore incomplète. Des tentatives plus précises furent faites dès le commencement du XVIIe siècle. En 1606, un professeur de Brème, Mathias Martins. traça le plan d'une encyclopédie complète ; Henri Alated publia à Herborn une Encyclopédie VU Tomis distincta (1620). Bacon, par sa classification méthodique des connaissances humaines (1620), sera le germe de ce qui devrait au XVIIIe siècle produire de véritables encyclopédies. Le dictionnaire historique et critique de Bayle (1696) a exercé une immense influence sur la direction des idées au XVIIIe siècle. On Ta appelé une oeuvre à l'allemande, une compilation informe de passages cousus à la queue les uns des autres. L'auteur ne cherchait qu'un texte, un prétexte pour développer ses propres idées.
+L idée de réunir dans un seul ouvrage toutes les connaissances humaines est fort ancienne. Les premiers livres confondaient tout ; c'était des polygraphies dans toute la force du terme. L'œuvre du temps a consisté à distinguer les genres. Aussi les anciens livres sacrés, la Bible notamment, étaient de véritables encyclopédies. Moïse et Confucius ont été des centralisateurs. Les exposés de la philosophie antique, épanouis dans l'œuvre d'Aristote, offrent une idée de l'encyclopédie. Les écrits des poly-graphes grecs, ceux de Caton, Varon et Pline, ont un caractère encyclopédique. Au Ve siècle de notre ers, Martianus Capclla réunit en un seul livre les sept sciences qui composaient alors tout le savoir humain : grammaire, dialectique, rhétorique, géométrie, astrologie, arithmétique et musique. En avançant dans le moyen âge, on rencontre des encyclopédies spécialement consacrées à telle ou telle science et connue sous le nom de « Summae » ou IlSpécula ». Salomon, évêque de Constance, tenta au IXe siècle un OicUonarium Universale. L œuvre littéraire gigantesque du moyen âge est l encyclopédie d Albert Le Grand, 2I volumes in-folio dans l'édition Jammy (1615) et 38 in-quarto dans l'édition Sorgnet (I890-99). Saint-Thomas d'Aquin produisit sa Somme qui a traversé les âges. Sous le régime de saint l-ouis, au XIIIe siècle, le dominicain Vincent de Beauvais composa à la demande du roi, son Spéculum historiale, naturale, doctrinale et morale, vaste compilation destinée à reproduire les notions éparses dans les divers écrits. Cependant dans tous ces ouvrages l'idée d une encyclopédie demeurait encore incomplète. Des tentatives plus précises furent faites dès le commencement du XVIIe siècle. En 1606, un professeur de Brème, Mathias Martins. traça le plan d'une encyclopédie complète ; Henri Alated publia à Herborn une Encyclopédie VU Tomis distincta (1620). Bacon, par sa classification méthodique des connaissances humaines (1620), sera le germe de ce qui devrait au XVIIIe siècle produire de véritables encyclopédies. Le dictionnaire historique et critique de Bayle (1696) a exercé une immense influence sur la direction des idées au XVIIIe siècle. On Ta appelé une oeuvre à l'allemande, une compilation informe de passages cousus à la queue les uns des autres. L'auteur ne cherchait qu'un texte, un prétexte pour développer ses propres idées.
 
 La plus célèbre des encyclopédies fut celle fondée par Diderot sous ce titre s Encyclopédie ou Dictionnaire s raisonné de« sciences, des arts et métiers, par une s société de gens de lettres, mis en ordre par Diderot et
 > quant à ht partie mathématique par d Alenihert (1751-» 1772. 28 vol., suppl. 1776-1777, 5 vol.; table analytique » et raisonné, 2 vol. 1780). »
@@ -7066,7 +7066,7 @@ paraissant périodiquement (notamment les journaux de modes et les publications 
 
 la Bibliothèque Nationale de Paris, beaucoup plus large, étend la définition aux publications paraissant plus d'une fois par an. D’après le tarif postal français, cessent d’être considérées comme périodiques les publications paraissant moins d’une fois par moi».
 
-b) Les connaissances relatives aux périodiques (sciences et arts du périodique) ont droit à des noms similaires aux autres connaissances et elles donnent lieu à une distribution ou classification analogue. En conséquence: 1° Pério-dicologie sera le nom de la science du périodique ; elle observera et décrira (périodicographie) ; elle expliquera par causes et effets, par genèse et état de coexistence ; elle systématisera dès lors en lois (périodiconomie) ; elle commencera donc en analyse et elle finira en synthèse. 2" Périodicotechnie sera le nom de l’art du périodique : \x manière de le lédiger, éditer, diffuser, conserver au mieux et avec le maximum d’efficience. 3° La périodico-économie sera le nom de l’ensemble des mesures tendant « organiser les efforts pour donner aux périodiques, dans U société, au degré local, régional, national, international, toute l'expansion que mérite leur utilité.
+b) Les connaissances relatives aux périodiques (sciences et arts du périodique) ont droit à des noms similaires aux autres connaissances et elles donnent lieu à une distribution ou classification analogue. En conséquence: 1° Pério-dicologie sera le nom de la science du périodique ; elle observera et décrira (périodicographie) ; elle expliquera par causes et effets, par genèse et état de coexistence ; elle systématisera dès lors en lois (périodiconomie) ; elle commencera donc en analyse et elle finira en synthèse. 2" Périodicotechnie sera le nom de l’art du périodique : \x manière de le lédiger, éditer, diffuser, conserver au mieux et avec le maximum d’efficience. 3° La périodico-économie sera le nom de l’ensemble des mesures tendant « organiser les efforts pour donner aux périodiques, dans Ilsociété, au degré local, régional, national, international, toute l'expansion que mérite leur utilité.
 
 c) Quelques chiffres donneront une idée du nombre des périodiques. En Belgique il oscille autour de 2.200. Une liste des périodiques du monde parus de Î900 à 1921 et se trouvant dans les Bibliothèques de Grande-Bretagne a relevé 24,678 titres. Le tirage des périodiques est fort différent de l’un à l’autre. Le tirage de a feuilles de loisir », par exemple, est considérable en Allemagne
 
@@ -7130,7 +7130,7 @@ Nosokomeion. revue trimestrielle des hôpitaux. Stuttgart. Kohlhammer, Chaque nu
 
 241  DOCUMENTS BIBLIOGRAPHIQUES  *145*
 
-Il a paru des revues « en volumes » comme on pourrait les appeler. Chaque numéro contient avec une pagination particulière des feuilles qu’on peut réunir pour former cinq ou six volumes contenant chacun un ouvrage à part. On a créé récemment des journaux qui substituent aux revues petit format et à composition compacte des publications de grand format comme les quotidiens à six ou huit colonnes, avec titres en caractères grands, variés, retenant l'attention et facilitant la lecture parcourue, avec illustration abondante, d’information récente. Par ex. Pax (Paris) pour les questions internationales; Le Siècle Médical (Paris) pour la médecine. Ce périodique comporte 14 pages. Il est bi-mensuel et ne coûte que 20 centimes. La manchette porte qu'il est c exclusivement réservé au Corps médical «. U fut créé en 1927 grâce à l'initiative des laboratoires du Synthol et de leur puissante organisation. En 1930 il s est complété par une édition en langue espagnole. Les Américains et les Anglais publient beaucoup de collections de brochures (pamphlets) qui paraissent sans périodicité fixe mais sont numérotés. Des revues se créent pour faire connaître spécialement les peuples les uns aux autres ; la Revue d’Allemagne en français, en anglais The french Quarterly, « une revue donnant une vue ("uivey) adéquate et impartiale des différents aspects des activités intellectuelles françaises d'un point de vue moderne ».
+Il a paru des revues « en volumes » comme on pourrait les appeler. Chaque numéro contient avec une pagination particulière des feuilles qu’on peut réunir pour former cinq ou six volumes contenant chacun un ouvrage à part. On a créé récemment des journaux qui substituent aux revues petit format et à composition compacte des publications de grand format comme les quotidiens à six ou huit colonnes, avec titres en caractères grands, variés, retenant l'attention et facilitant la lecture parcourue, avec illustration abondante, d’information récente. Par ex. Pax (Paris) pour les questions internationales; Le Siècle Médical (Paris) pour la médecine. Ce périodique comporte 14 pages. Il est bi-mensuel et ne coûte que 20 centimes. La manchette porte qu'il est c exclusivement réservé au Corps médical «. Ilfut créé en 1927 grâce à l'initiative des laboratoires du Synthol et de leur puissante organisation. En 1930 il s est complété par une édition en langue espagnole. Les Américains et les Anglais publient beaucoup de collections de brochures (pamphlets) qui paraissent sans périodicité fixe mais sont numérotés. Des revues se créent pour faire connaître spécialement les peuples les uns aux autres ; la Revue d’Allemagne en français, en anglais The french Quarterly, « une revue donnant une vue ("uivey) adéquate et impartiale des différents aspects des activités intellectuelles françaises d'un point de vue moderne ».
 
 241.315 PARTIES.
 ..................
@@ -7142,7 +7142,7 @@ L'« article » est l’écrit de dimensions régulières qui s'insère dans les
 241.316 OPERATIONS. FONCTIONS.
 ................................
 
-On ne citera ici que pour mémoire les noms des chapitres dont il y aurr.it lieu de traiter sous cette appellation générale. U s'agit du Cycle entier des opérations
+On ne citera ici que pour mémoire les noms des chapitres dont il y aurr.it lieu de traiter sous cette appellation générale. Ils'agit du Cycle entier des opérations
 relatives à la productio i (rédaction, impression, édition), à la distribution (librairie), a la conservation (bibliothèque), à l'utilisation (lecture, consultation).
 
 241.317 PEIVODICO-ECONOMIE. O RG A NISA TION.
@@ -7483,7 +7483,7 @@ e) Presse. Opinions de presse.
 
 ----
 
-» le sens des grands événements que nous voyons s'ac-* compli sous nos yeux et mieux armés aussi pour les u suivre et les diriger dans leurs évolutions successives. s
+» le sens des grands événements que nous voyons s'ac-* compli sous nos yeux et mieux armés aussi pour les Ilsuivre et les diriger dans leurs évolutions successives. s
 
 (Albert Lebrun, Président de la République Française.)
 
@@ -7534,7 +7534,7 @@ Les fausses nouvelles au XVIIe siècle. « ... L Histoire est le récit de chose
 
 Certains gouvernements font passer à l étranger, dans quelque journal de troisième ordre, un article élogieux pour leur politique, quelque déplorable a-t-elle pu être. Leurs services de Presse font ensuite reproduire cet article qui sort de leur propre officine par l'un ou l'autre journal à leur service, comme étant une approbation venue de l'étranger ! Manière coûteuse de « bourrer le crâne » du pays! Certains journaux ont des relations directes notoi rement connues avec les ministres des affaires étrangères de leur pays. Le temps. Le iimea.)
 
-En France, le Président du Conseil a disposé un moment de 24 millions de fonds secrets par an. Un député socia liste a critiqué cette institution à la Chambre, le 24 juin 1916 (Journal de Genève, 9 juillet 1916). Outre les aides financières aux journaux, il y a celles aux journalistes. U y a des services de Fresse parmi les organes de l’administration de tous les pays. Le service de Presse du ministère des affaires étrangères de Belgique a coûté environ 300,000 fr. par an.
+En France, le Président du Conseil a disposé un moment de 24 millions de fonds secrets par an. Un député socia liste a critiqué cette institution à la Chambre, le 24 juin 1916 (Journal de Genève, 9 juillet 1916). Outre les aides financières aux journaux, il y a celles aux journalistes. Ily a des services de Fresse parmi les organes de l’administration de tous les pays. Le service de Presse du ministère des affaires étrangères de Belgique a coûté environ 300,000 fr. par an.
 
 Beaucoup de journaux sont alimentés aux fonds secrets, qui ont quelquefois été appelés « le fonds des reptiles ». 1
 (1) Apprentis Bordera ; toute l’édition, 10 juin 1933.
@@ -7618,7 +7618,7 @@ On compte à Paris sis fois plus de journalistes qu'il n'en est besoin. Un jour 
 
 4. /Igences. In forma! ions.
 
-a) l,e» agence» télégraphiques de nouvelles ont été fondées par Reuter en 1849, U y a eu en Europe quatre 1
+a) l,e» agence» télégraphiques de nouvelles ont été fondées par Reuter en 1849, Ily a eu en Europe quatre 1
 (1) Paul Ginisty i A niWogie du journalisme, Paris, De la grave.
 
 
@@ -7680,7 +7680,7 @@ c) On n'a pas encore défini la fausse nouvelle. C’est là une matière fluide
 
 La question des fausses nouvelles a été soulevée a la S. D. N. Comment réduire ou éliminer ces fausses nouvelles dont l’effet est d’irriter l’opinion publique. L’aversion unanime des Journalistes et des Associations de Presse s’est manifestée non seulement À l’égard de l’intervention gouvernementale, mais à l’égard de toute intervention extérieure. Il faut tenir compte du prix que le public est disposé à payer pour les nouvelles. La majorité du public ne payerait pas les nouvelles exigées au prix où celles-ci reviennent. Il faut donc que la publicité payée et les autre« intérêts commerciaux viennent combler la différence. D’où une influence puissante qui tend à faire dévier les nouvelles de leur caractère d’objectivité complète. Une déclaration des Associations de Presse demande, dans l’intérêt de la Paix, que les industries d’armement ne soient pas autorisées à posséder ni à diriger indirectement des feuilles publiques. On a fait remarquer que l’absence de nouvelles était aussi préjudiciable que la fausse nouvelle. Le silence crée la peur, ce qui mène aux malentendus et en fin de compte à la baine.
 
-d) On a proposé que U Société des Nations soit chargée de propager des nouvelles par elle contrôlées, par conséquent que la S. D. N. contrôle rapidement les nouvelles qui publiées déjà lui paraissent suspectes, qu’elle dispose d’un organe qui serait l’auxiliaire de ceux qui existent et en qui le monde pourrait avoir confiance. ( I )
+d) On a proposé que IlSociété des Nations soit chargée de propager des nouvelles par elle contrôlées, par conséquent que la S. D. N. contrôle rapidement les nouvelles qui publiées déjà lui paraissent suspectes, qu’elle dispose d’un organe qui serait l’auxiliaire de ceux qui existent et en qui le monde pourrait avoir confiance. ( I )
 
 e) Il a été créé récemment un tribunal d’honneur des journalistes chargé de trancher les litiges mettant en jeu un intérêt international. Il est compétent pour sanctionner (I)
 (I) Proposition de M. Jules Rnisson au Comité français de Coopération européenne.
@@ -8041,7 +8041,7 @@ Le « Kecueil des Traités » publié par la S. D. N. en vertu de Part. 18 du Pa
 
 e) Livres diplomatiques. — On a donné des noms de couleur aux livres diplomatiques. Ainsi le Livre rouge (Espagne), vert (Italie), blanc (Angleterre, affaires étrangères), bleu (Angleterre, affaires intérieures. Blue Book).
 
-f) Collections de documents scientifiques. — En toute science U existe des documents ayant fait époque et devenu classiques. On en a fait l'objet des collections publiées. Ex. : Classical documents of the theory of Evo-
+f) Collections de documents scientifiques. — En toute science Ilexiste des documents ayant fait époque et devenu classiques. On en a fait l'objet des collections publiées. Ex. : Classical documents of the theory of Evo-
 lution. Les Maîtres de la Pensée scientifique, collection de mémoires et ouvrages publiés par les soins de Maurice Solovine et devant comprendre les mémoires les plus importants de tous les temps et de toux les pays.
 
 La Bibliothèque égyptologique (Paris, Leroux 1879-98), fondée par M, Maspero. L’auteur annonçait son intention de rééditer dans une collection d’un format et d'un prix abordable, les œuvres des égyptologues français dispersés dans divers recueils et qui n’ont pu être réunies à ce jour. Les en extraite pour le* grouper et constituer un instrument de travail, un monument.
@@ -8166,7 +8166,7 @@ La publication de textes ne va pas sans commentaires qui dépassent souvent le s
 
 I almud, des Sentences du Lombard et de nos jours des Codes, récemment des Traités internationaux.
 
-Les commentateurs donnent des versions a eux ou reproduisent les versions d'auteurs en indiquant leurs sources. U y a de» cas (par ex. des commentaires de Dante), où l'on n'a limité les noie* que par la nécessité de donner encore du texte suffisant sur chaque page.
+Les commentateurs donnent des versions a eux ou reproduisent les versions d'auteurs en indiquant leurs sources. Ily a de» cas (par ex. des commentaires de Dante), où l'on n'a limité les noie* que par la nécessité de donner encore du texte suffisant sur chaque page.
 
 Pendant des siècles la culture a consisté à discuter des textes au lieu d'étudier par l'observation nu l'expérience les réalités I
 
@@ -8181,7 +8181,7 @@ Le catalogue est aussi une forme élémentaire d’exposé, qu'elle soit appliqu
 
 b) Le catalogue a été défini: Liste, énumération de personnes ou de choses classées dans un certain ordre. Le catalogue donne les caractéristiques des choses telles qu'elle» résultent de leur examen et analyse. Le catalogue est le «document» dans lequel sont enregistrées les choses. Les catalogues sont les inventaires (relevé), les guides dans les recherches, le» clef* des collections.
 
-c) U y a de» terme» synonymes ou équivalents employés avec des sens que l'usage a distingué, à raison surtout du but proposé. Le catalogue e»t une liste raisonnée, dressée avec soin, avec méthode, dans un ordre propre à faire connaître l’importance de l'ensemble et souvent avec de» détails part’culiers sur chaque objet.
+c) Ily a de» terme» synonymes ou équivalents employés avec des sens que l'usage a distingué, à raison surtout du but proposé. Le catalogue e»t une liste raisonnée, dressée avec soin, avec méthode, dans un ordre propre à faire connaître l’importance de l'ensemble et souvent avec de» détails part’culiers sur chaque objet.
 
 Le dénombrement tend surtout à faire connaître des choses ou des personnes. L'état tend à faire connaître l'exacte situation des choses afin que la réflexion puisse ensuite s’exercer à les modifier s'il y a lieu, a les perfectionner, à les comparer avec d'autres choses de même nature. L.'inventaire est la liste des objets, principalement pour des fins juridiques ou économiques (liste d’objets après la mort d’une personne, dans un magasin, ou une usine, dans un musée), il a pour but de faire connaître
 
@@ -8325,7 +8325,7 @@ a) Une table à simple entrée ne contient que deux colonnes dont l'une renferme
 b) Les tables à double entrée sont formées de lignes plus ou moins prolongées et en nombre plus ou moins grand, selon que l'on a donné plus ou moins de valeur à chacune des causes considérées. En général on les dispose de façon à former un cadre rectangulaire en inscrivant sur une ligne horizontale différentes valeurs de la première cause, sur une ligne verticale la valeur de In seconde cause, et en suivant le résultat dans la case placée à l'intersection de la colonne qui correspond à la valeur de la première cause et de la ligne qui correspond à celle de la seconde. Telles sont : la table de Pytha-' gore où les deux données sont le* deux facteurs du produis ; les table» des fonctions elliptiques, où les données sont l’amplitude et l'excentricité.
 
 c) Une table a triple entrée, c’est-à-dire une table où 1« résultat dépendrait de ttois données pour être construite d’après le même principe, exigerait les trois dimensions ; elle ne serait donc Pas réalisable sur une feuille de papier à moins qu’on n'eut recours aux procédé» de !n géométrie
-(1) G. Bigourdan. — I-e climat de la France. 1916. Le» tableaux résument un nombre immense d'observation* longuement et laborieusement poursuivies par une pléiade d’observateurs, munis des meilleurs instruments. Et les courbes qu'ils ont servi à construire les traduisent immédiatement d'une manière claire. Ils offrent le moyen de connaître pour tel point que l'on veut, le» valeur* moyenne» mensuelles de la température, de U pression rt. presque comme s’il y avait eu là une station météorologique.
+(1) G. Bigourdan. — I-e climat de la France. 1916. Le» tableaux résument un nombre immense d'observation* longuement et laborieusement poursuivies par une pléiade d’observateurs, munis des meilleurs instruments. Et les courbes qu'ils ont servi à construire les traduisent immédiatement d'une manière claire. Ils offrent le moyen de connaître pour tel point que l'on veut, le» valeur* moyenne» mensuelles de la température, de Ilpression rt. presque comme s’il y avait eu là une station météorologique.
 descriptive. Habituellement on y supplée, ce qui est foin d être avantageux, en formant plusieurs tables à double entrée, dont chacune a pour argument la valeur de la troisième cause.
 
 7. Tables de constantes numériques.
@@ -8457,7 +8457,7 @@ h) Documenta et ouvrage* divera.
 
 Un grand nombre rie documents et d'ouvrages portent des noms spéciaux. Ainsi :
 
-Nobiliaire, livre qui traite de la noblesse et de U généa logie des familles.
+Nobiliaire, livre qui traite de la noblesse et de Ilgénéa logie des familles.
 
 Misse/; livre liturgique qui comporte les prières de» offices divins et particulièrement de la messe.
 
@@ -8477,7 +8477,7 @@ Lettres. Epitrcs. — Chez les Grecs et les Romains, le« écrits destinés à l
 (I) Répertoire des Peintures datées, par Isabelle Errera (Bruxelles, Van Oest. 2 vol. 25x32 de 450 p,). Le but de ce livre est de répertorier les peintures datées de toutes les écoles depuis 1085 jusqu'en 1875. c'est-à-dire 40,700 numéros environ. La date résulte, «oit de l'oeuvre elle même, si elle y est inscrite, soit de documents probants, soit de références contrôlées à l’aide de travaux des auteurs les plus réputé», de catalogues de ventes, de musées, etc.
 sur de» feuilles de papyrus de petites dimension«; puis, à partir du IVe siècle sur des feuilles de parchemin. L'usage du papier de chiffon commença à la fin du XIIe siècle ou commencement du XIIIe. La mode de séparer le corps de la lettre de son enveloppe remonte à environ un siècle. Au début les enveloppes se faisaient à la main, plus tard b la machine. On donne le nom d épître aux lettres missives des anciens qui nous sont parvenues et, en particulier, aux lettres de Saint Paul et de quelques autres apôtres (v. Bible). Les lettres missive*, ont donné naissance à tout un genre de littérature, très étendu et très varié, *e genre épistolaire. Il comprend soit les lettres écrites réellement à des correspondants, soit les ouvrages écrits sous forme de lettres, comme les Lettres provinciales de Pascal, le» Lettres persanes de Montesquieu, les romans par lettres.
 
-Billet. Ticket. Bulletin. — En usage dans l'administration. Petit document ayant pour but de certifier que Ir porteur a acquitté le prix du voyage. Le bulletin de baga ge est le reçu du bagage enregistré qui doit accompagner le voyageur par le même Vrain. U est l’équivalent de U lettre de voiture ou du connaissement pour le transport des marchandises par terre ou par eau.
+Billet. Ticket. Bulletin. — En usage dans l'administration. Petit document ayant pour but de certifier que Ir porteur a acquitté le prix du voyage. Le bulletin de baga ge est le reçu du bagage enregistré qui doit accompagner le voyageur par le même Vrain. Ilest l’équivalent de Illettre de voiture ou du connaissement pour le transport des marchandises par terre ou par eau.
 
 Communiqués. — La guerre a érigé les communiqués, eit genre spécial. C'est, par des organes ou des personnes autorisés, la relation officielle d'un fait. Admirables vraiment ont été les expressions trouvées pour minimiser le» défaites et maximaliser les victoires ; pour mentir tout en disant la vérité sans la dire. (Voir notamment : «Plutarque a menti* de Pierrefeu.) Le communiqué est en vigueur dans les chancelleries, dans les conseils des ministres et dans les informations données à la presse par les organismes de tout ordre. Il s'agit de présenter les faits en peu de mot», de les rendre intérssants et de les utiliser pour sa cause.
 
@@ -8762,7 +8762,7 @@ La question du plagiat a été formulée ainsi: dans quelle mesure un auteur, m�
 
 La notion de la propriété littéraire est toute moderne. Elle laissait indifférente les époques où la personnalité de I*écrivain s’effaçait derrière son œuvre. Le plus souvent il ne songeait même pas à signer celle-ci, car ou bien il avait de bonnes raisons de ne pas le faire (son rang^ ses fonctions, la prudence l’en détournant), ou bien il était conscient de l’humeur de ceux qui allaient le lire; pour eux il importait peu de savoir qui était le créateur : la création absorbait toute l’attention et monopolisait l’intérêt.
 
-Dans les manuscrits des XIIe et XIIIe siècles, il est exceptionnel qu'une chanson de gestes soit signée; à combien d'auteurs différents n'a-t-on pas attribué les plus jolies productions de l’ancienne lyrique. Meme le plus grand écrivain du moyen âge français. Chrétien de Troye, n’a pas échappé à ces variation» déconcertantes. Tantôt on lui retranche un poème qu’il a certainement composé, tantôt on lui endosse la fâcheuse paternité d écrits qui lui font un moindre honneur que le sien La plus belle épopée du moyen âge français, le u Roland» >» est anonyme. (Maurice Wilmotte).
+Dans les manuscrits des XIIe et XIIIe siècles, il est exceptionnel qu'une chanson de gestes soit signée; à combien d'auteurs différents n'a-t-on pas attribué les plus jolies productions de l’ancienne lyrique. Meme le plus grand écrivain du moyen âge français. Chrétien de Troye, n’a pas échappé à ces variation» déconcertantes. Tantôt on lui retranche un poème qu’il a certainement composé, tantôt on lui endosse la fâcheuse paternité d écrits qui lui font un moindre honneur que le sien La plus belle épopée du moyen âge français, le IlRoland» >» est anonyme. (Maurice Wilmotte).
 
 4. l’.spcces et modalités,
 
@@ -8896,7 +8896,7 @@ Il importe d’arriver à la reproduction intégrale du document. Toute impressi
 
 De remarquables reproductions en couleurs ont été réalisées (notamment celle du Bréviaire Grimaldi).
 
-2" Edition des manuscrits. — Les éditions de manuscrits donnent lieu à un travail considérable. Les œuvres anciennes sont conservées par diverses copies manuscrites, entières ou fragmentaires. Dans l’édition, U s’agit de faire choix entre les meilleures versions des diverses copies.
+2" Edition des manuscrits. — Les éditions de manuscrits donnent lieu à un travail considérable. Les œuvres anciennes sont conservées par diverses copies manuscrites, entières ou fragmentaires. Dans l’édition, Ils’agit de faire choix entre les meilleures versions des diverses copies.
 
 Les manuscrits édités constituent un texte critique plus ou moins conjectural basé sur la comparaison (collation) de tous les manuscrit* (MSS) existants d’une œuvre donnée.
 
@@ -9117,7 +9117,7 @@ i) importance depuis la guerre des tranchées des services cartographiques à l�
 
 Les cartes permettent des calculs et des opérations. Ainsi le pointage des pièces de canon se fait en traçant sur la carte des lignes qui réunissent les points de visée et de l'objectif, de manière à tracer l'angle de pointage. Le rapporteur en indique l'ouverture.
 
-}) Cartogrammes. Le cartogrammc s'applique (à la distribution des phénomènes dans l’espace. U s'agit alors de cartes géographiques dessinant les aires de distribution mais combinées avec des indications complémentaires. Ces indications présentent la forme de hachures ou pointillés plus ou moins denses, colonnes ou cercles, inscrites dans les vues correspondantes des courbes (niveau ou climat, signes conventionnels, nombre, lettres, marques ou signatures, couleurs ou teintes graduées). Les carto-grammes présentent la distribution d’un même élément d'après les degrés de son intensité, ou de divers éléments d'après leurs variétés.
+}) Cartogrammes. Le cartogrammc s'applique (à la distribution des phénomènes dans l’espace. Ils'agit alors de cartes géographiques dessinant les aires de distribution mais combinées avec des indications complémentaires. Ces indications présentent la forme de hachures ou pointillés plus ou moins denses, colonnes ou cercles, inscrites dans les vues correspondantes des courbes (niveau ou climat, signes conventionnels, nombre, lettres, marques ou signatures, couleurs ou teintes graduées). Les carto-grammes présentent la distribution d’un même élément d'après les degrés de son intensité, ou de divers éléments d'après leurs variétés.
 
 242.24 Espèces de cartes.
 """"""""""""""""""""""""""
@@ -9607,7 +9607,7 @@ rentielles (méthode Trichrome) procédé des plaques au'ochromes avec 6 à 7.00
 
 3. Espèces de photographies.
 
-a) On a U série des termes suivants : a. négatives ou positives; h. noir ou couleur; c. plane ou en relief (sté-réogrammatiques ; d. original — diapositive sur verre ou film-pellicule — photographie ou photogramme ; e. cliché typographique ou photogravure; f. normale, microscopique, macroscopique (réduction et agrandissement) ; g, statique ou en mouvement (cinéma, dynamique) ; h. à voir ou à projeter; i. muette ou sonore.
+a) On a Ilsérie des termes suivants : a. négatives ou positives; h. noir ou couleur; c. plane ou en relief (sté-réogrammatiques ; d. original — diapositive sur verre ou film-pellicule — photographie ou photogramme ; e. cliché typographique ou photogravure; f. normale, microscopique, macroscopique (réduction et agrandissement) ; g, statique ou en mouvement (cinéma, dynamique) ; h. à voir ou à projeter; i. muette ou sonore.
 
 b) La photographie a donné lieu à bien des modalités: a. agrandissement ou réduction; b. combinaisons variées des photographies entre elles, les création» imaginatives, le mouvement ; c. les photographies donnent lieu à plusieurs types d'impression : séparées et par elles-mêmes, en album de vues, illustrant les publications elles-mêmes accompagnées de textes descriptifs, éditées sous la forme à projeter.
 
@@ -9639,7 +9639,7 @@ ments. mais parce qu elle en produit, tantôt par des meilleurs procédés, tant
 
 a) Verre ou celluloïd, il s’agit d'un support sur lequel est posée la matière sensible : l’émulsion. Film ou plaque ht sensibilité aux couleurs est capitale. C'est la traduction des couleurs dans leurs proportions optiques, c'est-à-dire exactes. On désigne cette propriété par le mot et ortho-chromatique »
 
-b) On peut comparer une image photographique à une image visuelle qui s'est gravée sur la rétine de l'œil d’une personne et qui. par la réalisation d'une merveille scientifique, peut de nouveau impressionner d'une façon identique d'autres individus éloignés d'une distance quelconque de l'objet primitivement vu ou après un temps illimité. L’image photographique est absolument complète, elle reproduit les plus petits détails des objets, elle retrace tout ce que la vue est à même de saisir. Dans le dessin graphique, au contraire, quels que soient la patience et le talent du dessinateur, il y aura toujours des détails oubliés ou indiqués d'une façon incomplète. La rétine de l'objectif est bien autrement puissante que celle de l'œil humain. Dana un grand nombre de cas, U photographie constitue un véritable moyen mécanique de vision beaucoup plus parfait que celui possédé par l’homme dans ses organes visuels : les yeux. Elle permet l’inscription des phénomènes d'une durée extrêmement courte ou extrêmement éloignée ou petits (photographie microscopique ou macroscopique). Une collection d’images photographiques représente au plus au point l'emmagasi-nement des images dans le cerveau, emmagasinement qui, on le sait, constitue la mémoire et donne des matériaux à toutes les fonctions intellectuelles. Un casier de photographies nous représente le ¡schéma d’un lobe du cerveau. L'objectif est seul capable de voir et de dessiner juste, sans interprétation et sans erreur. Et c'est en cela que la photographie a opéré une révolution dans le monde en créant le seul procédé capable de faire une copie véritable. Tout document exact doit donc, si c'est une copie, provenir d’une photographie.
+b) On peut comparer une image photographique à une image visuelle qui s'est gravée sur la rétine de l'œil d’une personne et qui. par la réalisation d'une merveille scientifique, peut de nouveau impressionner d'une façon identique d'autres individus éloignés d'une distance quelconque de l'objet primitivement vu ou après un temps illimité. L’image photographique est absolument complète, elle reproduit les plus petits détails des objets, elle retrace tout ce que la vue est à même de saisir. Dans le dessin graphique, au contraire, quels que soient la patience et le talent du dessinateur, il y aura toujours des détails oubliés ou indiqués d'une façon incomplète. La rétine de l'objectif est bien autrement puissante que celle de l'œil humain. Dana un grand nombre de cas, Ilphotographie constitue un véritable moyen mécanique de vision beaucoup plus parfait que celui possédé par l’homme dans ses organes visuels : les yeux. Elle permet l’inscription des phénomènes d'une durée extrêmement courte ou extrêmement éloignée ou petits (photographie microscopique ou macroscopique). Une collection d’images photographiques représente au plus au point l'emmagasi-nement des images dans le cerveau, emmagasinement qui, on le sait, constitue la mémoire et donne des matériaux à toutes les fonctions intellectuelles. Un casier de photographies nous représente le ¡schéma d’un lobe du cerveau. L'objectif est seul capable de voir et de dessiner juste, sans interprétation et sans erreur. Et c'est en cela que la photographie a opéré une révolution dans le monde en créant le seul procédé capable de faire une copie véritable. Tout document exact doit donc, si c'est une copie, provenir d’une photographie.
 
 c) On a procédé à des retouches, des suppressions, des collages, du photomontage. Toutes les altérations de la photographie primitive sont à connaître du point de vue de la photographie documentaire ; elles sont des moyens d'art et de poésie du point de vue de la photographie artistique.
 
@@ -9658,7 +9658,7 @@ b) Il demeure essentiel à la photographie d'obtenir des
 
 images exactes. La niéJ ode décrite par M. L. Estanave (Académie des Sciences, Paris, 16 juin 1930) lui a permis cl obtenir J image aérienne du sujet, visible à toute distance et présentant en vision binoculaire tous les caractères de la photographie intégrale, image unique, en grandeur naturelle avec son relief et la même variation de champ qu’on observerait si l’on se déplaçait devant le sujet lui-même,
 
-c) Les C ongrès ont réglementé déjà largement le* formats des plaques, des appareils, des épreuves stéréoscopiques, des fiches, etc. La standardisation apporte d’heureux résultats, U y a lieu de l’étendre aussi aux publications et collections et d’intégrer les formats de la photographie a la série des formats de la Documentation générale, De grand format (tableau), moyen format (feuille), petit format (fiche), format film (microgramme) ou formats métriques intermédiaires.
+c) Les C ongrès ont réglementé déjà largement le* formats des plaques, des appareils, des épreuves stéréoscopiques, des fiches, etc. La standardisation apporte d’heureux résultats, Ily a lieu de l’étendre aussi aux publications et collections et d’intégrer les formats de la photographie a la série des formats de la Documentation générale, De grand format (tableau), moyen format (feuille), petit format (fiche), format film (microgramme) ou formats métriques intermédiaires.
 
 d) Mais la copie photographique va révolutionner toute
 la documentation. En dehors des manuscrits, elle va per-
@@ -10411,7 +10411,7 @@ Dans les tableaux lumineux (Lichttafeln), certaines parties sont transparentes e
 
 Le tableau magnétique (Magnettafeln) sur des surfaces magnétisées; les objets à talon métallique qui y sont placés peuvent demeurer fixés sans aucun lien et être déplacés à volonté selon les besoins de la démonstration.
 
-c) L’étude par l'objet réel prend une importance croissante. Les travaux manuels sont de plus en plus à U base de tout l'enseignement à raison de leur caractère -concret, intuitif, pratique et expérimental. Désormais l'enfant apprendra autant par la main et l'outil que par le cerveau et le livre. (I)
+c) L’étude par l'objet réel prend une importance croissante. Les travaux manuels sont de plus en plus à Ilbase de tout l'enseignement à raison de leur caractère -concret, intuitif, pratique et expérimental. Désormais l'enfant apprendra autant par la main et l'outil que par le cerveau et le livre. (I)
 
 Il y a lieu maintenant de créer un matériel auto-éducatif pour toutes les matières de l’enseignement, de mettre en rapport les uns avec les autres tous leurs éléments.
 
@@ -10521,7 +10521,7 @@ sens étroit et vaguement historique. (Origine et histoire du Tarot.)
 
 b) Il faut s’étendre sur le sens du terme jeux éducatifs et élargir la question. La psychologie a assimilé le jeu à l’activité normale. En jouant l'enfant est lui-même. L'adulte plus tard continue à jouer en réalisant sa vie. Quand joue-t-on ? Difficile à dire. Il y a jeu, dit-on, lorsqu'il n'y a pas action, but sérieux, mais « puéril ». Le jeu est synonyme alors d'occupations futiles, de distractions pures qui peuvent quelquefois reposer l'esprit, mais n'ont le plus souvent d'autre effet que de le soustraire à l'action du temps si lourd pour les esprits futiles.
 
-c) I out jeu, tout sport est une lutte: l'homme contre l'homme, contre les forces de la nature, contre lui-même. U y a possibilité de succès et de déla ie» alternatives de l'un ou de l'autre, spectateurs associés à la lutte, assistant au déroulement des ses péripéties, intéressés éventuellement par des enjeux.
+c) I out jeu, tout sport est une lutte: l'homme contre l'homme, contre les forces de la nature, contre lui-même. Ily a possibilité de succès et de déla ie» alternatives de l'un ou de l'autre, spectateurs associés à la lutte, assistant au déroulement des ses péripéties, intéressés éventuellement par des enjeux.
 
 En somme il y a sinon une représentation d'une idée comme dans le spectacle proprement dit, dans la fête, au moins la marche vers un résultat préfiguré, espéré, assigné comme fin à l'action.
 
@@ -10581,7 +10581,7 @@ d) La critique des disques a pris une importance rapidement grandissante. Des re
 
 5. Espèces de disques, Application.
 
-a) U y a actuellement quatre sortes principales de disques: musique sans paroles, chant, diction, bruit.
+a) Ily a actuellement quatre sortes principales de disques: musique sans paroles, chant, diction, bruit.
 
 b) On enregistre des discours, des tracts, des appels, des récitatif# et des déclamations.
 
@@ -10687,7 +10687,7 @@ L e déroulement du film est à la vitesse de 45 centime tres à la seconde. Les
 
 a) Le cinéma (Motion Picture) a été appelé la machine à refaire la vie. C’est le art. (1)
 
-b) Le» premiers essai» concluants datent de 1895. Le développement de l’invention a été tel que des représentations cinématographiques ont lieu maintenant sur U surface entière du globe, jusque dans les pays les moins ouverts à la civilisation et dans les bourgades les plus reculées. C’est que le cinématographe donne la plus étonnante illusion de la réalité et de la vie qu'il se puisse imaginer, en faisant uniquement appel au sens de la vie, qu'on peut considérer comme le plus subtil, le plus parfait pour tout dire.
+b) Le» premiers essai» concluants datent de 1895. Le développement de l’invention a été tel que des représentations cinématographiques ont lieu maintenant sur Ilsurface entière du globe, jusque dans les pays les moins ouverts à la civilisation et dans les bourgades les plus reculées. C’est que le cinématographe donne la plus étonnante illusion de la réalité et de la vie qu'il se puisse imaginer, en faisant uniquement appel au sens de la vie, qu'on peut considérer comme le plus subtil, le plus parfait pour tout dire.
 
 c) Le cinématographe donne lieu à la projection à raison de 15 par seconde d'une série de photographies prises suivant le même rythme, les images de ces projections sur la rétine du spectateur se fondant en une sensation unique continue. Cette fusion a lieu grâce a la persistance des impressions lumineuses sur la rétine pendant environ un dixième de seconde et après qu’a disparu la cause qui l a engendrée.
 
@@ -10729,7 +10729,7 @@ Le cinéma au contraire parle au cerveau par les yeux.
 
 *224*  LE LIVRE ET LE DOCUMENT  243
 
-La méthode d'enseignement par l'aspect» c'est-à-dire intuitive, n’a-t elle pas toujours été la plus démonstrative) Le cinéma vous transporte partou*, même dans les endroits les plus inaccessibles. Le cinéma pénètre partout. U initie aux secrets de toutes les fabrications, il vous fait assister « toutes les démonstrations, il consigne tous les faits. Un livre, un récit intéressant, un événement se produit dans le monde et le lendemain le cinéma le montre à tous, comme si l'on avait assisté à la lecture ou si l'on avait été spectateur oculaire de l’événement.
+La méthode d'enseignement par l'aspect» c'est-à-dire intuitive, n’a-t elle pas toujours été la plus démonstrative) Le cinéma vous transporte partou*, même dans les endroits les plus inaccessibles. Le cinéma pénètre partout. Ilinitie aux secrets de toutes les fabrications, il vous fait assister « toutes les démonstrations, il consigne tous les faits. Un livre, un récit intéressant, un événement se produit dans le monde et le lendemain le cinéma le montre à tous, comme si l'on avait assisté à la lecture ou si l'on avait été spectateur oculaire de l’événement.
 
 Les pièces de théâtre, les féeries les plus compliquées,, les drames les plus émouvants sont représentés par le cinéma dans les sites et les cadres les plus appropriés. Aucune représentation théâtrale ne peut égaler la scène cinématographique. Quant aux scènes à transformation, il y en a de réellement déconcertantes. Elles renversent toute» les conceptions, elles confinent à la magie. Puis le» scènes de genre, les scènes amusantes.
 
@@ -10786,7 +10786,7 @@ Le film offre les ressources du dessin animé qui permet de donner une vue inter
 
 Le cinéma ralenti ou accéléré donne aux spectateurs les notions les plus nouvelles et les plus précises. Il analyse le» mouvements de mécanismes délicats ou résume en
 
-(I) Jean Denis analysant l’ouvrage de Moussinat sur U Naissance du Cinéma, dans la Revue catholique des idée» et des fait» (5 août 1932).
+(I) Jean Denis analysant l’ouvrage de Moussinat sur IlNaissance du Cinéma, dans la Revue catholique des idée» et des fait» (5 août 1932).
 quelques secondes des phénomène» que leur lenteur rend imperceptibles. ( 1 )
 
 243.334 MESURE ET STATISTIQUE.
@@ -10907,7 +10907,7 @@ j) Les procédés de prises de vues sont nombreux. Le « trucage » du cinéma e
 Pour les comédies animées, telles que celles dont « Mickey » est le héros. Walt Disney, l'auteur, doit produire en moyenne 10.000 dessins.
 
 k) Le cinéma trouve des applications exceptionnelles. Par ex. à l’hôpital : films projetés au plafond. Au théâtre : projection cinématographique sur fond circulaire. Le cinépanorama : cinéma principalement documentaire, où les vues seraient projetées sur la paroi intérieure d’une sphère par un ou plusieurs appareils dont les images se
-raccorderaient ; ce système permettrait de reconstituer un paysage ou une scène dans son entièreté; (1) le Planétarium de Zciss réaline dan# le meme principe U projection de la voûte céleste.
+raccorderaient ; ce système permettrait de reconstituer un paysage ou une scène dans son entièreté; (1) le Planétarium de Zciss réaline dan# le meme principe Ilprojection de la voûte céleste.
 
 243.342 LOCAUX, ARCHÎTECTVRE.
 ..............................
@@ -10941,7 +10941,7 @@ Il faut ôter le cinéma de la littérature et le mettre dans Il musique, car il
 
 Il y a en ce moment un certain retour à l'expression par l'image en diminuant la valeur explicative du dialogue. La parole n’est plus nécessaire à la compréhension, Elle n e$t qu’un élément de plus entrant dans la synthèse cinégraphique (chœurs, conversations générales, cris, chant). (I)
 
-c) Le film sonore vient amener une transformation dans la technique depuis le scénario jusqu'à l’architecture des décors, le choix des artistes, la prise de vue, U y aura le film intégralement parlant qui restera toujours placement rationnel. Mais le film muet comportera de la musique, des conversations et sera projeté dans tous le«, pays. Les parties peu importantes du dialogue pourront être tournées en deux versions : l’une muette et l'autre parlante. Les parties principales seront tournées dans les principales langues du globe. La cadence des images sera de 24 à la seconde au lieu de 32 ou 34.
+c) Le film sonore vient amener une transformation dans la technique depuis le scénario jusqu'à l’architecture des décors, le choix des artistes, la prise de vue, Ily aura le film intégralement parlant qui restera toujours placement rationnel. Mais le film muet comportera de la musique, des conversations et sera projeté dans tous le«, pays. Les parties peu importantes du dialogue pourront être tournées en deux versions : l’une muette et l'autre parlante. Les parties principales seront tournées dans les principales langues du globe. La cadence des images sera de 24 à la seconde au lieu de 32 ou 34.
 
 d) Le cinéma s'est sonorisé et la radiophonie s'oriente vers la télévision.
 
@@ -10968,7 +10968,7 @@ a) Le cinéma s’est affirmé le septième art.
 
 ( I ) Parmi les films parlants remarquables : La mélodie du monde. Halleluyah. City atreet. Quatre de Vinfanterie, l.’opéra de quatre sous. Jeunet fille» en uniforme. Le million, A nous la libertét La lumière bleue, Le chemin de la vie. Je suis un évadé, Le» lumière» de la ville.
 243
-auteurs sous U forme cinématographique, comme le sujet d'un roman se présente au romancier en chapitres, comme pour l’auteur dramatique l’action prend de suite la forme du dialogue. Songez quelles ressources le « simultanéisme » de l’écran offre à l’écrivain d’imagination. Il lui permet de réaliser le mouvement que la lecture des chapitres d’un livre rend quelquefois difficile à obtenir, de donner en un clin d’œil par des paysage» l’atmosphère que les longues descriptions arrivent à peine à créer, de rendre tout comme tangible. »
+auteurs sous Ilforme cinématographique, comme le sujet d'un roman se présente au romancier en chapitres, comme pour l’auteur dramatique l’action prend de suite la forme du dialogue. Songez quelles ressources le « simultanéisme » de l’écran offre à l’écrivain d’imagination. Il lui permet de réaliser le mouvement que la lecture des chapitres d’un livre rend quelquefois difficile à obtenir, de donner en un clin d’œil par des paysage» l’atmosphère que les longues descriptions arrivent à peine à créer, de rendre tout comme tangible. »
 
 b) Le cinéma ne tuera pas le théâtre, mais il lui fait déjà une concurrence inquiétante. Le film reste toujours et partout le même, dans les petites localités comme dans les grands centres. On n’en peut dire autant des théâtres de province. Les grands films sont très chers, mais une fois établis, il n’y a pas de frais d’artistes à payer journellement.
 
@@ -11047,7 +11047,7 @@ De même qu'on fait des livres avec des livres, extrayant, combinant, amalgamant
 
 a) Le nombre de films instructifs et documentaires produits en 1932 est de 416. Ces films ont été produits par 141 sociétés et ont ensemble une longueur de 236.832 mètres. Le tableau des six dernières années montre une forte régression. 1932: 141 producteurs. 429 films, 244.086 m. ; 1931 : 160 prodeteurs. 469 films. 324.284 m. ; 1930: 194 producteurs, 658 films, 418,374 m. ; 1929 : 215 producteur». 728 films, 412,803 m. ; 1928 : 222 producteurs, 808 films, 455.039 m ; 1927: 214 producteurs. 870 films. 409.619 m.
 
-b) Dans l'enseignement, le film formant spectacle retient complètement l’attention de l'élève que rien ne vient distraire durant la projection. C'est un maître inlassable et qui peut répéter indéfiniment la même leçon. Il est de taille à faire gagner dans certaines parties de l'enseignement, jusqu à un an sur trois. On peut présenter des expériences de mécanique, par exemple, avec U dernière aisance, tandis que dans une classe seuls les élèves du premier rang auraient pu les suivre. Un film américain sur l’industrie laitière fait comprendre aux ouvriers agricoles les plus obtus dans quelles conditions d'hygiène il importe de traiter les vaches et de préparer le lait, sous peine si on les néglige, de causer de vraies catastrophes.
+b) Dans l'enseignement, le film formant spectacle retient complètement l’attention de l'élève que rien ne vient distraire durant la projection. C'est un maître inlassable et qui peut répéter indéfiniment la même leçon. Il est de taille à faire gagner dans certaines parties de l'enseignement, jusqu à un an sur trois. On peut présenter des expériences de mécanique, par exemple, avec Ildernière aisance, tandis que dans une classe seuls les élèves du premier rang auraient pu les suivre. Un film américain sur l’industrie laitière fait comprendre aux ouvriers agricoles les plus obtus dans quelles conditions d'hygiène il importe de traiter les vaches et de préparer le lait, sous peine si on les néglige, de causer de vraies catastrophes.
 
 Edison, estimant que le cours ordinaire des éludes
 ( I ) Le Phonoscope à cordes vibrantes, par le Dr Clary. lievue Scientifique, 13 août 1932, p. 464. Il permet à l’homme d’exprimer et de faire entendre sa pensée.
@@ -11116,7 +11116,7 @@ d) Une action est commencée de tous côtés en vue de donner à la jeunesse le 
 243.381 POINT DE VUE MORAL ET SOCIAL.
 ......................................
 
-a) Une triple action occulte s'exerce par le cinéma : U une action commerciale, exploitant les masses, leur crédulité et leurs passions; 2° une action politique favorable à l'idéologie gouvernementale (subventions secrète» des gouvernements aux cinémas, notamment pour la production des actualités et l’entretien d'un esprit militaire et même guerrier) ; 3° une action sociale favorable à l'ordre des choses existantes et contraire aux transformations (cinéma de classe).
+a) Une triple action occulte s'exerce par le cinéma : Ilune action commerciale, exploitant les masses, leur crédulité et leurs passions; 2° une action politique favorable à l'idéologie gouvernementale (subventions secrète» des gouvernements aux cinémas, notamment pour la production des actualités et l’entretien d'un esprit militaire et même guerrier) ; 3° une action sociale favorable à l'ordre des choses existantes et contraire aux transformations (cinéma de classe).
 
 Il faut être sur ses gardes. Le « documentaire » n’est pas toujours un pur document. Du bourrage de crâne s’y ajoute, car le cinéaste est souvent invité à apporter au film sa foi et ses partis-pris.
 
@@ -11288,7 +11288,7 @@ et 1,700 personne® doivent pouvoir respirer dans des studios dépourvus de fen�
 
 la transmission aux « Stations national » et « London régional *>, aux intercontinentales, et bientôt aux transmissions à 1‘*Impérial Broadcasting». On prévoit que prochainement la télévision sera intégrée définitivement dans les émissions régulières.
 
-Ainsi quelques années après l'étonnante invention de la radio u été réalisée une centrale, une surcentruie qL attend encore le livre, vieux de millénaires, malgré ce qui a été réalisé dans les bibliothèques.
+Ainsi quelques années après l'étonnante invention de la radio Ilété réalisée une centrale, une surcentruie qL attend encore le livre, vieux de millénaires, malgré ce qui a été réalisé dans les bibliothèques.
 
 243.43 Diffusion. Distribution.
 """"""""""""""""""""""""""""""""
@@ -11493,7 +11493,7 @@ Spectacle a été défini dans un sens large: distraction due au mouvement artis
 
 243  SUBSTITUTS DU LIVRE  *239*
 
-spectacles que n'inspire aucune pensée littéraire, tels que ceux des grands Music-Halls. ( 1 ) b) Les spectacles reposent sur l'illusion. Celle-ci est l'apparence qui se présente à nous comme la réalité. U existe autant de variétés d'illusions que nous avons de sens. On voit se produire tour à tour l'illusion de la vue, d<; l'ouïe, de l'odorat, du goût et du toucher. On peut déterminer six classes d'illusions :
+spectacles que n'inspire aucune pensée littéraire, tels que ceux des grands Music-Halls. ( 1 ) b) Les spectacles reposent sur l'illusion. Celle-ci est l'apparence qui se présente à nous comme la réalité. Ilexiste autant de variétés d'illusions que nous avons de sens. On voit se produire tour à tour l'illusion de la vue, d<; l'ouïe, de l'odorat, du goût et du toucher. On peut déterminer six classes d'illusions :
 
 1° Les illusions naturelles. Par ex. le mirage, la réfraction de la lumière, l'écho.
 
@@ -12060,7 +12060,7 @@ g) Il y a les œuvres sur les œuvres. On a consacré des ouvrages à la vie des
 
 D'un créateur il faut connaître les maîtres, les influences de son travail. Il faut savoir s’il y a école: c'est-à-dire un enseignement de directives imposées ou apportées par un maître ou des maîtres reconnus pour tels. (I)
 
-Les auteurs sont en grand nombre des savants. Or, u l'histoire de la science ne saurait être séparée de l'histoire des savants. Il n’est pas indifférent de connaître leurs antécédents, leur caractère, l'évolution de leur carrière, ce que furent les conditions de leur existence, les conditions favorables ou difficiles du milieu où ont été effectués leurs travaux, d'en avoir aussi l'origine, de suivre le développement de leurs conceptions et de la réalisation en fonction de l’ambiance scientifique et sociale de leur temps. Et tout cela aide souvent mieux à juger de la valeur de ce que nous leur devons, s (2)
+Les auteurs sont en grand nombre des savants. Or, Ill'histoire de la science ne saurait être séparée de l'histoire des savants. Il n’est pas indifférent de connaître leurs antécédents, leur caractère, l'évolution de leur carrière, ce que furent les conditions de leur existence, les conditions favorables ou difficiles du milieu où ont été effectués leurs travaux, d'en avoir aussi l'origine, de suivre le développement de leurs conceptions et de la réalisation en fonction de l’ambiance scientifique et sociale de leur temps. Et tout cela aide souvent mieux à juger de la valeur de ce que nous leur devons, s (2)
 
 251.24 Productivité des auteurs.
 """""""""""""""""""""""""""""""""
@@ -12117,7 +12117,7 @@ mâle humain de créer quelque chose de merveilleux hors de sa propre tête et d
 
 Dan« l'antiquité et au moyen âge, le barde traditionnel chantait pour «on souper. Les auteur« écrivaient par plaisir, pour des but« éducatif« ou dan« l'espoir de dons ou de privilèges de la part de patrons littéraires ou d'hommes publics influents.
 
-Quand on constate combien impérieux est le besoin de parler dans certaines circonstances, on peut se rendre compte que ceux qui écrivent obéissent à un besoin analogue. Que de gens aimeraient mieux se faire couper U langue que de taire les mots qui leur brûlent les lèvres; que d’hommes ont sacrifié leur situation et leur position au besoin de faire un mot d'esprit ou de lancer une phrase vindicative.
+Quand on constate combien impérieux est le besoin de parler dans certaines circonstances, on peut se rendre compte que ceux qui écrivent obéissent à un besoin analogue. Que de gens aimeraient mieux se faire couper Illangue que de taire les mots qui leur brûlent les lèvres; que d’hommes ont sacrifié leur situation et leur position au besoin de faire un mot d'esprit ou de lancer une phrase vindicative.
 
 Malva, l'écrivain prolétaire belge répond : « Bien malin celui qui se connaît assez que pour dire en toute honnêteté, pourquoi il écrit. C’est un besoin qui doit avoir des origines. Ma vie d'ouvrier m'a incité à écrire. Etant sensible de tempérament et mélancolique, je ne puis voir les misères d’autrui sans aspirer à les dire. Aussi dois-je vivre ce que j’écris. Ma mémoire affective me sert beaucoup ; les souvenirs affluent en moi quand je les sollicite. Je n’accorde à l’imagination que le champ indispensable à la tenue du récit. A Malva le mineur, chacun vient raconter des histoires. On lui dit : « Toi qui écrit,
 
@@ -12164,7 +12164,7 @@ L’histoire de ta musique montre à quel point les œuvres furent déterminées
 
 3. Causes générales.
 
-a) Parmi les causes générales du développement de !a production figurent: le développement des sciences; U diffusion de l’instruction ; le perfectionnement de l'imprimerie ; la création continuelle de bibliothèques, soit comme organismes indépendants, soit comme archives de sociétés ou d’institutions gouvernementales ou privées.
+a) Parmi les causes générales du développement de !a production figurent: le développement des sciences; Ildiffusion de l’instruction ; le perfectionnement de l'imprimerie ; la création continuelle de bibliothèques, soit comme organismes indépendants, soit comme archives de sociétés ou d’institutions gouvernementales ou privées.
 
 b) Des occasions générales d’écrire ont existé. Ainsi, pendant les trois premiers siècles du christianisme, il y eut un grand empressement vers la foi. Les païens ne dédaignaient point de combattre les arguments du christianisme et trouvèrent l'occasion de composer les plus magnifiques ouvrages. De là les belles apologies de ce temps qui comptent parmi les plus riches trésors de l'antiquité chrétienne. Dans la période de conversion des peuples du Nord, on ne trouve rien de tout cela.
 
@@ -12185,7 +12185,7 @@ a) Dans une enquête publiée dans Victoire en 1925, M. G. Picard a demandé aux
 
 b) Voici des exemples : Buffon écrivait en manchettes de dentelles. — Goethe ne pouvait rédiger qu'un petit nombre d'heures, le matin. — Darwin ne pouvait travailler que très péniblement et dans la position couchée. — Emile Zola, on le disait laborieux, mais il ne cessait d'affirmer son goût pour la paresse. — Gambetta au cours de ses prornenades. parlait avec ses compagnons de marche comme s'il voulait essayer ses idées. — F. Crois-set ne jetait que quelques indications sur un chiffon ce papier, laissant à la logique de l'idée le soin d'en déterminer la forme. — Balzac se servait d’immenses feuilles de papier, écrivant au centre l'idée noyau et la développant par des textes écrits dans tous les sens. — Comte a écrit (Système de politique positive, t, p. Il) : « Cette reconstitution directe du pouvoir spirituel me suscita promptement une méditation continue de 80 heures ».
 
-La vie des écrivains réalise toutes les formes de l'existence. U en est d’heureux et de malheureux, de riches et de pauvres, des connus et des inconnus, des comblés de gloire et d'honneur et des méconnus. Flaubert a dit les affres de qui veut bien écrire. Après la publication de leur premier livre, les Goncourt se brouillèrent avec leur famille. « Ecrire c'est se suicider ; la gloire est une réhabilitation exceptionnelle ! » Dans ses « Origines de la Révolution française ». M. Mornet dit : « Mon livre est le résultat de dix années de recherches directes et assidues sur ce sujet, de trente années d’étude sur le XVIIIe siècle. En bonne méthode, j'aurais dû aller passer plusieurs années dans une vingtaine de villes pour y poursuivre des recherches semblables. » — Netchaiev, précurseur de Lénine, enfermé dans les prisons du Tsar, reçut après plusieurs années, une ardoise et de la craie, avec lesquelles il s'adonna à cette œuvre de 5isyphe : écrire et dessiner, puis essuyer l'ardoise pour recommencer un travail condamné à disparaître aussitôt fait.
+La vie des écrivains réalise toutes les formes de l'existence. Ilen est d’heureux et de malheureux, de riches et de pauvres, des connus et des inconnus, des comblés de gloire et d'honneur et des méconnus. Flaubert a dit les affres de qui veut bien écrire. Après la publication de leur premier livre, les Goncourt se brouillèrent avec leur famille. « Ecrire c'est se suicider ; la gloire est une réhabilitation exceptionnelle ! » Dans ses « Origines de la Révolution française ». M. Mornet dit : « Mon livre est le résultat de dix années de recherches directes et assidues sur ce sujet, de trente années d’étude sur le XVIIIe siècle. En bonne méthode, j'aurais dû aller passer plusieurs années dans une vingtaine de villes pour y poursuivre des recherches semblables. » — Netchaiev, précurseur de Lénine, enfermé dans les prisons du Tsar, reçut après plusieurs années, une ardoise et de la craie, avec lesquelles il s'adonna à cette œuvre de 5isyphe : écrire et dessiner, puis essuyer l'ardoise pour recommencer un travail condamné à disparaître aussitôt fait.
 
 c) L'écrivain, l'artiste, au moment où ils produisent, sont dans un état psychologique spécial. Pour Souriau, la création artistique est un acte inconscient, accompli dans un état d’hypnose ou s'effacent les idées normales (conscientes).
 
@@ -12289,7 +12289,7 @@ Une méthode consiste à donner simplement aux fiche* du manuscrit un numéro co
 
 Se servir des notes réunies, mai« ne pas vouloir à tout prix les utiliser. La composition de l’ouvrage demeure indépendante des notes, et l’on recourt à celles-ci comme à un auxiliaire. Toutefois les notes étant représentatives de faits ou de réflexions constructives ou critiques, on ne peut les négliger sans faillir aux préceptes de la science qui veut un expoaé vrai et complet.
 
-g) Cependant, ne pas abuser. Il faut limiter les notes afin d'éviter deux grand» inconvénients. D’ahord l’encombrement: une multitude de notes obligent à une multitude de relectures au moment de l'utilisation et à la difficulté de leur trouver place dans l’ensemble. Ensuite les notes rendent paresseuse la mémoire et écartent son opération qui s'accompagne ordinairement d'une opération de jugement, de synthèse et de mise au point actuel. Mai» ce» deux inconvénient» n’enlèvent rien à U haute utilité ou plus exactement à l’indispensable néces-»¡té de» note».
+g) Cependant, ne pas abuser. Il faut limiter les notes afin d'éviter deux grand» inconvénients. D’ahord l’encombrement: une multitude de notes obligent à une multitude de relectures au moment de l'utilisation et à la difficulté de leur trouver place dans l’ensemble. Ensuite les notes rendent paresseuse la mémoire et écartent son opération qui s'accompagne ordinairement d'une opération de jugement, de synthèse et de mise au point actuel. Mai» ce» deux inconvénient» n’enlèvent rien à Ilhaute utilité ou plus exactement à l’indispensable néces-»¡té de» note».
 
 h) L’ouvrage tiré des notes présente bien de» imperfections. Il y a redites sur les points qui se trouvent avoir été traités à diverses reprise» et des lacunes sur ceux qui. pour quelque raison exceptionnelle, se trouvent n’avoir point été touchés. La pensée évolue et les points de vue changent. Même si la direction générale reste bien identique. les expressions d’hier peuvent ne plus satisfaite pleinement aujourd'hui et tel détail d’ici ne plus s’accommoder avec tel détail de là. En bien des cas les indications à reprendre sont tantôt trop fragmentées et tantôt trop complexes, parfois de développement à proportion trop inégal et parfois surtout trop liées à l'objet qui en était l’occasion pour pouvoir toujours être utilement détachées, retenue» pour elle»-mêmes et ïéunie» en un tout intelligible o lui seul et vraiment présentable. (Fr. Simiand La méthode positive en science économique.
 
@@ -12364,7 +12364,7 @@ h) L'enseignement est une préparation à l’art d écrire. Les humanistes appr
 
 *258*  LE LIVRE ET LE DOCUMENT  251
 
-l'ombre l'accessoire. Ecrire exige de l’entraînement. Taine disait; a Voilà quarante ans que j’écris le français et je m’aperçois chaque jour que je ne le connais pas encore. » * On doit apprendre à écrire comme on apprend le piano et le violon, dit Georges Remy: longuement, patiemment, durement. » Camille Lemonnier passa une partie de ses nuits à faire des c gammes littéraires », à s’imposer à lui-méme des tâches de labeur, celle d'exprimer de vingt façons différentes une même idée: « la nuit tombe » ou t la lune brille sur le toit ». Toute sa vie, sans jamais passer un jour, il lut le dictionnaire, ne se lassant pas de vérifier le sens exact des mots, d’enrichir ou de rafraîchir son vocabulaire. Céline, l'auteur du u Voyage au bout de la nuit ». a recommencé de sa main cinq ou six fois cet énorme ouvrage et ne s'est décidé qu’avec peine à le livrer à l’éditeur. Il en écrit un autre qui, affirme-t-il. ne sera prêt qu’en 1938.
+l'ombre l'accessoire. Ecrire exige de l’entraînement. Taine disait; a Voilà quarante ans que j’écris le français et je m’aperçois chaque jour que je ne le connais pas encore. » * On doit apprendre à écrire comme on apprend le piano et le violon, dit Georges Remy: longuement, patiemment, durement. » Camille Lemonnier passa une partie de ses nuits à faire des c gammes littéraires », à s’imposer à lui-méme des tâches de labeur, celle d'exprimer de vingt façons différentes une même idée: « la nuit tombe » ou t la lune brille sur le toit ». Toute sa vie, sans jamais passer un jour, il lut le dictionnaire, ne se lassant pas de vérifier le sens exact des mots, d’enrichir ou de rafraîchir son vocabulaire. Céline, l'auteur du IlVoyage au bout de la nuit ». a recommencé de sa main cinq ou six fois cet énorme ouvrage et ne s'est décidé qu’avec peine à le livrer à l’éditeur. Il en écrit un autre qui, affirme-t-il. ne sera prêt qu’en 1938.
 
 i) Le procédé de composition aura évidemment une influence sur la composition elle-même. 1° Le procédé synthétique : avoir une idée maîtresse et se mettre à écrire pour la développer, en subordonnant les faits et le» arguments, donner le maximum d'unité et de force à la pensée, utiliser les trouvailles d’idées et de mots qui s'opèrent tandis qu'on écrit. 2° Le procédé analytique: enregistrer un à un sur fiches les faits et les idées et de ces matériaux faire sortir une« pensée dominante, s’assurer que rien n’est oublié, donner à la réalité la première place de préférence à tout développement brillant, mais privé de toute la force synthétique, mystérieuse et subconsciente même de la pensée en travail qui s’écrit directement et d’un jet.
 
@@ -12383,7 +12383,7 @@ d) Composer est l'acquit d’une longue évolution littéraire. Que l'on compare
 
 a) Le plan est l'ordonnance des ouvrages, le canevas sur lequel va s'opérer la tapisserie. Méthode à suivre dans l'exposition du sujet. C’est d’importance capitale.
 
-Le sage d’Orient ne s’inquiète d’aucune classification, d'aucun ordre. N médite profondément. U formule des et versets » et les écrit à la suite. Ainsi sont composés les livres sacrés et la Bible et le Koran.
+Le sage d’Orient ne s’inquiète d’aucune classification, d'aucun ordre. N médite profondément. Ilformule des et versets » et les écrit à la suite. Ainsi sont composés les livres sacrés et la Bible et le Koran.
 
 Mais l'Occidental veut de l'ordre et celui-ci a grandi, à mesure que le temps écoulé a permis d'y atteindre plus complètement.
 
@@ -12429,7 +12429,7 @@ Greffier, Désiré. — Les règles de la composition typo graphique, à l’usa
 
 Drgaast. H. — Manuel d’apprentissage pour les indus tries du livre (20 volumed illustrés). Paris, aux Orphelin» d'Auteuil.
 
-Thibaudrau, F, — 1924. Manuel français de typographie moderne. Vol. 1-3, Paris, Bureau de l’éd. 1924 (suite de U Lettre d’imprimerie). Vol. 1. Typographie moderne. XVI. 583 p. 2-3 album d’alphabets.
+Thibaudrau, F, — 1924. Manuel français de typographie moderne. Vol. 1-3, Paris, Bureau de l’éd. 1924 (suite de IlLettre d’imprimerie). Vol. 1. Typographie moderne. XVI. 583 p. 2-3 album d’alphabets.
 
 Boivin et Lecene. — Le livre illustré moderne (histoire technique). Cercle de la Librairie. 4 fr.
 
@@ -13106,7 +13106,7 @@ c) Le mail order business ou la vente à condition,
 
 d) Système des annuaires, dan» les journaux et revue», consistant à concentrer une publicité énorme sur un seul article à la fols.
 
-Parmi les procédés de publicité on a imaginé de sacrifier tel livre en glissant une page dan» chaque paquet envoyé aux clients tout en ayant soin d’indiquer U source.
+Parmi les procédés de publicité on a imaginé de sacrifier tel livre en glissant une page dan» chaque paquet envoyé aux clients tout en ayant soin d’indiquer Ilsource.
 
 e) Les libraires ont instauré les soirées de signature où les auteur» cux-mênir» paraphent leurs ouvrages.
 
@@ -13225,7 +13225,7 @@ On a regretté qu'on n’ait assez tiré parti de la lue pour vendre les livres.
 
 sur la place publique, ni les marchand* au marché ne I vendent des produits bibliographiques et pourtant quelles possibilités ainsi offertes. (I)
 
-Les « bazars de livres » ont été longtemps une curiosité des villes turques. Ils contenaient toutes les variétés vie U littérature musulmane, les œuvres des auteurs turcs, arabes ou persans, anciens et modernes.
+Les « bazars de livres » ont été longtemps une curiosité des villes turques. Ils contenaient toutes les variétés vie Illittérature musulmane, les œuvres des auteurs turcs, arabes ou persans, anciens et modernes.
 
 253.283 COMPTES DES CLIENTS.
 .............................
@@ -13911,7 +13911,7 @@ C’est Josepbson qui a publié en 1913. à Chicago, la première bibliographie 
 
 Définition. — En principe une bibliographie universelle, doit comprendre tous les livres existants. Il n'y a donc pas actuellement une telle bibliographie, mais des efforts pour y tendre et des œuvres si générales et si étendues qu'elles n'ont pas leur place dans les autres espèces de bibliographies.
 
-Historique. — Il y a eu des catalogues généraux de bibliothèques dès le début de celle-ci. Le Catalogue de la Bibliothèque réunie à Alexandrie par les Ptolémées et qui devait comprendre 600.000 volumes. Le Catalogue (en vers) de la Bibliothèque de Callimachus. Le Lexicon de Suidas, la Naturalis historia de Pline qui devait mrntionner, dit-on, 2,000 ouvrages différents. Au moyen âge. il y a des sources bibliographiques dans les œuvres des Encyclopédies et des Sommes du temps. Après l'invention de l'imprimerie, c’est Konrad Gesner qui produit U première Bibliographie Universelle, Bibliotheca Uni-versalis. ouvrage du XVIe siècle devenu rapidement fameux, qui fut supplémenté, indexé et résumé bien des fois. En 1698, Savonarole annonce un Orbis litterarius Uniuersus qui fut perdu et qui aurait eu 40 volumes en manuscrit. Francesco Marucelli en 1701 commence son Mare Magnum, avec 111 volumes manuscrits. Les catalogues des foires de Francfort, avec leur caractère international deviennent la base des compilations comme celle do Draud et Georgi, mais Langlois classe celle-ci avec les bibliographies choisies d’Ebert, Brunet et Groessel, (2)
+Historique. — Il y a eu des catalogues généraux de bibliothèques dès le début de celle-ci. Le Catalogue de la Bibliothèque réunie à Alexandrie par les Ptolémées et qui devait comprendre 600.000 volumes. Le Catalogue (en vers) de la Bibliothèque de Callimachus. Le Lexicon de Suidas, la Naturalis historia de Pline qui devait mrntionner, dit-on, 2,000 ouvrages différents. Au moyen âge. il y a des sources bibliographiques dans les œuvres des Encyclopédies et des Sommes du temps. Après l'invention de l'imprimerie, c’est Konrad Gesner qui produit Ilpremière Bibliographie Universelle, Bibliotheca Uni-versalis. ouvrage du XVIe siècle devenu rapidement fameux, qui fut supplémenté, indexé et résumé bien des fois. En 1698, Savonarole annonce un Orbis litterarius Uniuersus qui fut perdu et qui aurait eu 40 volumes en manuscrit. Francesco Marucelli en 1701 commence son Mare Magnum, avec 111 volumes manuscrits. Les catalogues des foires de Francfort, avec leur caractère international deviennent la base des compilations comme celle do Draud et Georgi, mais Langlois classe celle-ci avec les bibliographies choisies d’Ebert, Brunet et Groessel, (2)
 
 On a tenté de dégager de la masse des millions de volumes écrits sut tous les sujets, à toutes les époques et dans toutes les langues, volumes conservés dans les longues galeries des bibliothèques, le petit nombre d'ouvrages qui ont reçu la sanction du génie et du temps. Ainsi a fait un Aimé Martin dans son « Plan d'une Bibliothèque Universelle » (Bruxelles, 1837). < Nombre très minime d'ouvrages si on le compare, dit l'auteur, à ces masses portdéreuses d'in-folio et d'in-quarto que le temps a
 (1) Il n’y a pas de liste spéciale des travaux des congrès, conférences et réunions internationales de Bibliothè ques et de Bibliographies. Des données à ce sujet sont à trouver dans le Zentralblatt.
@@ -14256,7 +14256,7 @@ d) La généralisation du catalogue imprimé sur fiches réaliserait de gTands a
 255
 des mêmes livres. On peut établir des répertoires et catalogues sur fiches en utilisant les catalogues imprimés; mais c'est assez coûteux. On a calculé qu il faudrait plusieurs milliers de dollars pour découper, coller et classer toute (accumulation des suppléments au catalogue du Britisli Muséum. Le catalogue sur fiches supprime ces frais; elles sont des contributions directement intercalables.
 
-e) On peut considérer la forme du catalogue imprimé sur fiches du format 12 1/2 X 7 1/2, comme supérieure à toutes les autres. On a le grand exemple de la Library of Congresa, les exemples des bibliothèques de Berlin, de La Haye, de la Bibliographie russe (Palais du Livre). La Société des Nations publie sur fiches internationales les notices de ses publications. L'American Arbor Library (Michigan) u commencé sous cette forme l’impression pour ses services et celui de 25 autres bibliothèques qui lui achètent ses fiches. L’éditeur Wilson, aux Etats-Unis, ajoute des fiches catalogrophiques à ses éditions. Des firmes publient de leurs nouveaux ouvrages des fiches. Er. : Verein Deutacher Ingénieur Zeitschrift, Maachinen-bau, Archio für IVarmcnuïirtachaJt und Dampfk.esacl-uesen, etc.
+e) On peut considérer la forme du catalogue imprimé sur fiches du format 12 1/2 X 7 1/2, comme supérieure à toutes les autres. On a le grand exemple de la Library of Congresa, les exemples des bibliothèques de Berlin, de La Haye, de la Bibliographie russe (Palais du Livre). La Société des Nations publie sur fiches internationales les notices de ses publications. L'American Arbor Library (Michigan) Ilcommencé sous cette forme l’impression pour ses services et celui de 25 autres bibliothèques qui lui achètent ses fiches. L’éditeur Wilson, aux Etats-Unis, ajoute des fiches catalogrophiques à ses éditions. Des firmes publient de leurs nouveaux ouvrages des fiches. Er. : Verein Deutacher Ingénieur Zeitschrift, Maachinen-bau, Archio für IVarmcnuïirtachaJt und Dampfk.esacl-uesen, etc.
 
 f) Toute* les tentatives faites en Amérique pour publier des fiches de catalogues échouèrent aussi longtemps que l'entreprise fut établie sur une petite échelle. Elle réussit merveilleusement du jour où la Library of Congress prit l'affaire en mains et donna à tous l'assurance d’une continuité et d une régularité parfaite. Le catalogue de la Library of Congress est établi sur fiches du format international; des exemplaires en ont été déposés dans certaine* bibliothèques; le catalogue est en connexion avec les entrées du copyright; il est pratique pour le prêt international, le service du photostat. Il y a plus de 44,000 souscripteurs aux fiches. Chacun peut acheter par unités, qu’il désigne le* fiches éditées par la L, C. Celle-ci a toujours en stock un certain nombre d’exemplaireg et procède à des réimpressions. Les fiches portent un numéro d’ordre, les cotes de la Classification de la Bibliothèque et, maintenant aussi, celle de la Classification décimale. On commence à imprimer sur les livres eux-mèmes, page de garde, le n° de la fiche du Congress. Tout possesseur de l’ouvrage peut aiari facilement s’en procurer la fiche. Ainsi est évité aux bibliothèques particulières un travail répété de catalographie.
 
@@ -14352,7 +14352,7 @@ Pour établir le catalogue, on dresse de tout ouvrage une notice qui en constitu
 
 1. Eléments de la notice. — La notice comprend : lei vedettes, le corps de la notice (titre, collation, adresse bibliographique, contenu et notes bibliographiques).
 
-A) Les vedettes sont formées des noms d'auteurs (ou d*» leur équivalent s'il s’agit d'ouvrages anonymes), des mots matières, du millésime des indices classificateurs (ou cote de placement). Les vedettes occupent U première ligne de la notice et le commencement de la seconde. Elles varient d'après la partie du catalogue à laquelle sont destinée» les notices.
+A) Les vedettes sont formées des noms d'auteurs (ou d*» leur équivalent s'il s’agit d'ouvrages anonymes), des mots matières, du millésime des indices classificateurs (ou cote de placement). Les vedettes occupent Ilpremière ligne de la notice et le commencement de la seconde. Elles varient d'après la partie du catalogue à laquelle sont destinée» les notices.
 
 B) Le corps de la notice comprend : a) la description bibliographique; b) le titre de l’ouvrage; c) la collation ou description matérielle interne, spécifie le nombre de volumes, le format, la pagination, le nombre et la nature des cartes, plans, etc., qui constituent un ouvrage; d) les renseignements d’édition (adresse bibliographique) corn prenant le lieu d’impression et la firme (nom de l'éditeur), la date d'édition, le prix; e) les notes comprennent des indications nécessaires à l'intelligence du titre ou relatives au contenu de l'ouvrage, sujets traités, partie» et cho-
 
@@ -14414,7 +14414,7 @@ mandé comme un des meilleurs de son espèce; livre éléments ont été énonc�
 
 I. LES VEDETTES.
 
-II. NOM DE FAMILLE OU NOM COLLECTIF DE U AUTEUR.
+II. NOM DE FAMILLE OU NOM COLLECTIF DE IlAUTEUR.
 
 *Anagrammes*. — Donner le nom de l'auteur, **il est connu, avec renvoi à l’anagramme.
 
@@ -14575,7 +14575,7 @@ phiques et, ensuite, par un exemple concret.
 
 5. Rédaction des notices. Règles catalographiques.
 
-a) L’immense variété des ouvrages et la nécessité de les retrouver dans de très grands catalogues ont donné lieu U des règles catalographiques très détaillées pour la rédaction des notices et le choix des vedettes nécessaires au classement alphabétique. Divers codes de ces règles ont été publiés. Le Code de l'Institut International de Bibliographie a pris ces règles pour base, notamment le» règles anglo-américaines et les a coordonnées. Le tableau ci-contre en résume l'essentiel. Les divers éléments qu il présente doivent être transcrits sur la notice, dans l'ordre selon lequel ils figurent au tableau et selon la disposition drs modèles ci-dessus.
+a) L’immense variété des ouvrages et la nécessité de les retrouver dans de très grands catalogues ont donné lieu Ildes règles catalographiques très détaillées pour la rédaction des notices et le choix des vedettes nécessaires au classement alphabétique. Divers codes de ces règles ont été publiés. Le Code de l'Institut International de Bibliographie a pris ces règles pour base, notamment le» règles anglo-américaines et les a coordonnées. Le tableau ci-contre en résume l'essentiel. Les divers éléments qu il présente doivent être transcrits sur la notice, dans l'ordre selon lequel ils figurent au tableau et selon la disposition drs modèles ci-dessus.
 
 b) Les règles concernent: 1° les livre* et documents décrits soit en leur prototype même dans les bibliographies, soit en des exemplaires particuliers déposés dans une bibliothèque ou un lieu déterminé ; 2° la description de ces livres et documents : 3° leur description sous une forme catalograpVnque. Les règle* concernant la Bibliographie reposent donc sur les trois notions générales déter-
 minées précédentes du livre, de la description et de la catalographie.
@@ -15019,7 +15019,7 @@ g) Lecture récréative. — Elle délasse, distrait, console, retrempe. Re cré
 
 La bonne lecture n'est pas le résultat d un acte spontané. Elle doit être organisée ; l’esprit doit êtTe formé, il faut une méthode. Sans système, la lecture ne saurait conduire à la culture et à l'usage pratique des connaissances contenues dans les livres. Il faut constamment produire des types plus élevés de lecteurs.
 
-La plus noble tâche du bibliothécaire, comme du maître, et de l'aîné pour le jeune frère, c'est d’apprendre à lire et à s'instruire. Lire, ce n'est pas épeler, ce n'est pas répéter à la vue les mots et les phrases, c'est comprendre, s'assimiler, réagir intellectuellement. A son stade le plus élevé, lire c'est le prélude de la pensée originale et de U production intellectuelle.
+La plus noble tâche du bibliothécaire, comme du maître, et de l'aîné pour le jeune frère, c'est d’apprendre à lire et à s'instruire. Lire, ce n'est pas épeler, ce n'est pas répéter à la vue les mots et les phrases, c'est comprendre, s'assimiler, réagir intellectuellement. A son stade le plus élevé, lire c'est le prélude de la pensée originale et de Ilproduction intellectuelle.
 
 Le livre bien fait est un véritable édifice intellectuel, une synthèse d’idées et non uniquement une collection classée de renseignements. Il expose des arguments pour démontrer, il enchaîne des faits pour mettre en évidence des aspects, des points de vue. Les mots, les phrases, les chapitres, se succèdent comme moyens d’exprimer, d'expliquer, de faire comprendre et sentir une pensée unique, mais complexe, divisée, ramifiée. Tant que la pensée du livre n’est pas perçue, comprise, assimilée. Je livre n'est pas bien lu. Souvent les yeux seuls suivent un texte et l'intellect ne participe pas à la lecture: on ne comprend rien jusqu'à ce que l'attention étant plus concentrée, la terminologie mieux interprétée, tout à coup la lumière se fait pour la page, pour le chapitre, pour le livre. Le
 
@@ -15212,7 +15212,7 @@ b) Développement historique, — Pour des raisons diffé rentes, l’Angleterre
 
 *322* LE LIVRE ET LE DOCUMENT  257
 
-sont des pays d'autodidaxie. L'Angleterre parce que le prolétariat y est cultivé, l'Amérique pour le même motif et parce que les distances y sont grandes, la Russie parce que le peuple y manquait de liberté, la Pologne parce que U langue y a été persécutée.
+sont des pays d'autodidaxie. L'Angleterre parce que le prolétariat y est cultivé, l'Amérique pour le même motif et parce que les distances y sont grandes, la Russie parce que le peuple y manquait de liberté, la Pologne parce que Illangue y a été persécutée.
 
 c) Forme» diverse». — L'enseignement personnel revêt des formes multiples : enseignement direct et collectif constituant l'enseignement postscolaire par cours publics, conférences, excursions, visite de musées et d'usines, etc. (universités populaires) ; l'enseignement semi-direct, comme les cours par correspondance (International Correspondance School de Scranton) ; renseignement indirect ou purement personnel, l'autodidaxie par excellence, aidée par les bibliothèques, les salles de lecture, les éditions populaires, les programmes d'études privées, les guides de lecture»
 
@@ -15322,7 +15322,7 @@ velles dans les esprits, en y combattant les notions existantes, ou en créant u
 
 c) La propagande est apparentée d'une part à l'éducation-instruction, d'autre part À la publicité-commerce. Elle s'exerce par la parole, l'exemple, la manifestation, mais surtout par la documentation sous ses diverses formes.
 
-d) L'ensemble des lecteurs forme l'opinion publique. Elle a sur la production des auteurs une influence analogue à la « consommation » sur la production économique. « Il n’y a pas de Bourse de valeur littéraire des écrits, de U valeur artistique des peintures, dit Tarde, mais elle tend a se former par le groupement des critiques littéraires, des critiqu:s d’art, dans les capitales et par les académies, dont la première destination était, ce semble, de remplir cet office de Bourse morale et esthétique en servant de métronome à l'opinion ». La Presse en se répandant tend à rendre plus semblables les exemplaires des jugements individuels dont l’ensemble s'appelle l’opinion. (1)
+d) L'ensemble des lecteurs forme l'opinion publique. Elle a sur la production des auteurs une influence analogue à la « consommation » sur la production économique. « Il n’y a pas de Bourse de valeur littéraire des écrits, de Ilvaleur artistique des peintures, dit Tarde, mais elle tend a se former par le groupement des critiques littéraires, des critiqu:s d’art, dans les capitales et par les académies, dont la première destination était, ce semble, de remplir cet office de Bourse morale et esthétique en servant de métronome à l'opinion ». La Presse en se répandant tend à rendre plus semblables les exemplaires des jugements individuels dont l’ensemble s'appelle l’opinion. (1)
 
 e) Des groupes particuliers à buts divers s'organisent pour influencer l'opinion générale: buts intéressés, politiques, commerciaux, religieux, moraux; buts désintéressés: arts, sciences, )ettres, religion».
 
@@ -15375,7 +15375,7 @@ de partisans. Sur 100 ouvrages pris au hasard dans les
 bibliothèques publiques, il y a 80 romans; sur 100 livres 
 vendus, 93 appartiennent à la même catégorie.
 
-b) Le roman est le genre le plus compréhensible et à mieux approprié de notre siècle. Il remplit le vide laissé par la disparition de l'épopée. Il a son fondement dans la nature même de 1 homme: l'aspiration a l'idéal par la noblesse de l'esprit humain non satisfait des mesquineries, des misères de la vie réelle. Sous forme de fables, de contes, de romans, de fabliaux, de livres de chevalerie, il acquit dans tous les temps et chez tous les peuples une grande importance, mais il n'atteignit jamais une vogue comparable à celle dont il jouit dans notre société démocratique. Le roman a remplacé l'épopée, incapable de contenir dans ses moules l'idéal et la vie des peuples moderne». U égale par conséquent toute la splendeur du genre épique dans les temps anciens. (1)
+b) Le roman est le genre le plus compréhensible et à mieux approprié de notre siècle. Il remplit le vide laissé par la disparition de l'épopée. Il a son fondement dans la nature même de 1 homme: l'aspiration a l'idéal par la noblesse de l'esprit humain non satisfait des mesquineries, des misères de la vie réelle. Sous forme de fables, de contes, de romans, de fabliaux, de livres de chevalerie, il acquit dans tous les temps et chez tous les peuples une grande importance, mais il n'atteignit jamais une vogue comparable à celle dont il jouit dans notre société démocratique. Le roman a remplacé l'épopée, incapable de contenir dans ses moules l'idéal et la vie des peuples moderne». Ilégale par conséquent toute la splendeur du genre épique dans les temps anciens. (1)
 
 c) Les personnages du roman s'insinuent peu à peu dans l'âme du public qui finit par se convaincre que ce
 
@@ -15455,7 +15455,7 @@ L’action du livre et de la Presse sur les âmes est bien connue de l'Eglise qu
 
 La parole parlée, dit Zaccharie dans sa Storia polemica ¿clla prohibizione dei libri, est la flèche volante qui blesse au passage; la parole écrite est le dard qui s enfonce lu plus intime de Tâme. Ce qui est écrit peut se lire bien des fois et comme le fruit défendu du paradis terrestre, tente continuellement la vue.
 
-Si nous sommes tous portés à imiter ce que nous voyons, chez les femmes la faculté d'imitation, remarque le Dr Roussel (système physique et moral de la femme), prend un caractère absolument morbide. U y en a qui ne peuvent voir un accès spasmodique sans en éprouver elles-mêmes de pareil. Il y a des poisons pour lame comme il y en a pour le corps. Les fausses maximes produisent une mort aussi dure que les puissances vénéneuses, et le nombre des poisons intellectuels est aussi gisnd que celui des poisons physiques. (Ptoal : La criminalité politique.)
+Si nous sommes tous portés à imiter ce que nous voyons, chez les femmes la faculté d'imitation, remarque le Dr Roussel (système physique et moral de la femme), prend un caractère absolument morbide. Ily en a qui ne peuvent voir un accès spasmodique sans en éprouver elles-mêmes de pareil. Il y a des poisons pour lame comme il y en a pour le corps. Les fausses maximes produisent une mort aussi dure que les puissances vénéneuses, et le nombre des poisons intellectuels est aussi gisnd que celui des poisons physiques. (Ptoal : La criminalité politique.)
 
 Il importe beaucoup de savoir quels livres circulent dans les mains des hommes, dit Mélanchton.
 
@@ -15559,9 +15559,9 @@ serait assez longue pour en parcourir seulement les sources. Mais, d’autre par
 
 Donc ai le document est le moyen de se souvenir, la question revient en partie à se demander s’il est désirable que l'Homme conserve le souvenir de tout. La réponse exige réflexion. Voici, par exemple, le Christianisme, voilà Jésus-Christ; contrairement aux fondateurs de religions, il n'a pas écrit lui-même. Cependant, aux dires des Evangiles et de l’Eglise, il a passé sa vie à instruire ses apôtres en leur disant d'aller de par le monde redire son enseignement. Il n’a nullement désiré que les Evangiles soient le récit de sa vie, limités au nombre de quatre ; il y eut d'autres récits écrits qui disparurent. Mais combien précieux ces écrits. Que ne seraient aujourd’hui pour i<» Chrétiens la découverte de l’un d'eux. Cet exemple mémorable éclaire le rôle du document. Qui jugera de la destruction nécessaire ? Pour juger ne faut-il pas commencer par tout recueillir ?
 
-c) L’élément intellectuel aura la durée propre soit à l’idée exacte et vraie, soit à une forme adéquate et harmonieuse, soit à l’une alliée à l’autre. Il y a des ouvrages périmés, U en est devenus inutilisables. Ainsi, il y a des travaux résultant de longues années d'études et qui font justement oublier tous les travaux antérieurs. Il s'établit un « struggle for life », une lutte pour le meilleur livre.
+c) L’élément intellectuel aura la durée propre soit à l’idée exacte et vraie, soit à une forme adéquate et harmonieuse, soit à l’une alliée à l’autre. Il y a des ouvrages périmés, Ilen est devenus inutilisables. Ainsi, il y a des travaux résultant de longues années d'études et qui font justement oublier tous les travaux antérieurs. Il s'établit un « struggle for life », une lutte pour le meilleur livre.
 
-C'est à tort que nous attribuons généralement à la littérature d'aujourd'hui des qualités de durée et de longévité qu’elle ne peut posséder dans son ensemble. Tout grand homme doit mourir deux fois, dit Paul Valéry; U seconde quand son influence cesse de s’exercer, quand son empire intellectuel et moral s’écroule.
+C'est à tort que nous attribuons généralement à la littérature d'aujourd'hui des qualités de durée et de longévité qu’elle ne peut posséder dans son ensemble. Tout grand homme doit mourir deux fois, dit Paul Valéry; Ilseconde quand son influence cesse de s’exercer, quand son empire intellectuel et moral s’écroule.
 
 Il n'y a pas d’œuvre éternelle, c Une œuvre qui dure est une œuvre qui gêne l’apparition d'œuvres nouvelles. L’œuvre passée n'a plus qu une valeur historique, elle ne peut servir qu’à permettre au chercheur de saisir par quelles phases la spontanéité humaine a passé ; mais elle n'a aucune valeur comme œuvre d’art, parce que l'œuvre d'art est un monument de la grande vie humaine, l'humanité en jouit pleinement un instant, puis il passe à jamais et doit pour elle n’être plus rien. Autrement et serait matérialiser l'œuvre d'art, en faire une chose à laquelle on s'attache, un souvenir obsédant de la chair. ( I )
 
@@ -15653,7 +15653,7 @@ c) Les manuscrits abîmés, détériorés sont reconstitués. Dans les Memorie d
 259.27 Destruction volontaire des documents.
 """""""""""""""""""""""""""""""""""""""""""""""""
 
-a) Les livres et les documents donnent lieu à destruction, volontaire, occasionnelle ou systématique, isolément ou par grands ensembles. Quand y a-t-il lieu à semblable destruction et quelle» normes devraient présider à une destruction rationnelle > U faut distinguer selon les ras, mais toujours procéder avec circonspection,
+a) Les livres et les documents donnent lieu à destruction, volontaire, occasionnelle ou systématique, isolément ou par grands ensembles. Quand y a-t-il lieu à semblable destruction et quelle» normes devraient présider à une destruction rationnelle > Ilfaut distinguer selon les ras, mais toujours procéder avec circonspection,
 
 b) Il y a lieu à destruction périodique de certains papiers personnels (correspondance, notes manuscrites.
 
@@ -15829,7 +15829,7 @@ c) La recherche peut s'opérer suivant deux modes : I" Avec des répertoires bie
 
 *336*
 
-plets, U bibliographie s en constitue par voie descendante en partant des premiers travaux et en suivant T histoire du développement. 2° Dans le cas contraire, par voie ascendante, en partant des dates les plus récentes pour remonter progressivement dans le passé. On bénéficie ainsi immédiatement des recherches bibliographiques faites par le* auteurs les plus récents. C'est autant de travail économisé.
+plets, Ilbibliographie s en constitue par voie descendante en partant des premiers travaux et en suivant T histoire du développement. 2° Dans le cas contraire, par voie ascendante, en partant des dates les plus récentes pour remonter progressivement dans le passé. On bénéficie ainsi immédiatement des recherches bibliographiques faites par le* auteurs les plus récents. C'est autant de travail économisé.
 
 d) Pour la recherche sur un sujet déterminé : 1° Voir un Manuel des Bibliographies qui renseigne les Bibliographies spéciales existantes. 2° Consulter la dernière et la plus complète de ces bibliographies. 3° Les bio-bibliographies de« savants qui se sont occupés de la matière. 41 Les diverses bibliographies nationales, spéciales et universelles, s'il n’y a pas de bibliographie propre a la matière ou si celle qui existe a besoin d’être contrôlée à raison des incertitudes dan* les notices. 5° Mise à jour de ces données en consultant les bibliographies périodiques concernant la matière et les bibliographies périodiques générales qui embrassent toutes les matières.
 
@@ -16148,7 +16148,7 @@ e) La lecture et la consultation sont favorisées par la diversité des salles d
 a) La technique des bibliothèques a été fort développée. Elle entre dans des détails de plus en plus particuliers et précis. Renvoyant pour ceux-ci aux traités spéciaux sur la matière, dans le présent exposé il ne sera question que des données générales. (???)
 (I) ÎVhlkau. F. :H<mdbuch der Bibhofhcksiuissenacha/i, 2 vol. 1932-33, — Morel. Eugène: Bibliothèque. Essai sur
 
-la développement des bibliothèques publique» et de u librairie dans les deux mondes, Paris 1908. — Briscoe, W. A. : Library planning. A compilation designed to assist in the planning, equipment and development of new libraries, and the reconstruction of old ones, London 1927, 141 p. — Coyccque, Ernest: Code administratif des bibliothèques d’études, Paris 1929, 2 vol. (organisation, cadres et traitements). — Paul Otlet : Manuel de la Bibliothèque publique, publication n" 133 de l’Institut International de Bibliographie. 1925. 166 p. — Trozct. Léo: Manuel pratique du Bibliothécaire. Préface de MM, Pol Neveux et Charles Schmidt. Paris. E. Nourry, 1933.
+la développement des bibliothèques publique» et de Illibrairie dans les deux mondes, Paris 1908. — Briscoe, W. A. : Library planning. A compilation designed to assist in the planning, equipment and development of new libraries, and the reconstruction of old ones, London 1927, 141 p. — Coyccque, Ernest: Code administratif des bibliothèques d’études, Paris 1929, 2 vol. (organisation, cadres et traitements). — Paul Otlet : Manuel de la Bibliothèque publique, publication n" 133 de l’Institut International de Bibliographie. 1925. 166 p. — Trozct. Léo: Manuel pratique du Bibliothécaire. Préface de MM, Pol Neveux et Charles Schmidt. Paris. E. Nourry, 1933.
 
 
 ====
@@ -16693,7 +16693,7 @@ graphiques ont révélé un monde nouveau, vivant dans les profondeurs des eaux.
 
 Une transformation similaire à celle des Bibliothèques semble en voie de se produire actuellement dans les musées. Elle prend diverses directions :
 
-l*J Les musées étaient autrefois des conservatoires d’objets rares et précieux. Sans leur enlever ce caractère, on cherche à en faire aussi des centres de documentation pour les objets à voir: (document» à trois dimensions); compléter les objets, soit en les reproduisant, soit en montrant leur liaison et enchaînement, soit en les commentant à l’aide de textes choisis. 2,J Les musées, faits d objets originaux, constituent des collections nécessairement incomplètes. On s’efforce de reproduire les objets eu fac-simi-lés de toute nature ou en modèles réduit» et de rendre ainsi possible l’intégration de séries formées par les originaux que possède une collection. 3° Il n’y avait des musées que pour certains domaines des connaissances et des activités pratiques. Progressivement le Musée devient une forme et une méthode s’appliquant à tous les domaines (science, technique, sociologie, histoire, littérature, médecine, commerce, droit, etc.). Dans une même localité les musées et collections étaient séparés, disséminés, laissés là où les circonstances les avaient fait naître. L’idée de musée général, collectif, universel, se fait jour. Les divers musées ne sont plus considérés que comme des départements ou des branches d'un musée central, à la manière dont les collection* de la bibliothèque »ont considéré» comme des fonds et les établissements destinés comme des succursales. 5° Le musée était autonome et isolé parmi toutes les institutions de l’ordre intellectuel. U tend à prendre une place coordonnée dans l’ensemble de ces institutions envisagées selon le principe supérieur d’une organisation générale du Travail Intellectuel: Rapports du Musée avec le livre (Bibliothèque), avec l’Enseignement (Ecole et Université), avec la Recherche (Instituts) avec les applications sociales (La vie en général). 6° Le Musée dans son organisation demeurait »oit local, soit régional ou national. On considère de plus en plus maintenant l’ensemble des musées d’une localité, d’une région, d’un pays et, maintenant, l’ensemble des musées du monde. Et cela non seulement pour 1*interéchange des collections, mais pour la coopération à des travaux d’élaboration en commun.
+l*J Les musées étaient autrefois des conservatoires d’objets rares et précieux. Sans leur enlever ce caractère, on cherche à en faire aussi des centres de documentation pour les objets à voir: (document» à trois dimensions); compléter les objets, soit en les reproduisant, soit en montrant leur liaison et enchaînement, soit en les commentant à l’aide de textes choisis. 2,J Les musées, faits d objets originaux, constituent des collections nécessairement incomplètes. On s’efforce de reproduire les objets eu fac-simi-lés de toute nature ou en modèles réduit» et de rendre ainsi possible l’intégration de séries formées par les originaux que possède une collection. 3° Il n’y avait des musées que pour certains domaines des connaissances et des activités pratiques. Progressivement le Musée devient une forme et une méthode s’appliquant à tous les domaines (science, technique, sociologie, histoire, littérature, médecine, commerce, droit, etc.). Dans une même localité les musées et collections étaient séparés, disséminés, laissés là où les circonstances les avaient fait naître. L’idée de musée général, collectif, universel, se fait jour. Les divers musées ne sont plus considérés que comme des départements ou des branches d'un musée central, à la manière dont les collection* de la bibliothèque »ont considéré» comme des fonds et les établissements destinés comme des succursales. 5° Le musée était autonome et isolé parmi toutes les institutions de l’ordre intellectuel. Iltend à prendre une place coordonnée dans l’ensemble de ces institutions envisagées selon le principe supérieur d’une organisation générale du Travail Intellectuel: Rapports du Musée avec le livre (Bibliothèque), avec l’Enseignement (Ecole et Université), avec la Recherche (Instituts) avec les applications sociales (La vie en général). 6° Le Musée dans son organisation demeurait »oit local, soit régional ou national. On considère de plus en plus maintenant l’ensemble des musées d’une localité, d’une région, d’un pays et, maintenant, l’ensemble des musées du monde. Et cela non seulement pour 1*interéchange des collections, mais pour la coopération à des travaux d’élaboration en commun.
 
 
 ====
@@ -16851,7 +16851,7 @@ Si l'on prend en considération les frai» de transport
 
 283 GENERALITES *361*
 
-aux Etats-Unis, les frais d'assurance, les droits de douane, de commission et U différence dans le coût du papier, on peut aisément calculer qu'un livre vendu en France au prix de fr. 3.50 pourrait être mis en vente aux Etats-Unis, s’il y était imprimé, au prix de 2 fr. et peut-être au-dessous de ce prix.
+aux Etats-Unis, les frais d'assurance, les droits de douane, de commission et Ildifférence dans le coût du papier, on peut aisément calculer qu'un livre vendu en France au prix de fr. 3.50 pourrait être mis en vente aux Etats-Unis, s’il y était imprimé, au prix de 2 fr. et peut-être au-dessous de ce prix.
 
 La part des auteurs. — Travail intellectuel. Vivre de son esprit : écrire dans les journaux, faire des traductions, donner des leçons.
 
@@ -17004,7 +17004,7 @@ points de vue, on arrive au résultat de mieux concevoir toute l'évolution. (I)
 
 4. Histoire des Hures et histoire des réalisations.
 
-L’histoire de la littérature est l’histoire des livres et celle de l'influence des livres. Ce n’est pas celle de la politique. Pendant de longues période» fa pensée dts livres et U conduite des affaires politiques sont tout À fait distinctes. Quand on passe à l’action, le» choses changent. Il ne s agit plus seulement de raisonner, de discuter, de proposer, il faut tenter d'agir. Tant qu’il n’y a en présence que des écrivains et des lecteurs, la valeur d’une idée ne dépend que de l’intelligence et du talent de l’écrivain et de l’accent, de la compréhension des lecteurs. Si l’on commence au contraire à réaliser, c’est la réalisation qui compte. On voit une opinion réformiste devenir une opinion agressive puis une opinion révolutionnaire. (Daniel Mornet.) Histoire des idées d’un côté, histoire des activités de l'autre.
+L’histoire de la littérature est l’histoire des livres et celle de l'influence des livres. Ce n’est pas celle de la politique. Pendant de longues période» fa pensée dts livres et Ilconduite des affaires politiques sont tout À fait distinctes. Quand on passe à l’action, le» choses changent. Il ne s agit plus seulement de raisonner, de discuter, de proposer, il faut tenter d'agir. Tant qu’il n’y a en présence que des écrivains et des lecteurs, la valeur d’une idée ne dépend que de l’intelligence et du talent de l’écrivain et de l’accent, de la compréhension des lecteurs. Si l’on commence au contraire à réaliser, c’est la réalisation qui compte. On voit une opinion réformiste devenir une opinion agressive puis une opinion révolutionnaire. (Daniel Mornet.) Histoire des idées d’un côté, histoire des activités de l'autre.
 
 324 Le livre et la littérature.
 --------------------------------
@@ -17028,7 +17028,7 @@ b) Dans sa préface des Contemplations, Victor Hugo a défini ainsi le contenu d
 
 c) Au point de vue individuel, la littérature répond à ce but : ■ chercher son âme dans une autre âme. explo-" rcr le monument éternel laissé par les classiques anciens, » s’abreuver à cette rivière féconde, percevoir In lumière » des soleils qui dans le passé ont transpercé le monde » de leurs rayons magnifiques, fréquenter la société des • grands esprits. »
 
-La foule, quoi qu'on prétende, adore U littérature Elle apprécie les inventions des poètes, le drame de la fantaisie, les découvertes de l'inspiration. Elle sait bien que les romans ne sont pas arr*re chose que des secrets de famille, et cette révélation audacieuse aguiche la curiosité de tous les passants inexprimés.
+La foule, quoi qu'on prétende, adore Illittérature Elle apprécie les inventions des poètes, le drame de la fantaisie, les découvertes de l'inspiration. Elle sait bien que les romans ne sont pas arr*re chose que des secrets de famille, et cette révélation audacieuse aguiche la curiosité de tous les passants inexprimés.
 
 d) La littérature est aussi vaste que 'a pensée humaine. C'est la manifestation intellectuelle de l'humanité dans ce qu’elle a de plus élevé avec les Arts, la Science et avec les Inventions.
 
@@ -17110,9 +17110,9 @@ b) « Le génie classique a eu ses grandes beautés, mais on peut le critiquer d
 
 324  UNITES OU ENSEMBLES  *367*
 
-non seulement surmontera tous les dangers de la monotonie, mais encore en fera ressortir l'incomparable valeur morale, soutien de U beauté littéraire parvenue à son plus haut apogée. »
+non seulement surmontera tous les dangers de la monotonie, mais encore en fera ressortir l'incomparable valeur morale, soutien de Ilbeauté littéraire parvenue à son plus haut apogée. »
 
-c) Prospérité ou crise, ordre ou révolution, guerre ou pais, les oeuvres littéraires jaillissent intarissablement. Voici la nouvelle littérature russe. Dans la préface de a La Défaite » par Alex. Fedcev (Editions Sociales internationales). Maurice Parijnnine écrit : « Notre littérature » prolétarienne a une tâche essentielle : celle de montrer % comment, dans l’atmosphère d’une grande révolution j> sociale, le « vieil homme » quelles que soient ses ori-i gines, réagit aux événements, comment se forme l’hom-» me d'un nouvel âge, qui appartiendra corps et âme à » U collectivité, qui sera membre actif et utile dans un b état socialiste... »
+c) Prospérité ou crise, ordre ou révolution, guerre ou pais, les oeuvres littéraires jaillissent intarissablement. Voici la nouvelle littérature russe. Dans la préface de a La Défaite » par Alex. Fedcev (Editions Sociales internationales). Maurice Parijnnine écrit : « Notre littérature » prolétarienne a une tâche essentielle : celle de montrer % comment, dans l’atmosphère d’une grande révolution j> sociale, le « vieil homme » quelles que soient ses ori-i gines, réagit aux événements, comment se forme l’hom-» me d'un nouvel âge, qui appartiendra corps et âme à » Ilcollectivité, qui sera membre actif et utile dans un b état socialiste... »
 
 Et l'on voit des œuvres comme « Nous autres » de Zumiatin décrire l'antagonisme, dans un univers caractérisé par la mécanisation à outrance, entre la raison et l'imagination, l'ordre établi et l'attrait subversif de la révolution, entre l'individualisme et la soumission complète à la collectivité, entre 1* notion de bien, représentant tout ce qui est admis et la notion de mal représentant tout ce que l'homme étouffe de lui-méme.
 
@@ -17122,7 +17122,7 @@ Deux grands courants traversent In littérature actuelle : !" ceux qui proclamen
 
 6. Genres littéraires.
 
-a) U y a une multitude de genres littéraires.
+a) Ily a une multitude de genres littéraires.
 
 Lors de la lutte des classiques et des romantiques, un académicien disait en 1824 : « Les genres ont été reconnus et fixés, on ne peut en changer la nature ni en augmenter le nombre. >
 
@@ -17673,7 +17673,7 @@ Dans l'élaboration des méthodes universelles, il a été procédé par l'Insti
 
 11 faut des règles précisant et coordonnant les formes des documents et les ensembles qu'ils constituent: régies susceptibles de perfectionnement, formes et ensembles pouvant être conçus selon des types fondamentaux, les uns traditionnels, les autres nouveaux. Les règles bibliographiques et documentaires internationales ont à faire l'objet d'un « Code coordonné de la Documentation
 
-La question des méthodes domine l'art du Livre, de la Bibliographie, des Bibliothèques, comme elle domine l'art de toutes les autres disciplines. Par les méthodes, celui qui traite le livre est nanti des moyens qui lui donnent 6a compétence et sa technicité. U y a une Technique générale du classement des documents, une Technique bibliologique, une Bibliotechnie.
+La question des méthodes domine l'art du Livre, de la Bibliographie, des Bibliothèques, comme elle domine l'art de toutes les autres disciplines. Par les méthodes, celui qui traite le livre est nanti des moyens qui lui donnent 6a compétence et sa technicité. Ily a une Technique générale du classement des documents, une Technique bibliologique, une Bibliotechnie.
 
 La technique repose sur ce principe fondamental : appeler à l’existence réelle des conceptions et des idées, en tenant compte des conditions de l'espace et du temps. Les opérations dans les organismes documentaires s'inspirent de ce principe et peuvent ainsi être définies une distribution adéquate des objets, des ressources et des énergies, selon le lieu et le moment. « A vrai dire, dit Coyecque, tout est technique, en d autres
 termes, pour faire une chose et pour la bien faire, il faut avoir appris à la faire Toute technique, pqur guider efficacement l’action, doit être fondée sur la science de l’objet dont elle » occupe. Il y a une technique du Livre et du Document, une Bibliotechnie; et elle doit reposer sur la science du livre et du document, la Bibliologie.
@@ -18315,7 +18315,7 @@ Les opérations du Livre et du Document nécessitent dv* matières. C’est, en 
 
 1° Simples rayons dans une salle ayant une autre destination (par ex.: un Bureau, une salle d’Ecole); 2° Salle unique mais exclusivement consacrée à la bibliothèque ou à l’office; 3° Appartement (Salir de lecture, magasin, vestiaire) ; 4° Bâtiment spécial
 
-entièrement consacré à la bibliothèque; 5° Complexe de bâtiments affectés à toutes les institutions similisires et dont la bibliothèque soit le centre. (Ex.: Ensemble de bâtiments scientifiques et éducatifs réuni dans U rayon d’une Université, ensemble de bâtiments consacré à la science, aux arts et aux lettres; ensemble d’édifices consacrés aux administrations ou ministères, La maison de tous, le mémorial de la guerre aux Etats-Unis, réunissant toutes les institutions postscolaires et sociales).
+entièrement consacré à la bibliothèque; 5° Complexe de bâtiments affectés à toutes les institutions similisires et dont la bibliothèque soit le centre. (Ex.: Ensemble de bâtiments scientifiques et éducatifs réuni dans Ilrayon d’une Université, ensemble de bâtiments consacré à la science, aux arts et aux lettres; ensemble d’édifices consacrés aux administrations ou ministères, La maison de tous, le mémorial de la guerre aux Etats-Unis, réunissant toutes les institutions postscolaires et sociales).
 
 4. Composition de* locaux. — Il y a lieu, selon l’importance de l’organe documentaire, de prévoir une ou plusieurs salles de lecture, de salles de dépôt, de manutention (arrivage et, éventuellement catalogage), d’élaboration de travail (ateliers), de direction et d’administration, de vestiaires pour les lecteurs et pour le personnel, avec remisage de bicyclettes, autos, etc.; installations sanitaires et lavabos (importance de la propreté).
 
@@ -19491,7 +19491,7 @@ Tons ces organismes fonctionnent. Ils tépondent déjà largement aux conditions
 425 Corrélations avec le Travail intellectuel et l'Organisation mondiale en général (5° échelon de l’Organisation).
 --------------------------------------------------------------------------------------------------------------------
 
-Le Réseau Universel de Documentation lui-même doit prendre place dans l’organisat on générale du Travail intellectuel et celle-ci dans l’Organisation mondiale elle-même. Ainsi le 4e échelon de l'organisation se complète par un 5r échelon qui le dépasse et le déborde, dont U tache incombe à d’autres mais qui peut être largement aide et orienté par lui.
+Le Réseau Universel de Documentation lui-même doit prendre place dans l’organisat on générale du Travail intellectuel et celle-ci dans l’Organisation mondiale elle-même. Ainsi le 4e échelon de l'organisation se complète par un 5r échelon qui le dépasse et le déborde, dont Iltache incombe à d’autres mais qui peut être largement aide et orienté par lui.
 
 425.1 Organisation internationale du travail intellectuel.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -19594,7 +19594,7 @@ B. Les Pays, tes Nations. (Vue d ensemble. — Transformations récentes).
 
 I. Pays d’Amérique. — Pays d’Asie. — 3. Pays d'Afrique. — 4, Pays d’Océanie. -— 5. Pays d Europe. — 6. Géographie générale, humaine et sociale.
 
-C. U Histoire, (Les grandes époques de la Civilisation et leur signification pour le moment présent).
+C. IlHistoire, (Les grandes époques de la Civilisation et leur signification pour le moment présent).
 
 1. Les origines de l'Humanité: La Préhistoire. 2. Ce que nous devons aux Egyptiens, aux Babyloniens, aux Perses et aux Juifs : Les peuples de l'Antiquité. — 3. Les origines de la civilisation occidentale : Les Grecs et les Romains. — 4. Ce qui s’est passé du IVe au XIVe siècle :
 
@@ -19771,7 +19771,7 @@ Il y a lieu d'abord d'examiner s’i y a des lois bibliolo giques et comment il 
 
 a) Toute science se constitue en plusieurs étapes. Dans l'une on en amorce l'étude par la récolte des matériaux et la confrontation des résultats des faits. Dans l'autre on établit les rapports permanents entre les faits, c'est-à-dire les lois. En Bibliclogie i faut entendre des faits généraux. communs à tous les livres considérés comme un tout organique dont chaque livre est une partie.
 
-b) Devant la synthèse, les systèmes sont deux. Pour le premier système, U synthèse n'est que l'exposé du changement de l’univers et des causes immédiates qui président à ces changements ; elle ne pourra à tout jamais être que cela. Pour l’autre système la synthèse est possible, ou il sera tout au moins possible de connaître la raison première des choses.
+b) Devant la synthèse, les systèmes sont deux. Pour le premier système, Ilsynthèse n'est que l'exposé du changement de l’univers et des causes immédiates qui président à ces changements ; elle ne pourra à tout jamais être que cela. Pour l’autre système la synthèse est possible, ou il sera tout au moins possible de connaître la raison première des choses.
 
 Or. la synthèse du livre et du document, doit provisoirement se maintenir dans le cadre du premier système car leurs raisons ultimes nous échappent.
 
@@ -19867,7 +19867,7 @@ Diverses lois de la biologie se retrouvent aussi être des lois de la Bibliologi
 
 E) l-a loi de phylogénie. Les individus constituent Its espèces et ils s’enchaînent en longues lignées. Ainsi des livres.
 
-F) La loi d'ontogénie ou loi de répétition abrégée tt non amplifiée de la phylogénie. Elle se formule ainsi : Dan» son développement embryologique chaque individu revêt successivement les formes par lesquelles a passé son espèce ». Cette loi e»t modifiée par celle de la I aebygé-nèse. « Certains individus sautent des stades entiers de I évolution » (récapitulation acquisitive et accélération dans In récapitulation). Dans l’élaboration du Livre on constate qu'avant d’acquérir la forme qu’il présente à sa naissance publique, le livre a, chez l'auteur, traversé les phases de l'cntogénie bibitoiogique. Et dans certain» cas d'élaboration ultra-rapide, directe il n y a l'équivalent de la l'achygénëse. Les ouvrages fondamentaux (traités, premiers principes) vont d'édition en édition à se répéter et souvent en s'abrégeant. Le terme récapitulation lui-même est emprunté à la documentation.
+F) La loi d'ontogénie ou loi de répétition abrégée tt non amplifiée de la phylogénie. Elle se formule ainsi : Dans son développement embryologique chaque individu revêt successivement les formes par lesquelles a passé son espèce ». Cette loi e»t modifiée par celle de la I aebygé-nèse. « Certains individus sautent des stades entiers de I évolution » (récapitulation acquisitive et accélération dans In récapitulation). Dans l’élaboration du Livre on constate qu'avant d’acquérir la forme qu’il présente à sa naissance publique, le livre a, chez l'auteur, traversé les phases de l'cntogénie bibitoiogique. Et dans certain» cas d'élaboration ultra-rapide, directe il n y a l'équivalent de la l'achygénëse. Les ouvrages fondamentaux (traités, premiers principes) vont d'édition en édition à se répéter et souvent en s'abrégeant. Le terme récapitulation lui-même est emprunté à la documentation.
 
 D) Loi d’hérédité et de sélection. L’hérédité est le phé-
 nomène de la reproduction des êtres et de la formation, de la conservation ou de la disparition de leurs diverses fonctions vitales. ( I )
@@ -19885,7 +19885,7 @@ Parmi les livres aussi, il y a large lutte pour la vie. lutte pour se faire lire
 
 Le livre est un « Psychisme ». L'enregistrement qu'il réalise est comparable à la conscience humaine qui perçoit les rapports et relie les événements successifs, rapports dont l'ensemble et les interventions constituent aux yeux de beaucoup la conscience elle-même.
 
-Le point a été traité sous le n" 155 Psychologie biblio-logique. ü est simplement mentionné ici pour mémoire.
+Le point a été traité sous le n° 155 Psychologie biblio-logique. Il est simplement mentionné ici pour mémoire.
 
 A) La loi d'équilibre. Lu psychologie la plus subtile conçoit l’intelligence comme une information du dehors, et la conscience comme une synthèse de ces informations. Posant en but de la vie, la liberté, elle tient celle-ci comme fonction à tout moment de l'équilibre le plus délicat entre le milieu interne et le milieu externe. Le Livre est une prolongation de l'information et celle-ci en s'amplifiant
 
@@ -19909,7 +19909,7 @@ a) La Sociologie a ramené à dix les lois du développement de l'organ sation d
 
 On retrouve ces lois dans le Livre dont on peut dire qu’il est un « souslogisme ».
 
-I' La loi des dimension» ou désir de s'étendre. Le Livre tend constamment à grandir ses dimensions en étendant les matières dont il traite.
+1° La loi des dimension» ou désir de s'étendre. Le Livre tend constamment à grandir ses dimensions en étendant les matières dont il traite.
 
 2° La loi de la forme ou fonction de l’entrée continue df. nouveaux éléments qui s'amalgament aux éléments antérieurs. Le Livre aussi voit entrer sans cesse dans sa structure de nouveaux éléments qui ne supplan'ent pas les premiers, mais donnent lieu à des formes synthétiques nouvelles, des structures franches, qui s'ajoutent aux structures anciennes.
 
@@ -19936,7 +19936,7 @@ leur d’un livre au point de vue de son assimiliation. Il est des ouvrages, plu
 b) La société est un tissu d'action « interspirituelle », d'états mentaux agissant les uns sur tes autres. (1) Elle est un accord intermental, une connexion mentale, un groupe de jugements et de desseins qui se contredisent ou se contrarient le moins possible, qui se confirment ou s'entr’aident le plus possible. La société ainsi est un système qui diffère d'un système philosophique, en ce qu le,; états mentaux dont il st compose sont dispersé* entre ur grand nombre de cerveaux distincts au lieu d être ramassés dans le même cerveau. Le livre est le moyen de régulariser, de généraliser, d'amplifier ces actions interspirituelles. (2) (G. Tarde. Psychologie économique.
 
 P. U
-(1) Les sociologue» ont d'abord cherché à la science des soe'étés un fondement de l’ordre mécanique. Pour Quetelet (Le système social), le monde social est une sorte de système oolaire. Comte emprunte les divisions de la sociologie, à la mécanique (partie statique, partie dynamique) et il parle de physique sociale. Carey imagine une chimie sociale. Spencer fait de la société un organisme et en tetrouve chez elle toutes les fonctions. Tarde voit dans la société une fonction psychique.
+(1) Les sociologues ont d'abord cherché à la science des sociétés un fondement de l’ordre mécanique. Pour Quetelet (Le système social), le monde social est une sorte de système oolaire. Comte emprunte les divisions de la sociologie, à la mécanique (partie statique, partie dynamique) et il parle de physique sociale. Carey imagine une chimie sociale. Spencer fait de la société un organisme et en tetrouve chez elle toutes les fonctions. Tarde voit dans la société une fonction psychique.
 
 (2) Ibidem, chapitre 11 : La valeur et les sciences sociales, p. 63.
 
@@ -19954,7 +19954,7 @@ Le livre participe à ces trois ordres de valeurs par le vrai de ce qu'il prése
 
 a) Le Livre peut aussi être dit un « Théologisme ». Comme enregistrement, il est comparable à la Conscience Universelle que définissent les spiritualistes de l'ancienne et de la nouvelle Ecole ; À la Conscience divine définie par la Théologie ou la Conscience collective définie par la métapsychique (conscience collective, pensée sans temps et sans espace où toute réalité est représentée; Dr. Osty).
 
-b) Toujours plus d'analyse est la loi de l'esprit. Et par là on a vu la physique globale d'Aristote dissoudre son propre objet en se heurtant à la physique mathématique des modernes. Et par là on voit de nos jour» la Sociologie dissoudre l'hypostase transcendant à la foule de ses membres au contact de U science statistique. A peine constituée avec sa conception et son objet propre, le Livre et le Document, la Bibliologie, science de *a même lignée que la physique, la psychologie et la sociologie voit cet objet s’atomiser lui même sous l'action de I » même analyse.
+b) Toujours plus d'analyse est la loi de l'esprit. Et par là on a vu la physique globale d'Aristote dissoudre son propre objet en se heurtant à la physique mathématique des modernes. Et par là on voit de nos jour» la Sociologie dissoudre l'hypostase transcendant à la foule de ses membres au contact de Ilscience statistique. A peine constituée avec sa conception et son objet propre, le Livre et le Document, la Bibliologie, science de *a même lignée que la physique, la psychologie et la sociologie voit cet objet s’atomiser lui même sous l'action de I » même analyse.
 
 c) La Bibliologie, selon qu'on la prend, aboutit à un absolu ou s’en détourne. Pour elle également se pose la quest on de ses rapports avec la métaphysique. Par le biblion, représentation plus ou moins adéquate de la réalité, c'est au delà du langage que se pose le problème du nominalisme et du réalisme. « L'esprit, la science, le verbe, le document qu’il exprime, peuvent-ils saisir d'une étreinte intellectuelle l'absolu », ou bien, « les efforts du savant ne vont-ils qu’à donner de toutes choses, non pas une représentation adéquate, mais seulement une expression de plus en plus une et toujours commua-bîe d’un esprit à un autre, sur laquelle l’accord universel de» esprits puisse en fin de compte se réaliser > » \)) Voir, dans le livre, l'intelligence aux prises avec elle-
 
@@ -20007,9 +20007,9 @@ D'abord apparaissent les choses seules (la Réalité). Puis, à leur égard, et 
 
 de plan unique et d’unité, tandis qu’en ce moment s'affirme une volonté de plan et de subordination de l'individu à la société.
 
-C’est dans semblable milieu que se trouvent placés maintenant le Livre et le Document. De fait, et de par lei’r seule existence, ils aident ou ils entravent, ne pouvant être choses socialement indifférentes. D'intention et de finalité organisées, ils peuvent être util:sés dans un sens ou dans un autre :
+C’est dans semblable milieu que se trouvent placés maintenant le Livre et le Document. De fait, et de par leur seule existence, ils aident ou ils entravent, ne pouvant être choses socialement indifférentes. D'intention et de finalité organisées, ils peuvent être util:sés dans un sens ou dans un autre :
 
-A) Ou bien être les instruments d'un plan obligatoire, avec tout ce que cela implique, soit de création et de ditfus'on de documents favorablrs, soit d'élimination de documentation considérée comme contraire au but (jeu de? influences, des censures, des destructions).
+A) Ou bien être les instruments d'un plan obligatoire, avec tout ce que cela implique, soit de création et de diffusion de documents favorables, soit d'élimination de documentation considérée comme contraire au but (jeu de? influences, des censures, des destructions).
 
 B) Ou bien être les instruments de la liberté intellectuelle aidant à dégager les individus de toute soumission mentale et de tout type de vie imposé.
 
@@ -20144,7 +20144,7 @@ f) Comment parviendrons-nous à condenser, abréger, simplifier. tendre assinvla
 
 *430* AVENIR DU LIVRE 53
 
-cerveau de l'homme alors que celui-ci devrait dominer la science. Descartes. Leibnitz encore connaissent toute la science. Le plus grand savant de nos jours. Poincaré, connaissait toute la mathématique, la physique et une partie des sciences naturelles Et c'était tout. De grands moyens sont devenus nécessaires et l’on doit noter les suivants : Io la d vision plus grande du travail; 2' le travail en coopération ; 3" l'établissement de centres d'informations spéciales où l'on aura le droit de s'adresser pour toutes questions spéciales ; 4" la systématisation ou synthèse qui remplace les millions de détails par quelques centaines de lois ou propositions générales ; 5° la mathématique qui fournit avec ses formules des moyens de condensation puissants ; 6" la visualisation par le développement des moyens instructifs de représentation et notamment schématiques ; 7° le développement des machines intellectuelles ; 8° le livre irradié fait pour la lecture par tous, soit par la lecture individuelle et l'audition d'un livre désiré, soit par la demande radio phonique de renseignements individuels ; 9" la télévision : !r livre, le document que sur demande on présentera t U lecture sur le. téléviseur, soit pour tous, fait pour chacun. On peut imaginer, en attendant la télévision, des livres transcrits sur plaque phonographique à mettre en débit constant : chaque livre aurait sa longueur d'onde et serait rendu audible. (I)
+cerveau de l'homme alors que celui-ci devrait dominer la science. Descartes. Leibnitz encore connaissent toute la science. Le plus grand savant de nos jours. Poincaré, connaissait toute la mathématique, la physique et une partie des sciences naturelles Et c'était tout. De grands moyens sont devenus nécessaires et l’on doit noter les suivants : Io la d vision plus grande du travail; 2' le travail en coopération ; 3" l'établissement de centres d'informations spéciales où l'on aura le droit de s'adresser pour toutes questions spéciales ; 4" la systématisation ou synthèse qui remplace les millions de détails par quelques centaines de lois ou propositions générales ; 5° la mathématique qui fournit avec ses formules des moyens de condensation puissants ; 6" la visualisation par le développement des moyens instructifs de représentation et notamment schématiques ; 7° le développement des machines intellectuelles ; 8° le livre irradié fait pour la lecture par tous, soit par la lecture individuelle et l'audition d'un livre désiré, soit par la demande radio phonique de renseignements individuels ; 9" la télévision : !r livre, le document que sur demande on présentera t Illecture sur le. téléviseur, soit pour tous, fait pour chacun. On peut imaginer, en attendant la télévision, des livres transcrits sur plaque phonographique à mettre en débit constant : chaque livre aurait sa longueur d'onde et serait rendu audible. (I)
 
 g) Le progrès intellectuel général dépendra aussi des conditions suivantes qui toutes se rattachent à la Docu» mentation ;
 
