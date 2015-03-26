@@ -13104,11 +13104,11 @@ b) Système de sollicitation à domicile, ou colportage perfectionné (vente d'o
 
 c) Le mail order business ou la vente à condition,
 
-d) Système des annuaires, dan» les journaux et revue», consistant à concentrer une publicité énorme sur un seul article à la fols.
+d) Système des annuaires, dans les journaux et revues, consistant à concentrer une publicité énorme sur un seul article à la fols.
 
 Parmi les procédés de publicité on a imaginé de sacrifier tel livre en glissant une page dan» chaque paquet envoyé aux clients tout en ayant soin d’indiquer Ilsource.
 
-e) Les libraires ont instauré les soirées de signature où les auteur» cux-mênir» paraphent leurs ouvrages.
+e) Les libraires ont instauré les soirées de signature où les auteurs eux-mêmes paraphent leurs ouvrages.
 
 f) On a repris à un prix réduit les exemplaires d’une édition antérieure aux souscripteurs de l’édition nouvelle. Ex.: L'Andreescher Ilanciadas reprend pour 10 M. les premières éditions des acheteurs à 32 M. de l'édition nouvelle; on peut donc acheter pour 22 M. au lieu de 32 M.
 
@@ -13143,9 +13143,9 @@ De gros romans populaires. 350 pages, étaient vendus avant la guerre à 65 cent
 
 Avant la guerre le prix marqué, le fameux et alors classique 3 fr. 50 prix marqué, était vendu 3 fr.. 2 fr. 75 et quelquefois 2 fr. 65.
 
-c) En novembre 1917, il trouvait être dit nu Comité du livre que le prix du papier a augmenté de 100 è 400 %, !r prix des encres dans la même proportion, le carton pour cartonnage et reliure de 700 %.
+c) En novembre 1917, il trouvait être dit nu Comité du livre que le prix du papier a augmenté de 100 à 400 %, le prix des encres dans la même proportion, le carton pour cartonnage et reliure de 700 %.
 
-La hausse du prix des livres (fr. 25 ce qu il y a 20 ans eût coûté fr. 2.75) donne un nouveau cours au prêt de» livres et aux cabinets de lecture.
+La hausse du prix des livres (fr. 25 ce qu il y a 20 ans eût coûté fr. 2.75) donne un nouveau cours au prêt des livres et aux cabinets de lecture.
 
 # Aujourd’hui on estime que Je volume in-J6 Jésus ou in-8° Couronne à 6 fr. français, lorsqu'il n’est pas un solde déguisé, constitue un véritable Jumping, i\ne concurrence déloyale, une surenchère démagogique, seulement possible par des combinaisons équivoques sur les droits d’auteurs, la qualité matérielle du volume, etc. *
 
@@ -13164,7 +13164,7 @@ f) Les morts vont vite, les livres aussi. L'un chasse l’autre et les livres du
 
 g) On a beaucoup lu pendant la guerre. Dans l’après-guerre immédiate et pendant quelques années, l’industrie du livre atteignit le maximum de sa prospérité. Puis vint la crise. Il faudrait pouvoir déterminer dans quelles mesures la diminution graduelle de vente doit être imputée au manque d’argent et combien à la diminution d’intérêt pour le livre.
 
-[.es crises économiques atteignent aussi le livre. Les ravises générales influent ici. Parmi celles-ci on a énuméré le cinéma, la T. S. F., le phonographe, l’automobile ÎI y a aussi le peu de valeur de certains livres d’éditeurs qui éditent n’importe comment, n'importe quoi de n’importe qui.
+[.es crises économiques atteignent aussi le livre. Les ravises générales influent ici. Parmi celles-ci on a énuméré le cinéma, la T. S. F., le phonographe, l’automobile il y a aussi le peu de valeur de certains livres d’éditeurs qui éditent n’importe comment, n'importe quoi de n’importe qui.
 
 b) Le livre doit devenir bon marché à 6.50 ou 3 sous. Le livre devenant line sorte de journal plié et cousu, pouvant se conserver et faire série. Tel est l’avenir du livre démocratique moderne. Le paysan et l'ouvrier savent lire maintenant; mais 11 faut qu'ils aient de quoi lire. Ils veulent autre eboae que des almanachs.
 (1) The Library, 1904, p, 146.
@@ -13181,7 +13181,7 @@ Haustaux.
 253.271 EXPORTA TION.
 ......................
 
-Le» livres en certains pays ont une réelle importance quant nu commerce extérieur. Le» statistique» douanière» les considèrent nu poids. En 1928, il a été importé en France 41,899 quintaux (livres 12.702, journaux et périodiques 28.490, cartes 211, musiques 686). Il a été exporté pour 202.894 quintaux (livre* 44.806. journaux et périodiques 55.8%, cartes 544 et musique» 122,894). II est donc exporté cinq fois plus de livres français à l'étranger qu’il n’est importé de livre* étrangers en France.
+Le» livres en certains pays ont une réelle importance quant nu commerce extérieur. Les statistiques douanières les considèrent nu poids. En 1928, il a été importé en France 41,899 quintaux (livres 12.702, journaux et périodiques 28.490, cartes 211, musiques 686). Il a été exporté pour 202.894 quintaux (livre* 44.806. journaux et périodiques 55.8%, cartes 544 et musique» 122,894). II est donc exporté cinq fois plus de livres français à l'étranger qu’il n’est importé de livre* étrangers en France.
 
 L’Allemagne a entré en France en deux ans et demi 19 millions de volumes.
 
@@ -13190,7 +13190,7 @@ L’Allemagne a entré en France en deux ans et demi 19 millions de volumes.
 
 Le régime douanier des livres est très variable. Au Danemark existe la gratuité du livre. Aux Etats-Unis les livres commandés par les Bibliothèques ne paient pas de droit.
 
-Dans certains pays, afin de favoriser la presse, les impriment» e\ l'instruction en général, l'importation du papier d’impression est libre de droit, ainsi que celle des livres imprimés. (Chili.)
+Dans certains pays, afin de favoriser la presse, les impriments et l'instruction en général, l'importation du papier d’impression est libre de droit, ainsi que celle des livres imprimés. (Chili.)
 
 253.28 Installations et coutumes.
 """"""""""""""""""""""""""""""""""
@@ -13198,14 +13198,14 @@ Dans certains pays, afin de favoriser la presse, les impriment» e\ l'instructio
 253.281 LES LOCAUX ET LES INSTALLATIONS.
 .........................................
 
-La vieille Officine de Librairie change profondément son aspect. Elle prend l'allure ouverte des rayons des grands magasins', elle n’est souvent que la succursale d’une organisation a branches multiples, elle devient à la fois magasin, stock, montre, cabinet de lecture et bientôt centre d’informations et de renseignements bibliographiques.
+La vieille Officine de Librairie change profondément son aspect. Elle prend l'allure ouverte des rayons des grands magasinss, elle n’est souvent que la succursale d’une organisation a branches multiples, elle devient à la fois magasin, stock, montre, cabinet de lecture et bientôt centre d’informations et de renseignements bibliographiques.
 
 L’architecture de notre temps présente ces deux caractéristiques : elle est fondamentale, elle se plie aux nécessités propres à chaque espèce de travail et de destination, d’autre part installation, outillage sont en liaison et soudure directe de l’édifice et des locaux eux-mêmes. L’étalage du libraire ne doit être que la préface attrayante du magasin, de l’office lui-même.
 
-Le confort rivalise avec le luxe et la beauté dans les salons de vente. Ambiance raffinée, fauteuils moelleux, fleurs fraîche''. Certaines librairie», comme celles de Brentano*», de Scribner'» ou de Macmillian. sont de véritables palais. Les autres, moins somptueuses, s’efforcent néanmoins toujours de présenter les livres dans un milieu approprié. Que nous voilà loin de ces cubes rébarbatifs de volumes uniformes, embrigadés par rayons, auxquels nous sommes encore, hélas! trop habitués. Là-bas. le livre se présente dan» un décor digne de sa primauté intel
+Le confort rivalise avec le luxe et la beauté dans les salons de vente. Ambiance raffinée, fauteuils moelleux, fleurs fraîches. Certaines librairies, comme celles de Brentano*», de Scribner'» ou de Macmillian. sont de véritables palais. Les autres, moins somptueuses, s’efforcent néanmoins toujours de présenter les livres dans un milieu approprié. Que nous voilà loin de ces cubes rébarbatifs de volumes uniformes, embrigadés par rayons, auxquels nous sommes encore, hélas! trop habitués. Là-bas. le livre se présente dan» un décor digne de sa primauté intel
 lettuelle ; il n’est pas le pauvre bouquin auquel on fait moins d’honneur qu'à une quelconque épicerie.
 
-La disposition de l'office de librairie (archîtecture-installation-classement ) a donné lieu à bien des inventions. Ici on s’efforce d'emmagasiner le plus de livres possible; là on l’installe de façon à permettre aux clients de feuilleter confortablement les livres exposés sur les tables; ailleurs on tente de séduire le public par une impression saisissante d abondance et de variété, ailleurs encore la librairie déborde jusque sur le trottoir et l’on revient indirectement oux auvents d’autrefois.
+La disposition de l'office de librairie (architecture-installation-classement ) a donné lieu à bien des inventions. Ici on s’efforce d'emmagasiner le plus de livres possible; là on l’installe de façon à permettre aux clients de feuilleter confortablement les livres exposés sur les tables; ailleurs on tente de séduire le public par une impression saisissante d abondance et de variété, ailleurs encore la librairie déborde jusque sur le trottoir et l’on revient indirectement oux auvents d’autrefois.
 
 253.282 LES ETALAGES.
 ......................
@@ -13232,7 +13232,7 @@ Les « bazars de livres » ont été longtemps une curiosité des villes turques
 
 La bonne organisation des comptes entre libraires et clients est une cause de bon rapport et une source d'efficience dans les relations aux Etats-Unis.
 
-L’acheteur e«t le bienvenu qu'il faut choyer. On lui fait crédit sans difficulté. On lui ouvre un «charging account*, compte courant réglable en fin de mois. Une facture provisoire accompagne chaque fourniture, et quelques jours avant l’échéance, un relevé parvient au client qui en vire le montant par chèque, en même temps qu’il paye son loyer, son eau ou son électricité.
+L’acheteur est le bienvenu qu'il faut choyer. On lui fait crédit sans difficulté. On lui ouvre un «charging account*, compte courant réglable en fin de mois. Une facture provisoire accompagne chaque fourniture, et quelques jours avant l’échéance, un relevé parvient au client qui en vire le montant par chèque, en même temps qu’il paye son loyer, son eau ou son électricité.
 
 253.284 REGLEMENT DES COMPTES. COMPTABILITE.
 .............................................
@@ -13250,7 +13250,7 @@ En Allemagne les délais de règlement des comptes entre, éditeurs et libraires
 
 2. Le contrôle. — Les ventes des exercices précédents, leurs moyennes par catégorie, par auteurs et par éditeurs, doivent servir pour estimer l'importance des achats futurs; le contrôle du stock permanent, fait d'une manière régulière et rationnelle, est absolument nécessaire pour diriger les achats à l'avenir.
 
-Sur entente de 1*« American Publishers Association ». de 1’« American Booksellers As«ociation s et du « Publishers* Weekly », a été adopté un modèle standard de
+Sur entente de 1*« American Publishers Association ». de l’« American Booksellers As«ociation s et du « Publishers* Weekly », a été adopté un modèle standard de
 (I) M. Rafael Alberto Arríelo. El Libro y la Callet paru dans « Boletín de El libro y eî pueblo », Mexico, sept. 1929.
 cartes de stock, donnant en même temps des informations pratiques et concises. Le recto de la carte porte le nom de l'auteur et celui de l'éditeur, le titre, la date de publication. la classification, le format, le nombre de pages et lç prix. Une description synoptique, en soixante mots environ, résume l'action et les principaux caractères, s'il s'agit d’un livre de fiction, ou expose l’idée maîtresse pour les autres cas. Dans un emplacement réservé, on indique le marché possible et si ce marché est populaire ou intellectuel ou spécialisé.
 
@@ -13286,19 +13286,19 @@ c) occasions diverses   7.49
 253.287 EMBALLAGE.
 ...................
 
-L'emballage de* livres a un© réelle importance. Sous sa forme présente, il ae compose d'une feuille de papier d'emballage, de plusieurs feuilles de macule, une étiquette, un ficelage. Sous sa forme plus avancée, l’embal*
+L'emballage de* livres a une réelle importance. Sous sa forme présente, il ae compose d'une feuille de papier d'emballage, de plusieurs feuilles de macule, une étiquette, un ficelage. Sous sa forme plus avancée, l’embal*
 
 
 ====
 
 *278*  LE LIVRE ET LE DOCUMENT  253
 
-lage se fait en boite de carton de grandeur différente correspondant aux formats courants. C'est plus solide, moins pesant, plu* rapidement fait, de bonne présentation et se prêtant aux vérifications postales et douanières.
+lage se fait en boite de carton de grandeur différente correspondant aux formats courants. C'est plus solide, moins pesant, plus rapidement fait, de bonne présentation et se prêtant aux vérifications postales et douanières.
 
 253.29 La documentation dans la Librairie.
 """""""""""""""""""""""""""""""""""""""""""
 
-a) 11 faudrait que dans chaque librairie l'acheteur puisse se trouver en quelque sorte cher lui, et pour cela qu'il n'ait pa*. de librairie en librairie, à s'initier à d'autres principes de classement, de catalogue, de dispositions matérielle. Le propre d’un réseau c'est de retrouver les éléments essentiels dans chacune de ses stations. Supposons que nos grands réseaux de chemins de fer aient placé les voyageurs dans la nécessité d'étudier l'nména gement de chaque gare avant de pouvoir recourir à ses services: quelle complication et quelle perte de temps. Supposons que les services de navigation, la Poste, le Gaz. l'Electricité aient fait de même. Le rythme de notre civilisation serait tout autre et chaque nouvelle invention contribuerait à compliquer la vie plutôt qu'a la simplifier,
+a) 11 faudrait que dans chaque librairie l'acheteur puisse se trouver en quelque sorte cher lui, et pour cela qu'il n'ait pas. de librairie en librairie, à s'initier à d'autres principes de classement, de catalogue, de dispositions matérielle. Le propre d’un réseau c'est de retrouver les éléments essentiels dans chacune de ses stations. Supposons que nos grands réseaux de chemins de fer aient placé les voyageurs dans la nécessité d'étudier l'nména gement de chaque gare avant de pouvoir recourir à ses services: quelle complication et quelle perte de temps. Supposons que les services de navigation, la Poste, le Gaz. l'Electricité aient fait de même. Le rythme de notre civilisation serait tout autre et chaque nouvelle invention contribuerait à compliquer la vie plutôt qu'a la simplifier,
 
 b) Les ouvrages mis en vente sont aujourd'hui placée sur les rayons dans les conditions tout A fait arbitraires, si bien que le grand principe « sers-toi toi-même » ne saurait être mis en action. Il en serait différent si la classification universelle (La Cla*sification décimale) était appliquée à ce classement. Sachant qu'a la même division 7 par exemple, correspondent partout les rayons portant les ouvrages sur les Beaux-Arts, tout lecteur connaissant les indices des matières qui l'intéressent peut les retrouver. Pour les agents de la librairie ce serait un énorme gain de temps, car la classification, enseignée dès l'apprentissage ferait s'y retrouver par chacun partout, quels que soient les pérégrinations et déplacements de maison en maison.
 
@@ -13322,7 +13322,7 @@ Les libraires américains ont tout un outillage pour s'orienter dans la masse cr
 
 253  DISTRIBUTION DU LIVRE  *279*
 
-organ«*« de I’¦American Library Association», de l*«A-mencan Association of Bookpublishers», des «Booksellers Clubs » et des bibliothèques. La revue hebdomadaire officielle de la corporation des libraires, The Publisher s Weekly, éditée à New-York, constitue la source principale d’informations. Chaque semaine, elle publie quelque cent pages de précieuse substance : critiques d'ouvrages récents, annonces des nouveautés sous presses, statistiques des best-sellers, biographies d'écrivains, reproductions d’illustrations, portraits d'éditeurs, études sur les procédés de fabrication, bibliophilie, curiosités, conseils pratiques, résultats d’expériences, méthodes d'organisation, suggestions d’étalages, campagnes de publicité, leçons de vente, etc. Sans oublier un double index alphabétique par auteurs et par titres de tous les ouvrages, fiction et non fiction, sortis de presses aux Etats-Unis pendant les huit jour« qui précèdent. Revue très complète, comme on le voit, et dont la documentation est de premier ordre. Il y a aussi la volumineuse « Publisher's Trade List Annual » qui, depuis soixante ans. publie un relevé par éditeurs et par auteurs de tous les livres américains en vente.
+organ«*« de l'¦American Library Association», de l'«A-mencan Association of Bookpublishers», des «Booksellers Clubs » et des bibliothèques. La revue hebdomadaire officielle de la corporation des libraires, The Publisher s Weekly, éditée à New-York, constitue la source principale d’informations. Chaque semaine, elle publie quelque cent pages de précieuse substance : critiques d'ouvrages récents, annonces des nouveautés sous presses, statistiques des best-sellers, biographies d'écrivains, reproductions d’illustrations, portraits d'éditeurs, études sur les procédés de fabrication, bibliophilie, curiosités, conseils pratiques, résultats d’expériences, méthodes d'organisation, suggestions d’étalages, campagnes de publicité, leçons de vente, etc. Sans oublier un double index alphabétique par auteurs et par titres de tous les ouvrages, fiction et non fiction, sortis de presses aux Etats-Unis pendant les huit jour« qui précèdent. Revue très complète, comme on le voit, et dont la documentation est de premier ordre. Il y a aussi la volumineuse « Publisher's Trade List Annual » qui, depuis soixante ans. publie un relevé par éditeurs et par auteurs de tous les livres américains en vente.
 
 La librairie a la publicité comme instrument de travail, mais publicité d’information, de documentation: envois de catalogues, d'analyses de livres; démonstrations de l'intérêt de tel ouvrage, de l’agrément de tel autre, de l’utilité d’un troisième: offres de recherche et d'assortiments.
 
@@ -13367,13 +13367,13 @@ a) La documentation a le rapport le plus étroit avec les moyens de transport et
 
 *280*  LE LIVRE ET LE DOCUMENT  253
 
-images) avec Ücu de réception des documents constitués, lauais que d autres avaient été étaoiis au lieu d émission et pour faciliter celle-ci. Tout ce qui concerne le développement des moyens de communication intéresse au premier chef la documentation à ces deux po.nts de vue ; rapidité plus grande dans la transmission des données qui doivent prendre place dans les documents; accélération dans l'expédition des documents eux-mêmes ci leur mise aux mains des lecteurs, spectateurs ou auditeurs,
+images) avec Ücu de réception des documents constitués, lauais que d autres avaient été étaoiis au lieu d'émission et pour faciliter celle-ci. Tout ce qui concerne le développement des moyens de communication intéresse au premier chef la documentation à ces deux po.nts de vue ; rapidité plus grande dans la transmission des données qui doivent prendre place dans les documents; accélération dans l'expédition des documents eux-mêmes ci leur mise aux mains des lecteurs, spectateurs ou auditeurs,
 
 b) Les moyens de communication se développent en trois phases : I" d'abord ta pnio!c, plus tard les signaux (leux nocturnes, messages africains par les tam-tam) ; plus lard les courriers; communication par l'écriture ; y I imprimerie; A" communication par acs moyens mécaniques : système postal, télégraphe, téléphone, radio, chemin de fer, auto, bateau, avion.
 
 c) Le transport des livres et des documents a suivi au cours des âges tous les progrès des moyens matériels successivement inventés et appliqués, messages à pied, à cheval, en diligence, bateau, chemin de fer, auto, avion. Il se sert de tous les moyens de communication dont l'évolution à travers les âges a été extraordinaire. (I)
 
-d) Il est impossible ici de donner un aperçu, même sommaire, de l'immens.té et de la variété qu'a atteint civ nos jours le réseau universel des transports et communications. Force est de référer aux études à Ce sujet. Mais il est important d avoir toujours présent à l’esprit l'existence de ce réseau avec toutes les possibilités actuelles < l aussi futures.
+d) Il est impossible ici de donner un aperçu, même sommaire, de l'immensité et de la variété qu'a atteint civ nos jours le réseau universel des transports et communications. Force est de référer aux études à Ce sujet. Mais il est important d avoir toujours présent à l’esprit l'existence de ce réseau avec toutes les possibilités actuelles < l aussi futures.
 
 253.32 La poste.
 """""""""""""""""
@@ -13393,9 +13393,9 @@ La ferme des postes, instituée en 1672 en France, était acquise pour un millio
 
 Le Post Office Britannique occupe 230,000 agents. F.n 1905 déjà, il avait été distribué par l'Union postale universelle 2.600 millions de numéros de journaux servis par abonnements postaux. 32.140 millions de correspondances (lettres, cartes postales, imprimés, papiers d’affaires et échantillons).
 
-Le» chiffres suivants se rapportent à la distribution annuelle clans une seule ville, Bruxelles, centre d environ
+Les chiffres suivants se rapportent à la distribution annuelle clans une seule ville, Bruxelles, centre d environ
 
-700.000 habitants (d’après les statistiques de mars 1932) (1) 60 millions de lettres. 16.030.000 carte» postales. 21 millions
+700.000 habitants (d’après les statistiques de mars 1932) (1) 60 millions de lettres. 16.030.000 cartes postales. 21 millions
 
 600.000 pièces de services, 40.200.000 journaux, 1 million
 
@@ -13408,20 +13408,20 @@ Le» chiffres suivants se rapportent à la distribution annuelle clans une seule
 a) La Poste a successivement étendu le nombre de ses différents service» (correspondances, journaux, caisse d'épargne, encaissement et versement, etc.). Elle compte
 (1) L'Union Postale, août 1933.
 
-(2) Imprimés de toute nature y compris les journaux et tracts politiques non pourvus de l'adresse de» destinataire» ni des figurines d'affranchissement, à remettre dans toutes les maisons du canton postal à raison d un exemplaire par maison.
+(2) Imprimés de toute nature y compris les journaux et tracts politiques non pourvus de l'adresse des destinataires ni des figurines d'affranchissement, à remettre dans toutes les maisons du canton postal à raison d un exemplaire par maison.
 
 
 ====
 
 253 DISTRIBUTION DU LIVRE *281*
 
-en Belgique 14 service«. La poste emploie l'expression générale « objet de correspondance >. Le développement du colis postal récemment acquis, celui du chèque postal, d'autre part, leur apporte l’aide la plus précieuse.
+en Belgique 14 services. La poste emploie l'expression générale « objet de correspondance >. Le développement du colis postal récemment acquis, celui du chèque postal, d'autre part, leur apporte l’aide la plus précieuse.
 
 b) La poste transporte tous les documents. Elle a établi toutefois des maximum de dimensions, poids et des exceptions à raison du contenu. Les bureaux postaux auxiliaires établis dans les grands organismes memes qui sont producteurs de documents facilitent l'expédition (par ex. : à la Société des Nations A Genève, A l'Institut International d'Agriculture à Rome), Le système de hottes
 
-0 1 box dans les bureaux de poste publics facilitent la distribution a toutes les heures. En certains pays, la poste admet le dépôt d’imprimés en masse sans adresse. Ces envois «ont distribués aux personne« exerçant la profession désignée par l’expéditeur. On vise les annoners réclames et prix courants.
+0 1 box dans les bureaux de poste publics facilitent la distribution a toutes les heures. En certains pays, la poste admet le dépôt d’imprimés en masse sans adresse. Ces envois sont distribués aux personne« exerçant la profession désignée par l’expéditeur. On vise les annoners réclames et prix courants.
 
-c) En novembre 1929. il y a eu à Genève une Conférence européenne relative aux transports de journaux et périodiques (documents: 1930, § III, I).
+c) En novembre 1929, il y a eu à Genève une Conférence européenne relative aux transports de journaux et périodiques (documents: 1930, § III, I).
 
 d) La recherche des adresses constitue un grand travail pour la poste. On ferait un volume, dit M. Zacione, avec les adresses grotesques, absurdes, incohérentes, inintelligibles de* correspondances qui arrivent périodiquement au bureau des rebuts, après avoir passé sans résultat per les mains de tous les agents qualifiés. Il cite l'exemple d’une lettre qui porte < A Monsieur mon fils à Paris » une autre A Lyon ¦ A. M. M... demeurant dans la maison auprès de laquelle il y a un tas de neige » : une autre
 
@@ -13472,13 +13472,13 @@ f) Les timbres font l'objet de collections. IL atteignent des prix formidables b
 
 *282*  LE LIVRE ET LE DOCUMENT  **253**
 
-précieux sont conservé» en coffres-fort». De même au Musée de la Po»te à Berlin. Le» timbres constituent f.n instrument monétaire utilisé dans de nombreux cas.
+précieux sont conservés en coffres-fort». De même au Musée de la Poste à Berlin. Les timbres constituent un instrument monétaire utilisé dans de nombreux cas.
 
 I .'université de Cleveland a institué un cours de technique philatélique. Certains journaux philatéliques (notamment Dcr Philatelist) ont publié une bibliographie philatélique.
 
-On publie des albums fac-similés de timbre» en feuillets relié« ou à reliure mobile. On peut aussi établir les collections de timbres sur fiches; la méthode offre l'avantage d’un accroissement indéfini et de rendre la division du classement très détaillée, par pays et année d’émission.
+On publie des albums fac-similés de timbre» en feuillets reliés ou à reliure mobile. On peut aussi établir les collections de timbres sur fiches; la méthode offre l'avantage d’un accroissement indéfini et de rendre la division du classement très détaillée, par pays et année d’émission.
 
-I.es fiches divisionnaires indiquent les pays et les groupes d années.
+Les fiches divisionnaires indiquent les pays et les groupes d'années.
 
 6. — Secret des correspondances.
 
@@ -13492,7 +13492,7 @@ Les organismes de documentation sont dignes de disposer de la franchise national
 
 La poste a créé une instrumentation et une mécanisation de plus en plus étendue et dont quelques types sont susceptibles de généralisation dans d’autres domaines de le documentation.
 
-Des machines permettent d’estampiller en une heure 4.000 lettres par machine à main, 12 à 15 mille par machine a manivelle, 35 mille par machine électrique rotative. Le déplacement des lettres à l'intérieur des bureaux importants. celu< des sacs à dépêches dans les centres de tri et dans les gares a lieu au moyen ce tri-porteurs mécaniques, de monte-charges et de tracteurs, tube pneumatique, glissoires en tobogans.
+Des machines permettent d’estampiller en une heure 4.000 lettres par machine à main, 12 à 15 mille par machine à manivelle, 35 mille par machine électrique rotative. Le déplacement des lettres à l'intérieur des bureaux importants. celu< des sacs à dépêches dans les centres de tri et dans les gares a lieu au moyen ce tri-porteurs mécaniques, de monte-charges et de tracteurs, tube pneumatique, glissoires en tobogans.
 
 Machine à affranchir au moyen d'empreintes apposées par la poste.
 
@@ -13510,7 +13510,7 @@ Le développement de l’aviation dan» son stade actuel a surtout une utilité 
 
 Iti vitesse de transmission et le livre en est un des
 
-bénéficiaires. Le cœur de l’Afrique, de l’Asie, de 1 Amérique du Sud. sera bientôt relié régulièrement au cœur de l'Europe et de l’Amérique du Nord. L'aviation révolutionnant les transports, transforme les conditions de
+bénéficiaires. Le cœur de l’Afrique, de l’Asie, de l'Amérique du Sud. sera bientôt relié régulièrement au cœur de l'Europe et de l’Amérique du Nord. L'aviation révolutionnant les transports, transforme les conditions de
 
 distribution des correspondances et des imprimés. Il fait plus encore, il se moque de la censure. Déjà il avait eu ce rôle pendant la guerre. Il le reprend aujourd'hui. Un aviateur italien n’est-il pas allé (juillet 1930) jeter sur Milan des petits documents antifascistes ?
 
@@ -13559,7 +13559,7 @@ Ramon R. Tula, Directeur des Postes.  **OK**
 
 253  DISTRIBUTION DU LIVRE  *283*
 
-gnaux indiqués fugitivement sur un cadran. 2° Le Mor»c, avec expression écrite de signes longs et l>refs émis par un manipulateur. Le système a été transformé après quelque temps en appareil pour l'audition, à raison de 60 mots à la minute. 3° Le Hughe. avec clavier. Capacité 120 mots à la minute. 4* Le Baudot, qui permet à ton opérateur de se servir de 1« même ligne avec un débit de 550 lettres. 6’ Le télétype, application de la machine à écrire. 7° Le Siemens, sur le principe du Baudot, mais avec intervention d’un clavier perforant les lettres sur les bandes qui passent ensuite à vitesse accélérée devant l’appareil de transmission. 8° Le Dr. James Robinson a inventé un appareil télégraphique qui permet de transmettre par un seul fil jusqu'à 40 télégrammes à la fois (au maximum 6 à 7 jusqu'ici). 9° Le télautographe, qui transmet l'écriture à la main, a été mis en fonct onnement entre Paris, Lyon et Strasbourg. Déjà en 1865, l'administration des postes adoptoit le pantélégrapbe de 1 Abbé Caselli. Plus tard, le télautographe a fonctionné à l'intérieur des hôtels et des usines (Amérique). On peut entrevoir la révolution que va faire le nouvel appareil. Les quatre opérations du langage : parler ou entendre, écrire ou lire, vont pouvoir se faire à distance. On opérera directement dans les grands livres de commerce des inscriptions réciproques et on supprimera l'intermédiaire de la poste et des banques (comptabilité télautographique).
+gnaux indiqués fugitivement sur un cadran. 2° Le Morse, avec expression écrite de signes longs et brefs émis par un manipulateur. Le système a été transformé après quelque temps en appareil pour l'audition, à raison de 60 mots à la minute. 3° Le Hughe. avec clavier. Capacité 120 mots à la minute. 4* Le Baudot, qui permet à ton opérateur de se servir de 1« même ligne avec un débit de 550 lettres. 6’ Le télétype, application de la machine à écrire. 7° Le Siemens, sur le principe du Baudot, mais avec intervention d’un clavier perforant les lettres sur les bandes qui passent ensuite à vitesse accélérée devant l’appareil de transmission. 8° Le Dr. James Robinson a inventé un appareil télégraphique qui permet de transmettre par un seul fil jusqu'à 40 télégrammes à la fois (au maximum 6 à 7 jusqu'ici). 9° Le télautographe, qui transmet l'écriture à la main, a été mis en fonct onnement entre Paris, Lyon et Strasbourg. Déjà en 1865, l'administration des postes adoptoit le pantélégrapbe de 1 Abbé Caselli. Plus tard, le télautographe a fonctionné à l'intérieur des hôtels et des usines (Amérique). On peut entrevoir la révolution que va faire le nouvel appareil. Les quatre opérations du langage : parler ou entendre, écrire ou lire, vont pouvoir se faire à distance. On opérera directement dans les grands livres de commerce des inscriptions réciproques et on supprimera l'intermédiaire de la poste et des banques (comptabilité télautographique).
 
 b) La technique du télégraphe a mis en lumière des faits importants dont pourront tirer fruit notamment l'enregistrement. la perception, la documentation des données et informations. 1° Par l'électricité (électro-aimant) des signaux sont transmis à d stance. Ces signaux, longs et brefs, points et traits, sont combinés diversement pour former un code alphabétique. Il y a donc transformation entre divers systèmes de signes, ici électriques, là alphabétiques. 2” Le courant électrique est quasi instantané. D’autre part, l’opération humaine d'écrire avec des signaux électriques ne l’est pas, car la réflexion exige du temps. Comme l’établsiement des lignes électriques est d'un coût élevé et qu’il faut les utiliser au maximum, on a tourné la difficulté en divisant l'usage d une même ligne entre ^plusieurs opérateurs, agissant quasi simultanément et en basant les opérations non plus sur un acte d’attention, mais sur un acte réflexe (mise en œuvre de l'inconscient). C’est le principe du Morse, du Hughes et du Baudot. 3° Le cœur humain bat à raion de 90 X 2 = 180 mouvements à la minute. C'est le rythme qui a clé adopté pour le Baudot, réalisant ainsi un principe ce Psychotechnique. 4° Des claviers ont été introduits, mais ils ont des dispositions particulières à chaque cas. éloignant de la conception du clavier universel.
 
@@ -13578,13 +13578,13 @@ Lestélégrammes constituent une grande variété de types : ordinaire, sur form
 
 5. — Organisation de» services.
 
-On est arrivé graduellement à la fusion complète des services du télégraphe, des câbles, de la radiotélégraphie et du téléphone. L évolution moderne tend à la disparition du télégraphe en tant qu'entité administrative distincte. Les progr’s réalisés dans la technique de la transmission et le fait qu’une proportion considérable de télégrammes sont déjà transmis par téléphone indiquent que la distinction faite entre transmission orale et transmission lettre par lettre est artificielle.
+On est arrivé graduellement à la fusion complète des services du télégraphe, des câbles, de la radiotélégraphie et du téléphone. L'évolution moderne tend à la disparition du télégraphe en tant qu'entité administrative distincte. Les progr’s réalisés dans la technique de la transmission et le fait qu’une proportion considérable de télégrammes sont déjà transmis par téléphone indiquent que la distinction faite entre transmission orale et transmission lettre par lettre est artificielle.
 
 6. — Contrôle.
 
-La censure suivant les temps s’exerce aussi sur les télégrammes. Au début de la guerre mondiale. l’Amirauté anglaise ht remonter par des pêcheurs les câble» allemand» et le* fit couper, isolant subitement le Reich de toute communication avec l’étranger. Des Compagnies privées de télégraphe sont exploitées à perte à raison des avantages indirects pour leur propriétaire: priorité d’envoi des télégrammes et peut-être contrôle des télégrammes des tiers.
+La censure suivant les temps s’exerce aussi sur les télégrammes. Au début de la guerre mondiale. l’Amirauté anglaise ht remonter par des pêcheurs les câbles allemands et les fit couper, isolant subitement le Reich de toute communication avec l’étranger. Des Compagnies privées de télégraphe sont exploitées à perte à raison des avantages indirects pour leur propriétaire: priorité d’envoi des télégrammes et peut-être contrôle des télégrammes des tiers.
 
-7 — Code» en langage» convenus.
+7 — Codes en langage» convenus.
 
 La Conférence Télégraphique internationale, Madrid 1932, a réglementé à nouveau les télégrammes dont le texte est constitué à l’aide de mots ayant une signification donnée par un code déterminé. Ces codes, mots réels ou fermés de mots artificiels sont construits librement. La base est le mot de cinq lettres sans accent.
 
@@ -13620,7 +13620,7 @@ c) Même excellentes, les relations téléphoniques ou télégraphiques ne peuve
 L'économie du livre, bien intellectuel, implique, comme l'économie de* biens matériels, elle-même la (onction de répartition. Qui possède les livres et par quels processus sont-ils répartis entre les possesseurs ? En fait, la répartition est fort inégale : I» Entre les pays. Des pays anciens possèdent des collections anciennes qui manquent aux paya neufs (ex. l'Italie, la France, l'Allemagne, le Paraguay, la Nouvelle Zélande). Des pays riches capables d'acquérir les livres anciens comme les Etats-Unis et les pays pauvres comme les Républiques de l’Amérique centrale. 2" Entre individus: les classes riches peuvent acquérir des œuvres dont doivent se priver les classes moins avantagées par la fortune, à raison du prix ou du temps d'ouverture des bibliothèques. 3® Entre professions: celles fondées sur l'érudition et celles sujettes è constantes transformations (médecine, technique) ou impliquant un vaste champ de données à mettre en œuvre en chaque cas (droit). 4° Entre les villes et les campagnes. Les villes concentrent des livres et des collections publiques, surtout dans les capitales : ils manquent dans la province et dans les campagnes. 5° Entre agglomérations où la répartition du livre est bien organisée et celle où elle fait défaut («. les Etats-Uni*, l’Allemagne). La statistique tend à chiffrer le« totaux de la répartition du livre et le« coefficient« par catégorie« d'habitant« des livre« mis à leur disposition.
 On verra peut-être un jour naître un droit social nouveau, le droit pour tout homme, pour tout citoyen d'un pays (ou du monde) de pouvoir disposer d’un ensemble minimum de livres. Ce droit serait analogue au droit .1 l’éducation qui a pria la forme non seulement du droit d’aller gratuitement à l’école, mais l’obligation de la fréquenter (instruction obligatoire).
 
-Toute civilisation est un produit artificiel, elle se réalise sous l'empire des connaissances élaborées en science« systématiques par l’intelligence. Plus ces connaissances seront répandues dans le corps social, plus pourra progresser la civilisation. D’où la nécessité de le distribuer largement, et ceci doit se faire par les canaux de l’Education, de l’Information, de la Documentation,
+Toute civilisation est un produit artificiel, elle se réalise sous l'empire des connaissances élaborées en sciences systématiques par l’intelligence. Plus ces connaissances seront répandues dans le corps social, plus pourra progresser la civilisation. D’où la nécessité de le distribuer largement, et ceci doit se faire par les canaux de l’Education, de l’Information, de la Documentation,
 
 2. — Dépôt légal.
 
@@ -13630,7 +13630,7 @@ b) Le motif du dépôt légal a varié avec les âges. Il était destiné à la 
 
 c) Le dépôt légal a été prescrit le 5 août 1617 par un édit du roi Louis XIII, édit prescrivant de déposer gratuitement à la Bibliothèque royale deux exemplaires de tout ouvrage imprimé. Ce fut l'origine du dépôt légal. Le nombre des exemplaires à déposer a varié au cours des temps, allant jusqu'à 9. Réduit à 5 exemplaires sous l'Empire, le dépôt n’est plus actuellement que de deux exemplaires.
 
-d) Le dépôt légal existe dans beaucoup de pays. I e nombre d’exemplaires à déposer varie. En Russie, »1 atteint 24.
+d) Le dépôt légal existe dans beaucoup de pays. Le nombre d’exemplaires à déposer varie. En Russie, »1 atteint 24.
 
 3. — Distribution gratuite.
 
@@ -13711,7 +13711,7 @@ d) les travaux à l’état d’imprimé.
 
 c) Fonctions de la bibliographie. — La bibliographie considérée autrefois comme utile est devenue un instrument de travail indispensable. Elle a plusieurs buts (utilités. fonctions). Io Enregistrer la production intellectuelle à toute fin et dans des conditions de travail scientifique, établir l’inventaire de cette production. — 2° Etablir le catalogue et le guide pour les recherches à travers cette production. — 3° Permettre de vérifier rapidement à quel point en est parvenu l’étude d’une question quelconque pour s’éclairer soi-même et éviter les redites : bénéficier de ce qui a déjà été fait et y apporter sa contribution personnelle. — 4° Permettre de suivre l’historique d’une question. L’histoire des idées, de la science, des diverses théories scientifiques se confond largement avec l’histoire des livres, la Bibliographie (par ex. l’Economie mathématique est presque toute entière dans les œuvres de ceux qui, de Isnard, Van Thunen et Cournot jusqu'à Fisher et Moore ont écrit sur ce sujet). — 5° Faciliter rétablissement des antériorités de toute nature (scientifique, technique. en matière de droit d’auteur, en matière de brevets). — 6° Notifier aux intéressés le9 ouvrages nouveaux dès qu’ils paraissent. — 7° Permettre de comparer les ouvrages. — 8° Mettre en valeur lea collections actuelles de livres, de journaux et de revues. Sans bibliographie, elles ne seraient, comme tant de collections d autrefois, que d’immenses nécropoles.
 
-d) Utilisation. — Il y a lieu de recourir à la Bibliographie, notamment : Io pour l'établissement d’une thèse: 2° pour approfondi une question qui paraît intéressante; 3' pour se renseigner sur quelque point de pratique professionnelle ; 4° pour présenter un travail à une académie, une société scientifique, un congrès; 5° pour élaborer et tenir à jour un cours; 6° pour écrire un article, faire un livre, préparer une conférence. — Il importe de ne pas ignorer la bibliographie, mais aussi de ne pas a*y perdre. Elle est un moyen et non une fin.
+d) Utilisation. — Il y a lieu de recourir à la Bibliographie, notamment : 1° pour l'établissement d’une thèse: 2° pour approfondir une question qui paraît intéressante; 3° pour se renseigner sur quelque point de pratique professionnelle ; 4° pour présenter un travail à une académie, une société scientifique, un congrès; 5° pour élaborer et tenir à jour un cours; 6° pour écrire un article, faire un livre, préparer une conférence. — Il importe de ne pas ignorer la bibliographie, mais aussi de ne pas a*y perdre. Elle est un moyen et non une fin.
 
 e) Sens et degré du terme Bibliographie. — Au premier degré, la Bibliographie c’est la notice aussi exacte, aussi complète que possible d’un écrit, du moment que cet écrit a existé, bien qu’il ne «oit pas toujours possible de se le procurer, comme par ex. pour un livre représenté par un seul exemplaire, un livre détruit, etc. La description prend la forme de notice bibliographique. Au 2® degré, la Bibliographie est la réunion et la présentation des notices bibliographiques en recueil limité aux écrits répon dant à certaines conditions de fond, de forme ou d’auteur, déterminé par l’objet de la bibliographie et dont les notices ont re^u une certaine uniformité de manière à ae présenter comme des unités d un ensemble. C est en
 
@@ -13759,7 +13759,7 @@ k) Desiderata de la Bibliographie. —¦ Les critères d’une
 
 bonne bibliographie sont : 1° précision ; 2° complétude ;
 
-3" absence de répétition ; 4° forme bien disposée ; 5° valeur critique; 6° publication rapide.
+3° absence de répétition ; 4° forme bien disposée ; 5° valeur critique; 6° publication rapide.
 
 La grande pitié des bibliographies, c’est qu'elles sont commencées avec enthousiasme et ne sont pas continuées. Des individualités sont indiquées pour faire le travail, mais elles ne disposent pas de moyens. (I)
 
@@ -13832,14 +13832,14 @@ d) La Bibliographie a, la première, posé dans le livre le problème du Total, 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Les bibliographies offrent des types divers. Le tableau ci «contre permet de les caractériser et d'aider ainsi à leur développement et à leur critique. Il serait désirable qn'un accord international intervienne quant à ces caractéristiques et à leur notation. Par suite, toute biblîogra-
-phie indiquerait elle-même, concernant son caractère bibliographique ou catalographiquc, l’analyse exacte de ses caractères et du champ qu elle couvre. Ainsi, par exemple, une formule, un peu longue peut-être, mais tout à fait précise, donnerait a, 2(3) — b, i — c, 32 — d, n — e, 4, etc.
+phie indiquerait elle-même, concernant son caractère bibliographique ou catalographique, l’analyse exacte de ses caractères et du champ qu elle couvre. Ainsi, par exemple, une formule, un peu longue peut-être, mais tout à fait précise, donnerait a, 2(3) — b, i — c, 32 — d, n — e, 4, etc.
 
 255.4 Types divers de Bibliographies.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-La bibliographie comprend les classes de travaux suivants qui portent le nom de « bibliographies >. Il importe de connaître leur existence et de pouvoir s’en servir.
+La bibliographie comprend les classes de travaux suivants qui portent le nom de « bibliographies ». Il importe de connaître leur existence et de pouvoir s’en servir.
 
-1° Les bibliographies nationales, les unes rétrospective* e» récapitulatives, les autres périodiques et courantes.
+1° Les bibliographies nationales, les unes rétrospectives et récapitulatives, les autres périodiques et courantes.
 
 2° Les bibliographies spéciales (rétrospectives ou courantes, nationales ou internationales). Elles sont éditées pour chaque science, soit par des particuliers, soit par des organismes créés, patronnés ou subsidiés par des associations scientifiques ou par les pouvoirs publics.
 
@@ -13886,7 +13886,7 @@ Si les livres sont des instruments de recherche au premier degré et les bibliog
 Les premières Bibliographies des Bibliographies étaient des listes de catalogues de Bibliothèque (Ph. Lflbbé, Bibliotheca Bibliothccarum. 1653). Peignot en 1810 a publié le premier Répertoire Bibliographique et en 1812 son extension en Répertoire Bibliographique Universel. Namur en 1838. dans son Manuel des Bibliothèques, publia 10,000 titre». Eu 1866, Petzholt publia sa Bibliotheca
 Bibliographies, oeuvre fort soignée. Vallée dans sa Bibliographie des Bibliographies (I&83). assez critiquée, a , ir.ctas de» travaux parus dan» le» revues. En 1897, Stein, dans son Manuel de Bibliographie générale, essaya une synthèse de toutes les Bibliographies publiées jusqu’en 18%. Il en continua les données dans les Bibliographies modernes.
 
-Le Manuel de Bibliographie historique de Langlois (1901-04) comprend dans »a première partie un Tableau de» Bibliographies des Bibliographie«.
+Le Manuel de Bibliographie historique de Langlois (1901-04) comprend dans »a première partie un Tableau des Bibliographies des Bibliographies.
 
 Schneider a publié en 1923 son Handbuch des Biblio graphies. C’est un choix et les bibliographies par matières en sont exclues.
 
@@ -13948,7 +13948,7 @@ cumulatif.
 
 2. — Type* réalisé*.
 
-Pour Y Angleterre, \\ y a lieu de faire ainsi les recherches. 1° Publication de la dernière semaine: Publishcr's Circular. 2° Publication du dernier mois: Publisher* Circulai Monthly ou Bool^scller. 3° Pour le dernier trimestre : Whita^er’s Cumulative List. 4° Pour la dernière année, le 1Vhital^cr ou VEngli»h Catalogue. 5° Pour des ensembles d'années, VEnglish Catalogue. 6° Pour certains siècles, le
+Pour Y Angleterre, \\ y a lieu de faire ainsi les recherches. 1° Publication de la dernière semaine: Publisher's Circular. 2° Publication du dernier mois: Publisher* Circulai Monthly ou Bool^scller. 3° Pour le dernier trimestre : Whita^er’s Cumulative List. 4° Pour la dernière année, le 1Vhital^cr ou VEngli»h Catalogue. 5° Pour des ensembles d'années, VEnglish Catalogue. 6° Pour certains siècles, le
 
 I .ontlon Catalogue ou les T crm Catalogue* ou le Trans-cript oj the Stationcr Register.
 
@@ -14034,7 +14034,7 @@ b) règles catalographiques internationales; c) dispositifs permettant de répon
 
 255.44 Bibliographie spéciale par matières.
 
-Il y a des bibliographies spéciales de toutes les science», de presque tous les sujets spéciaux. Parmi les bibliographies spéciales, il est des œuvres considérables. Nous en mentionnerons seulement quelques-unes.
+Il y a des bibliographies spéciales de toutes les sciences, de presque tous les sujets spéciaux. Parmi les bibliographies spéciales, il est des œuvres considérables. Nous en mentionnerons seulement quelques-unes.
 
 Ainsi l*Internat:onal Catalogue of Scientific Littérature. l'Index sur fiches du ConciUum Bibliograpliicum créé à
 
@@ -14085,16 +14085,16 @@ g) Bibliographie à base de date des publications. —
 
 On a établi des bibliographies dans l’ordre chronologique de parution des ouvrages. Ex. Napiersky : Chronologischer Conspect der Leifvsc/ien Literatur von 1587 his 1830. — En fait, tous les recueils périodiques de biblio-giaphie constituent des bibliographies chronologiques, ce qui apparaît très sensiblement quano les collections se continuent sur plusieurs années. Les bibliographies spéciales sont souvent établies dans l'ordre chronologique qui est l’ordre du développement de la science. Ex. Maurice Lecot: Bibliographie du Calcul des variations, 1916.
 
-Le classement par ordre des ordres donne lieu a bien des particularités. Voir à ce sujet Voge, A. Law : « Chrono-logical arrangement ol Subject cards in a dictionary Cata-log. (Library Journal, 1917, n° 6, p. 441-443).
+Le classement par ordre des ordres donne lieu a bien des particularités. Voir à ce sujet Voge, A. Law : « Chrono-logical arrangement of Subject cards in a dictionary Cata-log. (Library Journal, 1917, n° 6, p. 441-443).
 
 h) Catalogue des Editeurs, des Libraires et des Ventes publiques. — Les catalogues des éditeurs revêtent diverses formes. Catalogues complets (souvent véritable historique dr leur maison). Catalogue de leurs livres nouveaux. I Catalogue de leurs livres dits « de fonds », c est-à-dire encore en vente. Les éditeurs publient des notices et circulaires, sur feuilles ou sur fiches, avec ou sans compte rendu, prêtes à l’insertion. Il existe des catalogues communs aux éditeurs d’un pays (par ex. en France le Le Scudier) ou d’une spécialité. Ce sont alors des catalogues individuels des maisons d édition, imprimes aux mêmes formats et réunis par les liens d’une table commune des matières. Les catalogues des libraires paraissent en nombre considérable. Ils sont de caractère universel, traitant de tout. On a réalisé pour les librairies des tirages à part de
 
 la Bibliographie de la France, présentés sous le nom imprimé de divers libraires. Il y a les catalogues de bouquinistes (antiquariat), les catalogues des ventes publiques et la publication des prix auxquels y sont vendus les ou-viages. (Booh^-prices Current),
 
-i) Bibliographie des meilleurs livre». — John Lubbock (On the Pleasure of Reading) a donné une liste des cent meilleurs livres, von Möllendorff (Die Weltlittcraturc), 975 livres avec une table d.“ comparaison par pays montrant la part la plus importante de l’Italie. Sonnenschein (Best Bool^s) a publié en 1910 une liste de 100.000 ouvrages, mais toutes les langues ne sont pas bien représentées. N. Roubakine (Parmi les Livres). Al. Philip publie annuellement un recueil Best Boo^s. avec excellentes introductions et classements détaillés, une sorte d* histoire de la littérature scientifique. Le Guide polonais des autodidactes, L*A. L. A. Catalogue par 1 American
+i) Bibliographie des meilleurs livres. — John Lubbock (On the Pleasure of Reading) a donné une liste des cent meilleurs livres, von Möllendorff (Die Weltlittcraturc), 975 livres avec une table d.“ comparaison par pays montrant la part la plus importante de l’Italie. Sonnenschein (Best Bool^s) a publié en 1910 une liste de 100.000 ouvrages, mais toutes les langues ne sont pas bien représentées. N. Roubakine (Parmi les Livres). Al. Philip publie annuellement un recueil Best Boo^s. avec excellentes introductions et classements détaillés, une sorte d* histoire de la littérature scientifique. Le Guide polonais des autodidactes, L*A. L. A. Catalogue par 1 American
 Lihtary Association, édition de 1906, liste de 10,000 ouvrages de base, avec annotations et classés selon la classi fication décimale. Elle est supplémentée par Boo^list, mensuel. L'A. L. A. Reading with a Purpose, a series oj Reading Course. Koeller et Volckmar, Klcine Idteratur-führer. Le Répertoire bibliographique de la Littérature française, de Federn, etc., etc. L Institut International de Coopération Intellectuelle a publié de» listes d ouvrages remarquables parus dans les différents pays au cours d’une année déterminée. Sous la direction de Tweney, le projet a existé d’un « Guide bibliographique interna tional », classé décimalement. De nombreux concours ont été organisés pour déterminer les meilleurs livres i il en a même été un dont le jury était composé d enfants de moins de 12 an». Deux tendances sont en opposition : ceux qui voudraient qu’on procède À l’élimination des livres moins intéressants et les partisans de Tuniversalité. Mdius est abundare quam deficere.
 
-j) Ouvrages dits de référence. — Ou a défini les ouvrages de référence, les a clearing bouse des connaissances », les « bibliothèques en miniature t. Ils comprennent les encyclopédies, les dictionnaires, les annuaires. les Uaités et manuels concernant toutes les sciences et qui contiennent beaucoup de bibliographies. Buck G,. Keys to the Halls of Boo\s (1926), énumère 25 types de livres de références. — Mudge a publié New Guide to Refcrence Boofes (1923). — Kroeger, Alice B. Guide to the study of Référencé floofca (1917). — La Reynold s Library (Rochester, E. U.) a projeté de centraliser tous les catalogues des livres de référence. — Les congrès sont en nombre considérable (on en a compté plus de 3,000 de 1642 à 1910). Ils donnent lieu a des travaux abondants publiés en volumes séparés, en cahiers ou fascicules de publications séparées, dans les périodiques. — La bibliographie courante est complétée par la chronologie des événements et par les histoires de la science, de la littérature, de l’art, par les rapports sur les progrès réalisés dans les diverses branches des sciences et des activités. — Les labiés annuelles de Constantes, telles que les public C. Malle et des organismes américains sont de» auxiliaires de la Bibliographie limitée aux recherches quant aux données qu’elles enregistrent,
+j) Ouvrages dits de référence. — Ou a défini les ouvrages de référence, les « clearing house des connaissances », les « bibliothèques en miniature ». Ils comprennent les encyclopédies, les dictionnaires, les annuaires. les Uaités et manuels concernant toutes les sciences et qui contiennent beaucoup de bibliographies. Buck G,. Keys to the Halls of Boo\s (1926), énumère 25 types de livres de références. — Mudge a publié New Guide to Refcrence Boofes (1923). — Kroeger, Alice B. Guide to the study of Référencé floofca (1917). — La Reynold s Library (Rochester, E. U.) a projeté de centraliser tous les catalogues des livres de référence. — Les congrès sont en nombre considérable (on en a compté plus de 3,000 de 1642 à 1910). Ils donnent lieu a des travaux abondants publiés en volumes séparés, en cahiers ou fascicules de publications séparées, dans les périodiques. — La bibliographie courante est complétée par la chronologie des événements et par les histoires de la science, de la littérature, de l’art, par les rapports sur les progrès réalisés dans les diverses branches des sciences et des activités. — Les labiés annuelles de Constantes, telles que les public C. Malle et des organismes américains sont de» auxiliaires de la Bibliographie limitée aux recherches quant aux données qu’elles enregistrent,
 
 k) Biographie. — Il existe un grand nombre de recueils de biographies, les uns rétrospectifs, les autres courants, et des renseignements bibliographiques sommaires disper sés dans les dictionnaires et les annuaires. — Les histoires littéraires. Biobibliographie et Encyclopédie sont des sources importantes de bibliographie pour les auteurs de tous pays et de tous temps. Elles sont nombreuses : Zedler, Ersch et Gruber. Niceron. Joecher, Vnpereau, Micbaud, Hmfer. Il y a les dictionnaires de biographie nationale. Les renseignements sur les auteurs contemporains sont difficiles à te procurer. Il y a: Angleterre Who's who
 
@@ -14142,7 +14142,7 @@ b) Les catalogi cs sont aussi anciens que les bibliothèques mêmes. Ils ont exi
 
 plis, ce qui donnait lieu a toutes les complications, des surcharges, des compléments et des additions. L’œuvre du catalogue éiait un perpétuel recommencement, chaque foi» suivant des systèmes différents. C’est vers le milieu du XIXe siècle que la catalographie a reçu une vive impulsion. On a adopté des catalogues sut fiche* mobiles, se prêtant à I écriture à la machine. On a arrêté des règles catalographiques, on s est entendu pour standardiser et à la fois généraliser et unifier règles et formats.
 
-c) Espèces de catalogues. — Les catalogues des bibliothèques sont: Quont ù î’ofejef, consacrés à l'ensemble des collections ou distinctement aux livres, aux périodiques, aux cartes et plans, aux manuscrits, aux incunable», aux ouvrages de référence. Quonf au cassement par auteur, par matière systématique, par matière ordre alphabétique. Quuni au mode d'établissement manuscrit ou imprimé, en registre ou sur fiches, rétrospectif ou accroissement.
+c) Espèces de catalogues. — Les catalogues des bibliothèques sont: Quant à l’ofejef, consacrés à l'ensemble des collections ou distinctement aux livres, aux périodiques, aux cartes et plans, aux manuscrits, aux incunable», aux ouvrages de référence. Quonf au cassement par auteur, par matière systématique, par matière ordre alphabétique. Quuni au mode d'établissement manuscrit ou imprimé, en registre ou sur fiches, rétrospectif ou accroissement.
 
 On peut diviser les espèces de catalogues en : A. Catalogues généraux : 1. catalogue onomastique ou alphabétique d’auteurs (name catalog) ; 2. catalogue méthodique ou systématique (subjcct catalog) ; 3. catalogue topographique (shelf list) ; 4. catalogue dictionnaire (dictionary cUalog) ; 5. catalogue d’acquisition (inventaire, accessoire book), B. Catalogueç spéciaux. — Ces catalogues sont en nombre illimité et peuvent correspondre à chaque espèce de fond ou collection : manuscrits, incunables, ouvrages rares et précieux, périodiques, partitions de musique, thèses académiques, gravures et estampes, cartes et plans, ouvrages en double ou incomplets, etc. Il y a intérêt à joindre au catalogue général, le plus grand nombre de ces catalogues particuliers.
 
@@ -14160,9 +14160,9 @@ e) il y a cr.se dans les Catalogues des Bibliothèques eu Allemagne, L'ancien ca
 
 a) Entre les catalogues de bibliothèques particulières e. la bibliographie prennent plnc* les catalogues collectifs (Union Catalogue). Ils sont consacrés à l’inventaire des ouvrages po&sédés par un ensemble de bibliothèque». Par ¡'étendue du champ qu’ils couvrent, ils constituent une contribution importante à la bibliographie et peuvent même d’un certain point de vue être considérés comme une bibliographie choisie.
 
-b) Les catalogues collectifs ont pris comme base, tantôt le lieu de dépôt (catalogue collectif des bibliothèques de telle ville, telle région), tantôt la nature de* publications (périodiques ou manuscrits), tantôt la matière (livres de telle science).
+b) Les catalogues collectifs ont pris comme base, tantôt le lieu de dépôt (catalogue collectif des bibliothèques de telle ville, telle région), tantôt la nature des publications (périodiques ou manuscrits), tantôt la matière (livres de telle science).
 
-c) Parmi les catalogues collectifs, on doit signaler l Union Catalogue des Etats-Unis (Library of Congres»), le « Cesamt Katalog s des bibliothèques de Prusse, le catalogue collectif de Stockholm et d’Oslo, le catalogue collectif des périodiques possédés par les bibliothèques de Paris, le catalogue collectif des bibliothèques de Belgique (Office International de Bibliographie et de Documentation). Des catalogues collectifs existent notamment en Fiance pour les manuscrits, les richesses d ort et les fonds spéciaux des bibliothèques provinciale», le» incunables.
+c) Parmi les catalogues collectifs, on doit signaler l'Union Catalogue des Etats-Unis (Library of Congress), le « Cesamt Katalog s des bibliothèques de Prusse, le catalogue collectif de Stockholm et d’Oslo, le catalogue collectif des périodiques possédés par les bibliothèques de Paris, le catalogue collectif des bibliothèques de Belgique (Office International de Bibliographie et de Documentation). Des catalogues collectifs existent notamment en Fiance pour les manuscrits, les richesses d ort et les fonds spéciaux des bibliothèques provinciale», le» incunables.
 
 d) Le Gesamt^atalog der Prcussische Wissenschaftlichen Bibliothcf^en (Catalogue collectif des Bibliothèques scientifiques de Prusse), entrepris sur fiches en 1895, renferme maintenant en gros 2 1/2 millions de titres et est tenu continuellement à jour quant aux titres imprimés à Berlin. On en a commencé l'impression. Lorsque la publication sera terminée, il suffira à chacune des bibliothèques d’ajouter à la main sa cote propre à la suite des titres des ouvrages qu’elle possède dans son propre fond, pour avoir, en remplacement de son catalogue périmé, un nouveau catalogue composé avec unité. (1)
 (I) H. Fuchs. — Das Gcsamkatalog der Preussischen Bibliotheken und sein Ausbau zu einen Deutscher Gesamtkatalog. In Fon Bucherei und Bibliotheken. Ernst Kuhnert dar gebracht, Berlin 1928.
@@ -14179,7 +14179,7 @@ g) Une entente est intervenue entre la Library of Con-gress et la American Libra
 
 h) On a formulé le regret que jusqu’ici l’entente, pour publier en commun leur catalogue, n’ait pu se réaliser entre les grandes bibliothèques du monde : Paris, Londres, Berlin, Washington,
 
-Que les catalogues collectifs nationaux aient cependant un intérêt international est démontré notamment par le fait qu’à l’intervention de 1*American Library Association et de la Bibliographical Society of America, une souscription a été faite en faveur du Preussische Gesamt Katalog par la Rockefeller Foundation.
+Que les catalogues collectifs nationaux aient cependant un intérêt international est démontré notamment par le fait qu’à l’intervention de l'American Library Association et de la Bibliographical Society of America, une souscription a été faite en faveur du Preussische Gesamt Katalog par la Rockefeller Foundation.
 
 255.49 Répertoire des collections.
 """""""""""""""""""""""""""""""""""
@@ -14213,7 +14213,7 @@ g) Des efforts ont été faits pour coordonner, normaliser, standardiser, concen
 
 1922) qu'il faudrait 4,000 pages pour analyser, résumer annuellement tous les travaux de chimie et que cela coûterait 90.000 fr. A la Conférence de la Library Association (Blackpool, sept. 1928) une discussion a eu lieu sur le sujet « Book reviewing ». Introduit par un rapport de M. C. Squire, il a été dit entre autres que la première condition pour analyser un livre c'est... de l'avoir lu.
 
-h) On a préconisé l's Auto referat », publication de résuméa faits par les auteurs eux-mêmes de leurs mé moires. Ces résumés sont publiés en même temps que le mémoire original et éventuellement avec traduction en espéranto ou une autre langue. La Fédération Dentaire Internationale a établi une méthode d'analyse bibliographique très détaillée avec modèles et commentaires (Bill letin de la Fédération dentaire internationale, 1928, p. 4)
+h) On a préconisé l'« Auto referat », publication de résuméa faits par les auteurs eux-mêmes de leurs mé moires. Ces résumés sont publiés en même temps que le mémoire original et éventuellement avec traduction en espéranto ou une autre langue. La Fédération Dentaire Internationale a établi une méthode d'analyse bibliographique très détaillée avec modèles et commentaires (Bill letin de la Fédération dentaire internationale, 1928, p. 4)
 
 i) Graduellement s’est constituée une technique du Résumé. Elle a été décrite dans maintes instructions rédigées par les collaborateurs des publications qui les publient. (1) Les recommandations suivantes s'en dégagent: P longueur du résumé établi à 3 % de l'original; 2° style direct, évitant les mots qui ne sont pas nécessaires, les circonlocutions ; 3° bien distinguer ce qui est nouveau, original et accroît la science des autres parties (compilations des faits, résumés de littérature, bibliographies). Nouvelles applications ou nouvelles circonstances d'applications de faits ou principes communs, nouvelles interprétations, théories ou hypothèses. Résumés d’information plutôt que descriptifs; résultats obtenus; 4° établir l'index des recueils de résumés d'après les résumés et n'y insérer que ce qu’ils contiennent ; 5° limiter le résumé des livres au point de vue, au but, a la caractérisation du contenu, a l'indication de ce qu'ils contiennent de neuf ; 6° tendre vers une standardisation, mais tenir compte qu'elle dépend des matières. Par ex. en sciences, c'est plus facile en taxonomie que dans le domaine donnant lieu à expérience; en technique les brevets ont leurs revendications (ou claim) ; 7° diriger les lecteurs par les résumés vers les livres et les articles, d'abord ver» ceux qui doivent retenir leur attention à raison de la nouveauté; faire servir aussi le résumé a l’information de qui n'a pas accès aux ouvrages analysés ; 8° dégager dans chaque branche de science divers ordres de données qu'il y a lieu de suivre et d'indiquer dans les analyses. Ainsi, en ce qui concerne la Taxonomie, la Faunistique et la Floristique, voir Biological Abstracts. (2)
 (1) Guide for collaboration in the preparation of abstracts for Biological abstracts, 1928, 12 p. avec modèles.
@@ -14368,7 +14368,7 @@ Millésime (15). — Titre de l’ouvrage (211). — Nom, prénoms et qualités 
 Lieu d’édition (221), (inné (éditeur) (222), année (223), quantième édition (224). nombre de volumes (231), format (232), nombre de pages (234). illustrations (234), prix (225).
 
 .e ??? Notes (3) — Notes analytiques — Notes critiques —
-Paris. L. Maillard, 1921, 3" édition, 2 vol. (0,24 X 0,165), XXII, 440-475 p. 12 pi. 20 franc».
+Paris. L. Maillard, 1921, 3" édition, 2 vol. (0,24 X 0,165), XXII, 440-475 p. 12 pi. 20 francs.
 [Electricité théorique, Electricité appliquée. — Chap. VII, théorie de» ion». — Ouvrage pour spécialistes.]
 
 1537 + 537.18+621.31
@@ -14401,7 +14401,7 @@ vue de sa valeur scientifique intrinsèque, livre contraire D) Destination de la
 
 de moralité mauvaise ou douteuse; livre fi placer fi part. cipaux qui constituent les livres et sur les distinctions à
 
-en réserve et à communiquer à bon escient; livre recom- établir entre les diverses variétés de ce» éléments. Ces
+en réserve et à communiquer à bon escient; livre recom- établir entre les diverses variétés de ces éléments. Ces
 
 mandé comme un des meilleurs de son espèce; livre éléments ont été énoncés sous le n° II.
 
@@ -14430,7 +14430,7 @@ Initiale». — Les auteurs désignés par des initiales sont classes parmi les 
 
 Nom» composé». — Ne pas séparer deux noms réunis par un tiret—. Ex. : Petit-Radel,
 
-Nom» originaux. — Les noms son» reproduits dans leur forme originaire. Les noms, autrefois latinisés, sont écrit» dans la forme qu’ils affectent dans leur langue maternelle, avec référence b la forme latine ou française plus connue (Pétrarque. Petrarca ; Cicéron, Cîcero).
+Nom» originaux. — Les noms sont reproduits dans leur forme originaire. Les noms, autrefois latinisés, sont écrits dans la forme qu’ils affectent dans leur langue maternelle, avec référence b la forme latine ou française plus connue (Pétrarque. Petrarca ; Cicéron, Cîcero).
 
 Noms multiple». — Mentionner d'abord le nom patronymique et d’origine pour les auteurs français, italiens, espagnols, allemands, etc. (Exceptions nombreuses, comme pour Fénélon, Voltaire.) — Pour les auteurs anglais le dernier nom est le principal, le premier jouant le rêle d’un prénom.
 
@@ -14449,7 +14449,7 @@ Signé. — Noter avec la mention (signé:) tout nom d'auteur ne figurant pas au
 
 Traducteur». — Indiquer seulement le nom de l'auteur avec renvoi à celui du traducteur. De même pour le préfacier, le commentateur.
 
-Outrage* collectifs. — Les revues, journaux, recueils, collections, figurent sous leur titre. Les publications et pièces officielle» figurent sous le nom de» administration» et organismes dont elles émanent: Ministère, Province, Commune, au nom de l'organisme le plus spécial avec référence générale unique à celui de l'organisme hiérarchique supérieur. Les publications des associations, académie», institutions, corporations, firmes, figurent sous le nom des entités dont elles émanent.
+Outrage* collectifs. — Les revues, journaux, recueils, collections, figurent sous leur titre. Les publications et pièces officielles figurent sous le nom de» administration» et organismes dont elles émanent: Ministère, Province, Commune, au nom de l'organisme le plus spécial avec référence générale unique à celui de l'organisme hiérarchique supérieur. Les publications des associations, académie», institutions, corporations, firmes, figurent sous le nom des entités dont elles émanent.
 
 12. PRENOMS.
 
@@ -14457,7 +14457,7 @@ A la suite du nom, le ou les prénoms intégralement si possible, sinon les init
 
 13. TITRES ET QUALITES.
 
-Certaines qualité» (abbé, amiral, colonel, docteur, général) s'indiquent avant les prénoms ou initiales de» prénoms, immédiatement après le nom. Mais il peut être ;ndiqué comme il est dit ci-après sous 213.
+Certaines qualités (abbé, amiral, colonel, docteur, général) s'indiquent avant les prénoms ou initiales de» prénoms, immédiatement après le nom. Mais il peut être ;ndiqué comme il est dit ci-après sous 213.
 
 14. CLASSIFICATION.
 
@@ -14487,7 +14487,7 @@ Signaler le millésime (date) en tête de la seconde ligne, à gauche, sous le n
 22. RENSEIGNEMENTS D’EDITION.
 
 (Adresse bibliographique, collection, imprint. — N. B S’il s agit d’articles de périodiques, le titre et le Heu d'édition.)
-221. Lieu d’édition. — L'indiquer en italiques et dans la langue du titre; à son défaut noter en italique» (». I.) sans lieu. Le lieu s’indique entre parenthèses lorsqu’il est notoirement connu, bien qu’omis dans le titre.
+221. Lieu d’édition. — L'indiquer en italiques et dans la langue du titre; à son défaut noter en italiques (». I.) sans lieu. Le lieu s’indique entre parenthèses lorsqu’il est notoirement connu, bien qu’omis dans le titre.
 
 Indiquer éventuellement les tiragea, avec précision s ils sont opérés sur papiers spéciaux.
 
@@ -14617,7 +14617,7 @@ Wisconsin University Library School. Cataloguing rules on cards comp., by Helen 
 
 .John Crerar Library. Chicago. Cataloguing rules. Supplementary to the Cataloguing rules, compiled by the Committee of the American Library Association and to the Supplementary Cataloguing rules, issued on cards, of the Library of Congress. Chicago, the Board of Director, 1916.
 
-— Schamourine. E. /. Le catalogue alphabétique. Pala:s central du Livre, Moscou 1932 (en russe, évolution de 1r théorie catalocrisme. BiMiovraobie abrégée classée).
+— Schamourine. E. /. Le catalogue alphabétique. Pala:s central du Livre, Moscou 1932 (en russe, évolution de la théorie catalocrisme. BiMiovraobie abrégée classée).
 
 — J. Van Hove. F. Remi, J. F. Vanderheyden, Règles catalographiques a l'usage des Bibliothèques de Belgique, Catalogue alphabétique d’auteurs et d’anonvmes, Bruxelles
 
@@ -14635,7 +14635,7 @@ Wisconsin University Library School. Cataloguing rules on cards comp., by Helen 
 
 La détermination de la valeur des livres demeure la grande affaire. Ce principe prend place à côté de celui de la conservation avec catalogage du total des documents et tous deux sont à la base de l'organisation de la Documentation. II faut déterminer la valeur des livres parce que d'une part tous n'ont pas un égal mérite et d’autre part l’usage de tous les livres pour tous les lecteurs est une impossibilité.
 
-2 — L’examen des livre».
+2 — L’examen des livres.
 
 Il peut prendre diverses formes : la critique, la censure, le contrôle scientifique. L’examen peut avoir deux buts différents: le jugement dn livre au point de vue du respect de la vérité scientifique, le jugement du livre au point de vue de fins autres que cette vérité, telles que fins sociales, morales, politiques, militaires, etc.
   Lieg, Edouard. Le manuel des prénoms. Un vol.
@@ -14648,7 +14648,7 @@ in.8° de VII t 312 pages. Préface de Pierre Mille. Prix: 12 fr. Paris, imprime
 
   Walter F. K. 1912. Abréviations and technical term«
 
-used in book catalogs and in bibliographies. Boston. Library of Congre»». Notes on the Cataloguing. Calendaring and Arranging of Manuscripts. Washington, 1931.
+used in book catalogs and in bibliographies. Boston. Library of Congress. Notes on the Cataloguing. Calendaring and Arranging of Manuscripts. Washington, 1931.
 
   Guppy, Henry. Suggestion for the Cataloguing of
 
@@ -14691,7 +14691,7 @@ L'œuvre d'ensemble de la critique, c’est celle d'un commentaire du livre et d
 
 On distingue la critique: a) d'après son objet; littéraire, dramatique, artistique, politique et social, scientifique, bibliographique» la critique des textes; b) d'après le caractère, privé ou oit iciel de ceux qui exercent la critique; c) d après la forme donnée à la critique: opinion on jugement d'autorité; d) d après les suites ou sanctions.
 
-4. — Caractère» de I œuvre à critiquer.
+4. — Caractères de l'œuvre à critiquer.
 
 Une œuvre peut être: 1° riche ou pauvre d'idées ou de laits ; 2° complète ou incomplète ; 3° bien ou mal composée, sortie du sujet, digression, disproportion, livre organisé ou non suivant des idées directrices, conclusions dépassant les prémisses ou manque de plan; 4° bien ou mal écrite (clarté, éclat); 5° bien ou mal annotée: références de lre ou 2" main; citations distinctes d une même œuvre ; 6 contenant ou non des répétitions ; 7° de style lourd et monotone ou de style léger, agréable» élevr; 8r s’il s’agit d'une œuvre d imagination, avoir des intrigues invraisemblables.
 
@@ -14705,7 +14705,7 @@ Le jugement critique peut être simple et net. c Votre livre est excellent ; vot
 1882, p. 218.
 lecteurs, devient à son tour sermon et conseil. Le silence de la presse officielle peut être plus terrible que la critique.
 
-6. — Les critère».
+6. — Les critères.
 
 a) 11 n'y a de critique fondée que s il existe des critères. Et les critères reposent en définitive sur une Table des valeurs. La détermination de cette Table, a dit Nietsche, et en particulier des plus hautes valeurs, est le fait capital de l’Histoire universelle, puisque cette hiérarchie des valeurs détermine les actes conscients ou inconscients de tous les individus et motive tous les jugements que nous portons sur leurs actes. (1)
 
