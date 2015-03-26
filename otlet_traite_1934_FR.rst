@@ -234,11 +234,11 @@ I. L’Encyclopédie comprend l'œuvre de codification et de coordination des do
 
 Les données elles-mêmes sont bien distinctes des documents dans lesquels ils sont relatés ? Il s’agit d'organiser systématiquement des ensembles de ces faits et données. Pour chacun de leur ordre est établie une notice systématique type déterminant : a) les éléments qui sont à relever pour chaque catégorie des faits; b) le mode selon lequel il y a lieu de les disposer sur la notice (Règles documentaires).
 
-Pour l’établissement de ces notices, on met à contribu-t on toutes les sources recueillies. Les documents de la bibliothèque, les dossiers sont dépouillés et on utilise aussi les données documentaires recueillies par voie d’enquête. On a soin d'indiquer sur chaque notice la source des données.
+Pour l’établissement de ces notices, on met à contribu-tion toutes les sources recueillies. Les documents de la bibliothèque, les dossiers sont dépouillés et on utilise aussi les données documentaires recueillies par voie d’enquête. On a soin d'indiquer sur chaque notice la source des données.
 
 L'Encyclopédie est formée : des Répertoires de faits sur
 fiches. Ces répertoires se rapportent soit aux questions,
-choses, objets, produits, soit aux pays, soit à l’historique, soit aux personnes et aux organismes. Ma sont disposés d après les divers ordres fondamentaux de classification systématique (matière), historique (date), géographiqu-(lit u) ; 2° de dossiers ou atlas dont chaque feuille mobile est consacrée à la mise en tableau (tabulation) d une donnée disposée selon les formes bibliologiques les plus adéquates (schémas, illustration) en original ou provenant du dépouillement systématique du contenu des publications
+choses, objets, produits, soit aux pays, soit à l’historique, soit aux personnes et aux organismes. Ma sont disposés d'après les divers ordres fondamentaux de classification systématique (matière), historique (date), géographiqu-(lit u) ; 2° de dossiers ou atlas dont chaque feuille mobile est consacrée à la mise en tableau (tabulation) d une donnée disposée selon les formes bibliologiques les plus adéquates (schémas, illustration) en original ou provenant du dépouillement systématique du contenu des publications
 de n. I. B.
 
 III. Opérations.
@@ -344,7 +344,7 @@ données acquises dans les domaines du livre et en
 même temps promouvoir des recherches nouvelles destinées
 surtout à approfondir le pourquoi théorique de certaines pratiques de l'expérience.
 
-\2. Elaborer une série complète de « formes docu?? mentaires » où puissent venir se déverser les données
+2. Elaborer une série complète de « formes docu?? mentaires » où puissent venir se déverser les données
 
 
 ====
@@ -404,7 +404,7 @@ seulement, il est possible de dissocier et d’étudier à part. Ce qui est prop
 
 2. D’où ces trois conséquences: a) La Réalité, la Pensée objective ou subjective, la Langue ont chacune une existence antérieure et indépendante du livre. Elles s'étudient dans leurs connaissances respectives (Psychologie-Science-Linguistique). b) Au contraire, signes et supports sont bien le propre du livre et il s'agit dans les sciences bibliologiques de les étudier sous tous le« aspects, c) Mais à son tour le complexe concret des idées, des mots, des images tel qu'il est incorporé dans le livre et le docu^ ment («biblifié» ou «documentalisé» ) sont, à l'égard les unes des autres, dans la position de contenu et contenant. Leurs rapports, interinfluences, répercussions, sont à examiner. à leur tour et c'est là un domaine commun aux sciences du a et à celles du h.
 
-3. Il y a lieu de poursuivre études et réalisations de la Documentation dans le cadre général de l'ensemble des connaissances et des activités en établissant des corréla tions : a) avec les diverses sciences; b) avec les diverses techniques et leur objet (Science Universelle, Technique Générale) ; c) avec les divers plans d'organisation (Plan Mondial).
+3. Il y a lieu de poursuivre études et réalisations de la Documentation dans le cadre général de l'ensemble des connaissances et des activités en établissant des corrélations : a) avec les diverses sciences; b) avec les diverses techniques et leur objet (Science Universelle, Technique Générale) ; c) avec les divers plans d'organisation (Plan Mondial).
 
 4. Définir la Bibliologie, c’est caractériser le domaine sur lequel cette science étend son empire et en même
 temps indiquer les limites qui séparent ce domaine des
@@ -504,7 +504,7 @@ La Bibliologie comprend deux sciences distinctes : la Bibliologie générale, gl
 
 3. Le phénomène du livre relève de la Logique et de la Psychologie, de la Sociologie et de la Technologie. C'est l'Intelligence qui crée le livre et qui s’en assimile le contenu. C’est la Technique qui le confectionne. C’est sur la Société qu'il réagit puisqu'il sert à mettre en relation au moins deux individualités et à les modifier.
 
-l-a Bibliologie doit donc comprendre quatre grandes branches qui la relient à l'ensemble des sciences : a) La Bibliologie logique. ou les rapports du Livre avec l’exposé de la science; b) La Bibliologie psychologique, ou les rapports du Livre avec l'auteur; c) La Bibliologie technologique ou les rapports du livre avec les moyens matériels de le produire et de le multiplier; d) La Biblio-hgie sociologique ou les rapports du Livre avec la Société qui le fait naître dans son ambiance et l??y accueille.
+la Bibliologie doit donc comprendre quatre grandes branches qui la relient à l'ensemble des sciences : a) La Bibliologie logique. ou les rapports du Livre avec l’exposé de la science; b) La Bibliologie psychologique, ou les rapports du Livre avec l'auteur; c) La Bibliologie technologique ou les rapports du livre avec les moyens matériels de le produire et de le multiplier; d) La Biblio-hgie sociologique ou les rapports du Livre avec la Société qui le fait naître dans son ambiance et l??y accueille.
 
 122 Terminologie. Nomenclature.
 --------------------------------
@@ -532,13 +532,13 @@ un mot que d’expliquer sa valeur philosophique ou métaphysique en lui laissan
 
 4. En attendant que l’accord soit fait sur l’unité de la terminologie, nous employerons indifféremment les termes formés des quatre radicaux suivants, deux gîtes, deux latins, en leur donnant pat convention une signification équivalente ; 1° biblion, 2° grapho (gram-mata gramme), 3° liber, 4° documentant.
 
-5. Ce demeure un problème de disposer d’un vocabulaire de termes généraux et d adjectifs suffisamment étendus, réguliers et adéquats pour exprimer ici les idées générales, les ensembles et le» propriétés communes. On y tend. Le grec a donné le mot biblion, le latin le mot liber. On a fait, de l’un Bibliographie. Bibliologie, Bibliophilie, Bibliothèque; d© l’autre Livre, Livresque, Librairie.
+5. Ce demeure un problème de disposer d’un vocabulaire de termes généraux et d'adjectifs suffisamment étendus, réguliers et adéquats pour exprimer ici les idées générales, les ensembles et le» propriétés communes. On y tend. Le grec a donné le mot biblion, le latin le mot liber. On a fait, de l’un Bibliographie. Bibliologie, Bibliophilie, Bibliothèque; d© l’autre Livre, Livresque, Librairie.
 
 « Schriftum » disent les Allemands et, d’autre part, partant du radical « Buch », ils forment « Buchwesen » et « Bücherei ». Les Allemands aussi se servent du radical « Biblion », mais ils ont introduit à côté des mot» <t Bibliothek », « Bibliographie » des expressions nouvelles « Inhaltverzeichnis, Zeitschriftenschau ?? (Bibliographie du contenu des périodiques), «Referate» (Compte rendu analytique et critique), « Li-teraturübersichten in Kartenform » (fichier), « Lite-ratur-Auskunftdienst, Beratungstelle », etc.
 
 6. L’historique des termes est intéressant :
 
-a) Le mot c Bibliographie » est né dans les temps grecs post classiques. Il signifiait alors l’écriture ou la copie, c’est-à-dire la production des livres. Au XVIIIe siècle encore, on entendait par Bibliographie l'étude des anciens livres manuscrits. La technique et
+a) Le mot « Bibliographie » est né dans les temps grecs post classiques. Il signifiait alors l’écriture ou la copie, c’est-à-dire la production des livres. Au XVIIIe siècle encore, on entendait par Bibliographie l'étude des anciens livres manuscrits. La technique et
 
 ====
 
@@ -556,7 +556,7 @@ Dans les temps modernes, le radical Gramme a formé télégramme, diagramme, cin
 
 7. Il y a lieu de construire la terminologie à partir du mot Document, plus général que Livre ou Biblion ; ce changement de radical est justifié: 1° par les motifs qui ont fait admettre le mot Document, Documentation, 2° par le retard des pratiques du monde du livre qui n'ayant pas évolué assez rapidement, a laissé se créer toute une nomenclature à part pour des objets et notions dont il s’est désintéressé au début.
 
-Les branches nouvelles que le mot livre n'a pas couvertes sont : a) les documenta mêmes : estampes, pièce: d archives, documents d'administration, disques, photographies, films, clichés à projection; b) les collections constituées de documents : cartothèque, hémé-Tothèque, périodicothèque, discothèque, filmothèque; c) le matériel spécial ; fiches, rayons, casiers, classeurs, dossiers, fichiers, répertoires.
+Les branches nouvelles que le mot livre n'a pas couvertes sont : a) les documenta mêmes : estampes, pièce: d'archives, documents d'administration, disques, photographies, films, clichés à projection; b) les collections constituées de documents : cartothèque, hémé-Tothèque, périodicothèque, discothèque, filmothèque; c) le matériel spécial ; fiches, rayons, casiers, classeurs, dossiers, fichiers, répertoires.
 
 La série de base du Radical : Document serait donc : Document (substantif) L'objet (signe -f support). — Documentation (substantif) Action de documenter et ensemble de documents. — Documenta/tsjc (substantif) ou Documenteur (substantif, même désinence que docteur) : la personne, les techniciens de la Documentation. — Documenter. L’action de faire usage du document. — Documentaire (adjectif) qui est relatif à la documentation. — Documcniatoire : qui remplit la qualité d’être une suffisante documentation. — Documentorium ou Documento-thèque, Institut de Documentation. — Documento-tech-nique ; Technique de la documentation.
 
@@ -566,7 +566,7 @@ La série de base du Radical : Document serait donc : Document (substantif) L'ob
 
 tionale de l'I. I. B, (I. 1. D.), à Francfort. Rapports Gérard, Dupuy, Ledoux, Otlet (Voir les Actes).
 
-En ce qui concerne la Terminologie Technique, les dix dernières années ont vu des avancements révolutionnaires. Ce qui exigeait autrefois de longue» periphrase» (trois ou quatre mots), a fini par pouvoir s'exprimer en un tout. Le « Pitman’s Technical Dictionary », traite maintenant de 60.000 a 70.000 choses distinctes.
+En ce qui concerne la Terminologie Technique, les dix dernières années ont vu des avancements révolutionnaires. Ce qui exigeait autrefois de longues périphrases (trois ou quatre mots), a fini par pouvoir s'exprimer en un tout. Le « Pitman’s Technical Dictionary », traite maintenant de 60.000 a 70.000 choses distinctes.
 
 124 Le Livre et la Mesure. Bibliométrie. 
 -----------------------------------------
@@ -574,9 +574,9 @@ En ce qui concerne la Terminologie Technique, les dix dernières années ont vu 
 124.1 Notions.
 ^^^^^^^^^^^^^^^
 
-L En tout ordre de connaissance, la mesure est une forme supérieure que prend la connaissance.
+1. En tout ordre de connaissance, la mesure est une forme supérieure que prend la connaissance.
 
-II y a lieu de constituer en un ensemble coordonné les mesures relatives au livre et au document, la Biblio-metric.
+II y a lieu de constituer en un ensemble coordonné les mesures relatives au livre et au document, la Bibliométrie.
 
 2. Les mesures sont celles relatives aux objets, aux phénomènes ou faits, aux relations ou lois. Elle concerne le particulier (métrie proprement dite) ou les ensembles (statistique) ; elle concerne ce qui est ou ce qui devrait être (unité et standardisation).
 
@@ -597,7 +597,7 @@ réalité subjective et intellectuelle. Des efforts dans ce sens sont donc dési
 
 Les sciences du Iívtc, elles aussi doivent tendre maintenant à introduire la mesure dans leurs investigations. En tant que le livre est objet de psychologie, de sociologie et de technologie, ses phénomènes sont susceptibles d’être mesurés.
 
-La € Bibliométrie » sera la partie définie de la Biblio-logie qui s'occupe de la mesure ou quantité appliquée aux livres. (Arithmétique ou mathématique bibliolo-gique).
+La « Bibliométrie » sera la partie définie de la Biblio-logie qui s'occupe de la mesure ou quantité appliquée aux livres. (Arithmétique ou mathématique bibliolo-gique).
 
 Tous les éléments envisagés par la Bibliologie sont en principe susceptibles de mesure et il faut tendre de plus en plus à revêtir leurs données de la forme précise du nombre, à passer de l'état qualitatif ou descriptif à l'état quantitatif.
 
@@ -884,9 +884,9 @@ poids de 409 grammes. »
 
 Un livre de 3 centimètres sur papier India peut contenir 1.000 pages. (Exemple : l’Encyclopedia Britannica).
 
-Prix. — On estime à 200 millions ce que coûte la production et l’organisation de la documentation chimique. De 1885 à 1893 de € Meyers Conversation Lexikon » il a été vendu pour plus de 24 1/2 millions de marks, soit plus de 143.000 exemplaires. Pour un livre scientifique de 350 pages tiré à 1.000, l’éditeur Alcan, avant la guerre, payait à l’auteur 500 francs et lui remettait gratuitement 50 exemplaires.
+Prix. — On estime à 200 millions ce que coûte la production et l’organisation de la documentation chimique. De 1885 à 1893 de « Meyers Conversation Lexikon » il a été vendu pour plus de 24 1/2 millions de marks, soit plus de 143.000 exemplaires. Pour un livre scientifique de 350 pages tiré à 1.000, l’éditeur Alcan, avant la guerre, payait à l’auteur 500 francs et lui remettait gratuitement 50 exemplaires.
 
-Typographie. lignes, lettres, mots. — U y a 400 millions de lettres dans le grand Dictionnaire Larousse et à raison de 4.000 mots à la page (2 7.500X4.000) 90 millions de mots. Un volume de la € Bibliothèque scientifique Flammarion contient :
+Typographie. lignes, lettres, mots. — Il y a 400 millions de lettres dans le grand Dictionnaire Larousse et à raison de 4.000 mots à la page (2 7.500X4.000) 90 millions de mots. Un volume de la € Bibliothèque scientifique Flammarion contient :
 
 a) pages : 300.
 
@@ -969,7 +969,7 @@ fondamentaux de la bibliographie, la notice de chacun d'eux, étant accompagnée
 
 La statistique des imprimés de R. S. F. S. R. (Russie) en 1926 (142 pages), dont les chiffres de la production des imprimés russes sont présentés dans une série de tableaux analytiques et synthétiques. Les questions posées et les réponses numériques qui leur sont données constituent une remarquable méthode. La classification décimale sert largement de cadre aux tableaux fondamentaux. (Travaux de M. Yanaitski.)
 
-6. Les premiers travaux d'ensemble sur la Statistique du livre ont été établis il y a quelque vingt ans par le Bureau International du droit d’auteur à Berne (M. Rôthlisberger) et ensuite par l'Institut International de Bibliographie. Récemment, la Commission internationale de Coopération intellectuelle a demandé à l'Institut International de Statistique d’inclure plus de données intellectuelles dans les cadres recommandés aux administrations, et par conséquent aussi quant au livre. Il est projeté que l'Institut International de Coopération Intellectuelle publie un Annuaire de la Statistique Intellectuelle qui réunira notamment les stat:stiques scolaires et bibliographiques des différents pays. Parmi les récents travaux particuliers, citons celui fort suggestif de E. Wyndham Hulme ; € Statistical Bibliography in relation to the Growth of Modern Civilization. 1923 ». Il y est mis en œuvre notamment les données, non publiées ailleurs, relatives à l’International Catalogue of Scientific Literature.
+6. Les premiers travaux d'ensemble sur la Statistique du livre ont été établis il y a quelque vingt ans par le Bureau International du droit d’auteur à Berne (M. Rôthlisberger) et ensuite par l'Institut International de Bibliographie. Récemment, la Commission internationale de Coopération intellectuelle a demandé à l'Institut International de Statistique d’inclure plus de données intellectuelles dans les cadres recommandés aux administrations, et par conséquent aussi quant au livre. Il est projeté que l'Institut International de Coopération Intellectuelle publie un Annuaire de la Statistique Intellectuelle qui réunira notamment les stat:stiques scolaires et bibliographiques des différents pays. Parmi les récents travaux particuliers, citons celui fort suggestif de E. Wyndham Hulme ; « Statistical Bibliography in relation to the Growth of Modern Civilization. 1923 ». Il y est mis en œuvre notamment les données, non publiées ailleurs, relatives à l’International Catalogue of Scientific Literature.
 
 L’ouvrage statistique de Enrique Spam <r Las Bibliothecas con 50.000 y mas volumenes. (Cordoba. 
 
@@ -1653,7 +1653,7 @@ Sous le nom d’« Histoire du Livre », des matériaux considérables ont été
 
 Une histoire du livre détaillée est une source incomparable pour la compréhension réelle du livre tel qu’il se présente aujourd’hui. Le livre est l’aboutissement d'une longue, très longue évolution et bien peu de ses détails qui soient le résultat d'un hasard et d'un fac teur arbitraire. On est stimulé ainsi à créer de nouveaux types, en connaissance plus complète des pos sibilités. Les notes historiques éclairent tout exposé et lui donnent une signification plus vive.
 
-Il semble que pour nos objets familiers comme pour nos connaissances, le plus difficile est d’en prendre conscience, de les détacher pour ainsi dire en nous-mêmes, pour leur faire prendre existence et consistance propre. C'est le € désaxement » facilité par l’histoire, qui rend possible cette c autonomisation ».
+Il semble que pour nos objets familiers comme pour nos connaissances, le plus difficile est d’en prendre conscience, de les détacher pour ainsi dire en nous-mêmes, pour leur faire prendre existence et consistance propre. C'est le « désaxement » facilité par l’histoire, qui rend possible cette c autonomisation ».
 
 2. La Documentation, vieille comme l'homme au mo ment où il inscrivait ses premiers signes, a offert trois phases dans son développement récent :
 
@@ -1806,7 +1806,7 @@ Il y a désormais un terme générique (Biblion ou Bibliogramme ou Document) qui
 
 cartes, diagrammes, photographies, estampes, brevets, statistiques, voire même disques phonographiques, verres ou films cinématographiques.
 
-Le € Biblion » sera pour nous l’unité intellectuelle et abstraite mais que l’on peut retrouver concrètement et réellement mais revêtue de modalités diverses. Le biblion est conçu à la manière de l’atome (ion) en physique, de la cellule en Biologie, de l’esprit en psychologie, de l’agrégation humaine (le socion) en sociologie. L’atome a donné lieu à une représentation de plus en plus précise et sur la base de laquelle se sont engagées toutes les recherches et discussions. (C’est Bohr qui en a donné la première figure.)
+Le « Biblion » sera pour nous l’unité intellectuelle et abstraite mais que l’on peut retrouver concrètement et réellement mais revêtue de modalités diverses. Le biblion est conçu à la manière de l’atome (ion) en physique, de la cellule en Biologie, de l’esprit en psychologie, de l’agrégation humaine (le socion) en sociologie. L’atome a donné lieu à une représentation de plus en plus précise et sur la base de laquelle se sont engagées toutes les recherches et discussions. (C’est Bohr qui en a donné la première figure.)
 
 
 ====
@@ -3153,7 +3153,7 @@ Primitivement, et pendant longtemps, le fait de savoir écrire était la spécia
 
 Il y avait au moyen âge les cfiiysographes ou écrivains en or, les tachygraphes qui écrivaient avec rapidité et les calligraphes qui écrivaient à main posée.
 
-Dans les pays d’occident, il n’y a donc plus d’écrivains publics, bien que le service d'écrire pour autrui s’y continue encore. Il n’y a plus que des écrivains tout court et des « écriveurs ». On définit les écrivains, des hommes qui composent des livres, des écrits destinés à U publicité, des hommes qui écrivent avec art et avec goût; « écrivmlleur » se dit de qui écrit, mais sans grand intérêt, et « écrivassier », de qui a la démangeaison d'écrire.
+Dans les pays d’occident, il n’y a donc plus d’écrivains publics, bien que le service d'écrire pour autrui s’y continue encore. Il n’y a plus que des écrivains tout court et des « écriveurs ». On définit les écrivains, des hommes qui composent des livres, des écrits destinés à la publicité, des hommes qui écrivent avec art et avec goût; « écrivmlleur » se dit de qui écrit, mais sans grand intérêt, et « écrivassier », de qui a la démangeaison d'écrire.
 
 222.15 Ecriture à la main ou à la machine.
 """""""""""""""""""""""""""""""""""""""""""
@@ -3285,15 +3285,15 @@ Les néoglyphea. U nouvelle écriture mondiale du Prof. Alex. Sommer-Batek (Prag
 222.162 STENOGRAPHIE.
 ......................
 
-L Notion, — La sténographie est I art d écrire rapide ment en abréviations, d’écrire aussi promptement que la parole. Elle a d’abord été dénommée «brachygraphie» et « tnrhygraphie » ; les Anglais lui ont donne le nom de « shorthand », c’cat-è-dire main brève ou courte écriture.
+L Notion, — La sténographie est l'art d'écrire rapidement en abréviations, d’écrire aussi promptement que la parole. Elle a d’abord été dénommée « brachygraphie » et « tnrhygraphie » ; les Anglais lui ont donne le nom de « shorthand », c’cat-è-dire main brève ou courte écriture.
 
-I .’art sténographique est une des plus précieuies inventions du XIXe siècle.
+1. L'art sténographique est une des plus précieuies inventions du XIXe siècle.
 
 Dans l’état actuel de la sténographie, des vitesse de 200, 240 et 250 mots a la minute ne sont pas impossible (en anglais).
 
-2. L’histoire de la sténographie remonte a l’antiquité. Les Hébreux Lavaient connue, le» Grec» en faisaient usage, elle était courante è Rome. Cicéron écrivait par signes inventés par Ennius et qu’il apprit à son affranchi Tiron. Celui-ci les perfectionna (notes tironiennes). L’enseignement s??en répandit et ce devint courant pour le» particuliers d’avoir un esclave ou un affranchi qui écrivait à la volée. On les appela d’abord en grec tachcographi, en latin cursores. coureurs à cause de la rapidité avec laquelle ils traçaient les discours. Ces cursores ont été appelé» depuis notarii, a cause des notes dont ils se servaient. Le moyen âge a connu la sténographie.
+2. L’histoire de la sténographie remonte a l’antiquité. Les Hébreux Lavaient connue, les Grecs en faisaient usage, elle était courante è Rome. Cicéron écrivait par signes inventés par Ennius et qu’il apprit à son affranchi Tiron. Celui-ci les perfectionna (notes tironiennes). L’enseignement s??en répandit et ce devint courant pour le» particuliers d’avoir un esclave ou un affranchi qui écrivait à la volée. On les appela d’abord en grec tachcographi, en latin cursores. coureurs à cause de la rapidité avec laquelle ils traçaient les discours. Ces cursores ont été appelé» depuis notarii, a cause des notes dont ils se servaient. Le moyen âge a connu la sténographie.
 
-3. En sténographie on supprime tous les accessoires de l’écriture, tout ce que les organes vocaux n'articulent pas. ou ce qui n'est pas perçu par l’oreille. Il n'est pas tenu compte de l’orthographie. On supprime même les simple» voyelles. On se sert en outre de signes simplifié».
+3. En sténographie on supprime tous les accessoires de l’écriture, tout ce que les organes vocaux n'articulent pas, ou ce qui n'est pas perçu par l’oreille. Il n'est pas tenu compte de l’orthographie. On supprime même les simple» voyelles. On se sert en outre de signes simplifié».
 
 
 ====
@@ -3318,9 +3318,9 @@ Une fable connue, composée de 70 mots, est écrite en 10 secondes, ce qui donne
 
 8. Documentation sténographique. — L'Association inter nationale des Sténographes a formulé le projet de concentration en une Bibliothèque unique de tous les documents dont le caractère commun est d'être le résultat de la sténographie. (Voir les communications faites à ce sujet par M. Depoin à 1??1. I. B.).
 
-9. Problème». — Il y a trois degrés dans le» problèmes a résoudre :
+9. Problèmes. — Il y a trois degrés dans les problèmes à résoudre :
 
-Io Une sténographie personnelle efficace;
+1° Une sténographie personnelle efficace ;
 
 2° Une sténographie lisible de tous ;
 
@@ -3354,7 +3354,7 @@ On a déterminé qu'un tableau phonographique complet comporterait environ 150 s
 
 Pendant la guerre, le Bureau des chiffres à l’Etat-Major français a été chargé de reconstituer le sens de tous les radiogrammes conventionnels.
 
-En diplomatie, le chiffre a dû se développer parallèlement « l'usage du cabinet noir par où les gouvernement» auprès desquels les ambassadeurs sont accrédités font souvent passer leur correspondance.
+En diplomatie, le chiffre a dû se développer parallèlement « l'usage du cabinet noir par où les gouvernements auprès desquels les ambassadeurs sont accrédités font souvent passer leur correspondance.
 
 Des hommes de science se sont servi d'écriture secrète. Ainsi Francis Bacon usait probablement de cryptographie comme un moyen d’enregistrement scientifique de ver» qu'il destinait à la postérité scientifique. Ces vérités auraient été inintelligibles pour les contemporains ou leur révélation aurait été dangereuse pour lui. (Bacon-Shakespeare. Mercure de France, 15-1X-1922.)
 
@@ -3363,7 +3363,7 @@ Des hommes de science se sont servi d'écriture secrète. Ainsi Francis Bacon us
 
 222  ELEMENTS GRAPHIQUES  *69*
 
-la difficulté de lire les dépêches en chiffres, on emploie une grille, carton bizarrement découpé à jour qui, dès quil est placé convenablement sur les dépêches, ne laisse paraître que les caractères nécessaires ; car les caractères de remplissage n’ont été ajoutés par l’expéditeur qu’après qu’il a eu écrit la dépêche.
+La difficulté de lire les dépêches en chiffres, on emploie une grille, carton bizarrement découpé à jour qui, dès quil est placé convenablement sur les dépêches, ne laisse paraître que les caractères nécessaires ; car les caractères de remplissage n’ont été ajoutés par l’expéditeur qu’après qu’il a eu écrit la dépêche.
 
 Le système d’écriture en chiffres le plus simple consiste à écrire les vingt-quatre caractères de l’alphabet (le ; non compris) sur deux lignes horizontales et parallèles. Quand on veut déguiser un mot, il suffit de représenter les lettres de chaque mot par celles qui leur correspondent dans l’autre ligne. Ce n’est guère qu’un jeu d’enfant. Les systèmes usités en diplomatie sont beaucoup plus compliqués.
 
@@ -3411,7 +3411,7 @@ Les combinaisons sont à l'infini. Le déchiffrement se fait par tâtonnement, b
 
 3. La métapsychique et les sciences occultes ont leur manière spéciale d'envisager certains phénomènes, tel le rôle enregistreur du papier. Maeterlinck raconte {L??H6tc inconnu, p. 51) qu'un voyant consulté par sa femme pendant qu'il allait voir les chevaux d'Elberfeld, sur la remise d'un papier de lui fort ancien et sans rapport avec son voyage, décrivit les écuries où il se trouvait. « faut-il croire que l'aspect de ce que j'allais voir un jour se trouvait déjà inscrit dans ce papier prophétique ou plus simplement et plus probablement que ce papier qui me représentait suffirait à transmettre soit au subconscient d'une femme, soit à Mme M. que je ne connaissais d'ailleurs pas encore, l’image exacte de ce que mes yeux contemplaient à cinq ou six cents kilomètres de là?»
 
-Le papier serait imprégné du fluide des personnes qui l'ont touché. Explication: < Ou bien le papier réuni au » psychomètre et imprégné de fluide humain recèle, à » la manière d'un gaz prodigieusement comprimé, toutes » les images sans cesse renouvelées, sans cesse renais » santés, qui entourent un être, tout son passé, et peut » être son avenir, sa psychologie, sa santé, ses désirs, sel » volontés souvent inconnues de lui-même, toute sa vie » en un mot, mystère aussi insondable que celui de la » génération, qui transmet, dans une particule infinités»-» male, la matière et l'esprit, toutes les qualités et les » tares, toutes les acquisitions, toute l’histoire d une série » d'existences dont nul ne peut savoir le nombre. » D'autre part, si Ton n’accepte pas que tant d'énergie puisse se cacher, subsister, s'agiter, se développer et indéfiniment évoluer dans une feuille de papier, il faut nécessairement supposer que de ce même papier rayonne constamment un invraisemblable réseau de forces innommées qui, à travers le temps et l'espace, retrouvent à l’instant même et n'importe où. la vie qui leur donna la vie et le mettent en communication intégrale, âme et corps, sens et pensées, passé et avenir, conscience et subconscience avec une existence perdue parmi la foule innombrable.
+Le papier serait imprégné du fluide des personnes qui l'ont touché. Explication: « Ou bien le papier réuni au » psychomètre et imprégné de fluide humain recèle, à » la manière d'un gaz prodigieusement comprimé, toutes » les images sans cesse renouvelées, sans cesse renais » santés, qui entourent un être, tout son passé, et peut » être son avenir, sa psychologie, sa santé, ses désirs, sel » volontés souvent inconnues de lui-même, toute sa vie » en un mot, mystère aussi insondable que celui de la » génération, qui transmet, dans une particule infinités»-» male, la matière et l'esprit, toutes les qualités et les » tares, toutes les acquisitions, toute l’histoire d une série » d'existences dont nul ne peut savoir le nombre. » D'autre part, si Ton n’accepte pas que tant d'énergie puisse se cacher, subsister, s'agiter, se développer et indéfiniment évoluer dans une feuille de papier, il faut nécessairement supposer que de ce même papier rayonne constamment un invraisemblable réseau de forces innommées qui, à travers le temps et l'espace, retrouvent à l’instant même et n'importe où. la vie qui leur donna la vie et le mettent en communication intégrale, âme et corps, sens et pensées, passé et avenir, conscience et subconscience avec une existence perdue parmi la foule innombrable.
 
 Le papier absorberait comme une éponge toute la vie et de préférence la vie subconsciente de celui qui ’’écrivit, et dégorgerait dans notre subconscience tout ce qu’il
 
@@ -3435,7 +3435,7 @@ méthodes correspond à un gain de temps dans l'ensei gnement.
 
 Dans la méthode Montessori, on commence par rendre la main et les doigts exercés à un dessin et plus tard on passe au tracé des lettres. La méthode repose sur un développement de tous les sens. Les doigts sont exercés à suivre le contour de lettres taillées dans du carton recouvert de papier de sable, très sensible au toucher.
 
-Des pédagogues ont pensé à faire apprendre à écrire aux enfants directement en se servant de la machine. Le mouvement de celle-ci et f activité qu'r/s peuvent y appliquer intéresse vivement les enfants, à qui ensuite seulement est apprise l’écriture à la main.
+Des pédagogues ont pensé à faire apprendre à écrire aux enfants directement en se servant de la machine. Le mouvement de celle-ci et l'activité qu'ils peuvent y appliquer intéresse vivement les enfants, à qui ensuite seulement est apprise l’écriture à la main.
 
 Cette idée est assez naturellement venue à l'esprit d'un pédagogue ayant remarqué que tout enfant, à la vue d'une machine à écrire, n’a qu'une idée: la mettre en mouvement. Il tape sur les touches, connaît très rapidement les signes et apprend, en se jouant, à lire et à écrire. De cette manière, on utilise l'instinct du jeu, si vif chez tout être jeune, aux fins de l'éducation. C'est un principe qu’en pédagogie il ne faut jamais oublier. L’expérience a déjà montré qu'après cet enseignement dû à la machine, risn n’est plus facile que d inculquer à l’enfant les premières notions de l'écriture.
 
@@ -3446,7 +3446,7 @@ Cette idée est assez naturellement venue à l'esprit d'un pédagogue ayant rema
 
 2. En dactylographie, on a atteint des vitesses de 45.5 à 60 mots par minute.
 
-[.a reine des dactylos (l'Américaine Rose Fritz) a ??u atteindre ia vitesse de 265 mot» à Ja minute, soit trois à quatre mots à la seconde, à la condition que le texte lui soit connu et que les mots soient de petits mots. Autrement la vitesse tombe à 155. Au fond ce travail ne signifie pas autre cho'e qu’un copieux récital de piano pour un musicien.
+[.a reine des dactylos (l'Américaine Rose Fritz) a ??u atteindre la vitesse de 265 mots à la minute, soit trois à quatre mots à la seconde, à la condition que le texte lui soit connu et que les mots soient de petits mots. Autrement la vitesse tombe à 155. Au fond ce travail ne signifie pas autre cho'e qu’un copieux récital de piano pour un musicien.
 
 3. La prise sténographique a des vitesse allant de 140 à 180 mots par minute.
 
@@ -3455,7 +3455,7 @@ Cette idée est assez naturellement venue à l'esprit d'un pédagogue ayant rema
 222.173 EMPLOI DE L ECRITURE.
 ..............................
 
-Au début, Jes besoins pratiques de l'écriture ont été fort limités, par ex. pour établir des inventaires, pour des aides-mémoires pour la récitation de rituels. Graduel-
+Au début, les besoins pratiques de l'écriture ont été fort limités, par ex. pour établir des inventaires, pour des aides-mémoires pour la récitation de rituels. Graduel-
 
 
 ====
@@ -3477,11 +3477,11 @@ Cinq moyens ont été ou sont à envisager :
 
 2° Le remplacement de petits systèmes alphabétiques par de plus grands;
 
-3” Une unification des alphabets sur la base de l’un d eux, l’alphabet latin ;
+3° Une unification des alphabets sur la base de l’un d'eux, l’alphabet latin ;
 
 4° Un alphabet nouveau à la forme rationalisée et standardisée ;
 
-5“ Un système général d’expressions unifié et standardisé dont l'écriture elle-même fasse partie,
+5° Un système général d’expressions unifié et standardisé dont l'écriture elle-même fasse partie,
 
 1°) Alphabet international. — On a travaillé à l’établissement d’un alphabet international pour la transcription a) de tous les autres alphabets, b) de tous les sons parlés quelconques,
 
@@ -3501,7 +3501,7 @@ Il permettrait de transcrire toutes les langues en aym botes phonétiques, abstr
 71 l
 2°) Renforcement des petits systèmes alphabétiques. — On a assisté à l’extension même d'alphabets différents sous la forme de quelques grands alphabets et cela parallèlement au mouvement qui a conduit à l'établissement de quelques grandes langues nationales, après le refoulement des patois.
 
-3") Unification à base d'alphabet latin. — Un grand mouvement s’est manifesté vers l'unification des alpha l>et-t sur la base de l'alphabet latin. En effet, on constate que le retour au gothique n’a guère fait de progrès en Allemagne dans ces dernières années.
+3") Unification à base d'alphabet latin. — Un grand mouvement s’est manifesté vers l'unification des alphabets sur la base de l'alphabet latin. En effet, on constate que le retour au gothique n’a guère fait de progrès en Allemagne dans ces dernières années.
 
 Les peuples Turco-Tartares de l'U. R. S. S. ont consacré et adopté l'alphabet latin de 1922 qui, a dit Lénine, constitue une révolution pour l'Orient. Et en effet, les peuples du Nord du Caucase et de l'Asie centrale n'avaient pas de langage écrit avant la révolution d'octobre. Dans i'Azerbajoor, on a constaté que la facilité d assimilation de l’alphabet latin sur l'alphabet arabe était de 7 à 80 % plus grande.
 
@@ -3544,7 +3544,7 @@ h) M. Takanadate, professeur à l’Université de l'okio, a proposé à la Comm
 
 4° Il y a lieu de chercher la rationalisation et la standardisation de l'alphabet.
 
-a) Un mouvement s'est fait jour pour le perfectionnement international de l’alphabet latin : des caractères de plus en plu?? clairs, h» réforme de» écritures curaives, des sin nouveau d’alphabets, abandon progressif de certaine?? lettres comme J et Y.
+a) Un mouvement s'est fait jour pour le perfectionnement international de l’alphabet latin : des caractères de plus en plus clairs, la réforme des écritures curaives, des sin nouveau d’alphabets, abandon progressif de certaine?? lettres comme J et Y.
 
 b) En langue internationale, on a cherché à éviter les signes qui causent des difficultés comme z, y, œ, etc. On se sert de signes simples pour des combinaisons fréquentes de son (x. c, etc.). (I)
 
@@ -3562,7 +3562,7 @@ La réforme de l'alphabet s’étend dans deux directions. Attribution des signe
 
 Un alphabet parfait devrait avoir autant de lettres et de signes complémentaires qu'il y a d'articulations et de sons élémentaires et distincts.
 
-A s'en tenir simplement au graphisme, toutes les lettres sont formées ce traits cor.slitués de lignes droites, brisées ou courbes. La sténographie a établi une classification des traits du graphisme et leur a attribué une signification rationnelle que ne connaissent pas les signes arbitraires et traditionnels de l’alphabet.
+A s'en tenir simplement au graphisme, toutes les lettres sont formées ce traits constitués de lignes droites, brisées ou courbes. La sténographie a établi une classification des traits du graphisme et leur a attribué une signification rationnelle que ne connaissent pas les signes arbitraires et traditionnels de l’alphabet.
 
 d) On pourrait enseigner un mode d’écriture classifica teur et synoptique, sténographie d’idées et non de mots. La disposition des idées se faisant avec le minimum de mots et le maximum de propriétés devra être relative, étant exprimée clairement et par des positions et dc?? grandeurs de caractères ainsi que par des signes très simples de relation et de classification. C’est ce vers quoi tendent les essais d'idéographie.
 
@@ -3704,9 +3704,9 @@ Les chiffres, les lettres et les symboles conventionnels constituent des éléme
 
 1) Les ubréeiuitons consistent dans des suppressions de lettres ou de mots admises par l’usage et remplacées généralement par des signes courts : on les emploie pour écrire plus vite et en moins d'espace.
 
-Les sigles sont des lettres initiales qui s emploient comme abréviations d un mot. Ainsi S. C, R. M. sont les régies de Sacra, Cathoiica, Regio, \1 ajcataa,
+Les sigles sont des lettres initiales qui s'emploient comme abréviations d'un mot. Ainsi S. C, R. M. sont les régies de Sacra, Cathoiica, Regio, \1 ajcataa,
 
-2) Les anciens usaient surtout des abréviations dans les inscriptions : mais ils s en servaient aussi dans les lois, les decrets?? les discours, les lettres et plus rarement dans les manuscrits de leurs ouvrages. Les Hébreux, les Grecs, les Romains se servaient des abréviations. Elles consistaient en une ou plusieurs lettres d'un mot, pour représenter ce mot. Voilà pourquoi Cicéron (signa verborum) les appelait singulœ litteræ, d'où l’on a fait siglœ, sigles. Il y a deux espèces de sigles : les sigles simples, qui désignent chaque mot par la seule lettre initiale, comme D. M. S. (Dis manibus sacrum), les sigles composés qui, après la lettre initiale, présentent une ou plusieurs lettres du mot, comme CS (consul), COSS (consulibus), S. P. Q. R (üenatus Populusque Homanus), AM (Amiens), Le mot grec par exemple K. A. P. A. I. (tête) faisant allusion aux cinq chefs de l'Eglise grecque, est composé des initiales de Constantinople, Antioche, Rome, Alexandrie et Jérusalem, D. O. M. se traduit Deo Optimo Maxime.
+2) Les anciens usaient surtout des abréviations dans les inscriptions : mais ils s'en servaient aussi dans les lois, les décrets, les discours, les lettres et plus rarement dans les manuscrits de leurs ouvrages. Les Hébreux, les Grecs, les Romains se servaient des abréviations. Elles consistaient en une ou plusieurs lettres d'un mot, pour représenter ce mot. Voilà pourquoi Cicéron (signa verborum) les appelait singulœ litteræ, d'où l’on a fait siglœ, sigles. Il y a deux espèces de sigles : les sigles simples, qui désignent chaque mot par la seule lettre initiale, comme D. M. S. (Dis manibus sacrum), les sigles composés qui, après la lettre initiale, présentent une ou plusieurs lettres du mot, comme CS (consul), COSS (consulibus), S. P. Q. R (üenatus Populusque Homanus), AM (Amiens), Le mot grec par exemple K. A. P. A. I. (tête) faisant allusion aux cinq chefs de l'Eglise grecque, est composé des initiales de Constantinople, Antioche, Rome, Alexandrie et Jérusalem, D. O. M. se traduit Deo Optimo Maxime.
 
 Il existe à la Bibliothèque Nationale de Paris un manuscrit, connu sous le nom de Virgile dMper, dans lequel plusieurs fragments de Virgile sont écrits en sigles. En voici le premier vers : Tityre, t. p, r. s. f. pour Tityre, iu patulae recubans su b fegmine fagi. De telles abréviations ne s'employaient sans doute que pour tenir lieu de passages trop connus, dont on ne voulait pas se donner In peine de faire la copie entière; autrement, elles seraient incompréhensibles. Chevillier, dans L Origine de / imprimerie de Paris, en donne un exemple tiré de la Logique d’Occam. On jugera par ce spécimen des singuliers rébus que les copistes donnaient à deviner : Sic hic e fal sm qd simplr a e pducibile a Deo g a e. Et silr hic a n e g a n e pducibile a Deo. Ce qu'il faut lire ainsi : Sicuf hic est fallacia sccundum quid simpliciter: A est producibile a Deo. Ergo A est. Et simi/iter hic: A non est. Ergo A non est producibile a Deo, Certains sigles embarrassent surtout les paléographes : ce sont ceux qui abrègent le» noms propres.
 
@@ -3730,7 +3730,7 @@ Dans les livres scientifiques on écrit les longues expressions répétées à q
 
 En principe, elles ne sont pas désirables, puisqu’elles
 
-peuvent exiger du lecteur de ae référer des abréviations à la Table de celles -cl.
+peuvent exiger du lecteur de ae référer des abréviations à la Table de celles -ci.
 
 Mais on a fait valoir qu'il y a là une économie matérielle qui peut chiffrer et qu’il s'agit encore plus de faire gagner du temps à ceux qui manient beaucoup d'indications bibliographiques. Il y a donc lieu d’organiser les abréviations et cela dans une double direction ; dans chaque science et dans chaque pays d’abord ; dans tous les pays et entre toutes les sciences ensuite.
 
@@ -3799,13 +3799,13 @@ schéma.
 222.3 Illustration.
 ^^^^^^^^^^^^^^^^^^^^
 
-?. L'illustration du livre et du document prend la forme d images réelles, d'images schématiques et de motifs décoratifs. Le mot illustration est un terme générique qui s'applique à l’ensemble des vignettes et dessins que contient une oeuvre, abstraction faite de ses espèces, de sa qualité et de son nombre. Ce terme comprend donc toutes les formes de présentation, tous les documents autres que les textes. Il correspond au mot anglais « Picture >.
+1. L'illustration du livre et du document prend la forme d'images réelles, d'images schématiques et de motifs décoratifs. Le mot illustration est un terme générique qui s'applique à l’ensemble des vignettes et dessins que contient une oeuvre, abstraction faite de ses espèces, de sa qualité et de son nombre. Ce terme comprend donc toutes les formes de présentation, tous les documents autres que les textes. Il correspond au mot anglais « Picture >.
 
-2, L'histoire de l'illustration du livre est marquée par les étapes suivantes :
+2. L'histoire de l'illustration du livre est marquée par les étapes suivantes :
 
 a) L’en/umînure ou peinture des livres: une des prin-cipn'es expressions de l'art du moyen âge. Elle est une source de renseignements sur la peinture des siècles primitifs; c’est un art d'une minutie extrême; Westu)ood (paléographe anglais) a compté n la loupe sur une surface d'un demi centimètre car té 158 enlacements d un mince ruban de couleur, bordé de traits blancs, sur un fond noir. Art complexe, essentiellement conventionnel.
 
-d) Dès 1423, gravures populaires en bois, origine même de 1??imprimerie. Les premiers imprimeurs désirèrent voir les produits de leurs presses rivaliser autant que possible avec les œuvres des anciens calligraphes et enlumineurs. Cela les conduisit naturellement à intercaler des images dans leurs publications. Les livres à images, imprimés d'un seul côté et où le texte n’est que l’accessoire des figures, ont même précédé les livres où l'image n’est que l'ornement, l’éclaircissement, l’illustration du texte.
+d) Dès 1423, gravures populaires en bois, origine même de l'imprimerie. Les premiers imprimeurs désirèrent voir les produits de leurs presses rivaliser autant que possible avec les œuvres des anciens calligraphes et enlumineurs. Cela les conduisit naturellement à intercaler des images dans leurs publications. Les livres à images, imprimés d'un seul côté et où le texte n’est que l’accessoire des figures, ont même précédé les livres où l'image n’est que l'ornement, l’éclaircissement, l’illustration du texte.
 
 c) XVe siècle. Gravure en taille douce (métal) inspirée de l'art du nielleur. mais le bois reste pour le livre.
 
@@ -3828,7 +3828,7 @@ En Allemagne, l’illustration du livre est devenue si
 
 considérable qu'on 1 a appeler « Illustrationsseuche w (épi démit- dr I illuslration ).
 
-Notre temps, dit Neural h, est près d'être appelé I Epoque des yeux. La démocratie moderne a commencé avec le discours, la presse, le livre. Aujourd hui, c est le cinéma, l’affiche réclame, le magazine illustré, l'exposition.
+Notre temps, dit Neural h, est près d'être appelé I Epoque des yeux. La démocratie moderne a commencé avec le discours, la presse, le livre. Aujourd hui, c'est le cinéma, l’affiche réclame, le magazine illustré, l'exposition.
 
 Le livre en fait devient de plus en plus un composé de textes et d’illustrations. Quelle est la meilleure de ces combinaisons ? 1° Insertion des illustrations dans le texte. Mais il ne faut pas que le texte soit tellement coupé, fragmenté par tant de reproductions, séparé en tronçons quasi invisibles par d'innombrables hors textes, qu’on ait peine à s'y retrouver. D'autre part, il est difficile a faire coïncider sans complication ni monotonie les illustrations types avec les textes qui les commentent. 2° Publication à part du texte suivi avec un système de références commodes d'un volume d'illustrations et de planches. 3" Publication sous forme de monographies sur feuilles, l'image étant la base, et le texte étant son commentaire.
 
@@ -3868,7 +3868,7 @@ Les relations et les éléments de l’image sont soutenus par les objets figur�
 
 4. L'image et la mystique.
 
-1° A l’origine l'image revêt un caractère magique, mystique, sacré. L’image n est pas seulement une représentation. Elle est quelque chose de 1 être representé lui-même. (L’envoûtement, le double.) L image participe du même caractère mystique que le nom de certains êtres qui ne peut même être prononcé. (Le nom de Dieu, l'Evangile qui est sacré, la Messe qu’on ne peut lire en langue vulgaire, ordinaire, etc.)
+1° A l’origine l'image revêt un caractère magique, mystique, sacré. L’image n'est pas seulement une représentation. Elle est quelque chose de 1 être representé lui-même. (L’envoûtement, le double.) L image participe du même caractère mystique que le nom de certains êtres qui ne peut même être prononcé. (Le nom de Dieu, l'Evangile qui est sacré, la Messe qu’on ne peut lire en langue vulgaire, ordinaire, etc.)
 
 2° L’image « mentale » d'un objet est une réalité particulière. à côté de la réalité de l’objet; il s'agit de la décrire exactement, de telle sorte que, de la seule description, se déduisent les propriétés particulières de
 l'image, qui l’opposent à l'objet physique et à la forme de l'image.
@@ -3898,7 +3898,7 @@ ce point et prohibèrent les images. Des Chrétiens d'Orient manifestèrent la m
 
 8° Les million? d’images répandues partout et consacrées à l'écriture sainte ne représentent ni les dieux, ni leurs personnages dans les vêtements de l'époque (comme le croit la masse ignorante), mais suivant une conception idéalisée qui répond au goût d'artistes postérieurs. Les écoles de peinture italienne ont exercé l’influence
 
-prépondérante: cela vient de ce qu'au moyen âge 1 Italie était non seulement le siège des Papes qui gouvernaient le monde, mais de ce qu’elle produisait aussi les plus grands peintres, sculpteurs, architectes qui se mettaient à leur service.
+prépondérante: cela vient de ce qu'au moyen âge l'Italie était non seulement le siège des Papes qui gouvernaient le monde, mais de ce qu’elle produisait aussi les plus grands peintres, sculpteurs, architectes qui se mettaient à leur service.
 
 5. Dessin.
 
@@ -3918,7 +3918,7 @@ Mais la photographie vient en aide aux artistes. Les épreuves photographiques s
 
 Dessin et photographie se complètent. Il est des objets que la photographie rend imparfaitement.
 
-7. ¡/enseignement et Je dessin.
+7. ¡/enseignement et le dessin.
 
 L’écriture de nos jours se double de dessin. Pourquoi
 
@@ -3929,7 +3929,7 @@ ne pas savoir dessiner comme on sait écrire.
 
 h Le dessin est roi dans les écoles en Amérique ».
 
-La petite princesse Elisabeth d Angleterre prend ses premières leçons de piano au moyen d une nouvelle méthode : les touches sont indiquées par diverses images d'animaux.
+La petite princesse Elisabeth d'Angleterre prend ses premières leçons de piano au moyen d une nouvelle méthode : les touches sont indiquées par diverses images d'animaux.
 
 (Miroir du Monde, 5 mars 1932, p. 295.)
 
@@ -3937,7 +3937,7 @@ La petite princesse Elisabeth d Angleterre prend ses premières leçons de piano
 
 1° L'invention du dessin perspective a été une découverte immense pour la technique de la représentation, La troisième dimension n'a été représentable qu à partir de ce moment. De quand date-t-elle 7
 
-2° Le premier effort fait pour représenter la réalité sphérique par un plan a été la perspective. Si l on n avait pas trouvé ce premier mode de représentation, un autre mode greffé sur celui-là rendrait d’immenses services. Il faut donc dégager le problème, les condition?, les éléments de sa solution.
+2° Le premier effort fait pour représenter la réalité sphérique par un plan a été la perspective. Si l'on n avait pas trouvé ce premier mode de représentation, un autre mode greffé sur celui-là rendrait d’immenses services. Il faut donc dégager le problème, les condition?, les éléments de sa solution.
 
 Géométrie descriptive.
 
@@ -3947,7 +3947,7 @@ La cartographie met en oeuvre diverses espèces de projections: a) Mercator ; h)
 
 d) Flamsted ; e) Flamsted modifié; f) projections polaires. 9, Caricature.
 
-La caricature e*t l’art d'exprimer une idée par le dessin.
+La caricature est l’art d'exprimer une idée par le dessin.
 
 La caricature (satyre, humour) constitue un départe ment important de documents.
 
@@ -4077,7 +4077,7 @@ La disposition de la page a été étudiée minutieusement, à la fois en vue de
 (1) Raymond Hesse : Le livre d’après guerre et les Sociétés de Bibliophiles.
 pratique et ta bibliophilie deviennent lois. La page est destinée à être vue (lue). Le mécanisme de la vision est donc en jeu. Les lois de l’optique et de l’occulistique sont à dégager et à observer avant tout. ( I )
 
-2, Historique, — La page texte d’après les époques présente un aspect très différent : Grèce: compact, pas de ponctuations. Moyen âge. enluminé. Renaissance : gloses, commentaires. Moderne : illustration et rubrication.
+2. Historique, — La page texte d’après les époques présente un aspect très différent : Grèce: compact, pas de ponctuations. Moyen âge. enluminé. Renaissance : gloses, commentaires. Moderne : illustration et rubrication.
 
 Les premiers livres imprimés étaient parfaits à tous les points de vue. depuis le papier jusqu’à la reliure qui a tenu pendant des siècles. Ce fut suivi ensuite d’une période d’hésitations et de décadence relative de l'art typographique ouc l’on peut caractériser parfaitement par les productions si laides que l’on connaît bien. Au commencement du XXe siècle, il y eut dans l’imprimerie une renaissance eu point de vue artistique.
 
@@ -4134,7 +4134,7 @@ Il est déplairont d’avoir à changer le sens de lecture et de vision d’un l
 
 9. L’esthétique du liore. — La présentation typographique doit faire l’objet des soins les plus attentifs. C’est dans le choix des caractères pour titres, sous-titres et rubriques, c’e't dans le sectionnement des masses en alinéas bien équilibrés que résident en gTande partie les conditions de la belle et bonne page écrite ou imprimée.
 
-La simple typographie est un art véritable par la stricte proportion des caractères et des titres, par l'ordonnance ment des blanc», par tous ces détails dont la réunion produit cette chose exquise et rare : un beau livre.
+La simple typographie est un art véritable par la stricte proportion des caractères et des titres, par l'ordonnance ment des blancs, par tous ces détails dont la réunion produit cette chose exquise et rare : un beau livre.
 
 Les grands principes que William Morris a engagés à observer sont les suivants. Il importe de ne rien négliger pour faire du bon ouvrage avec du matériel irréprochable, ce qui constitue l’unité du livre n’est pa» la page isolée ; mais la double page du livre ouvert, les deux masses de texte n’étant séparées que par un étroit espace au pli de la feuille ; la largeur des marges doit croître dans l’ordre suivant : la tête, les côtés, la base. Morris attachait une importance capitale à l’espacement, non seulement quant à l’assiette de l’oeil de la lettre sur la base, mais aussi quant à la distance entre les lettres d’un même mot, les mots d’une même ligne, les lignes d’une même page. Il nous a démontré que même sans le moindre essai d ornementation un livre peut devenir une oeuvre d’art, pourvu quç les caractères en soient bien dessine» sur une base carrée, qu’ils soient de même nature et rapproché» dans la composition sans < blanc» inutiles ». Morris voulait que l’illustration, soit planche, soit ornementation, fit partie intégrante de la page et fut comprimée dans le plan du livre.
 
@@ -4902,7 +4902,7 @@ On a la graduation suivante : la syllabe, (phonème), le mot, la phrase simple, 
 
 A la base de l'ordre des mots dans la phrase, il y a ce qu'on nomme la construction grammaticale. Deux facteurs la déterminent: l’ordre des idées et l’harmonie des sons. Les Hébreux dans leur langue pauvre ont suivi l'ordre des idées, les Grecs et les Latins ont souvent fait sacrifier à l'harmonie des sons la clarté d un style simple et direct. Le moderne latin et les anglo-saxons font des constructions directes, les germaniques rejettent le verbe à la fin.
 
-6. Formes intellectuelles fondamentales. — On peut dégager les formes intellectuelles suivantes, que les mathématiques ont singulièrement précisées, mais qui sont susceptibles de généralisation n tous les domaines des s€ iences.
+6. Formes intellectuelles fondamentales. — On peut dégager les formes intellectuelles suivantes, que les mathématiques ont singulièrement précisées, mais qui sont susceptibles de généralisation n tous les domaines des sciences.
 
 Une théorie forme un emrhaînement continu. — Un axiome est une vérité évidente par elle-même. — Une proposition ou théorème est une vérité qui a besoin d'une démonstration pour devenir évidente. — On donne ie nom de principe à une ou plusieurs propositions qui se rapportent à une même théorie. — Une hypothèse e.«t une supposition. — Une règle est I indication de la marche à suivre pour arriver à un résultat désiré- — Un système (ex. en arithmétique, du grec systema. assemblage) est un ensemble de conventions fur un même sujet. Ex. : système métrique, système de numérotation.
 
@@ -14951,7 +14951,7 @@ Lire, c’est prendre connaissance du contenu des livres, c’est recueillir ce 
 257.2 Nécessité et avantages de la lecture en général.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Tout homme doit chercher à vivre en tant qu'être intellectuel, ce qu’il est, et, par conséquent, il doit développer son intelligence sans se laisser absorber entièrement par les fonctions d’ordre automatique ou subalterne. D'autre part, le livre offre le meilleur de la pensée réfléchie et coordonnée des meilleurs esprits. La lecture, dès lors, s'impose à tout homme, car elle entretient la vie de l'esprit qui a besoin de se nourrir d’idées, comme le corps a besoin d'aliments. Une vie sans lecture sera toujours une vie médiocre. Confucius disait déjà : « Apprendre sans penser, c’est perdre ses peines; penser sans apprendre est périlleux. » Sénèque écrivait : € Réfugies-toi dans l’étude, tu échapperas à tous les dégoûts de l’existence. L'ennui du jour ne te
+Tout homme doit chercher à vivre en tant qu'être intellectuel, ce qu’il est, et, par conséquent, il doit développer son intelligence sans se laisser absorber entièrement par les fonctions d’ordre automatique ou subalterne. D'autre part, le livre offre le meilleur de la pensée réfléchie et coordonnée des meilleurs esprits. La lecture, dès lors, s'impose à tout homme, car elle entretient la vie de l'esprit qui a besoin de se nourrir d’idées, comme le corps a besoin d'aliments. Une vie sans lecture sera toujours une vie médiocre. Confucius disait déjà : « Apprendre sans penser, c’est perdre ses peines; penser sans apprendre est périlleux. » Sénèque écrivait : « Réfugies-toi dans l’étude, tu échapperas à tous les dégoûts de l’existence. L'ennui du jour ne te
 fera pas soupirer après la nuit et tu ne seras pas à charge de toi-même et Inutile aux autres. »
 
 Le livre est l'instrument d une gymnastique cérébrale et sentimentale aussi, qui nous entraîne à être plus clairvoyants et moins impulsifs, qui nous habitue, par l'effort d'une réflexion intime, à exploiter sans relâche toutes nos sources personnelles de raison et d’émotion (Pierre Cuitot-Vauquelin). Le livre est un ami, un consolateur, un guide, il est celui qui nous aide a formuler nos pensées et nos sentiments demeurés vagues et imprécis; il nourrit de sa substance et procure le réconfort spirituel. Retenons cette phrase d’une vieille femme simple et ridée disant au bibliothécaire, en rapportant un livre : « Que de beaux sentiments, un tel livre égaie les heures sombres et nous aide à vivre ».
