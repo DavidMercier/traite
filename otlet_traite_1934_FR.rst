@@ -1541,7 +1541,7 @@ L'invention dans un domaine retentit sur tous les autres; il y a emprunts et app
 
 2. Il n??y a pas eu une technique complète du livre, il y a encore bien des recettes. Le traditionalisme domine toute cette matière où il semble que l'on ne soit pas plus avancé que dans les premiers arts, alors que les progrès étaient la plupart inconscients et s’élaboraient avec une lenteur que nous nvons peine à nous représenter.
 
-(I) A. Ferrière « La bi b lîo-psychologie d’après les travaux de N. Roubakine » dans les « Archives des Pyschologics». 1916. N° 12, — Du même auteur: «Transformons l’école », 1920, p. 93-98. — T. Kellen ?? Die Bibliologbche Psychologie. Eine neuc Wissenschnft von Büchern uud. Letetn ?? Deutsche Verlegerzcitung j», Leinzig, 192!, N° 22). — S. Salvoni ?? N. Rouhnkine » (?? Culture Populaire ». N° 6, 1923). — Careî Scharten « De Mensch en dr Ge^eerde Nicolas Rouhakîne » (« Telegraaf ». 17. VIII, 1922. Amsterdam), — V. Bauer « Biblio-psychologie, novà weda o knize », dans le « Ceska Osveta », 1925. N° 6. — Thomson. J. « De macht van het boek » (?? Algemeen Handelshl^d ». 4 en 5 Maart, 1921). — Rocznîk Padagogiczny, Serja II Tom 11. 1924 (par Prof. H. RadlinxVh).
+(I) A. Ferrière « La bi b lio-psychologie d’après les travaux de N. Roubakine » dans les « Archives des Pyschologics». 1916. N° 12, — Du même auteur: «Transformons l’école », 1920, p. 93-98. — T. Kellen ?? Die Bibliologbche Psychologie. Eine neuc Wissenschnft von Büchern uud. Letetn ?? Deutsche Verlegerzcitung j», Leinzig, 192!, N° 22). — S. Salvoni ?? N. Rouhnkine » (?? Culture Populaire ». N° 6, 1923). — Careî Scharten « De Mensch en dr Ge^eerde Nicolas Rouhakîne » (« Telegraaf ». 17. VIII, 1922. Amsterdam), — V. Bauer « Biblio-psychologie, novà weda o knize », dans le « Ceska Osveta », 1925. N° 6. — Thomson. J. « De macht van het boek » (?? Algemeen Handelshl^d ». 4 en 5 Maart, 1921). — Rocznîk Padagogiczny, Serja II Tom 11. 1924 (par Prof. H. RadlinxVh).
 157 Enseignement ou Bibliologie pédagogique
 
 l( Dans une mesure considérable, les livres et les document» constituent un enseignement. Les livres, dès lors, jouent un grand rôle dans l’enseignement et réciproquement les cours enseignés donnent naissance à un grand nombre de livres.
@@ -1564,9 +1564,9 @@ transmission du savoir scientifique; il apporte une
 158 Le livre et la vie, la Réalité.
 ----------------------------------------
 
-?, Le Livre tend toujours à chasser les réalités vivantes î Ainsi les étudiants lisent leurs livres d’anatomie sans assez se reporter à T illustration vivante qu’ils emportent nécessairement avec eux. leur propre corps. Ainsi l’administration envisage les faits de la vie sociale à travers les rapports écrits ; elle a une vue artificielle des situations qui exigeraient des décisions rapides.
+1. Le Livre tend toujours à chasser les réalités vivantes î Ainsi les étudiants lisent leurs livres d’anatomie sans assez se reporter à l'illustration vivante qu’ils emportent nécessairement avec eux. leur propre corps. Ainsi l’administration envisage les faits de la vie sociale à travers les rapports écrits ; elle a une vue artificielle des situations qui exigeraient des décisions rapides.
 
-Les problèmes se posent donc d’une part, lutter contre ce qui est trop c livresque ». contre la lettre qui tue l’esprit ; d’autre part enserrer la réalité dans les textes de plus en plus précis, dans des documents de plus en plus représentatifs et complets.
+Les problèmes se posent donc d’une part, lutter contre ce qui est trop « livresque ». contre la lettre qui tue l’esprit ; d’autre part enserrer la réalité dans les textes de plus en plus précis, dans des documents de plus en plus représentatifs et complets.
 
 2. Si le livre sort de la vie, l’inverse est vrai aussi. Le livre, à son tour, produit la vie: vie extérieure, vie »Intérieure. Îl produit In vie extérieure en ce qu’il introduit et entretient dan?? le corps social un nombre immense d’idées qui sont comme les prototypes d’actions entreprises. Il produit la vie intérieure en ce que, dans la pensée de chaque lecteur il fait naître un monde et l’en fait jouir. Par le livre chacun est conduit dans tous les pays, introduit dans tous les milieux, initié à toutes les expériences de la vie. Par lui. la représentation mentale s’élève, s’élargit, s’approfondit: elle peut prendre une précision et une acuité extraordinaire, avance de l’auteur, avance du lecteur et tout se passe bientôt comme si les choses vraiment étaient présentes n’étant cependant représentées que par leur double, le livre. Il est des romans qu’on ne lit pas.
 
@@ -1597,7 +1597,7 @@ Sans cesse il faut distinguer la réalité de la pensée (méditée, parlée, é
 
 La science est une chose, l'organisation de la science en est une autre, l'une et l'autre sont intimement liées. La Bibliologie s'organise en tant que science de la Documentation et du Livre, tandis que ceux-ci considérés du point de vue de la science particulière dont ils traitent (Médecine, Droit, Technique, etc.) sont eux-mêmes des facteurs d'organisation dans leur domaine respectif. Í1 s agit donc en réalité de « l'organisation d'une partie de l'organisation », et il s'agit de recherches, d'enseignement et diffusion.
 
-L'organisation des recherches et des études s opère en tout domaine d'une manière de plus en plus systématique. Dans ses congrès suivis des travaux de réalisation qui en ont été la suite, l'Union des Associations Internationales s'est spécialement occupée de ces questions. (Voir Actes du Congrès mondial et Introduction aux volumes de Y Annuaire de la Vie Internationale.) Dans son Afonuel de Bibliographie historique (t. fI), M. Langlois a montré à propos de l'Histoire tout l'intérêt qui s'attache à l'organisation des Etudes dans une branche spéciale.
+L'organisation des recherches et des études s'opère en tout domaine d'une manière de plus en plus systématique. Dans ses congrès suivis des travaux de réalisation qui en ont été la suite, l'Union des Associations Internationales s'est spécialement occupée de ces questions. (Voir Actes du Congrès mondial et Introduction aux volumes de Y Annuaire de la Vie Internationale.) Dans son Afonuel de Bibliographie historique (t. fI), M. Langlois a montré à propos de l'Histoire tout l'intérêt qui s'attache à l'organisation des Etudes dans une branche spéciale.
 
 161 Recherches.
 ----------------
@@ -1645,7 +1645,7 @@ Diverses questions intéressant les Livres et le Document, comme tels ont déjà
 
 17 HISTOIRE ET ÉVOLUTION. PHASES DES SCIENCES BIBLIOLOGIQUES
 
-1. Trois points de vu© tendent à prévaloir dans toute science : le statique, le dynamique, le génétique ou évolutif. De même en Bibliologie. Très longtemps statique, elle même doit se faire maintenant largement évolutive et génétique.
+1. Trois points de vue tendent à prévaloir dans toute science : le statique, le dynamique, le génétique ou évolutif. De même en Bibliologie. Très longtemps statique, elle même doit se faire maintenant largement évolutive et génétique.
 
 La loi d évolution es1, générale. On la retrouve dans les phénomèmes biologiques, sociaux et ceux qui portent l’objet des autres sciences. Influence du milieu, procédés organiques divers et réitérés d'agrégation des parties en un tout; transition incessante d’un ordre moins homogène, moins organique, moins efficace et moins parfait à un autre plus homogène, plus organique, plus efficace et plut parfait.
 
@@ -1975,7 +1975,7 @@ comme il accumule les produits.
 
 Le livre est une arme, un outil.
 
-« Martin Luther, qu'on juge mal parce qu’on s’obstine n le considérer comme un théologien, fut surtout un patriote allemand, le plus grand idéologue contesté de ce pays. Il manie le pamphlet au lieu du cimeterre, mais il sait l’art d’armer les nobles contre les clercs. »
+« Martin Luther, qu'on juge mal parce qu’on s’obstine à le considérer comme un théologien, fut surtout un patriote allemand, le plus grand idéologue contesté de ce pays. Il manie le pamphlet au lieu du cimeterre, mais il sait l’art d’armer les nobles contre les clercs. »
 
 (Péladan.)
 
@@ -2067,7 +2067,7 @@ Langue du livre.
 
 4" Eléments intellectuels.
 
-Les formes intel’ectuelles du livre (Exposé didactique; rhétorique, genres littéraires, formes bibliologiques).
+Les formes intellectuelles du livre (Exposé didactique; rhétorique, genres littéraires, formes bibliologiques).
 
 Les données du livre. (Matière scientifique ou littéraire, res scripta).
 
@@ -2122,7 +2122,7 @@ Le papier soulève nombre de questions : La qualité,
 
 1. On a écrit sur pierre, sur métal, sur poterie, sur papyrus, sur parchemin et finalement sur papier.
 
-2. Le Livre de pierre, si solide et ai durable, a fait place au livre de papier, plus solide et plus durable encore. < Ceci tuera cela. »
+2. Le Livre de pierre, si solide et si durable, a fait place au livre de papier, plus solide et plus durable encore. « Ceci tuera cela. »
 
 (Victor Hugo, Notre-Dame de Paris.)
 
@@ -2154,7 +2154,7 @@ Le Papier pénétra dans l’Europe chrétienne avant la fin du XIIIe siècle et
 
 remplacer, pour la digestion de la pulpe de bois, le bisul- ? file pat la soude caustique. Celle-ci serait préparée sur les lieux mêmes d'utilisation en prenant du sulfate de soude de fabrication anglaise ; ce sel est traité pour soude pat un procédé analogue à celui de Leblanc. Ce mode de préparation de la cellulose est donc appelé fort impro prement procédé au sulfate II donnerait un papier de très bonne conservation.
 
-4. En principe, le papier est composé de cellulose, c’est-à dite une combinaison dans laquelle entrent 36 grammes de charbon et 41 grammes d eau.
+4. En principe, le papier est composé de cellulose, c’est-à dite une combinaison dans laquelle entrent 36 grammes de charbon et 41 grammes d'eau.
 
 Le beau papier autrefois se faisait de vieux chiffons de lin et de chanvre, mais les fibres de ces végétaux ont été remplacés par tous les végétaux plus ou moins fibreux ou par ceux dont la tige creuse est désignée sous le nom de paille: riz, maïs, ortie, houblon, genêt commun, bruyère, roseaux de marais, joncs, aloès, agave, bambous, alfa, phormium, tenax, hubuscus, mûrier à papier (broussone-tia), arable papyfera, etc. On a été jusqu'à utiliser les tiges de réglisse, de guimauve, de pois, de pommes de terre, les feuilles de châtaignes, voire même les algues marines.
 
@@ -2235,7 +2235,7 @@ BIBLIOLOGIE 221  *50*
 
 En 1886 ?? clé établi à Cross Lichterfelde près de Berlin, un institut pour l'essai du papier. A l'origine, son objet était exclusivement de contrôler tout le papier fourni aux services du Gouvernement prussien. Bientôt,
 
-¡1 fut utilisé aussi par les commerçants résidant en Aile magne et meme à l'étranger, qui désiraient voir vérifier si leurs papiers étaient conformes aux règles formulées par l'Institut. Celui-ci contrôle )a composition, le format, l'épaisseur, le poids, la consistance, le toucher, la résistance à l’humidité et le pouvoir d'absorption, la perméabilité à l'égard de la lumière. Au début, les producteurs allemands se montrèrent hostiles à l'établissement de l'inMitut. Bientôt cette opposition disparut et l'on reconnaît les avantages des essais officiels du papier. Aujourd'hui on attribue à cet institut une partie du succès du développement de la fabrication du papier en Allemagne. (1)
+Il fut utilisé aussi par les commerçants résidant en Alle magne et meme à l'étranger, qui désiraient voir vérifier si leurs papiers étaient conformes aux règles formulées par l'Institut. Celui-ci contrôle )a composition, le format, l'épaisseur, le poids, la consistance, le toucher, la résistance à l’humidité et le pouvoir d'absorption, la perméabilité à l'égard de la lumière. Au début, les producteurs allemands se montrèrent hostiles à l'établissement de l'inMitut. Bientôt cette opposition disparut et l'on reconnaît les avantages des essais officiels du papier. Aujourd'hui on attribue à cet institut une partie du succès du développement de la fabrication du papier en Allemagne. (1)
 
 Un laboratoire officiel d'analyses et d’essais de papier fonctionne au Bureau des Standards, à Washington.
 
@@ -2283,7 +2283,7 @@ Le papier est tombé de 24 centimes en 1862 à 2 centimes en 1900.
 
 Le papier journal qui avant la guerre se vendait 28 fr. les 100 kg., était en février 1918 à 180 fr
 
-Le prix du papier est devenu excessif dans les pays où la monnaie a été d’préciée au cours de la guerre. On peut dire, par exemple, qu’en Belgique, alors que le coefficient de dépréciation de la monnaie est de 7, on paie jusqu’à 12. 14 et 15 le papier. C'est immédiatement une entrave à la production.
+Le prix du papier est devenu excessif dans les pays où la monnaie a été dépréciée au cours de la guerre. On peut dire, par exemple, qu’en Belgique, alors que le coefficient de dépréciation de la monnaie est de 7, on paie jusqu’à 12. 14 et 15 le papier. C'est immédiatement une entrave à la production.
 
 Le papier qu'on payait en 1914. 30 fr. les 100 kg. en France, y monte jusqu'à 415 fr.
 
@@ -2312,7 +2312,7 @@ Le vieux papier à sa valeur. On a payé (octobre 1932) tes rognures blanches 12
 
 Le Papier a des usages multiples. Son usage pour la documentation (écrire et imprimer), mais ses autres usages multiples aussi : embaPage, tentures, matière d'objets usuels (serviettes, nappes, assiettes, plats, gobelets, etc.).
 
-On a tiré du papier des effets mats ou brillants, des loques, des veloutés, des plissés, des grains nouveaux imitant le» matières les plus riches, d'une variété insoupçonnée. qui ont fait d’un habillage banal un nouvel élément décoratif. II a un rôle décoratif. Le papier sert à remballage, à la tenture, a la construction de maints objets. C’est une surface souple, simple, pas coûteuse, prête à toutes fins. Le mode de présentation (emballage) exerce une influence prépondérante sur les résultats recherchés par le producteur, le papier assurant aux produits des chances de diffusion sérieuse.
+On a tiré du papier des effets mats ou brillants, des loques, des veloutés, des plissés, des grains nouveaux imitant les matières les plus riches, d'une variété insoupçonnée. qui ont fait d’un habillage banal un nouvel élément décoratif. II a un rôle décoratif. Le papier sert à remballage, à la tenture, a la construction de maints objets. C’est une surface souple, simple, pas coûteuse, prête à toutes fins. Le mode de présentation (emballage) exerce une influence prépondérante sur les résultats recherchés par le producteur, le papier assurant aux produits des chances de diffusion sérieuse.
 
 L’usage des boîtes se multiplie avec une variété infinie, à mesure que leur exécution est servie par un matériel mieux adapté. D’autre part, l’emploi du cartonnage publicitaire et même simplement démonstratif et didactique s’est étendu: pancartes, étiquetage, tableaux, des vitrines, formes découpées et autres formules attractives à base de carton. Celui-ci intervient maintenant dans l’enseigne ment pour les constructions du maître et des élèves. Il intervient dans le» démonstrations scientifiques et didactiques Par lu! est rendu possible l’établissement de modèles à destination muséographique.
 
@@ -2325,11 +2325,11 @@ On a opéré des tissages de fil de papier. L’article produit est la toile pou
 
 Il n y a pas que le papier. On écrit partout, on écrit de tout, on écrit sur tout. Sur tout, cela signifie sur toute matière, et quelle est vraiment de nos jours la matière qui n’ait pas été revêtue de signes ou d’images. Les inventions tendent à pouvoir écrire sur toute matière et è pouvoir fixer une maroue, fût-ce une simple lettre, un numéro sur toutes choses.
 
-î. On écrit et on imprime sur toile. Ex. albums indéchirables sur toile pour enfants de moins de 5 ans, publiés par la maison Hachette de Paris. Toiles dessinées et peintes avec textes indicatifs pour la confection de poupées. Les tissus ont été aussi des moyens d’écrire, peindre et dessiner. (Voir notamment le Musée des tissus de Lyon). On imprime en 3 ou 4 couleurs sur les sacs de jute è l’aide de rotatives sur lesquelles sont fixés des caractères en simili caoutchouc (système Tyger), Impression directe sur toile pégamoïde de cartes géographiques (système Cremers).
+1. On écrit et on imprime sur toile. Ex. albums indéchirables sur toile pour enfants de moins de 5 ans, publiés par la maison Hachette de Paris. Toiles dessinées et peintes avec textes indicatifs pour la confection de poupées. Les tissus ont été aussi des moyens d’écrire, peindre et dessiner. (Voir notamment le Musée des tissus de Lyon). On imprime en 3 ou 4 couleurs sur les sacs de jute è l’aide de rotatives sur lesquelles sont fixés des caractères en simili caoutchouc (système Tyger), Impression directe sur toile pégamoïde de cartes géographiques (système Cremers).
 
 2. Edison avait annoncé un jour l’avènement de livres en feuillets de niclcel. (Cosmopolitan Magazine. 1911.) Le nickel absorbera l’encre ?? d'imprimerie aussi bien qu'une feuille de papier. Une feuille de nickel d’une épaisseur d’un dix-millième de centimètre est meil'eur marché, plus résistante et aussi plus flexible qu une feuille de papier ordinaire, de celui qui sert couramment
 
-I dans la librairie. Un livre de nickel épais de 5 centimètres contiendrait 40,000 pages et ne pèserait que 460 grammes. Or. Edison alors se faisait fort de fournir 460 grammes de ces feuilles de nickel pour un dollar et quart.
+I dans la librairie. Un livre de nickel épais de 5 centimètres contiendrait 40,000 pages et ne pèserait que 460 grammes. Or, Edison alors se faisait fort de fournir 460 grammes de ces feuilles de nickel pour un dollar et quart.
 
 La ciselure repoussée peut être, au même titre que l’eau-forte et la lithographie, considérée comme un moyen de reproduction artistique. La dînanderie, qui existe depuis le XIIe siècle, est de la ciselure repoussée sur cuivre. On a plus récemment appliqué le même procédé de repoussage à d’autres métaux, même à l’or. (I)
 
@@ -2396,7 +2396,7 @@ Ex. : Bibliographie de PI. I. B.
 
 b) On a aussi des tirages interfolies de feuilles blanches. Ex. Enquête ethnographique et sociologique sur les peuples de civilisation inférieure par la Société belge de Sociologie.
 
-c) On a publié des livres formant listes d’adresses gommées a détacher et o donner. Ex. Directory of Libra-ries United States and Canada ; Wilson Cy Minneapolis.
+c) On a publié des livres formant listes d’adresses gommées a détacher et à donner. Ex. Directory of Libra-ries United States and Canada ; Wilson Cy Minneapolis.
 
 d) Livres à onglets ou à signets. Ex.: Les livres litur giques et les livres à lire fréquemment.
 
@@ -2411,11 +2411,11 @@ h) Forme harmonica ou paravent pour un exposé faisant suite.
 
 i) Livres à parties détachables. Ex. Le Guide allemand des chemins de fer.
 
-Les «Guides Bædeker» ne se vendent qu’en volumes complets et reliés. Mais ils sont divisés en partie» bro ebées séparément et qui peuvent se détacher. Dans ce but. on casse le livre au commencement et À la fin de la partie è séparer et Pon aperçoit de la gaze qu'il suffit de couper. Pour mettre ces parties brochées, on vend des couvertures reliées en toile.
+Les «Guides Bædeker» ne se vendent qu’en volumes complets et reliés. Mais ils sont divisés en parties bro ebées séparément et qui peuvent se détacher. Dans ce but. on casse le livre au commencement et À la fin de la partie è séparer et Pon aperçoit de la gaze qu'il suffit de couper. Pour mettre ces parties brochées, on vend des couvertures reliées en toile.
 
 j) Les publications sur fiches sont venues créer un nouveau type de documents basé sur une forme matérielle caractéristique.
 
-6) Les innovations de formes et matières des livres et leur protection juridique ont fait l objet d'études du Bureau Permanent du Congrès international des Editeurs (Milan 1906).
+6) Les innovations de formes et matières des livres et leur protection juridique ont fait l'objet d'études du Bureau Permanent du Congrès international des Editeurs (Milan 1906).
 
 221.22 Formats.
 """"""""""""""""
@@ -2488,7 +2488,7 @@ Pott 8vo Fcap 8vo . Crown 8vo Demy 8vo Med. 8vo . Royal 8vo lmp. 8vo . Pott 4to 
 
 13 1/2 x 10 1/2
 
-6. Le format des livres anciennement s??indiquait sous la forme in 4“, in-160, etc. Pour avoir plus de précision, on le mesure maintenant en centimètres sous la forme de deux facteurs. le premier celui de la hauteur, le second celui de la largeur Ex. : 28 X 12.
+6. Le format des livres anciennement s'indiquait sous la forme in 4“, in-160, etc. Pour avoir plus de précision, on le mesure maintenant en centimètres sous la forme de deux facteurs. le premier celui de la hauteur, le second celui de la largeur Ex. : 28 X 12.
 
 Dimensions approximatives des différents formats :
 Pott Foiio  
@@ -2586,7 +2586,7 @@ On a recherché de meilleurs formats et justifications pour les romans et autre,
 
 Par le format du livre, on a cherché le moyen de le tenir d une main, refermé (lire au lit, en fauteuil, en chemin de fer), plié en deux sans l'abîmer; on a cherché aussi le moyen de mettre le livre en poche (ex.: les catalogues d'expositions et de musées).
 
-Les formats des photographies n ont aucun rapport avec le format des publications et répertoires.
+Les formats des photographies n'nt aucun rapport avec le format des publications et répertoires.
 
 Le format cahier scolaire.
 
@@ -2642,27 +2642,27 @@ b) Orner, embellir;
 
 c) Evoquer le contenu. Symboles;
 
-d) Significative : aider à signifier, comme par ex. : reliure de couleurs conventionnelle??;
+d) Significative : aider à signifier, comme par ex. : reliure de couleurs conventionnelles?;
 
 e) Rendre plus compacte. Un exemple d’extrême con-
-(1) Il paraît maintenant un Annuaire International de la Reliure ancienne et moderne (Jahrbuch der Einband-kunst) von Han« Londbier und Erhard Klette: Zweiter Jahrgang 1929. Le Dr. Schreiber a proposé un répertoire d’illustration« concernant les reliures.
+(1) Il paraît maintenant un Annuaire International de la Reliure ancienne et moderne (Jahrbuch der Einband-kunst) von Hans Londbier und Erhard Klette: Zweiter Jahrgang 1929. Le Dr. Schreiber a proposé un répertoire d’illustration« concernant les reliures.
 
 
 ====
 
 221  ELEMENTS MATERIELS *55*
 
-densation obtenue j>ai une bonne reliure es! le «Webtters New International IJiclionary ??. Ce dictionnaire comprend
+densation obtenue j'ai une bonne reliure est le «Webtters New International Dictionary ??. Ce dictionnaire comprend
 
 400.000 mots en 2700 pages ne formant qu’un volume.
 
 2. Lspèces. — La reliure de l’époque moderne peut être divisée en trois parties ;
 
-f° La reliure d art ;
+f° La reliure d'art ;
 
-2??' La reliure d amateur ou de bibliothèque et celle ce luxe;
+2??' La reliure d'amateur ou de bibliothèque et celle ce luxe;
 
-3??> La reliure commerciale et la reliure usuelle (reliure d éditeur). La reliure commerciale ne date que d’une soixantaine d'années; elle a pris un développement considérable; elle relève de l’industrie ainsi que la reliure usuelle qui s exécute dans un grand nombre d'ateliers et sert à protéger les volumes des bibliothèques de prêt ou les volumes de peu de valeur : les volumes de prix, étien-nes. les catalogues, etc.
+3??> La reliure commerciale et la reliure usuelle (reliure d'éditeur). La reliure commerciale ne date que d’une soixantaine d'années; elle a pris un développement considérable; elle relève de l’industrie ainsi que la reliure usuelle qui s exécute dans un grand nombre d'ateliers et sert à protéger les volumes des bibliothèques de prêt ou les volumes de peu de valeur : les volumes de prix, étien-nes. les catalogues, etc.
 
 3. La reliure d'art. — La reliure de notre époque présente certaines caractéristiques. La richesse, la beauté d une matière de choix unie, polie, au grain hn et serré. La gaieté, l'éclat des coloris des cuirs employés. On les découpe en mosaïque, plus ou moins cubistes, où l'or, l'argent et l'ivoire viennent ajouter une note scintillante et qui chatoie.
 
@@ -2681,7 +2681,7 @@ Les machines sont venues révolutionner l’art autrefois tout manuel du relieur
 On a fait des couvertures de revues en aluminium (ex.: Revue de l'Aluminium).
 «J
 
-MM. Dun et Sfr ilson ( I) ont inventé un nouveau type de teiiuie pour les périodique. (Nom Fiaro). Il consi.te en celluloïd non inflammable avec cuir aux angles. La couverure de revue qui est caractéristique et souvent en couleur est visible grâce à la transparence. C'est sans bruit, clair, propre et durable.
+MM. Dun et Sfr ilson ( I) ont inventé un nouveau type de teiiuie pour les périodique. (Nom Fiaro). Il consiste en celluloïd non inflammable avec cuir aux angles. La couverure de revue qui est caractéristique et souvent en couleur est visible grâce à la transparence. C'est sans bruit, clair, propre et durable.
 
 7. Artifices de reliure. — Voici quelques artifices mis en oeuvre dans la reliure.
 
@@ -2732,7 +2732,7 @@ l) Au point de vue matériel, pour être bien proportionné, un volume ne doit �
 
 gros, »oit à remettre en un même volume trois ou quatre trop minces plaquettes. En principe, il importe que chaque œuvre distincte conserve son indivisibilité, même uprès la reliure ; c'est la ■ condition d'un classement rationnel.
 
-m) Les sous titres mal appliqués par l’imprimeur peu-vent être rectifiés par le relieur, de telle sorte que l’identification ne »oit pas troublée.
+m) Les sous titres mal appliqués par l’imprimeur peu-vent être rectifiés par le relieur, de telle sorte que l’identification ne soit pas troublée.
 
 n ) On peut recommander un solide cartonnage sur lequel est collé le titre même du livre broché, qui conserve ainsi l’aspect donné par l’auteur et l'éditeur. (1)
 
@@ -2827,7 +2827,7 @@ Donc dans l’ensemble ils ont un développement beaucoup plus parfait que la fo
 222.04 Importance de la graphie dans le livre.
 """""""""""""""""""""""""""""""""""""""""""""""
 
-Le livre tout entier est formé d'élément» graphiques : écriture, notation, illustration. Tout ce qui touche à la langue, à l’alphabet, à l'orthographe, à la forme de l'écriture, à la disposition des textes, largeur de ligne«, marges, blancs, facilite ou retarde la lecture, doit par conséquent être retenu comme facteur du progrès bibliographique. Et à côté du texte, il y a l'image.
+Le livre tout entier est formé d'éléments graphiques : écriture, notation, illustration. Tout ce qui touche à la langue, à l’alphabet, à l'orthographe, à la forme de l'écriture, à la disposition des textes, largeur de ligne«, marges, blancs, facilite ou retarde la lecture, doit par conséquent être retenu comme facteur du progrès bibliographique. Et à côté du texte, il y a l'image.
 
 222.1 Ecriture, Alphabet, Caractères typogra?? phiques.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -2839,7 +2839,7 @@ De nombreuses questions se posent au sujet de l'écriture: sa notion, son histoi
 
 *58* BIBLIOLOGIE 222
 
-Les méthodes pour apprendre à écrire. L art de l'écriture ou calligraphie.
+Les méthodes pour apprendre à écrire. L'art de l'écriture ou calligraphie.
 
 222.11 Notion.
 """""""""""""""
@@ -2876,7 +2876,7 @@ t. ],r. rudiments primitifs et anciens du dessin, de la sculpture, de la gravure
 
 L'écriture est passée par trois stades ï
 
-a) Représentation figurée des objets et des idée??.
+a) Représentation figurée des objets et des idées.
 
 b) Représentation altérée et conventionnelle des objets.
 
@@ -2916,7 +2916,7 @@ L’alphabet qui est devenu commun à tous les peuples indo-européens, est d'or
 
 Bien qu’on attribue aux Phéniciens l'invention de l'alphabet, il est établi que les premiers signes devenus ensuite des caractères, remontent à la préhistoire. Cadmus aurait importé l'alphabet phénicien chez les Grecs qui le transmirent aux Etrusques et par eux aux Romains. L'alphabet romain est devenu le nôtre, l'alphabet latin. Comme le phénicien, l'alphabet grec n'eut d'abord que 16 lettres. 7 y furent ajoutées ensuite: g, h, k, q, x, y, z. L'alphabet français n'est que de 23 lettres, jusqu'à ce que la distinction de l'i et du j, de l'u et du v fut bien étabfie (XVIIIe siècle). L'alphabet de l'Inde, le plus 1 2
 (1) M. Petit. — Histoire générale des peuples. La Mésopotamie, p. 22.
-(2) Jean Capart : Quelques découvertes récentes relatives a r histoire de T alphabet. Bull. Classe des lettres de l'Académie de Belgique. 1920, n° 7-6, p. 408.
+(2) Jean Capart : Quelques découvertes récentes relatives a l'histoire de l'alphabet. Bull. Classe des lettres de l'Académie de Belgique. 1920, n° 7-6, p. 408.
 
 
 ====
@@ -2933,7 +2933,7 @@ parlait, compte 50 caractères disposés non pas au hasard comine le nôtre, mai
 
 L'alphabet est indépendant de la langue. Les dialectes des groupes turcs n’emploient pas moins de six caractères d’écriture différents (sans compter les transcriptions avec l’alphabet russe). l’arabe', le syriaque transformé par les Oïgours, l'arménien. Je grec, l'hébreu et le chinois, auxquels il faut ajouter l'ancienne écriture dite tchou-dique ou »uniforme, aujourd'hui reconnue pour turque. (1)
 
-L'écriture nestorienne fut apportée jadis jusqu'au Pe-Lou par le inonde chrétien. Elle s'imposa au monde turc et mongol et résista même au boudhîsme et à l'écriture chinoise. Ce ne fut qu'après 1450 que l'Eglise musulmane Se vit assez forte pour se passer de cet alphabet et imposer l’écriture arabo-persatie. Encore le mongol et le mandchou. l'ont-ils fièrement et bravement conservée. L'écriture chinoise a dévoré et englobé les écritures de l'Inde, de l’Indochine, de la C orée et du Japon.
+L'écriture nestorienne fut apportée jadis jusqu'au Pe-Lou par le monde chrétien. Elle s'imposa au monde turc et mongol et résista même au boudhîsme et à l'écriture chinoise. Ce ne fut qu'après 1450 que l'Eglise musulmane Se vit assez forte pour se passer de cet alphabet et imposer l’écriture arabo-persatie. Encore le mongol et le mandchou. l'ont-ils fièrement et bravement conservée. L'écriture chinoise a dévoré et englobé les écritures de l'Inde, de l’Indochine, de la C orée et du Japon.
 
 Les anciens peuples du Pérou ne connaissaient pas précisément l'écriture, du moins suivant notre système phonétique. Mais ils possédaient un nombre respectable
 (1) Léon Cahun. Introduction à l'Histoire de l’Asie, p. 36.
@@ -2989,7 +2989,7 @@ que le Yiddish, qui se rapproche de l'allemand, est coin posé et imprimé en ca
 222.14 L’alphabet.
 """""""""""""""""""
 
-Il y a lieu de considérer: 1° les lettres, 2° les accents. 3" la ponctuation. 4° les signatures et les sigles,
+Il y a lieu de considérer: 1° les lettres, 2° les accents. 3° la ponctuation. 4° les signatures et les sigles,
 
 1. Les lettres. — Ce sont, dans l'alphabet français abcd efghijlclmnopqr stuvwxyz
 
@@ -3044,7 +3044,7 @@ A la paléographie appartient donc toute la partie pour ainsi dire extérieure d
 
 2. La graphologie est la science qui permet, par un examen méthodique et approfondi de l'écriture, de pénétrer le secret des caractères avec leur complexité, leurs contradictions, leurs tares. L'écriture, en effet, est révélatrice avec ses mille formes, ses mille manières, ses combinaisons variant à l'infini, enregistrement direct de ces petits gestes non surveil'és que le cerveau transmet automatiquement à la main et qui dévoilent l'être intime.
 
-3. L’écriture est étudié tour à tour comme moyen et comme objet d'identification. On voit la personna ité humaine à travers l'écriture comme derrière un voile troué, qui masque presque entièrement certains faits et en tévèle d’autres au contraire assez bien. (F. Michaud)
+3. L’écriture est étudié tour à tour comme moyen et comme objet d'identification. On voit la personnalité humaine à travers l'écriture comme derrière un voile troué, qui masque presque entièrement certains faits et en tévèle d’autres au contraire assez bien. (F. Michaud)
 
 4. Comme il est incontestable dit le Dr Héricourt. que les caractères de la personnalité se dessinent sur le visage, il y a d'autres mouvements, comme ceux du geste, dont l'étude porte un égal intérêt. Personne d'ailleurs ne conteste la valeur de l’allure en général, quand il s'agit de reconnaître une personne dont on ne voit pas les traits,
 
@@ -3053,22 +3053,22 @@ A la paléographie appartient donc toute la partie pour ainsi dire extérieure d
 
 222  ELEMENTS GRAPHIQUES  *65*
 
-on ne peut nier que le» caractère» particuliers d'un individu ne se peignent dan» le nombre, la rapidité et l’ampleur de ses mouvement», La parole qui diffère selon l'individu, serait utile aussi à étudier dans un but d’analyse psychologique. Au fond de ses études diverses en apparence, on trouve que le sujet est toujours le même. C’est l’activité musculaire sous ses formes diverses. Le jeu de la physionomie, l'allure des bras et des jambes, la manière de parler, ce sont toujours des muscles en action, des mouvements en partie volontaires et conscients, en partie involontaires et inconscients. Or, il est un appareil moteur qui se trouve en relation encore plus intime que les autres avec la fonction cérébrale idéo-motrice, et dont le jeu doit être en conséquence un reflet très fidèle des divers modes de cette activité : c’est celui qui prête à l’action d’écrire.
+on ne peut nier que le» caractère» particuliers d'un individu ne se peignent dans le nombre, la rapidité et l’ampleur de ses mouvement», La parole qui diffère selon l'individu, serait utile aussi à étudier dans un but d’analyse psychologique. Au fond de ses études diverses en apparence, on trouve que le sujet est toujours le même. C’est l’activité musculaire sous ses formes diverses. Le jeu de la physionomie, l'allure des bras et des jambes, la manière de parler, ce sont toujours des muscles en action, des mouvements en partie volontaires et conscients, en partie involontaires et inconscients. Or, il est un appareil moteur qui se trouve en relation encore plus intime que les autres avec la fonction cérébrale idéo-motrice, et dont le jeu doit être en conséquence un reflet très fidèle des divers modes de cette activité : c’est celui qui prête à l’action d’écrire.
 
 L’écriture est donc un geste, composée d’une multitude de petits gestes. Elle est le jet matérialisé de la pensée.
 
 5. Les écritures paraissent être réellement toutes différentes. On découvre une infinie variété de particularités graphiques, même dans les bâtons des enfanta. On arrive à des milliard» en calculant les variétés les plus simples que l’on peut produire dans le chiffre 1, le plus simple de tous les signes. (Crepîeux-Jamîn, Les lois fondamentales de la graphologie). Le» variétés graphiques sont attribuées aux variétés de caractères : il y a une relation entre le mot et son expression motrice.
 
-6. Des méthodes perfectionnées ont été imaginées, notamment par Crépieux-Jamin (L??Ecriture et le Caractère), par Pcrsifor ^razer (À B C de la Graphologie), par Bertillon (La Comparaison des écritures) par Locard (Technique graphométrique).
+6. Des méthodes perfectionnées ont été imaginées, notamment par Crépieux-Jamin (L'Ecriture et le Caractère), par Pcrsifor ^razer (À B C de la Graphologie), par Bertillon (La Comparaison des écritures) par Locard (Technique graphométrique).
 
-7. Autrefois les experts en écriture étaient des calligra-phes, de» lithographes, de» maîtres d’école qui travaillaient dan» des conditions matérielles déplorables, avec des instruments insuffisant??. Leur procédé consistait à colliger dans les pièces soumises à l'examen des ressemblances purement matérielles de graphisme. Les vérifications se faisaient sans méthode définie, sans règle catégorique, précise. Aujourd’hui les experts en écriture se servent d’instrument» de premier ordre : le microscope et la photographie.
+7. Autrefois les experts en écriture étaient des calligra-phes, des lithographes, des maîtres d’école qui travaillaient dans des conditions matérielles déplorables, avec des instruments insuffisant??. Leur procédé consistait à colliger dans les pièces soumises à l'examen des ressemblances purement matérielles de graphisme. Les vérifications se faisaient sans méthode définie, sans règle catégorique, précise. Aujourd’hui les experts en écriture se servent d’instrument» de premier ordre : le microscope et la photographie.
 
 8. Expertise des écritures. Faux en écriture. — Depuis qu’il y a des écrits, il y a des faux. Justinien en parle et nous avons toute une littérature sur cette question nu moyen âge et dans les Temps modernes. Des incidents célèbres, affaire Dreyfus, affaire Humbert-Crawford. ont donné une importance dramatique aux théories en présence. Toute une science est née pour dépister et découvrir ces faux. La photographie et la microphotographie y ont aidé. Le» retouches ont été décelées par la composition chimique différente des encres, l'actinisme différent donnant des nuances opposéej à la photographie.
 
-On a recherché le parallélisme grammatique et établi pour former des diagramme» une analyse graphométrique
-montrant la variation des valeurs angulaires des lettre1» authentique» et des lettres falsifiées. (1)
+On a recherché le parallélisme grammatique et établi pour former des diagrammes une analyse graphométrique
+montrant la variation des valeurs angulaires des lettres authentiques et des lettres falsifiées. (1)
 
-9, Des règles ont été tracées par le» maîtres de ta Société Technique des Experts en écriture et qui sont aujourd'hui enseignées dans ses cours.
+9, Des règles ont été tracées par les maîtres de la Société Technique des Experts en écriture et qui sont aujourd'hui enseignées dans ses cours.
 
 222.14 Instruments, encres et spécialistes de l'écriture.
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -3084,7 +3084,7 @@ Aux instruments de l’écriture sont apparentés les instrument» du dessin : r
 
 2, Antérieurement on a écrit avec le stylet sur la plaque de cire, avec l'arindo ou calame, avec la plume d'oie.
 
-Il n’y a pas plu?? d’une trentaine d'années, on écrivait encore en Birmanie avec un stylet de fer appelé «Kangit» sur de» feuilles de palmier, sans l'aide d'aucune encre. Le?? feuilles étaient ensuite roulées et placées dans un tube où elles pouvaient, paraît-il, conserver l'écriture intacte pendant de» centaines d’années. Cette méthode est encore employée par certains Birmans, spécialement par le» prêtres.
+Il n’y a pas plu?? d’une trentaine d'années, on écrivait encore en Birmanie avec un stylet de fer appelé «Kangit» sur des feuilles de palmier, sans l'aide d'aucune encre. Le?? feuilles étaient ensuite roulées et placées dans un tube où elles pouvaient, paraît-il, conserver l'écriture intacte pendant de» centaines d’années. Cette méthode est encore employée par certains Birmans, spécialement par le» prêtres.
 
 3, Aujourd’hui 1 emporte le stylo (le stylographe). porte-plume à réservoir, éventuellement avec plume en or ou en iridium.
 
@@ -3158,7 +3158,7 @@ Dans les pays d’occident, il n’y a donc plus d’écrivains publics, bien qu
 222.15 Ecriture à la main ou à la machine.
 """""""""""""""""""""""""""""""""""""""""""
 
-L'écriture se fait: 1° à la main (calligraphie); 2° à la machine a écrire (dactylographie) ; 3" par des procédés typographiques : xylographie, caractères fondus se composant à la main ; composition typographique à la machine.
+L'écriture se fait: 1° à la main (calligraphie); 2° à la machine a écrire (dactylographie) ; 3° par des procédés typographiques : xylographie, caractères fondus se composant à la main ; composition typographique à la machine.
 
 222.151 LA CALLIGRAPHIE, ECRITURE A LA MAIN.
 .............................................
@@ -3227,7 +3227,7 @@ Louis Elzevir (Leyde 1595) fut le premier qui distingua 17 et l’V consonnes de
 
 1. la gothique de forme, 2. la gothique de somme, 3. la bâtarde, type de transition; b) la lettre ronde ou Romain:
 
-1. Elzevir, type et forme de transition, 2, Didot: didot type, égyptienne, latine, 3. antique.
+1. Elzevir, type et forme de transition, 2. Didot: didot type, égyptienne, latine, 3. antique.
 
 Il y a toute une physiologie de la lettre. Le caractère et sa teinte ont une influence sur la compréhension des textes. I a lisibilité des caractères est le desideratum suprême. (I)
 
@@ -3263,7 +3263,7 @@ Les catalogues français donnent, par ex., les catégories suivantes : allongée
 6. Il existe aujourd’hui toute une industrie de la fonde rie des caractères. Tandis que les machines à fondre les caractères ne donnaient que 3,000 lettres a l’heure, la Wick Rotations machine en produit 60,000 tout ébarbés et prêtes è être mises en paquets. Le brevet américain fut payé £ 250.000. La machine est surveillée par un homme et un gamin. Elle a été inventé par Frederick Wicks, de Glasgow, simple écrivain et journaliste qui chercha à supprimer le travail de redistribution des textes. La Monotype a repris l'idée sous une autre forme. Elle aussi composant chaque jour sur caractères neufs, évite la redistribution.
 
 7. La durée des caractères dépend de la composition du métal. Des corps 7 et 8 ont souvent reçu deux millions d’impressions lisibles dans les journaux ; la normale est 2
-(2) Voir les récentes études de la « Linotype » et de son caractère Ionie, qui apporte, avec plus de clarté et de soutien pour l’oeil, une capacité de Î3 % de texte en plus, sur moins de papier.
+(2) Voir les récentes études de la « Linotype » et de son caractère Ionie, qui apporte, avec plus de clarté et de soutien pour l’œil, une capacité de Î3 % de texte en plus, sur moins de papier.
 un million, et mainte imprimerie rejette le petit type après 300,000. Pour les travaux courants et les ouvrages soignés, la limite doit être fixée beaucoup plus bas.
 
 222.16 Les systèmes spéciaux d’écriture.
@@ -3274,7 +3274,7 @@ Parmi les systèmes spéciaux et les modalités de l’écriture, il y a lieu de
 222.161 L'IDEOGRA HHIE.
 ........................
 
-On entend par idéographie de» signe» qui expriment directement l’idée et non le» sons du mot qui représenterait cette idée: le» chiffres arithmétiques »ont de véritables idéogrammes.
+On entend par idéographie de» signe» qui expriment directement l’idée et non le» sons du mot qui représenterait cette idée: les chiffres arithmétiques »ont de véritables idéogrammes.
 
 Tandis que les Chinois abandonnent l’idéographie et adoptent notre alphabet, voila que l’Occident lui reconnaît des avantages et fait des essais pour y revenir.
 
@@ -3581,12 +3581,12 @@ vement, c'est le devoir des hommes de rechercher sans cesse ce qui théoriquemen
 222.2 Notation et abréviation.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A côté de l’écriture usuelle prend place une catégorie importante de signes et de convention??: La notation, les abréviations. Le problème se pose aussi d’un système universel de notation.
+A côté de l’écriture usuelle prend place une catégorie importante de signes et de conventions: La notation, les abréviations. Le problème se pose aussi d’un système universel de notation.
 
 222.21 Notation.
 """""""""""""""""
 
-1) La notation (la (orme notée) prend place entre le. mots de la langue (texte) et l image. Elle exprime, sous une forme conventionnelle: 1° des éléments, parties ou aspects (termes) ; 2° leurs rapports entr'eux (formules, questions) ; 3° la classification des éléments et des rapports; 4" éventuellement leurs nombres et leurs mesures ; 5" l'expression condensée des lois.
+1) La notation (la (orme notée) prend place entre le. mots de la langue (texte) et l'image. Elle exprime, sous une forme conventionnelle: 1° des éléments, parties ou aspects (termes) ; 2° leurs rapports entr'eux (formules, questions) ; 3° la classification des éléments et des rapports; 4" éventuellement leurs nombres et leurs mesures ; 5" l'expression condensée des lois.
 
 2) Arrivées à un certain développement, les sciences créent leur notation. Ainsi, les notations de la mathématique et de la chimie. Cette notation est plus ou moins développée, complète.
 
@@ -3644,7 +3644,7 @@ vement, c'est le devoir des hommes de rechercher sans cesse ce qui théoriquemen
 222.2 Notation et abréviation.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A côté de l’écriture usuelle prend place une catégorie importante de signes et de convention??: La notation, les abréviations. Le problème se pose aussi d’un système universel de notation.
+A côté de l’écriture usuelle prend place une catégorie importante de signes et de conventions: La notation, les abréviations. Le problème se pose aussi d’un système universel de notation.
 
 222.21 Notation.
 """""""""""""""""
@@ -3803,7 +3803,7 @@ schéma.
 
 2. L'histoire de l'illustration du livre est marquée par les étapes suivantes :
 
-a) L’en/umînure ou peinture des livres: une des prin-cipn'es expressions de l'art du moyen âge. Elle est une source de renseignements sur la peinture des siècles primitifs; c’est un art d'une minutie extrême; Westu)ood (paléographe anglais) a compté n la loupe sur une surface d'un demi centimètre car té 158 enlacements d un mince ruban de couleur, bordé de traits blancs, sur un fond noir. Art complexe, essentiellement conventionnel.
+a) L’en/umînure ou peinture des livres: une des prin-cipales expressions de l'art du moyen âge. Elle est une source de renseignements sur la peinture des siècles primitifs; c’est un art d'une minutie extrême; Westu)ood (paléographe anglais) a compté n la loupe sur une surface d'un demi centimètre car té 158 enlacements d un mince ruban de couleur, bordé de traits blancs, sur un fond noir. Art complexe, essentiellement conventionnel.
 
 d) Dès 1423, gravures populaires en bois, origine même de l'imprimerie. Les premiers imprimeurs désirèrent voir les produits de leurs presses rivaliser autant que possible avec les œuvres des anciens calligraphes et enlumineurs. Cela les conduisit naturellement à intercaler des images dans leurs publications. Les livres à images, imprimés d'un seul côté et où le texte n’est que l’accessoire des figures, ont même précédé les livres où l'image n’est que l'ornement, l’éclaircissement, l’illustration du texte.
 
@@ -3826,16 +3826,16 @@ tendu à l’ornement d'un texte, lous s y mettent depuis 20 ans.
 
 En Allemagne, l’illustration du livre est devenue si
 
-considérable qu'on 1 a appeler « Illustrationsseuche w (épi démit- dr I illuslration ).
+considérable qu'on l'a appeler « Illustrationsseuche » (épi démit- de l'illuslration ).
 
-Notre temps, dit Neural h, est près d'être appelé I Epoque des yeux. La démocratie moderne a commencé avec le discours, la presse, le livre. Aujourd hui, c'est le cinéma, l’affiche réclame, le magazine illustré, l'exposition.
+Notre temps, dit Neural h, est près d'être appelé l'Epoque des yeux. La démocratie moderne a commencé avec le discours, la presse, le livre. Aujourd hui, c'est le cinéma, l’affiche réclame, le magazine illustré, l'exposition.
 
 Le livre en fait devient de plus en plus un composé de textes et d’illustrations. Quelle est la meilleure de ces combinaisons ? 1° Insertion des illustrations dans le texte. Mais il ne faut pas que le texte soit tellement coupé, fragmenté par tant de reproductions, séparé en tronçons quasi invisibles par d'innombrables hors textes, qu’on ait peine à s'y retrouver. D'autre part, il est difficile a faire coïncider sans complication ni monotonie les illustrations types avec les textes qui les commentent. 2° Publication à part du texte suivi avec un système de références commodes d'un volume d'illustrations et de planches. 3" Publication sous forme de monographies sur feuilles, l'image étant la base, et le texte étant son commentaire.
 
 222.31 Images réelles.
 """""""""""""""""""""""
 
-?. Notion. — L’image est une figure représentant une chose et obtenue par le procédé de quelqu un des art??' du dessin.
+?. Notion. — L’image est une figure représentant une chose et obtenue par le procédé de quelqu'un des arts du dessin.
 
 2. La surface réfléchissante devenue le miroir et la glace ont étendu la vision de l'homme. D’abord il a pu se voir lui-même, puis il a pu disposer sa vision dans des conditions plus pratiques, par réflexion d’angle, en angle comme dans les lunettes astronomiques.
 
@@ -3847,7 +3847,7 @@ Il sera traité sous 253 de la photographie, des estampes, gravures ; sous 272 d
 
 3. Théorie scientifique. 
 
-a) En physique, l’image est la reproduction d un objet par l’effet de certains phénomènes d optique : un miroir reflète une image, la photographie fixe l’image de la chambre obscure, il se forme dans chaque œil une
+a) En physique, l’image est la reproduction d un objet par l’effet de certains phénomènes d'optique : un miroir reflète une image, la photographie fixe l’image de la chambre obscure, il se forme dans chaque œil une
 
 
 ====
@@ -3908,7 +3908,7 @@ de ce qui est visible, faite avec des lignes. On entend
 
 par le dessin non seulement la forme particulière des
 
-corps, mais encore l'analogie de toutes les parties qui en forment l’ensemble, qu'on appelle proportion. L ensemble est ce qui présente à la vue l'union de toutes les parties d’un corps dans la proportion qui lui est propre, et sa perfection naît des rapports et de 1 harmonie des mouvements. »
+corps, mais encore l'analogie de toutes les parties qui en forment l’ensemble, qu'on appelle proportion. L'ensemble est ce qui présente à la vue l'union de toutes les parties d’un corps dans la proportion qui lui est propre, et sa perfection naît des rapports et de 1 harmonie des mouvements. »
 
 6. Dessin et photographie.
 
@@ -4043,7 +4043,7 @@ Sous Louis XV, l’engouement pour l'eau-forte est complet. C’est le temps où
 
 4, Notre temps est porté à supprimer les ornements. Il n'en aime pas moins les formes belles, bien proportionnées, harmonieusement riches de couleur ; il les trouve notamment dans la nature. Le modernisme évolue rapidement, on peut déjà considérer avec recul le modernisme d'après 1900, 1910, 1920 et 1925.
 
-5. On a posé la question : Un livre doit-il être uniquement décoré ou doit-il contenir des personnages > Contre la figuration de personnages on allègue qu'il y a un grand danger de leur donner corps. Chaque lecteur le
+5. On a posé la question : Un livre doit-il être uniquement décoré ou doit-il contenir des personnages ? Contre la figuration de personnages on allègue qu'il y a un grand danger de leur donner corps. Chaque lecteur le
 
 
 ====
@@ -4052,13 +4052,13 @@ Sous Louis XV, l’engouement pour l'eau-forte est complet. C’est le temps où
 
 fait avec son tempérament et son goût. Il faut un artiste de génie pour imposer la conception du personnage. (Ex. Gustave Doré a créé Gargantua, Naudin a incarné Le Neveu de Rameau, Brouet Les Frères Zemganno,) Un ornement, un paysage accompagneront au contraire le texte sans entrer en lutte avec lui. Ainsi le faisaient les éditeurs français du XVIIe siècle. Ceux d'après-guerre y reviennent pour les éditions demi-luxes ou livres purement typographiques, ( I )
 
-Fernand Lot a dit de Gustave Doré : » Traducteur du » rêve des plus hauts poètes de tout les temps, il n'a pas » été au-dessous de sa tâche. Il a su même si bien y » ajouter son propre rêve que sans lui désormais, Cer-» vantes, Dante et i’Arioste seraient appauvris »,
+Fernand Lot a dit de Gustave Doré : « Traducteur du » rêve des plus hauts poètes de tout les temps, il n'a pas » été au-dessous de sa tâche. Il a su même si bien y » ajouter son propre rêve que sans lui désormais, Cer-» vantes, Dante et i’Arioste seraient appauvris »,
 
 6. Il y a toute une géométrie des tracés basée notamment sur les projections et la perspective. Il y a une composition décorative par combinaison de points, lignes, plans et jeux de fonds.
 
 Le monogramme est un signe emblématique composé de lettres enlacées ou liées et qui expriment le nom propre d’une personne.
 
-7. Il faut applaudir aux progrès réalisés par les procédé» photomécaniques. Au point de vue documentaire, le domaine de la science est des plus vastes et elle n*a aucun intérêt à en franchir les limites. Par contre, le domaine de l'art appartient aux artistes et le livre d’art a besoin de spécialistes conscients. Le livre est un conseiller, il guide, il inspire, il instruit. Le beau livre est, en outre, un précieux ami. Il faut pouvoir l'aimer sans arrière-pensée et pour cela aucun détail ne peut en être négligé,
+7. Il faut applaudir aux progrès réalisés par les procédés photomécaniques. Au point de vue documentaire, le domaine de la science est des plus vastes et elle n'a aucun intérêt à en franchir les limites. Par contre, le domaine de l'art appartient aux artistes et le livre d’art a besoin de spécialistes conscients. Le livre est un conseiller, il guide, il inspire, il instruit. Le beau livre est, en outre, un précieux ami. Il faut pouvoir l'aimer sans arrière-pensée et pour cela aucun détail ne peut en être négligé,
 
 222.4 La page. — L’esthétique du Livre.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -4073,7 +4073,7 @@ La mise en page est au livre document ce que la mise en scène est au théâtre.
 
 Chaque partie du livre, chaque espèce de livre, chaque partie de chacune des espèces donne lieu à un type de présentation de la page imprimée. Ces types combinent des éléments communs avec des éléments qui leur sont propres.
 
-La disposition de la page a été étudiée minutieusement, à la fois en vue de faciliter la lecture d*une part et de répondre aux desiderata de l'esthétique d’autre part. Lu 1
+La disposition de la page a été étudiée minutieusement, à la fois en vue de faciliter la lecture d'une part et de répondre aux desiderata de l'esthétique d’autre part. Lu 1
 (1) Raymond Hesse : Le livre d’après guerre et les Sociétés de Bibliophiles.
 pratique et ta bibliophilie deviennent lois. La page est destinée à être vue (lue). Le mécanisme de la vision est donc en jeu. Les lois de l’optique et de l’occulistique sont à dégager et à observer avant tout. ( I )
 
