@@ -2074,7 +2074,7 @@ Les données du livre. (Matière scientifique ou littéraire, res scripta).
 
 Un livre est la réunion de feuilles de papier imprimé. Sur ces feuilles, l’impression, divisée par pages est dispo sée, recto et verso, de façon à ce que les pages se succèdent en ordre, après la pliure ; car ces feuilles seront pliées plus ou moins de fois sur elles-mêmes selon le format extérieur prévu pour le livre. Puis elles sont cascm-blées suivant un numérotage, indépendant de la pagina-lion. On nomme ce numéro de feuille la signature de fa feuille. Une fois réunies dans leur ordre, on y ajoute, en tête, le titre qui généralement n’est que la répétition de la couverture (le faux titre qui précède ne donne que l'indication du livre), les feuillets contenant la préface, avant-propos, avertissement. On place soit en tête, soit en fin de volume la table des matières. On ajoute les hors-texte, cartes, planches, tableaux, etc. On coud les feuilles, puis on broche, on cartonne ou on relie: C’est le livre. (Bourrelier.)
 
-Un livre est composé de plusieurs éléments : éfémenls intellectuels (idées, notions et Faits exprimés), é/émenis matériels (substance ou matière disposée en feuilles d’un certain format, pliées en pages) et éléments graphiques (signes inscrits sur la substance). Les éléments graphiques sont le texte et l'illustration. Le texte se compose d’écriture alphabétique et de notations conventionnelles. L’illustration comporte les images, soit dessinées (images à la main), soit photographiées d après nature (images mécaniques). Les illustrations sont placées dans le texte ou publiées sous forme de plan-
+Un livre est composé de plusieurs éléments : éléments intellectuels (idées, notions et Faits exprimés), é/émenis matériels (substance ou matière disposée en feuilles d’un certain format, pliées en pages) et éléments graphiques (signes inscrits sur la substance). Les éléments graphiques sont le texte et l'illustration. Le texte se compose d’écriture alphabétique et de notations conventionnelles. L’illustration comporte les images, soit dessinées (images à la main), soit photographiées d après nature (images mécaniques). Les illustrations sont placées dans le texte ou publiées sous forme de plan-
 
 ====
 
@@ -2115,7 +2115,7 @@ Les éléments matériels du Livre-Document sont constitués par son support, do
 
 Le papier soulève nombre de questions : La qualité,
 
-1 adaptation de différentes sortes aux usages variés auxquels on le destine, la standardisation proposée des formats, celle suggérée de certaine fabrication, les prix en fonction des possibilités de la consommation, les applications inattendue!« et réminiscentes des papiers et cartons. Le papier et le carton sont dans tous les pays devenus des éléments essentiels de l’organisation actuelle.
+L'adaptation de différentes sortes aux usages variés auxquels on le destine, la standardisation proposée des formats, celle suggérée de certaine fabrication, les prix en fonction des possibilités de la consommation, les applications inattendue!« et réminiscentes des papiers et cartons. Le papier et le carton sont dans tous les pays devenus des éléments essentiels de l’organisation actuelle.
 
 221.12 Historique.
 """""""""""""""""""
@@ -2166,7 +2166,7 @@ On a proposé d’utiliser les feuilles des arbres. Elles se composent d'un tiss
 
 6. Le film en celluloïd est devenu un support dans la photo et dans le cinéma. Il est en voie d’être remplacé
 
-(I) E. PER1ER: s Le monde vivant ». Le Temps, 10 juin 1918.
+(I) E. PER1ER: « Le monde vivant ». Le Temps, 10 juin 1918.
 
 
 par le film sonore en papier, incombustible, complété par le film photographique en papier.
@@ -6505,7 +6505,7 @@ a) Tout ce que la géométrie élémentaire avait trouvé pendant l'époque clas
 
 *130*  LE LIVRE F.T LE DOCUMENT  241
 
-Peu de livres ont eu un succès aussi durable. Depuis son apparition jusqu à nos jours, il n’a cessé d’ètre utilisé. Depuis rien d’essentiel n’a été changé. Les Anglais appellent encore leurs livres de géométrie élémentaire « Euclid ».
+Peu de livres ont eu un succès aussi durable. Depuis son apparition jusqu'à nos jours, il n’a cessé d’ètre utilisé. Depuis rien d’essentiel n’a été changé. Les Anglais appellent encore leurs livres de géométrie élémentaire « Euclid ».
 
 b) Les vrais manuels de l’antiquité sont les compilations du Ve et du VIe siècle, celles de Martianus Capella, d’Isidore de Séville, de Bolie, etc.
 
@@ -7784,7 +7784,7 @@ la répression des délits. Par le régime qu’a mis en vigueur la loi de 1881,
 241.329.1 LA PRESSE DANS DIVERS PAYS.
 ......................................
 
-1. *Angleterre*. — La presse anglaise n’eut pas une longue enfance. Dès le XVIIIe siècle, elle présenta i.n caractère de virilité. Elle intéressa par des récits de voyage en feuilleton. Elle fut longtemps l'organe de l’opinion, son porte-voix sincère et authentique, le défenseur attitré des intérêts et des citoyens anglais, l’incarnation de l'ame anglaise. La presse est maintenant trustée, aux mains de quelques potentats et risque fort de dégénérer.
+1. *Angleterre*. — La presse anglaise n’eut pas une longue enfance. Dès le XVIIIe siècle, elle présenta i.n caractère de virilité. Elle intéressa par des récits de voyage en feuilleton. Elle fut longtemps l'organe de l’opinion, son porte-voix sincère et authentique, le défenseur attitré des intérêts et des citoyens anglais, l’incarnation de l'âme anglaise. La presse est maintenant trustée, aux mains de quelques potentats et risque fort de dégénérer.
 
 Les journaux anglais à l'inverse des journaux français, semblent avoir essentiellement pour but de renseigner vite et bien. Peu de théories, peu de considérations générales : des faits, des faits, des faits. Cette forme de journalisme suffit à elle seule à caractériser la société britannique.
 
@@ -8074,7 +8074,7 @@ j) Parmi Ica recueils on peul ranger les œuvres complètes d’un auteur.
 241.431 NOTION.
 ................
 
-Un des plus grands travaux consiste à remonter jusqu à la source, jusqu’aux documents originaux. Les notions des anciens ? avants sont éparses dans les œuvres des citaicurt. Beaucoup de savants du moyen âge ont une partie de leurs œuvres éparses dans les ouvrages de commentaires. Ainsi quantité de livres anciens ne «ont connus que par des fragments, des traductions ou des citations.
+Un des plus grands travaux consiste à remonter jusqu'à la source, jusqu’aux documents originaux. Les notions des anciens ? avants sont éparses dans les œuvres des citaicurt. Beaucoup de savants du moyen âge ont une partie de leurs œuvres éparses dans les ouvrages de commentaires. Ainsi quantité de livres anciens ne «ont connus que par des fragments, des traductions ou des citations.
 
 Les fondateurs de grandes doctrines (par ex. Zenon et Cbrysipc) ne nou; sont connus que par des textes de plusieurs siècles postérieurs qui ne représentent pas leur pensée dons son intégrité. De bonne heure les disciples ou les commentateurs ont détruit l’unité du système; ils en ont retranché reion leurs principes et les besoins de* leur époque, les parties qui leur semblaient les plus andes et encore dans celles-ci ont-ils fait des choix.
 
@@ -8162,7 +8162,7 @@ Le Dr Mardrus, confrontant et colligeant des variantes innombrables de l’Histo
 241.44 Commentaires des textes.
 """"""""""""""""""""""""""""""""
 
-La publication de textes ne va pas sans commentaires qui dépassent souvent le simple rétablissement de l'écrit primitif pour pénétrer jusqu à la pensée des auteurs. Les commentaires sont immenses de la Bible, du Coran, du
+La publication de textes ne va pas sans commentaires qui dépassent souvent le simple rétablissement de l'écrit primitif pour pénétrer jusqu'à la pensée des auteurs. Les commentaires sont immenses de la Bible, du Coran, du
 
 I almud, des Sentences du Lombard et de nos jours des Codes, récemment des Traités internationaux.
 
@@ -8302,7 +8302,7 @@ Ces tables ont pour objet de montrer clairement les liens de parenté, descendan
 
 En science, on nomme table un cadre renfermant les résultats numériques soit de calculs effectués directement, soit d’expériences. Ce sont donc des séries de nombres ou d'observations que l’on inscrit dans un ordre métho dique pour faciliter les recherches.
 
-Ie' En mathématiques les tables ont pour objet d’éviter à l’opérateur de® calculs longs et pénibles en en donnant les résultats calculés dans les hypothèses aussi voisine" que possible les unes des autres. Tel est l’objet des tables de multiplication, de logarithme, de sinus et de tangente, de fonction elliptique et la table de Pythagore ou table
+Ie' En mathématiques les tables ont pour objet d’éviter à l’opérateur des calculs longs et pénibles en en donnant les résultats calculés dans les hypothèses aussi voisine" que possible les unes des autres. Tel est l’objet des tables de multiplication, de logarithme, de sinus et de tangente, de fonction elliptique et la table de Pythagore ou table
 (1) Spencer. Herbert. Descriptive Sociology or groups of Sociological facts. (En français par James Collier. Paris Alcan. I vol. in-folio. J
 
 H. Spencer a entrepris avec l'aide de 3 collaborateurs de présenter l’inventaire classé des faits sur lesquels doit reposer toute sociologie. Ce« faits ont donné lieu à des tables historiques «ynoptiqurs diverses en colonnes d'après les différents faits, et en extraits textuels d’ouvrages classés d'après le sujet social traité. L'œuvre devait s'étendre aux sociétés non civilisées, aux sociétés civilisées tombées en décadence et aux sociétés civilisées encore florissantes. Un premier volume seul a pu être publié de tout le travail achevé, car Spencer dépensa 4.423 livres et ne recouvrit par la vente que 1,054 livre*.
@@ -9681,7 +9681,7 @@ photocopie des manuscrits, au recto et au verso, d où
 e) Les photocopies peuvent être de véritables extraits. Elles sont en tout point l’équivalent de copies à la main qui auront été faites dans un livre ou dans une encyclopédie (texte ou image). Mais ce sont des extraits disposés dans l’ordre désiré, si bien qu’en réalité on peut se trouver en présence d un exposé nouveau, d'un véritable livre nouveau, qui n’a jamais été écrit antérieurement* mais dont la pensée qui choisit les documents a pu concevoir le plan, les idées directives, certains détails, sans qu’elle ait été obligée de procéder elle-même aux développements.
 
 La photographie a forcé les peintres, attaqués sur ce terrain de la vérité extérieure, à se tourner davantage vers
-l’expression de la vérité intérieure, psychologique. Le cinéma de même agit sur l’art dramatique. Quant au journal, il est consacré aux nouvelles et à l'information rapide. Mais il vit au jour le jour et il n’est point de surface. L’écrivain lui va se tourner de plus en plus vers l'ame en abandonnant les domaines des histoires et des faits anecdotiques où le journalisme excelle. Ainsi se vérifiera la pensée de Théophile Gautier, que le livre seul a de l'importance et de la durée.
+l’expression de la vérité intérieure, psychologique. Le cinéma de même agit sur l’art dramatique. Quant au journal, il est consacré aux nouvelles et à l'information rapide. Mais il vit au jour le jour et il n’est point de surface. L’écrivain lui va se tourner de plus en plus vers l'âme en abandonnant les domaines des histoires et des faits anecdotiques où le journalisme excelle. Ainsi se vérifiera la pensée de Théophile Gautier, que le livre seul a de l'importance et de la durée.
 
 La photographie a été longtemps dominée par la conception de la peinture. C’est récemment qu elle est devenue franchement réaliste: elle reproduit la chose directement. crûment et nous émerveille; ainsi, pores béants et rides nettes d un visage; tissu aux ciselures précieuses d’un vulgaire bout de bois, détails de structure de texture ou de facture de n’importe quel objet photographié. Nouvelle conception de l’espace ; un pouvoir de connaissance directe du monde qui nous entoure, et de notre vie même. (1)
 
@@ -11047,7 +11047,7 @@ De même qu'on fait des livres avec des livres, extrayant, combinant, amalgamant
 
 a) Le nombre de films instructifs et documentaires produits en 1932 est de 416. Ces films ont été produits par 141 sociétés et ont ensemble une longueur de 236.832 mètres. Le tableau des six dernières années montre une forte régression. 1932: 141 producteurs. 429 films, 244.086 m. ; 1931 : 160 prodeteurs. 469 films. 324.284 m. ; 1930: 194 producteurs, 658 films, 418,374 m. ; 1929 : 215 producteur». 728 films, 412,803 m. ; 1928 : 222 producteurs, 808 films, 455.039 m ; 1927: 214 producteurs. 870 films. 409.619 m.
 
-b) Dans l'enseignement, le film formant spectacle retient complètement l’attention de l'élève que rien ne vient distraire durant la projection. C'est un maître inlassable et qui peut répéter indéfiniment la même leçon. Il est de taille à faire gagner dans certaines parties de l'enseignement, jusqu à un an sur trois. On peut présenter des expériences de mécanique, par exemple, avec Ildernière aisance, tandis que dans une classe seuls les élèves du premier rang auraient pu les suivre. Un film américain sur l’industrie laitière fait comprendre aux ouvriers agricoles les plus obtus dans quelles conditions d'hygiène il importe de traiter les vaches et de préparer le lait, sous peine si on les néglige, de causer de vraies catastrophes.
+b) Dans l'enseignement, le film formant spectacle retient complètement l’attention de l'élève que rien ne vient distraire durant la projection. C'est un maître inlassable et qui peut répéter indéfiniment la même leçon. Il est de taille à faire gagner dans certaines parties de l'enseignement, jusqu'à un an sur trois. On peut présenter des expériences de mécanique, par exemple, avec Ildernière aisance, tandis que dans une classe seuls les élèves du premier rang auraient pu les suivre. Un film américain sur l’industrie laitière fait comprendre aux ouvriers agricoles les plus obtus dans quelles conditions d'hygiène il importe de traiter les vaches et de préparer le lait, sous peine si on les néglige, de causer de vraies catastrophes.
 
 Edison, estimant que le cours ordinaire des éludes
 ( I ) Le Phonoscope à cordes vibrantes, par le Dr Clary. lievue Scientifique, 13 août 1932, p. 464. Il permet à l’homme d’exprimer et de faire entendre sa pensée.
@@ -11284,9 +11284,9 @@ Des signaux, lampes de différentes couleurs, portent les instructions. La lumi�
 
 *235*  SUBSTITUTS DU LIVRE  243
 
-et 1,700 personne® doivent pouvoir respirer dans des studios dépourvus de fenêtres. L'établissement sert à
+et 1,700 personnes doivent pouvoir respirer dans des studios dépourvus de fenêtres. L'établissement sert à
 
-la transmission aux « Stations national » et « London régional *>, aux intercontinentales, et bientôt aux transmissions à l'*Impérial Broadcasting». On prévoit que prochainement la télévision sera intégrée définitivement dans les émissions régulières.
+la transmission aux « Stations national » et « London régional », aux intercontinentales, et bientôt aux transmissions à l'*Impérial Broadcasting». On prévoit que prochainement la télévision sera intégrée définitivement dans les émissions régulières.
 
 Ainsi quelques années après l'étonnante invention de la radio Ilété réalisée une centrale, une surcentruie qL attend encore le livre, vieux de millénaires, malgré ce qui a été réalisé dans les bibliothèques.
 
@@ -11391,7 +11391,7 @@ a) Que demain la pluralité simultanée des émissions d'ondes se réalise, le l
 
 b) On pourrait avec fantaisie imaginer que soient fixées,
 
-« gelées », quelque jour les ondes de la radio. Qu elles le soient dans quelque lieu de l’espace immense, à une échelle réduite (microscopique), de façon que l'etnma-gasinement soit limité faute de place. Ce serait là comme un document puisqu’il aurait corps matériel, mais à des distances telles qu’il serait ni visible, ni tangible, ni audible. Un appareil de # lecture » ou d’audition servirait à l'interprétation, à 1*utilisation ultérieure des données qui auraient été une fois radiodiffusées. Un immense enregistrement pourrait être fait de toutes les paroles dites, de tous les gestes faits partout. Ce serait vraiment le « Journal » de l'Humanité inscrit dans le ciel, ses annales consultables à tout instant, l'analogue du grand livre des mérites des hommes que. suivant la tradition, un Ange écrit constamment: la Mémoire Mondiale. partie de la Mémoire Divine. Une imagination ? Certes. Une anticipation ? Peut-être.
+« gelées », quelque jour les ondes de la radio. Qu'elles le soient dans quelque lieu de l’espace immense, à une échelle réduite (microscopique), de façon que l'etnma-gasinement soit limité faute de place. Ce serait là comme un document puisqu’il aurait corps matériel, mais à des distances telles qu’il serait ni visible, ni tangible, ni audible. Un appareil de # lecture » ou d’audition servirait à l'interprétation, à 1*utilisation ultérieure des données qui auraient été une fois radiodiffusées. Un immense enregistrement pourrait être fait de toutes les paroles dites, de tous les gestes faits partout. Ce serait vraiment le « Journal » de l'Humanité inscrit dans le ciel, ses annales consultables à tout instant, l'analogue du grand livre des mérites des hommes que. suivant la tradition, un Ange écrit constamment: la Mémoire Mondiale. partie de la Mémoire Divine. Une imagination ? Certes. Une anticipation ? Peut-être.
 
 243.5 Télévision.
 ^^^^^^^^^^^^^^^^^^
@@ -11404,7 +11404,7 @@ a) La télévision consiste dans la transmission des images à distance. La tél
 b) La télévision en tant que mode de transmission immatériel des informations est un substitut du livre. Mais en même temps, à la manière de la Télégraphie et de la Radiophonie, elle peut donner lieu à des documents. (On dit couramment Bellinogramme, Marconigramme. du nom des inventeurs.) Les documents sont ceux qui seront faits, en vue de l'émission au départ et ceux qui seront établis à la réception. On peut imaginer que l'image en mouvement transmise à distance y soit à nouveau cinématographiée à l'arrivée et aussi que tout un film créé au loin, puisse donner lieu, non seulement à une vision, mais à une reproduction à distance en tant que film.
 
 On arrive donc à envisager trois moments: image statique (photo), représentation dynamique directe de l’ima-
-ge (cinéma), reproduction à distance sur documents nouveaux d’une image en mouvement c télévisée ».
+ge (cinéma), reproduction à distance sur documents nouveaux d’une image en mouvement « télévisée ».
 
 c) La projection sans fil (télévision) conduira à une économie dans les films et dans le papier remplacé par l’écran.
 
@@ -11421,7 +11421,7 @@ Le procédé est celui-ci. La photographie ou la feuille portant le texte à tra
 
 Tout dessin, toute photographie est constitué par un assemblage de points blancs et noirs. C'est sur ce fait qu'est fondé toute la photogravure, la microphotographie et maintenant la télévision avec ou sans fil, avec ou sans mouvement.
 
-Grâce à l’emploi de la cellule photoélectrique, on a créé l'i œil électrique ». Les sons sont transformés en signes lumineux et inversement : le cycle a été réalisé son — image — son.
+Grâce à l’emploi de la cellule photoélectrique, on a créé l'« œil électrique ». Les sons sont transformés en signes lumineux et inversement : le cycle a été réalisé son — image — son.
 
 Pour transmettre une photographie à distance, on ne dépasse pas aujourd’hui 2.500 éléments par image, soit pm 20 images complètes 50.000 signaux par seconde. Pour transmettre correctement un film cinématographique (ce cas particulier de In télévision porte le nom de télécinéma) il faut décomposer chaque image en 300.000 éléments. S» le film se déroule à la vitesse de 20 images par seconde, il faudra six millions de signaux par seconde ou 60 fois plus.
 
@@ -11497,7 +11497,7 @@ spectacles que n'inspire aucune pensée littéraire, tels que ceux des grands Mu
 
 1° Les illusions naturelles. Par ex. le mirage, la réfraction de la lumière, l'écho.
 
-2° Les illusions pathologiques: tous les éta-s mentaux relevant de la maladie.
+2° Les illusions pathologiques: tous les états mentaux relevant de la maladie.
 
 3° Les illusions scientifiques: la plupart des instruments d'optique peuvent créer ces illusions. En particulier les glaces déformantes, le microscope même, qui a la propriété de faire paraître les objets plus gros qu'ils ne le sont réellement.
 
@@ -11650,11 +11650,11 @@ c) Un mouvement qui a son siège à l'abbaye du Mont-César de Louvain tend à l
 
 * plus qu'une méthode salutaire, est une prntique néces-
 
-* snîre. Elle tient aux profondeurs et X l'essence même n de la vie chrétienne envisagée dans sa réaliré collective
+* snîre. Elle tient aux profondeurs et à l'essence même n de la vie chrétienne envisagée dans sa réaliré collective
 
 * La vie liturgique est la participation des limes au culte » public, participation qui n*a guère de valeui »ans cette « union profonde et spirituelle. » (1)
 
-d) La musique î*ligicv»r est de première importance dan» le culte. Dan» l'Eglise orthodoxe les ch *
+d) La musique î*ligicv»r est de première importance dan» le culte. Dans l'Eglise orthodoxe les ch *
 
 une grande ampleur, chez les Protestants ^
 
@@ -11737,7 +11737,7 @@ j) p ' *a “it. L homme moderne sait qu’il n’est de
 réalités, *lue celles qui non, affectent directe-
 
 —
-'¿cailles. Essai sur le génie de Vari. — Cuymi, L'art t Vu® sociologique. — Pcrez Bernard, L'art de
+'¿cailles. Essai sur le génie de Vari. — Cuymi, L'art t Vue sociologique. — Pcrez Bernard, L'art de
 
 Joe sic chez I enfant. — Souriau, L'esthétique du mou rmen/ La suggestion dans Part. — Ricardon, De Vidéal 1 Hirth, Physiologie de l'art.
 
@@ -11842,7 +11842,7 @@ ié«ilité qui est l'homme, le sentiment de l'homme. Par exemple, toutes les pr
 
 b) Les œuvres d’art intéressent la documentation sous plusieurs aspects : Io la notion de représentation visuelle des objets, des idées et des sentiments; 2° la mise en œuvre du dessin et de la couleur ; 3" l'idée de beauté, animatrice et directrice de la production des œuvres et qui comme elle inspire aussi les œuvres littéraires ; 4" la littérature considérable à laquelle a donné lieu l'art, sa théorie, sa pratique, ses œuvres, sa critique et son histoire; 3,J le parallélisme historique dans le développement des lettres et des arts, tous deux également effets et facteurs de la culture ; 6" la reproduction des œuvres sous les formes matérielles du document; 7' la place énorme que l'art a pris dans la documentation de tout sujet et réciproquement celle des méthodes de la documentation appliquées aux œuvres d art.
 
-c) La langue du peintre n'est pas la même que ta langue du poète. Le peintre n’a pas besoin de traducteur. La toile, pour être comprise, n'exige aucun truchement. Le peintre s’adresse au pubhc national ou étranger, directement sans intermédiaire. Il travaille pour le monde entier. De là les influences immédiates de l'art pictural.
+c) La langue du peintre n'est pas la même que la langue du poète. Le peintre n’a pas besoin de traducteur. La toile, pour être comprise, n'exige aucun truchement. Le peintre s’adresse au pubhc national ou étranger, directement sans intermédiaire. Il travaille pour le monde entier. De là les influences immédiates de l'art pictural.
 
 Les œuvres sculptées aussi ont un caractère hautement documentaire, outre leur caractère artistique. Ainsi les Prophètes, les Vices du portail de In cathédrale d'Amiens, les bas-reliefs des porches de Notre-Dame de Chartres, les œuvres sculpturales de tant d autres cathédrales constituent l’interprétation en pierre de conceptions bien définies. ( I )
 
@@ -11884,7 +11884,7 @@ Dans les phases du livre, on retrouve la formule générale de l'évolution: cr�
 
 c) A tous les stades de ce cycle d'opérations interviennent de multiples facteurs : les parties et les espèces de livres, considérées comme résultat a attendre du travail fait, ou comme matière du travail à faire; les méthodes; les personnes; l'outillage; les locaux; les organismes spéciaux ou généraux. Il est traité de chacun de ces facteurs à leur siège principal. (Voir n°* 23. 24, 4L)
 
-d) Il est impossible a un esprit seul de réaliser *e livre. Le travail doit y être divisé. Ceux qui conçoivent, qui écrivent, qui résument, qui commentent, qui impriment, qui corrigent, sont d'autres hommes. Il est des règles pour chacune de ces opérations. (Ex. règles des éditions critiques, règles de l’art d'écrire, règles typographiques, règles du classement alphabétique, etc.)
+d) Il est impossible a un esprit seul de réaliser le livre. Le travail doit y être divisé. Ceux qui conçoivent, qui écrivent, qui résument, qui commentent, qui impriment, qui corrigent, sont d'autres hommes. Il est des règles pour chacune de ces opérations. (Ex. règles des éditions critiques, règles de l’art d'écrire, règles typographiques, règles du classement alphabétique, etc.)
 
 I .'emploi simultané de ces règles ne saurait être demandé à une même personne. C'est donc à plusieurs qu'il faut se mettre sur une même œuvre, sur un même texte, pour lui donner forme définitive. A l’origine, il n’y avait pas de division du travail entre les diverses opérations du livre. Ce n’est que du XIXe siècle que date la constitution en branches spéciales de l'imprimerie, l'édition, la librairie. La coopération étroite s’y impose.
 
@@ -11946,13 +11946,13 @@ e) Bien diviser son temps et sérier son travail.
 
 f) Eviter la fatigue cérébrale. Conserver la fraîcheur d’esprit. Mais la fatigue provient moins du travail lui-même que des tracas, des préoccupations, des rivalités, des ambitions non satisfaites, des conditions matérielles, du bruit, de l'interruption et du morcellement, de la presse et de la bousculade dans lesquelles le travail s'effectue.
 
-g) Se reposer d'un travail par un autre travail d une nature différente. Avoir son plan général personnel de vie intellectuelle. Repasser de temps en temps ses propres notes, ses écrits pour les confronter avec ses idées du moment, Placer son activité particulière dans la perspective des objectifs généraux qu'on s’est proposé, de son plan général.
+g) Se reposer d'un travail par un autre travail d'une nature différente. Avoir son plan général personnel de vie intellectuelle. Repasser de temps en temps ses propres notes, ses écrits pour les confronter avec ses idées du moment, Placer son activité particulière dans la perspective des objectifs généraux qu'on s’est proposé, de son plan général.
 
 h) Avoir un siège principal de travail, son « atelier » où sont réunis les matériaux, la documentation et aussi l'outillage, le mobilier et les accessoires familiers. On doit pouvoir travailler en tous lieux comme en tous temps. Avoir toujours sur soi le carnet à fiches disponibles. Mais ces lieux de travail, fixes et ambulants (en auto, en chemin de fer, en bateau) ne sont que provisoires, transitoires ou succursales. Il faut un centre, que ce soit ches soi, au bureau ou à l'Institut.
 
 ») Etablir un équilibre entre le physique et le mental. De l'exercice, eventuellement du sport ; marcher au lieu de se faire transporter au siège de ses occupations; travailler en plein air. Faire alterner un travail de physique avec un travail intellectuel. C'était la règle des anciens ordres religieux. Ce serait la loi dans la Cité Collectiviste : un travail physique utile est préférable à de vains exercices gymnastiques.
 
-j) Savoir prendre congé et des vacances, c dételer », L division rationnelle de la journée de travail, de la semaine, du temps des vacances fait maintenant l'objet d’un examen sérieux.
+j) Savoir prendre congé et des vacances, « dételer », L division rationnelle de la journée de travail, de la semaine, du temps des vacances fait maintenant l'objet d’un examen sérieux.
 
 k) Les intellectuels américains ont introduit l'année sabbatique: un renouvellement de l'esprit tous les sept ans.
 
@@ -12000,7 +12000,7 @@ b) L’auteur est l'élément subjectif de la connaissance. D’un même événe
 
 Paul Marguerite écrit : c J'appartiens désormais à
 
-l'univers de frictions observées et vues, a ce singulies dédoublement de l'artiste qui crée avec du réel et de l'imaginaire, opère par une alchimie d'indosables éléments, l'illusion plus ou moins parfaite dans l'ame du lecteur. Je serai à certaines heures le voyant éveillé d’un songe et meme, lorsque je vivrai mes plus médiocres actes quotidiens, un travail inconscient ou mi-conscient persistera en moi. »
+l'univers de frictions observées et vues, a ce singulies dédoublement de l'artiste qui crée avec du réel et de l'imaginaire, opère par une alchimie d'indosables éléments, l'illusion plus ou moins parfaite dans l'âme du lecteur. Je serai à certaines heures le voyant éveillé d’un songe et meme, lorsque je vivrai mes plus médiocres actes quotidiens, un travail inconscient ou mi-conscient persistera en moi. »
 
 c) On peut cLaser par ordre les écrivains. Il en est de premier, troisième et dixième ordre. Ceux qui sont classés pour nous du dixième ordre, ont été parfois pour les contemporains du premier.
 
@@ -12713,7 +12713,7 @@ b) Il existe de remarquables musées de l’imprimerie, entr’autres le Gutenbe
 
 a) Une foi# établi, en original ou en reproduction, le. livre, le documrnt. sont objets de distribution. Celle-ci s'est organisée progressivement nu cours du temps. Elle dispose maintenant d’institutions et de systèmes perfectionnés. Il y a lieu de distinguer la distribution matérielle liée à des opérations de transport et la distribution intellectuelle ou diffusion des données incluses dans les documents av^e comme conséquence I influence de ces données.
 
-b) Le temps de diffusion des ouvrages est souvent fort long. Ainsi Dante fut fort peu connu en France jusqu à la fin du XVIIIe siècle; sa renommée date de I époque romantique. Celle de l’épopée du Tasse, la Jérusalem délivrée, date particulièrement en France du XVIIe siècle. Shakespeare y pénètre au XVIIIe siècle; alors on le traduit et on Limite.
+b) Le temps de diffusion des ouvrages est souvent fort long. Ainsi Dante fut fort peu connu en France jusqu'à la fin du XVIIIe siècle; sa renommée date de I époque romantique. Celle de l’épopée du Tasse, la Jérusalem délivrée, date particulièrement en France du XVIIe siècle. Shakespeare y pénètre au XVIIIe siècle; alors on le traduit et on Limite.
 (I) Revue suisse de l'Imprimerie, 1933, juin, p. 15
 
 
@@ -14782,7 +14782,7 @@ race, du milieu et du moment (historique). La critique de Brunetière se base su
 
 Le rôle dictatorial de la critique anglaise a été tenu longtemps par l'Athoeneum. Il a été dévolu depuis au supplément littéraire du Times.
 
-Bernard Shaw aime à prévenir les critiques de ses œuvres et le® fait précéder d'une critique préventive.
+Bernard Shaw aime à prévenir les critiques de ses œuvres et les fait précéder d'une critique préventive.
 
 Le temps est l'autorité suprême qui juge les livres, un juge qui ne se laisse jamais ni éblouir, ni tromper. Le temps, c’est la réflexion de l'humanité, (Aimé Martin)
 
