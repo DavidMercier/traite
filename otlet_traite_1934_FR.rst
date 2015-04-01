@@ -11669,7 +11669,7 @@ e) « Une musique spécifiquement religieuse devrait s'in-
 
 * corporer au culte nu point de ne jamais s'en distinguer.
 
-» 11 y faut cependant le travail des siècles : la liturgie de
+» Il y faut cependant le travail des siècles : la liturgie de
 
 « la Messe elle-même, si fixée qu'elle nous paraisse dans » ses parties essentielles, a mis du temps à imposer sa n forme, sa déclamation, sa mélodie. Le grégorien a été r une nouveauté comme plus tard le palestinien, peut
 
@@ -11700,7 +11700,7 @@ cl Costumes et uniformes, — La vie sociale a longtemps eu recours aux costumes
 
 Une organisation active, a dit Einstein, est nécessaire pour dramatiser la paix. Et l’Internationale verte s'est présentée « comme un nouvel ordre de vie dans un monde nouveau ». S'adressant à la vie. cet ordre est réalisé par des symboles, des couleurs, des drapeaux, et aussi des gestes, des machines et des parades extérieures. La nouvelle « Union internationale pour la paix », créée par la Jeunesse, veut aussi revêtir ses membres de brassards et d'uniformes.
 
-d) Voyage. — 11 est également un spectacle, une documentation instructive qui passe sous les yeux. Voyager ou pénétrer soi-même dans certains milieux, c*est recevoir les sensations directes des choses et vivre au milieu d'elles, agir en fonction d'elles.
+d) Voyage. — Il est également un spectacle, une documentation instructive qui passe sous les yeux. Voyager ou pénétrer soi-même dans certains milieux, c*est recevoir les sensations directes des choses et vivre au milieu d'elles, agir en fonction d'elles.
 
 Aller voir de visu ce dont on a lu les descriptions ou compléter un plan de lectures par un plan de voyage; le* unes devant précéder, les autres suivre. Avoir visité le monde.
 
@@ -11920,11 +11920,11 @@ a) La composition des livres et des documents est une espèce dont le genre est 
 
 251  OPERATIONS, FONCTIONS, ACTIVITES  *249*
 
-b) Le travail intellectuel, comme tout travail, doit passer de la phase spontanée à la phase réfléchie et, sans rien perdre de la force et de l'originalité que lui donne la spontanéité même jaillie des sources de la vie, il faut lui donner l'autre force que donne l'expérience commune généralisée par la science, la rationalisation, 11 y a donc méthodes et procédés à mettre en œuvre par soi ou en coopération avec d'autres; organisation à apporter chez soi et dans le domaine de l'action commune.
+b) Le travail intellectuel, comme tout travail, doit passer de la phase spontanée à la phase réfléchie et, sans rien perdre de la force et de l'originalité que lui donne la spontanéité même jaillie des sources de la vie, il faut lui donner l'autre force que donne l'expérience commune généralisée par la science, la rationalisation, Il y a donc méthodes et procédés à mettre en œuvre par soi ou en coopération avec d'autres; organisation à apporter chez soi et dans le domaine de l'action commune.
 
 cf La production intellectuelle est due aux facteurs individuels et aux facteurs sociaux. Ces derniers sont fort nombreux. Parmi eux sont dominants tels ou tels dans e cas de chaque auteur, de chaque œuvre de chaque auteur. Caston Rageot a posé cette question: c Quelle est dans la mentalité des écrivains modernes et dans le succès de leurs œuvres la part exacte du public ? Quelles sont les lois du succès ? * (Le succès. Auteur» et public. Essai de critique sociologique. Paris, F. Alcan, 1906). L'auteur conclut que la manière d'etre du public a supprimé des personnalités vraiment éminentes; on constate le caractère de plus en plus industriel de la littérature, la nécessité grandissante de l'actualité et par suite l'impuissance de l’écrivain à réfléchir et à méditer.
 
-d) 11 y a intérêt à décéler la nature et les facteurs déterminants de la création intellectuelle cn observant les
+d) Il y a intérêt à décéler la nature et les facteurs déterminants de la création intellectuelle cn observant les
 
 œuvres ; à pénétrer ainsi les mobiles profonds de l’activité humaine.
 
@@ -12074,7 +12074,7 @@ Combien d hommes écrivent, combien d’œuvres produit un écrivain ?
 
 252  LE LIVRE ET LE DOCUMENT  251
 
-a) 11 est difficile de déterminer le nombre d'écrivains. On obtiendrait un chiffre approximatif en divisant le nombre de livres et séparément le nombre d’articles qui paraissent par une moyenne d'œuvres par auteur.
+a) Il est difficile de déterminer le nombre d'écrivains. On obtiendrait un chiffre approximatif en divisant le nombre de livres et séparément le nombre d’articles qui paraissent par une moyenne d'œuvres par auteur.
 
 D'après le < Census of Occupation s de 1932, il existe aux Etats-Unis 12.000 auteurs.
 
@@ -12504,7 +12504,7 @@ a J Les grands imprimeurs du XVe et du XVIe siècle ont été Kofacrger en Allem
 
 Les imprimeurs ont obtenu souvent de hauts patronages. Ainsi Coiard, Mansion. Aide Manuce, Caxton. Les Estien-ne furent aidés par les rois de France, Plantin fut FArchi typographe de Philippe II.
 
-b) 11 y avait autrefois privilège d’imprimer. Celui accordé en 1644 à René Descartes pour ses œuvres porte :
+b) Il y avait autrefois privilège d’imprimer. Celui accordé en 1644 à René Descartes pour ses œuvres porte :
 
 « L’invention des sciences et des arts accompagnée de * leurs démonstrations et des moyens de les mettre à » exécution, étant une production des esprits qui son^ b plu* excellents que le commun, a fait que les Princes j* et les Etats en ont toujours reçu les inventeurs avec b toutes sortes de gratifications, afin que ces choses introït duites en lieux de leurs obéissances, ils en deviennent j> plus florissants, »
 
@@ -12703,7 +12703,7 @@ b) Les machines à relier font merveille. Elles tendent de plus en plus à cueil
 
 a) Dans la plupart des pays, les imprimeries ont une forte base corporative, patron* d’un côté, ouvriers de l'autre, parfois des corporations mixtes. Les organisations établissent des contrats collectifs et de véritables codes eu la matière, fi existe un Congrès international des Imprimeurs; il a chargé une Commission d organiser un bureau international d’études pour l’industrie du livre.
 
-b) 11 existe de remarquables musées de l’imprimerie, entr’autres le Gutenberg Muséum de Mayence, le Musée de Berne, le Musée Plantin à Anvers, le Musée du Livre à Leipzig. Certaines grandes imprimeries ont formé des petits musées. On a créé des collections de documents typographiques. La Bibliothèque typographique de Jersey City. La Bibliothèque des arts graphiques d'Edmond Morin à Paris. La Bibliothèque du Kunstgewerbe Muséum à Berlin.
+b) Il existe de remarquables musées de l’imprimerie, entr’autres le Gutenberg Muséum de Mayence, le Musée de Berne, le Musée Plantin à Anvers, le Musée du Livre à Leipzig. Certaines grandes imprimeries ont formé des petits musées. On a créé des collections de documents typographiques. La Bibliothèque typographique de Jersey City. La Bibliothèque des arts graphiques d'Edmond Morin à Paris. La Bibliothèque du Kunstgewerbe Muséum à Berlin.
 
 253 Distribution et Circulation du Livre et du Document.
 ---------------------------------------------------------
@@ -13166,7 +13166,7 @@ g) On a beaucoup lu pendant la guerre. Dans l’après-guerre immédiate et pend
 
 [.es crises économiques atteignent aussi le livre. Les ravises générales influent ici. Parmi celles-ci on a énuméré le cinéma, la T. S. F., le phonographe, l’automobile il y a aussi le peu de valeur de certains livres d’éditeurs qui éditent n’importe comment, n'importe quoi de n’importe qui.
 
-b) Le livre doit devenir bon marché à 6.50 ou 3 sous. Le livre devenant line sorte de journal plié et cousu, pouvant se conserver et faire série. Tel est l’avenir du livre démocratique moderne. Le paysan et l'ouvrier savent lire maintenant; mais 11 faut qu'ils aient de quoi lire. Ils veulent autre eboae que des almanachs.
+b) Le livre doit devenir bon marché à 6.50 ou 3 sous. Le livre devenant line sorte de journal plié et cousu, pouvant se conserver et faire série. Tel est l’avenir du livre démocratique moderne. Le paysan et l'ouvrier savent lire maintenant; mais Il faut qu'ils aient de quoi lire. Ils veulent autre eboae que des almanachs.
 (1) The Library, 1904, p, 146.
 Haustaux.
 
@@ -13298,7 +13298,7 @@ lage se fait en boite de carton de grandeur différente correspondant aux format
 253.29 La documentation dans la Librairie.
 """""""""""""""""""""""""""""""""""""""""""
 
-a) 11 faudrait que dans chaque librairie l'acheteur puisse se trouver en quelque sorte cher lui, et pour cela qu'il n'ait pas. de librairie en librairie, à s'initier à d'autres principes de classement, de catalogue, de dispositions matérielle. Le propre d’un réseau c'est de retrouver les éléments essentiels dans chacune de ses stations. Supposons que nos grands réseaux de chemins de fer aient placé les voyageurs dans la nécessité d'étudier l'nména gement de chaque gare avant de pouvoir recourir à ses services: quelle complication et quelle perte de temps. Supposons que les services de navigation, la Poste, le Gaz. l'Electricité aient fait de même. Le rythme de notre civilisation serait tout autre et chaque nouvelle invention contribuerait à compliquer la vie plutôt qu'a la simplifier,
+a) Il faudrait que dans chaque librairie l'acheteur puisse se trouver en quelque sorte cher lui, et pour cela qu'il n'ait pas. de librairie en librairie, à s'initier à d'autres principes de classement, de catalogue, de dispositions matérielle. Le propre d’un réseau c'est de retrouver les éléments essentiels dans chacune de ses stations. Supposons que nos grands réseaux de chemins de fer aient placé les voyageurs dans la nécessité d'étudier l'nména gement de chaque gare avant de pouvoir recourir à ses services: quelle complication et quelle perte de temps. Supposons que les services de navigation, la Poste, le Gaz. l'Electricité aient fait de même. Le rythme de notre civilisation serait tout autre et chaque nouvelle invention contribuerait à compliquer la vie plutôt qu'a la simplifier,
 
 b) Les ouvrages mis en vente sont aujourd'hui placée sur les rayons dans les conditions tout A fait arbitraires, si bien que le grand principe « sers-toi toi-même » ne saurait être mis en action. Il en serait différent si la classification universelle (La Cla*sification décimale) était appliquée à ce classement. Sachant qu'a la même division 7 par exemple, correspondent partout les rayons portant les ouvrages sur les Beaux-Arts, tout lecteur connaissant les indices des matières qui l'intéressent peut les retrouver. Pour les agents de la librairie ce serait un énorme gain de temps, car la classification, enseignée dès l'apprentissage ferait s'y retrouver par chacun partout, quels que soient les pérégrinations et déplacements de maison en maison.
 
@@ -13307,7 +13307,7 @@ c) Un catalogue du contenu des rayons devrait être mis à la disposition des ac
 d) Mais le catalogue devrait être complété par un Répertoire Bibliographique, établi en combinaison avec le catalogue, bien distinct de lui, mais également sur fiches et selon la Classification décimale. Ce Répertoire nevrait comprendre les ouvrages fondamentaux en toute matière et en particulier les ouvrages récents. Ce serait un puissant instrument de vente. Ce qu'on ignore on ne ^aurait le désirer. Tant de livres excellents, merveilleux, précieux, d'un prix insignifiant comparés aux services qu'ils
 t sont appelés A rendre, tant de ces livres existent que nul, ni les lecteurs-acheteurs, ni les agents-libraires ne connaissent, ou s'ils en ont eu connaissance, ils n'en ont point retenu les titres et les auteurs.
 
-e) 11 faudrait aussi que chaque librairie soit reliée A son Office national de Bibliographie et de Documentation. T dus les offices nationaux sont appelés à voir se relier à eux les Offices spéciaux ou locaux de documentation ; d'autre part, ils sont appelés aussi A être reliés aux autres offices nationaux et A l'Institut International de Bibliographie et de Documentation. En conséquence, chaque librairie serait une station du Réseau universel, c'est-A-dire que tout lecteur-acheteur s'adressant A elle pourrait recevoir par son intermédiaire toutes les indications bibliographiques désirables sur la matière qui l'intéresse. Bibliogra phie ici est synonyme de moyens de vente.
+e) Il faudrait aussi que chaque librairie soit reliée A son Office national de Bibliographie et de Documentation. T dus les offices nationaux sont appelés à voir se relier à eux les Offices spéciaux ou locaux de documentation ; d'autre part, ils sont appelés aussi A être reliés aux autres offices nationaux et A l'Institut International de Bibliographie et de Documentation. En conséquence, chaque librairie serait une station du Réseau universel, c'est-A-dire que tout lecteur-acheteur s'adressant A elle pourrait recevoir par son intermédiaire toutes les indications bibliographiques désirables sur la matière qui l'intéresse. Bibliogra phie ici est synonyme de moyens de vente.
 
 f) Il faudrait également que toute librairie possède et mit en place d’usage permanent le volume des Tables de In Classification Décimale. Ces Tables, comme il va être expliqué, comprennent actuellement soixante mille divisions systématiques ordonnées, représentées toutes par des numéros classificateurs; elles sont accompagnées d'un index alphabétique dont le manuscrit est de la dernière simplicité. Ces Tables serviraient d’instrument pour tout le classement des livres sur les rayons, pour celui du catalogue répertoire, pour les demandes de renseignement. Mais il aurait encore ce résultat de rappeler ou d’apprendre au lecteur les tenants et les aboutissants des questions auxquelles »1 s'intéresse. Feuilleter ces tables, c'est recevoir vingt suggestions diverses toutes également utiles pour les études, pour l'information, pour les applications de la vie pratique. C'est donc aussi l'instrument pour l'extension des ventes.
 
@@ -13606,7 +13606,7 @@ technique (système Van Rysselberghe) ; il n’en est résulté aucune limitatio
 
 2 — *Téléphone et documentation*.
 
-a) La communication téléphonique remplace les lettres (ou les visites). Elle a l'avantage de la rapidité (instantanément sont échangées questions, réponses, nouvelles questions, nouvelles réponses, discussions en détail, accords). Mais tout s’y envole : verba volant, 11 est donc bon dt, confirmer par lettre ou d’établir pour soi une note, un memorandum qui dans la documentation sera traitée comme une lettre.
+a) La communication téléphonique remplace les lettres (ou les visites). Elle a l'avantage de la rapidité (instantanément sont échangées questions, réponses, nouvelles questions, nouvelles réponses, discussions en détail, accords). Mais tout s’y envole : verba volant, Il est donc bon dt, confirmer par lettre ou d’établir pour soi une note, un memorandum qui dans la documentation sera traitée comme une lettre.
 
 b) Des appareils récemment inventés ont pour objet de permettre l'enregistrement automatique des conversations, notamment en cas d’absence du correspondant. D’autres appareils permettent de répondre d’un point central à des questions posées; ainsi l’heure au téléphone.
 
@@ -14068,7 +14068,7 @@ c) Les bibliographies des publications officielles ont été faites sur le tard.
 
 d) Les publications de sociétés, les dissertations et Fest-schriften ont été relevées dans nombre de recueils. Par ex. : Minerva, Index general»». Handbook of Learned Societies, Bibliographie des travaux scientifiques de De-nîker.
 
-e) 11 y a des listes de livres remarquables par leur histoire, leur association, etc. Ex. livres perdus et imaginaires, livres accidentellement détruits, livres supprimés, prohibés, expurgés (par ex. Romans à lire et à proscrire de Bethléem), livres en exemplaire unique, livres dédicacés, livres ayant appartenu a des célébrités, portant des autographes. des notes manuscrites, etc. Parmi les livres imaginaires, on a cité celui-ci du XVIIIe siècle: Mémoire
+e) Il y a des listes de livres remarquables par leur histoire, leur association, etc. Ex. livres perdus et imaginaires, livres accidentellement détruits, livres supprimés, prohibés, expurgés (par ex. Romans à lire et à proscrire de Bethléem), livres en exemplaire unique, livres dédicacés, livres ayant appartenu a des célébrités, portant des autographes. des notes manuscrites, etc. Parmi les livres imaginaires, on a cité celui-ci du XVIIIe siècle: Mémoire
 (I) Myers, Denys, P., International Documentation, ils classification and purpose. In Libraries, 1927, p. 107-13.
 
 ====
@@ -14175,7 +14175,7 @@ e) A l’initiative de M. Berghoeffer. la Bibliothèque Rothschild de Francfort 
 
 f) Le National Union Catalogue, catalogue collectif de Grande-Bretagne, se poursuit à l’initiative de la National Central Library (Londres) et de son Information Department (Inquiry Office of the Joint Standing Committee on Library Corporation),
 
-g) Une entente est intervenue entre la Library of Con-gress et la American Library Association pour la préparation d’un catalogue américain (Library of Congress Union Catalogue), 11 s'agit d'arriver au catalogage de 8 à 9 millions de titres. Actuellement 7 millions sont déjà catalogués (6.600,000 de place de 5 millions de titres). La Rockefeller Foundation est intervenue dans le premier plan quinquennal de l'oruvre pour 50,000 dollars par an On a porté l’effort sur les ouvrages les moins demandés (Unusual book), notamment ceux antérieurs à 1800 ou eu langue étrangère avant 1870. Pour retrouver de tels ouvrages dans une bibliothèque universitaire de 144,000 unités à la Liste des Acquisitions il a fallu 41 1/4 heures et les 12.300 titres choisis ont pris 140 heures de copie.
+g) Une entente est intervenue entre la Library of Con-gress et la American Library Association pour la préparation d’un catalogue américain (Library of Congress Union Catalogue), Il s'agit d'arriver au catalogage de 8 à 9 millions de titres. Actuellement 7 millions sont déjà catalogués (6.600,000 de place de 5 millions de titres). La Rockefeller Foundation est intervenue dans le premier plan quinquennal de l'oruvre pour 50,000 dollars par an On a porté l’effort sur les ouvrages les moins demandés (Unusual book), notamment ceux antérieurs à 1800 ou eu langue étrangère avant 1870. Pour retrouver de tels ouvrages dans une bibliothèque universitaire de 144,000 unités à la Liste des Acquisitions il a fallu 41 1/4 heures et les 12.300 titres choisis ont pris 140 heures de copie.
 
 h) On a formulé le regret que jusqu’ici l’entente, pour publier en commun leur catalogue, n’ait pu se réaliser entre les grandes bibliothèques du monde : Paris, Londres, Berlin, Washington,
 
@@ -14707,7 +14707,7 @@ lecteurs, devient à son tour sermon et conseil. Le silence de la presse officie
 
 6. — Les critères.
 
-a) 11 n'y a de critique fondée que s il existe des critères. Et les critères reposent en définitive sur une Table des valeurs. La détermination de cette Table, a dit Nietsche, et en particulier des plus hautes valeurs, est le fait capital de l’Histoire universelle, puisque cette hiérarchie des valeurs détermine les actes conscients ou inconscients de tous les individus et motive tous les jugements que nous portons sur leurs actes. (1)
+a) Il n'y a de critique fondée que s il existe des critères. Et les critères reposent en définitive sur une Table des valeurs. La détermination de cette Table, a dit Nietsche, et en particulier des plus hautes valeurs, est le fait capital de l’Histoire universelle, puisque cette hiérarchie des valeurs détermine les actes conscients ou inconscients de tous les individus et motive tous les jugements que nous portons sur leurs actes. (1)
 
 Les critères pour le jugement du livre seront de deux sortes : 1° pour juger de sa crédibilité ou valeur scientifique ; 2" pour juger de son degré de séduction ou valeur littéraire.
 
@@ -14833,7 +14833,7 @@ i) D’une manière générale, on pourrait se représenter ainsi une organisati
 (2) Institut International de Coopération Intellectuelle 1932. — La révision des manuels scolaires contenant des passages nuisibles à la compréhension mutuelle des peuples. 234 p.
 ble. La confrontation avec le Dossier universel de chaque question constituée par la documentation serait donc le moyen d'opérer facilement et sûrement cette œuvre de critique. L organisation de la critique consisterait donc en un office mondial ayant ses règles et ses moyens de travail. Il procéderait de lui-même à la critique de certains ouvrages importants et serait à la déposition de tous auteurs pour procéder sur demande à la critique préalable de leur ouvrage, à la manière d un office de brevets. L'ouvrage critiqué serait disséqué en toutes ses parties et chacune rapprochée de la matière anterieure. L auteur serait invité à dire lui-même ce qu'il revendique comme nouveau. Il soulignerait ces passage* dans l'exemplaire remis à critique. On considérerait que tout le restant ne serait que secondaire, mojcn connu de développement et d'argumentation.
 
-j) 11 serait désirable que la critique scientifique fasse une place aux critères et aux jugements d'ordre proprement bibliologique : la forme et l'état matériel du livre. Na conformité avec les règles préconisées, ses caractéristiques au point de vue de la psychologie des lecteurs, etc.
+j) Il serait désirable que la critique scientifique fasse une place aux critères et aux jugements d'ordre proprement bibliologique : la forme et l'état matériel du livre. Na conformité avec les règles préconisées, ses caractéristiques au point de vue de la psychologie des lecteurs, etc.
 
 256.4 Censure en général.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -15620,7 +15620,7 @@ d) A côté de la destruction des livres et des documents,
 
 11 y a la destruction de l’ordre qui y a été apporté dans les collections. Déranger cet ordre, ne pas remettre en place, c’est un acte de véritable destruction. Le livre peut encore être là et tout entier : la collection est détruite dès que la série qu elle constitue a été altérée ou détruite. ( 1 )
 
-e) 11 y a destruction à entrevoir du livre comme tel par extension de se« substituts. Dans la Mort du Livre de Maurice Escoffier, est sonné le gla9 du livre évincé par la T. 9. F. On a répondu à l’auteur que tout au plus cinq ou six chapitres radiodiffusés seraient supportables à l’audition et qu’une cinquantaine de livres au plus pourraient être diffusés en une année.
+e) Il y a destruction à entrevoir du livre comme tel par extension de se« substituts. Dans la Mort du Livre de Maurice Escoffier, est sonné le gla9 du livre évincé par la T. 9. F. On a répondu à l’auteur que tout au plus cinq ou six chapitres radiodiffusés seraient supportables à l’audition et qu’une cinquantaine de livres au plus pourraient être diffusés en une année.
 
 259.25 Destruction pour causes naturelles.
 """""""""""""""""""""""""""""""""""""""""""""""
@@ -15635,7 +15635,7 @@ b) La destruction du livre provient de l'usure, par les suites des manipulations
 
 de destruction de livres par rapport aux organismes oos-sesseurs. Cette élimination porte sur les ouvrages périmés ou en mauvais état. Elle doit avoir pour corollaire non la destruction des ouvrages eux-mêmes, mais leur envoi dans d’autres dépôts.
 
-c) 11 y a destruction des livres par les insectes. Les remèdes préventifs souvent essayés ne sont pas d’une efficacité générale (naphtol. benzine, sublimé corrosif mélangé à la colle, rayon de bois imbibé de sulfate ou d acétate de cuivre). Certains procédés sont dommages blés pour les livres, tels le battage des volumes, le sulfure de carbone. A la suite d’un concours instauré par le Congrès international des Bibliothécaires en 1900, trois mémoires ont étudié le problème et y ont répondu de manières diverses.
+c) Il y a destruction des livres par les insectes. Les remèdes préventifs souvent essayés ne sont pas d’une efficacité générale (naphtol. benzine, sublimé corrosif mélangé à la colle, rayon de bois imbibé de sulfate ou d acétate de cuivre). Certains procédés sont dommages blés pour les livres, tels le battage des volumes, le sulfure de carbone. A la suite d’un concours instauré par le Congrès international des Bibliothécaires en 1900, trois mémoires ont étudié le problème et y ont répondu de manières diverses.
 
 d) Les progrès de la technique, en produisant du mauvais papier, sont facteurs de la destruction des livres.
 
@@ -16709,7 +16709,7 @@ pièces; 2° à déterminer les pièces; 3° à les classer ; 4° à les étique
 
 I. Collectionnement.
 
-L-es collections ne doivent pas être réunies au hasard. Il faut une méthode, une systématisation dans le collection-nement des objets choisis, spécialement demandés ou créés 11 ne faut pas se borner uniquement à ce qu’apporte le cas fortuit des donations. On distingue les salles d'exposition qui constituent l’essentiel des réserves où l’exclusive ne s’impose pas. Le succès d’un musée est d’avoir un plan bien défini, un système organisé de col-lectionnemcnt des objets et ensuite de faire appel a l’apport par les particuliers soit des pièces elles-mêmes, soit de l’argent pour les acquérir.
+L-es collections ne doivent pas être réunies au hasard. Il faut une méthode, une systématisation dans le collection-nement des objets choisis, spécialement demandés ou créés Il ne faut pas se borner uniquement à ce qu’apporte le cas fortuit des donations. On distingue les salles d'exposition qui constituent l’essentiel des réserves où l’exclusive ne s’impose pas. Le succès d’un musée est d’avoir un plan bien défini, un système organisé de col-lectionnemcnt des objets et ensuite de faire appel a l’apport par les particuliers soit des pièces elles-mêmes, soit de l’argent pour les acquérir.
 
 2 Classement.
 
@@ -18206,7 +18206,7 @@ Le transport des documenta nécessite des dispositions et des classeurs spéciau
 """""""""""""""""""""""""""
 
 Les inventions ne sont pas dues exclusivement aux inventeurs. Les usagers des inventions peuvent utilement agir *ui leur production en faisant connaître ce qu’iU désireraient voir inventer. Un problème bien posé est à moitié résolu, dit l'adage. Cette moitié revient en tache notamment aux organisations internationales qui rendent service à tous leurs membres en concentrant chacune en une liste permanente, révisée et tenue à jour, les principaux desiderata proposés à l’attention des inventeurs. (I) (I)
-(I) 11 y a une vingtaine d'années une liste d’inventions-clé* fut dressée et publiée en. liaison avec les Offices de Brevets (M. Michel). Ces Inventions étaient celles sur
+(I) Il y a une vingtaine d'années une liste d’inventions-clé* fut dressée et publiée en. liaison avec les Offices de Brevets (M. Michel). Ces Inventions étaient celles sur
 
 
 ====
@@ -18921,9 +18921,9 @@ a) On constate quatre phases dans le travail de la Bibliographie :
 
 1" Il a été commencé autrefois dans les Bibliothèques par les grands catalogues de celles-ci. (I)
 
-2° 11 a pris ultérieurement un caractère autonome et propre avec les grands développements des périodiques et l'extension de le littérature scientifique et technique (Fondation de Y). 1. B.).
+2° Il a pris ultérieurement un caractère autonome et propre avec les grands développements des périodiques et l'extension de le littérature scientifique et technique (Fondation de Y). 1. B.).
 
-3*' 11 s'est progressivement développé plus tard sous les formes de la documentation générale par la multiplication des Offices et services de documentation.
+3*' Il s'est progressivement développé plus tard sous les formes de la documentation générale par la multiplication des Offices et services de documentation.
 
 4° Un rapprochement s’opère maintenant entre le travail des organismes proprement bibliographiques et celui des Bibliothèques? Les premiers tendant à comprendre
 
