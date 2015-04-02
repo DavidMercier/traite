@@ -6070,14 +6070,14 @@ f) Index des manuscrits. — Les ouvrages d'érudition comprennent aussi un inde
 
 g) Index des initiales. — Il est parfois donné à part.
 
-h) Concordances. — On donne le nom de Concordance de la Bible à une sorte de dictionnaire où tous les mots de l'Ecriture Sainte sont classés par ordre alphabétique, avec l'indication des passages où ils se trouvent. Il existe des Concordance! en latin, en grec, en hébreu. La concordance latine la plus ancienne remonte au XIIIe siècle, et a été faite par le frère franciscain Saint Antoine de Padoue. Presque à la même époque, le dominicain Hugues de Saint-Cher, vulgairement appelé le cardinal Hugues, en composa une autre plus complète, qui fut aussitôt améliorée par le franciscain Arlot Thuseus et le dominicain Conrad d'Halberstadt : c'est à l’occasion de cette concordance que la Bible fut divisée en chapitres.
+h) Concordances. — On donne le nom de Concordance de la Bible à une sorte de dictionnaire où tous les mots de l'Ecriture Sainte sont classés par ordre alphabétique, avec l'indication des passages où ils se trouvent. Il existe des Concordances en latin, en grec, en hébreu. La concordance latine la plus ancienne remonte au XIIIe siècle, et a été faite par le frère franciscain Saint Antoine de Padoue. Presque à la même époque, le dominicain Hugues de Saint-Cher, vulgairement appelé le cardinal Hugues, en composa une autre plus complète, qui fut aussitôt améliorée par le franciscain Arlot Thuseus et le dominicain Conrad d'Halberstadt : c'est à l’occasion de cette concordance que la Bible fut divisée en chapitres.
 
 
 ====
 
 *122* LE LIVRE ET LE DOCUMENT 234
 
-La première concordance hébraïque a été faite de 1438 à 1443, par le rabbin Marehodée Nathan, qui adopta la division par chapitres du cardinal Hugues, et y ajouta 1 % subdivision par versets. Iln’existe pas de véritable concordance grecque pour l’Ancien l'estame^ît, mais on en possède plusieurs pour le Nouveau; la première a été composée par Xiste Bétulius, en 1546, et complétée plus lard par Kobert Etienne. (1)
+La première concordance hébraïque a été faite de 1438 à 1443, par le rabbin Marehodée Nathan, qui adopta la division par chapitres du cardinal Hugues, et y ajouta 1 % subdivision par versets. Il n’existe pas de véritable concordance grecque pour l’Ancien Testament, mais on en possède plusieurs pour le Nouveau; la première a été composée par Xiste Bétulius, en 1546, et complétée plus lard par Kobert Etienne. (1)
 
 i) labié des espèces. — Les descriptions des espèces et en particulier les espèces nouvelles ont une grande importance dans les Sciences de la Nature. Pour faciliter le> recherches comprimes, on indique les espèces usitées dans un index spécial, Ainsi, par ex., la Table des Protozoaires dans le Traüé de Zoologie Concrète d Yves Delage. Cette table est imprimée en deux sortes de caractères : l'un plus gros pour les noms de groupe, l'autre plus petit pour les noms de genre. Dans chacune des deux séries on trouvera deux sortes de noms. Les uns sans parenthèses, alignés au bord de la colonne, sont ceux de groupes adoptés ou de genre décrits dans l’ouvrage. Les autres, entre parenthèses et en recul sur l’alignement de li colonne, désignent les synonymes, soit de groupes, soit de genres décrits et chaque synonyme est suivi d’un mot sans parenthèses qui est le nom du groupe ou du genre dont il est synonyme et qui est décrit dans l'ouvrage n la page indiquée par le numéro qui suit son nom à sa place alphabétique. Cela permet de trouver immédiatement les noms ces genres et des groupes non acceptés dans l’ouvrage, et relégués par l'auteur en synonyme. Mais il fallait en outre faire l’opération inverse, et Lndi quer pour chacun des groupes et des genres acceptés par l’auteur les noms synonymes admis par d autres auteurs. D'ordinaire, c’est dans le corps du texte que se trouvent ces indications, mais ici c’est dans la table qu elles sont reléguées, placées entre parenthèses à la suite des noms acceptés, après le numéro indiquant le renvoi au texte.
 
@@ -6088,7 +6088,7 @@ D’après les sciences et les techniques, les Tables ont des formes et présent
 
 a) En matière de brevets d’invention où il s'agît d épuiser les recherches, les index ont une importance capitale.
 
-b) Pour les ouvrages de Philologie basée ?ur la totalité de ce qui s'est dit relativement à un texte, ils ont une non moindre importance.
+b) Pour les ouvrages de Philologie basée sur la totalité de ce qui s'est dit relativement à un texte, ils ont une non moindre importance.
 (1) E. P. Dutripon. Concordantiac Dibliorum sacrorum vulgatae editionia. Paris, 1838, Bélin, in-folio, 3 colonnes, plus de 25.000 versets. Index commun à tous les livres composant la Bible. L'auteur montre, par un exemple, qu'avec les mots de la Bible ayant été ainsi réunis, on peut former des exposés systématiques comprenant exclusivement les paroles sacrées ordonnées sous des rubriques choisies (par ex. définition, nécessité, cause, mode, temps, lieu, etc.).
 234 ?
 c) Dans le Droit, les tailles jouent un rôle capital dans les recueils de jurisprudence. Il s’agit, sur une question donnée, de retrouver toutes les décisions judiciaires y relatives qui ont été publiées dans les nombreux recueils existants.
@@ -6102,7 +6102,7 @@ La coutume se répand de placer la table en tête du volume ; elle constitue ain
 
 b) Tout le volume étant subdivisé et les paragraphes indexés, les références setont faites au moyen de ces nombres avec les paragraphes en exposant. Ex.: 321.4’
 
-c) Pour éviter d ajouter une table aux précédentes, on combine parfois deux tables en distinguant par des astérisques certains noms ayant certain caractère. (Ainsi Yves Delage. dans son Traité de Zoologie, combine une liste alphabétique des Protozoaires parasites avec son index générique des Protozoaires.)
+c) Pour éviter d'ajouter une table aux précédentes, on combine parfois deux tables en distinguant par des astérisques certains noms ayant certain caractère. (Ainsi Yves Delage. dans son Traité de Zoologie, combine une liste alphabétique des Protozoaires parasites avec son index générique des Protozoaires.)
 
 d) Tables cumulatives. (Voir le principe sous n0 241.31 Périodiques.)
 
@@ -6126,7 +6126,7 @@ LE LIVRE ET LE DOCUMENT
 
 Classification décimale. Ils ont indique visiblement cet ordre en plaçant les indices bien en évidence. Ils se sont servi pour les divisions et les rubriques de caractères de grandeurs variées, de proportion à Taire que couvre chaque division. (Voir à ce, sujet ce qui est dit dans la Classification. )
 
-3" Il est demandé d adjoindre à tous les documents, livres, articles de périodiques, brevets, etc., le ou les indices de la Classification décimale qui correspond à la matière traitée. Il est utile de mentionner ces mêmes indices à la suite de chaque chapitre et même de chaque paragraphe des ouvrages scientifiques. Il y aurait à cela trois avantages : concordance de la classification particulière propre à l'ouvrage avec la Classification universelle ; élaboration de la table décimale des concordances à placer in fine du volume; facilité donnée pour la dissection de l'ouvrage et la répartition de ses fragments dans les dossiers respectifs de l’Encyclopédie documentaire.
+3" Il est demandé d'adjoindre à tous les documents, livres, articles de périodiques, brevets, etc., le ou les indices de la Classification décimale qui correspond à la matière traitée. Il est utile de mentionner ces mêmes indices à la suite de chaque chapitre et même de chaque paragraphe des ouvrages scientifiques. Il y aurait à cela trois avantages : concordance de la classification particulière propre à l'ouvrage avec la Classification universelle ; élaboration de la table décimale des concordances à placer in fine du volume; facilité donnée pour la dissection de l'ouvrage et la répartition de ses fragments dans les dossiers respectifs de l’Encyclopédie documentaire.
 
 4° Adjonction aux autres tables et index. — Les tables de matières décimales selon la C. D. sont surtout précieuses au point de vue des langues. C'est un fait connu qu'il faut beaucoup moins de temps pour apprendre à lire une langue que pour la parler ou l'écrire, et que Ilplupart des personnes qui font des recherches sont habituées à lire les revue-j de leur spécialité en plusieurs langues. Cette lecture est rendue facile par le grand nombre de mots techniques qui sont presque tous internationaux et aussi par l'illustration qui devient de plus en plus abondante. Mais il y a grosse difficulté à se servir des index alphabétiques : là il faut connaître à fond la langue et sa synonymie. Un index décimal rend ici des services considérables.
 
@@ -6305,7 +6305,7 @@ a) Les livres et documents sont :
 
 Ils se développent dans des conditions différentes, rén lisant des types généraux dont il a été possible de déduire des principes, des normes et des règles différentes. Laissant largement de côté ici les œuvres littéraires, dont les traités de littérature ont fait leur matière, nous nous attacherons surtout aux œuvres scientifiques.
 
-L’œuvre scientifique n’a pas pour but de plaire, n» de donner des recettes pratiques pour se conduire, ni d'émouvoir, mais simplement de savoir.
+L’œuvre scientifique n’a pas pour but de plaire, ni de donner des recettes pratiques pour se conduire, ni d'émouvoir, mais simplement de savoir.
 
 b) Au point de vue des bibliothèques publiques, on distingue les divisions suivantes :
 
@@ -6318,7 +6318,7 @@ c) A d'autres points de vue encore, les œuvres peuvent être distinguées de di
 240.3 Histoire. Evolution. Génétique.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Les espèces d'ouvrages, à la manière de Ilplupart des œuvres humaines, ont été formés au cours du temps, tantôt par l’action collective, les ouvrages se transformant lentement et fragmentairement sous l’influence les uns des autres ; tantôt par l’action individuelle, un auteur créant une œuvre qui devient un type. A l'origine tout es*, complexe, vague, confus ; ensuite tout tend à se
+Les espèces d'ouvrages, à la manière de la plupart des œuvres humaines, ont été formés au cours du temps, tantôt par l’action collective, les ouvrages se transformant lentement et fragmentairement sous l’influence les uns des autres ; tantôt par l’action individuelle, un auteur créant une œuvre qui devient un type. A l'origine tout est, complexe, vague, confus ; ensuite tout tend à se
 
 (1) L'œuvre (en lat. opéra, mot dérivé de opus, operis) est le résultat permanent du travail ou de l’action, en particulier une production de l’esprit, en très particulier un écrit, un livre. Bien que « ouvrage » se rapporte à la chose faite et œuvre à l'action, le mot œuvres au pluriel, s'applique pourtant aux écrits d’un auteur, mais toujours avec un sens général : œuvres complètes, œuvres posthumes. Quand on veut parler spécialement de l’une d’elles, (’idée devenant plus précise, plus matérielle, s’exprime par le mot ouvrage.
 diversifier, s’individualiser, se préciser. Cette double action est déterminée tantôt par des besoins pratiques, tantôt par des considération» théoriques où intervient ta Logique, l’Esthétique, les fins morales. L'évolution se poursuit sou# nos yeux.
@@ -6329,7 +6329,7 @@ Au livre on a substitué la revue, puis les annuaires, puis la documentation sur
 
 Tous les jours on voit naître des ouvrages d’un type nouveau, qui n'était pas ou guère représenté dans l'ancienne littérature. Un livre es! capable de créer une science nouvelle ou tout ou moins une branche d'une science, un des aspects de l’exposé d'une science.
 
-On peut arriver aussi a de nouvelles formes du livre par deux voies ; Io ou bien l’on se demande quels buts devraient être atteints par le livre, à quoi il devrait servir (usage autre que celui qu'il a déjà) ; 2° ou bien, après avoir analysé la itructure du livre actuel, on envisage d autres distributions de ses éléments nouveaux, des développements et nouvelles liaisons de ses parties.
+On peut arriver aussi a de nouvelles formes du livre par deux voies ; Io ou bien l’on se demande quels buts devraient être atteints par le livre, à quoi il devrait servir (usage autre que celui qu'il a déjà) ; 2° ou bien, après avoir analysé la itructure du livre actuel, on envisage d'autres distributions de ses éléments nouveaux, des développements et nouvelles liaisons de ses parties.
 
 240.4 Corrélation entre les espèces.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -6352,11 +6352,11 @@ c) Les traités sont mis en rapport avec les Annuaires bibliographiques (revues 
 
 d) L’alternative se présente entre des traités trop vastes ou trop anciens, où l’on risque de se perdre, et thèses, brochures, articles de revues où la science se trouve disséminée et émiettée.
 
-e) Les revues permettent la publication de travaux de détail, de minces découvertes à qui l'on n’aurait pu faire les honneurs coûteux d un livre ; les bibliographies tiennent les travailleurs au courant de l’état de la science ; les comptes rendus critiques relèvent les erreurs.
+e) Les revues permettent la publication de travaux de détail, de minces découvertes à qui l'on n’aurait pu faire les honneurs coûteux d'un livre ; les bibliographies tiennent les travailleurs au courant de l’état de la science ; les comptes rendus critiques relèvent les erreurs.
 
-f) On distingue par gradation, d’après le caractère d’achèvement des travaux: 1° les simples notes ou articles dans un journal ; 2° les mémoires ; 3° les ouvrages ; 4° ce qu’on appelle < Un livre », nom qui s'applique à une composition sur ur» sujet bien délimité, dans laquelle on suit une marche logique, pour en tirer des conséquences au moyen d’idées neuves ou de faits en grande partie nouveaux.
+f) On distingue par gradation, d’après le caractère d’achèvement des travaux: 1° les simples notes ou articles dans un journal ; 2° les mémoires ; 3° les ouvrages ; 4° ce qu’on appelle « Un livre », nom qui s'applique à une composition sur un sujet bien délimité, dans laquelle on suit une marche logique, pour en tirer des conséquences au moyen d’idées neuves ou de faits en grande partie nouveaux.
 
-g) Il est des ouvrages qui sont simplement composés de deux sortes d’ouvrage», fragmentés et juxtaposés. Par ex. : certaines Zoologies, certaines Anatomies comparées. Les descriptions des espèces zoologiques et botaniques se trouvent éparses dans un grand nombre de périodiques et dix mémoires spéciaux qu'il faut compulser et consulter pour toute détermination On y parvient par des listes de revision, des catalogues ou répertoires régionaux, des ouvrages d’ensemble publiant des descriptions. On a en zoologie de travaux, dont le cadre est zoo-géographique (monographies d’espèces, des lieux et autres déterminants ex. Pellegrin : Les poissons du bassin du Tchad. Paris 1914) et d’autres dont le cadre est précisément zoologi-,1 que. Ils consistent en une monographie complète de toutes les espèces connues d’un groupe naturel important. D’autres ont un cadre biologique (vie fonctionnelle).
+g) Il est des ouvrages qui sont simplement composés de deux sortes d’ouvrages, fragmentés et juxtaposés. Par ex. : certaines Zoologies, certaines Anatomies comparées. Les descriptions des espèces zoologiques et botaniques se trouvent éparses dans un grand nombre de périodiques et dix mémoires spéciaux qu'il faut compulser et consulter pour toute détermination On y parvient par des listes de revision, des catalogues ou répertoires régionaux, des ouvrages d’ensemble publiant des descriptions. On a en zoologie de travaux, dont le cadre est zoo-géographique (monographies d’espèces, des lieux et autres déterminants ex. Pellegrin : Les poissons du bassin du Tchad. Paris 1914) et d’autres dont le cadre est précisément zoologi-,1 que. Ils consistent en une monographie complète de toutes les espèces connues d’un groupe naturel important. D’autres ont un cadre biologique (vie fonctionnelle).
 
 h) On fait des documents sur des documents, sur des documents de documents, et ainsi de suite sans limitation. Les livres donnent lieu à des bibliographies, puis à des bibliographies de bibliographies, À des bibliographies des bibliographies de bibliographies. D’une œuvre on fait la critique, puis la critique de la critique. (1)
 
@@ -6368,9 +6368,9 @@ i) Pour capter l'attention l'image est plus efficace que le texte; la maquette s
 
 a) La classification par especes de livres et documents
 
-intervient à tous les stades du cycle bibliologique ; quant ù la production, il y a des auteurs, des imprimeurs, des éditeurs spécialisés (par ex. pour le périodique, pour le dictionnaire) ; quant à la distribution : des librairies spécialisées (ex.: Librairie des dictionnaires); quant à la conservation : catalogue, collection, organisme (ex. : les
+intervient à tous les stades du cycle bibliologique ; quant à la production, il y a des auteurs, des imprimeurs, des éditeurs spécialisés (par ex. pour le périodique, pour le dictionnaire) ; quant à la distribution : des librairies spécialisées (ex.: Librairie des dictionnaires); quant à la conservation : catalogue, collection, organisme (ex. : les
 
-ouvrages d’ensemble sont classés dans la Bibliothèque des référence», les périodiques dans les Hemerothèques) ; quant à l’utilisation: genre de lecteurs: quant à l’organisation : règles et plans spéciaux.
+ouvrages d’ensemble sont classés dans la Bibliothèque des références, les périodiques dans les Hemerothèques) ; quant à l’utilisation: genre de lecteurs: quant à l’organisation : règles et plans spéciaux.
 
 b) D’autre part, les diverses espèces d’œuvres étant intimement liées à des modes fondamentaux d'exposé, dans un but de simplification on a traité éventuellement de ceux-ci a l’occasion de certaines espèces.
 
@@ -6406,7 +6406,7 @@ a) C'est la description d'un sujet, complète et à tous points de vue. C'est la
 
 On ne peut plus guère publier que des matériaux et il faut des laboratoires pour les élaborer. D'où le principe de la publication en éléments pouvant se réunir, formant une collection et le principe de répertoire sur fiches eu feuilles destinés à ordonner ces éléments en collections.
 
-Une monographie en réunissant tout ce cjui concerne un sujet est un travail d'ana'yse et de synthèse bibliographiques.
+Une monographie en réunissant tout ce qui concerne un sujet est un travail d'analyse et de synthèse bibliographiques.
 
 b) Il y a des collections de monographies et des monographies publiées selon des plans systématiques. (2)
 
@@ -6433,11 +6433,11 @@ En sciences naturelles, les descriptions se font conformément à des méthodes 
 
 Constamment les descriptions y sont renouvelées. Or de nouvelles espèces doivent être décrites. De lâ des refontes, des rééditions. Chaque espèce réçoit une « diagnose » suffisante et une figure qui mette en lumière ses caractères fondamentaux. Les dimensions sont exprimées suivant leur nature en mètre», millimètres ou microns (millièmes de millimètre) représentés par les lettres m, mm ou pi. Les descriptions dans certains ouvrages de sciences naturelles sont précédés de tables dichotomiques. (Ex. S. Garman, The Plagiostoma. Cambridge (Harvard) 1913.)
 
-Dans les descriptions des objet», il faut des conventions pour désigner les positions décrites. Ainsi dans les descriptions anatomiques, l’animal est supposé placé verticalement, la tête en haut, la face ventrale en avant. Les termes haut, bas, avant, arrière ont donc les significations qu'implique cette orientation. Les termes droite et gauche s'appliquent toujours à ( animal décrit sans tenir compte de la position de l'observateur.
+Dans les descriptions des objets, il faut des conventions pour désigner les positions décrites. Ainsi dans les descriptions anatomiques, l’animal est supposé placé verticalement, la tête en haut, la face ventrale en avant. Les termes haut, bas, avant, arrière ont donc les significations qu'implique cette orientation. Les termes droite et gauche s'appliquent toujours à ( animal décrit sans tenir compte de la position de l'observateur.
 
 b) Le Congrès international de Navigation a demandé l'étude d'un formulaire clair, court, mais cependant suffisamment complet qui renfermerait les renseignements nécessaires pour définir les caractéristiques de chaque rivière, étudiée au double point de vue de son régime et des besoins de la navigation, (I)
 
-c) Les mêmes considérations qui justifient la classification universelle et l'unification des formats conduisent directement au principe de la publication sous forme de monographie, c'est-à-dire d'éléments intellectuels unitaires, séparés, distinctement substitués aux recueils poly-graphiques ou tout au moins prenant place à côté d eux. I! est désirable dans chaque science d’en arriver par entente internationale à un système de caractéristiques minimum à exiger pour une description scientifique (diagnose).
+c) Les mêmes considérations qui justifient la classification universelle et l'unification des formats conduisent directement au principe de la publication sous forme de monographie, c'est-à-dire d'éléments intellectuels unitaires, séparés, distinctement substitués aux recueils poly-graphiques ou tout au moins prenant place à côté d'eux. Il est désirable dans chaque science d’en arriver par entente internationale à un système de caractéristiques minimum à exiger pour une description scientifique (diagnose).
 
 3. Essai.
 
@@ -6499,7 +6499,7 @@ f) Le traité doit embrasser les données d’une vue systématique et synthéti
 
 Le traité est le produit d'une longue évolution historique qui n'a pas eu le même rythme dans tous les domaines des connaissances. Voici quelques faits.
 
-a) Tout ce que la géométrie élémentaire avait trouvé pendant l'époque classique fut résumé par Euclide (IIIe siècle avant J. C.) dans ses éléments » Stoikeia ».
+a) Tout ce que la géométrie élémentaire avait trouvé pendant l'époque classique fut résumé par Euclide (IIIe siècle avant J. C.) dans ses éléments « Stoikeia ».
 
 ====
 
@@ -6509,15 +6509,15 @@ Peu de livres ont eu un succès aussi durable. Depuis son apparition jusqu'à no
 
 b) Les vrais manuels de l’antiquité sont les compilations du Ve et du VIe siècle, celles de Martianus Capella, d’Isidore de Séville, de Bolie, etc.
 
-c) Les Upanishad sont des traités de philosophie religieuse dont le nombre dépasse 200 et qui sont très différents entre eux. Ce sont comme des appendices aux n Brahmana » ou ouvrages d’exégèse théologique.
+c) Les Upanishad sont des traités de philosophie religieuse dont le nombre dépasse 200 et qui sont très différents entre eux. Ce sont comme des appendices aux « Brahmana » ou ouvrages d’exégèse théologique.
 
-d) L’établissement par Justinien au VIe siècle, des Institutes de droit romain, véritable traité de droit n l’usage de renseignement a apporté un type remarquable de traité.
+d) L’établissement par Justinien au VIe siècle, des Institutes de droit romain, véritable traité de droit à l’usage de renseignement a apporté un type remarquable de traité.
 
 e) Avant la Quintinie, qui fut « directeur général des jardins fruitiers et potagers de toutes les demeures royales», il n’y avait pas de traités d’horticulture en France. C’est en observant les jardiniers, en les interrogeant, que la Quintinie apprit les secrets que s’étaient transmises les unes aux autres les générations de jardiniers.
 
 L'idée de consigner l’expérience de la vie pratique des métiers est tard venue. L’encyclopédie au XVIIIe siècle ayant procédé à la description de beaucoup d’arts généralisés, après elle on a publié des traités ou manuels sur ces matières spéciales.
 
-f) Les Physiocrates n’ont pas fait de traité méthodique. La science n’a d’eux en ce genre que le petit Abrégé des principes de. /’Economie politique, disposé en tableaux et formules, a la manière des arbres généalogique», écrit en 1772 par le margrave de Bade ou peut-être par Dupont de Nemours.
+f) Les Physiocrates n’ont pas fait de traité méthodique. La science n’a d’eux en ce genre que le petit Abrégé des principes de. L’Economie politique, disposé en tableaux et formules, a la manière des arbres généalogiques, écrit en 1772 par le margrave de Bade ou peut-être par Dupont de Nemours.
 
 g) Dans la période qui s’ouvre au XVIIIe siècle, les professeurs d’université créaient en Allemagne, surtout à Gottingen, pour les besoins de l'enseignement, la forme nouvelle ou Manuel ¿'histoire, recueil méthodique des faits soigneusement justifiés, sans prétentions littéraires ni autres.
 
@@ -6544,9 +6544,9 @@ un compendium de vulgarisation ayant surtout pour objet de réunir en un seul, o
 
 h) Les traités présentent l’exposé tantôt à un point de vue théorique, tantôt à un point de vue pratique, tantôt ils combinent les deux points de vue.
 
-Un traité souvent comprend deux ordres de données : I" une mise au point de la science traitée qui lient compte de tous les aspects ou problèmes, y compris les recherches les plus récentes; 2° un exposé des idées personnelles de l’auteur.
+Un traité souvent comprend deux ordres de données : 1" une mise au point de la science traitée qui lient compte de tous les aspects ou problèmes, y compris les recherches les plus récentes; 2° un exposé des idées personnelles de l’auteur.
 
-Il y a bien de grandes choses qui n ont que de petites places dans les traités classiques, et qui dès lors méritent d’ètre abordées dans des ouvrages spéciaux.
+Il y a bien de grandes choses qui n'ont que de petites places dans les traités classiques, et qui dès lors méritent d’ètre abordées dans des ouvrages spéciaux.
 
 Inversement, des ouvrages portent le titre d'encyclopédie tout en étant systématique (ex. : Encyclopédie des sciences mathématiques). Des ouvrages portent le titre de traité tout en étant alphabétique (ex. ; 1 raité alphabétique des droits d’enregistrement, de timbre et d hypothèque, par E. Maguéro),
 
@@ -6554,7 +6554,7 @@ c) Il existe des manuels alphabétiques (ex. : Le manuel alphabétique de philos
 
 Certains éditeurs se sont préoccupés de fournir des cours complets. Ainsi la librairie Savoy a donné un Cours complet d’Histoire naturelle : Botanique (Ph. van Tie-ghem, 1600 p.). Géologie (A. de Lapparent. 1280 p.), Zoologie (Claus, traduit par Moquin Tandon. 1566 p.).
 
-Beaucoup de traités sont rédigés conformément au programme des cours de tel ou tel établissement d enseignement (ex.: Traité des machines à vapeur, de Alheilig et Roche, rédigé conformément au programme des cours de machine à vapeur de l’Ecole centrale)
+Beaucoup de traités sont rédigés conformément au programme des cours de tel ou tel établissement d'enseignement (ex.: Traité des machines à vapeur, de Alheilig et Roche, rédigé conformément au programme des cours de machine à vapeur de l’Ecole centrale)
 
 
 ====
@@ -6593,7 +6593,7 @@ Ce n'est la ni de la zoologie ni de l’anatomie comparée, mais des chapitres d
 
 *132*  LE LIVRE ET LE DOCUMENT  241
 
-Le défaut est que ce livre, concret pour être lu et consulté mai» non pour apprendre quand on ne »ait déjà. L'étudiant ne peut trouver de notions concrètes de descriptions analogues assises sur un être réel sans les chercher dans des monographies spéciales.
+Le défaut est que ce livre, concret pour être lu et consulté mais non pour apprendre quand on ne sait déjà. L'étudiant ne peut trouver de notions concrètes de descriptions analogues assises sur un être réel sans les chercher dans des monographies spéciales.
 
 Un nouveau type de traité de zoologie a été réalisé par Yves Delage et Herouard (traité de zoologie concrète).
 
@@ -6615,7 +6615,7 @@ Certains traités sont en liaison avec des tableaux muraux (ex. : Manuel de l’
 
 Beaucoup de traités sont établis en collaboration, notamment en Allemagne, où plusieurs rédacteurs spécialistes sont groupés sous une direction éditoriale. (Ex. Handbuch der Technischen Mykologie, de Lafar.)
 
-Les temps sont venus où les science», continuant à avoir besoin de grands traités systématiques, sont dans l’impuissance de les voir produite par des individualités isolées. La collaboration A deux ou trois est devenue courante: celle d’une association d’auteurs, d’un comité d’action comprenant des douzaines de membres y fait suite. Voici que »’instaurent peu A peu des instituts permanents dont la mission dévolue d’abord A de simples monographies, s'étend ensuite A des rapports et ultérieurement à des refontes et mises A jour de ces rapporta. Les organismes internationaux officiels ou privés remplissent ¡ci une fonction très importante. Ce qui se passe A la Société des Nations et au Bureau International est particulièrement intéressant A suivre, comme ce qui se passe dans les Instituts Scientifiques du Gouvernement des Etats-Unis.
+Les temps sont venus où les science», continuant à avoir besoin de grands traités systématiques, sont dans l’impuissance de les voir produite par des individualités isolées. La collaboration A deux ou trois est devenue courante: celle d’une association d’auteurs, d’un comité d’action comprenant des douzaines de membres y fait suite. Voici que s’instaurent peu A peu des instituts permanents dont la mission dévolue d’abord A de simples monographies, s'étend ensuite A des rapports et ultérieurement à des refontes et mises A jour de ces rapporta. Les organismes internationaux officiels ou privés remplissent ¡ci une fonction très importante. Ce qui se passe A la Société des Nations et au Bureau International est particulièrement intéressant A suivre, comme ce qui se passe dans les Instituts Scientifiques du Gouvernement des Etats-Unis.
 
 f) Dans certaines matières, telles que l’art. le mot systématique a été pris dans un sens différent. Un ouvrage d’Art et d’Archéologie s’ouvre par une introduction donnant la définition et la division de l’art. Vient ensuite,
 coupée par période, l’histoire de l’art de différents peuples. c'est-à-dire celle de son développement organique. La partie systématique prend alors l’art dans son ensemble, elle l'étudie en lui-même, dans les matériaux qu’il emploie, dans les procédés qu'il applique, dans les conditions qui s'imposent à lui, dans le caractère qu’il prête aux formes, dans les sujets qu'il traite, dans la répartition de ses monuments sur toute la surface du terrain occupé pat la civilisation. (Plan du manuel de l'archéologie de l'art, d'Ottfried Millier, commenté par Perrot et Chippiez. )
@@ -6637,7 +6637,7 @@ h) Les auteurs des grands traités scientifiques sont placés devant une tâche 
 
 241  DOCUMENTS BIBLIOGRAPHIQUES
 
-l'avenir des retouches et des adaptations pourront devenir nécessaires ? Ne serait-il pas regrettable et prématuré, par exemple, de mutiler actuellement l’œuvre admirable de KreSnel, sous prétexte do la souder en un ensemble plus homogène aux théories électro-magnétiques ? Il n'est donc pas de science, à l'heure présente, dont l’exposé »oit hérissé d'autant d'écueils que celui de nos connaissances en Physique, si I on tient compte surtout de la difficulté de discerner les travaux qui doivent rester, dans l'avalanche de matériaux trop souvent médiocres dont la science est de plus en plut encombrée, conséquence inévitable de son extrême diffusion, s
+l'avenir des retouches et des adaptations pourront devenir nécessaires ? Ne serait-il pas regrettable et prématuré, par exemple, de mutiler actuellement l’œuvre admirable de KreSnel, sous prétexte do la souder en un ensemble plus homogène aux théories électro-magnétiques ? Il n'est donc pas de science, à l'heure présente, dont l’exposé soit hérissé d'autant d'écueils que celui de nos connaissances en Physique, si l'on tient compte surtout de la difficulté de discerner les travaux qui doivent rester, dans l'avalanche de matériaux trop souvent médiocres dont la science est de plus en plut encombrée, conséquence inévitable de son extrême diffusion, s
 
 Le Traité de Physique de Chivolson est présenté comme un intermédiaire entre les livres classiques, rédigés souvent en vue d'un programme d'examen détermine et les mémoires originaux des ouvrages spéciaux.
 
@@ -6647,27 +6647,27 @@ Le traité de géologie de Hang est le plus récent. Il est Ion étendu lé volu
 
 Le traité de géologie de Lapparat a remplacé en 1832 tous les traités précédents. En 1903 avait déjà paru la 6' édition. Il a pu, grâce à son succès, être tenu à jour. Il est comme un répertoire de connaissances de la terre à noire époque. L'ouvrage de Suess, grâce à son point de départ tectonique, a plus de vie. Le livre de Haug donne un enseignement par les gravures, qui enlève définitivement à la géologie ce qu'elle avait autrefois d'un peu rébarbatif.
 
-Le grand ouvrage d ensemble sur la paléontologie de Karl von Zittel est une révision complète des connaissances acquises sur les animaux et les plantes fossiles avec une histoire de chaque groupe, de son origine, de son évolution et de ses rapports vraisemblables avec les rameaux voisin*.
+Le grand ouvrage d'ensemble sur la paléontologie de Karl von Zittel est une révision complète des connaissances acquises sur les animaux et les plantes fossiles avec une histoire de chaque groupe, de son origine, de son évolution et de ses rapports vraisemblables avec les rameaux voisin*.
 
 Le grand ouvrage d'Yves Delage et E. Hérouard. ( roilé de zoologie concrète, peut être considéré comme nn traité type.
 
-Dans le cour* de zoologie de J. Lensen. l'auteur choisit, comme type, pour choque groupe zoologique, un anima! dont la description permet de dégager les caractères du groupe entier.
+Dans le cours de zoologie de J. Lensen. l'auteur choisit, comme type, pour choque groupe zoologique, un animal dont la description permet de dégager les caractères du groupe entier.
 
-A propos d'un traité qui a fait époque (Les colloïdes, pat J. Duel aux, chef de InboraVolte à l'Institut de France. Paris, Gauthier Villars, 1920), on a fait l'observation suivante: que sur le nombre de travaux ayant pour objet l'étude théorique d'une matière nouvelle, il arrive qu'il» ne s'inspirent pas d’une doctrine unique. L'esprit se perd alors au milieu des contradictions et une mise au point »’impose. Le premier moyen est de réunir toutes
+A propos d'un traité qui a fait époque (Les colloïdes, pat J. Duel aux, chef de InboraVolte à l'Institut de France. Paris, Gauthier Villars, 1920), on a fait l'observation suivante: que sur le nombre de travaux ayant pour objet l'étude théorique d'une matière nouvelle, il arrive qu'ils ne s'inspirent pas d’une doctrine unique. L'esprit se perd alors au milieu des contradictions et une mise au point »’impose. Le premier moyen est de réunir toutes
 13 3
 les données certaines en un ensemble cohérent. Le second consiste dans l'élimination de détails inutiles et surtout des doctrines périmée». Les théories se succèdent en révélant des formes de plus en plus parfaites. On peut reléguer dans l'histoire beaucoup de lois et de règles reconnues fausses ou inapplicables qui, très connues auparavant, continuent à subsister pour la forme et la tradition,
 
 Il y a des rassemblements de données connues qui sont éparses. Par exemple, les poissons du Japon avaient été décrits dans des recueils non seulement du Japon mais dans tous les pays ; ils exigeaient des recherches bibliographiques absorbantes. Un répertoire dressé par MM. jordan lanaka et Snydcr (Journal of the College of Science, Imperia] University of lokio; t. XXX111, I, 1913) en a rassemblé et coordonne tous les documents dispersés.
 
-Les ouvrages raisonnés des sciences appliquées ont une très grande importance. Il faut dresser sur des bases scientifiques et précises les préceptes de l’application, il iaut raisonner la pratique et l’emploi des choses, il s agit d'une part de considérer les objets et êtres décrits, tel* qu'ils se comportent dans la nature et tels qu'on doit les envisager par rapport à l'usage que nous faisons d'eux. « Il s'agit de montrer comment les problèmes nombreux et parfois complexes que soulève la pratique, trouvent leur solution dans les études scientifiques et comment par suite ces dernières devant prendre leur rang et occuper leur place qtli est la première, il est nécessaire de les exposer telles qu elles sont, comme d’en présenter toutes les conséquences, s ( I )
+Les ouvrages raisonnés des sciences appliquées ont une très grande importance. Il faut dresser sur des bases scientifiques et précises les préceptes de l’application, il iaut raisonner la pratique et l’emploi des choses, il s agit d'une part de considérer les objets et êtres décrits, tels qu'ils se comportent dans la nature et tels qu'on doit les envisager par rapport à l'usage que nous faisons d'eux. « Il s'agit de montrer comment les problèmes nombreux et parfois complexes que soulève la pratique, trouvent leur solution dans les études scientifiques et comment par suite ces dernières devant prendre leur rang et occuper leur place qui est la première, il est nécessaire de les exposer telles qu elles sont, comme d’en présenter toutes les conséquences, s ( I )
 
 i) La médecine a une matière immense à recueillir et à systématiser. Les traités sont des œuvres considérables.
 
 Le nouveau traité de médeciuc et de thérapeutique s été publié en fascicules sous la direction de MM. Brouardel et A. Gilbert (40 fascicules, 200 fr. Paris. Bailère 1906).
 
-Il est dit dans la préface : « Laissant aux dictionnaires et aux traités du temps jadis, la forme antique de lourds volumes, incommodes à consulter encore plus à lire, te nouveau traité parait en fascicules séparés, entièrement distincts, ayant chacun leur titre, leur pagination propre, leur table des matières. Chaque fascicule se vend séparément et forme un tout complet réunissant les maladies qui constituent des groupes naturels.
+Il est dit dans la préface : « Laissant aux dictionnaires et aux traités du temps jadis, la forme antique de lourds volumes, incommodes à consulter encore plus à lire, le nouveau traité parait en fascicules séparés, entièrement distincts, ayant chacun leur titre, leur pagination propre, leur table des matières. Chaque fascicule se vend séparément et forme un tout complet réunissant les maladies qui constituent des groupes naturels.
 
-s Pour assurer à la publication une plus grande rapidité, les fascicules sont publiés aussitôt prêts, sans tenir compte de l'ordre des numéros »
+s Pour assurer à la publication une plus grande rapidité, les fascicules sont publiés aussitôt prêts, sans tenir compte de l'ordre des numéros «
 
 Le Traité d’hygiène publié par Brouardel et Mosny, avec un grand nombre de collaborateurs (Paris, Baillière et Fils) est divisé en 20 foscicules qui ont paru mensuellement, mais sans suivre l'ordre des numéros afin d'assurer une publication plus rapide, écueils où s'étaient
 (!) Louis Roule. Traité laiton né de la pisciculture ef des pichet.
@@ -6695,7 +6695,7 @@ Du Droit Romain de Georges Cornil (Aperçu historique sommaire ad usucum cupidae
 
 Il résume de façon personnelle tous les travaux antérieurs sur la matière, y compris ceux de l’auteur. C'est en 700 pages tout ce que la pensée humaine a, jusqu'à nos jours, enfanté de plus savant et de plus profond sur ce grand sujet renouvelé de siècle en siècle: le droit romain que les modernes comprennent mieux que les Romains eux-mêmes ont jamais pu le comprendre. C’est un chef-d'œuvre en son genre
 
-k) Sous le titre a Les archives du manuel social >, publié sous la direction des PP. A. Vermeersch et A. Muller S. J., paraissait périodiquement en forme de fascicules d'importance variable, des études dont l’ensemble composera un Manuel doctrinal de première valeur sur toutes les questions sociales à l'ordre du jour. Le fond J de cet ouvrage sera constitué par la réédition refondue, mise à jour et considérablement augmentée du Manuel social du P. Vermeersch.
+k) Sous le titre « Les archives du manuel social «, publié sous la direction des PP. A. Vermeersch et A. Muller S. J., paraissait périodiquement en forme de fascicules d'importance variable, des études dont l’ensemble composera un Manuel doctrinal de première valeur sur toutes les questions sociales à l'ordre du jour. Le fond J de cet ouvrage sera constitué par la réédition refondue, mise à jour et considérablement augmentée du Manuel social du P. Vermeersch.
 
 l) Le Manuel de littérature de Brunetière se divise typographiquement en deux parties: en haut des pages.
 un « discours » d'affilée sur la suite de lettres françaises
@@ -6706,13 +6706,13 @@ rn) Les traités d histoire sont les œuvres dites de seconde main qui sur le fo
 
 Le difficile est le bon sectionnement des séries. Ex. :
 
-Le répertoire chronologique de l'hi'toire universelle des Beaux-Arts, depuis les origines jusqu'à la formation des écoles contemporaines, par Roger Peyre. Vérification des dates. Concordances de l'Histoire des Beaux-Arts chex tous les peuples. Paris, H. Laurens, 534 p.
+Le répertoire chronologique de l'histoire universelle des Beaux-Arts, depuis les origines jusqu'à la formation des écoles contemporaines, par Roger Peyre. Vérification des dates. Concordances de l'Histoire des Beaux-Arts chex tous les peuples. Paris, H. Laurens, 534 p.
 
 Par année, sous chaque année par pays, une table alphabétique des noms propres usités.
 
 Dans l’Histoire spéciale (ex.: Histoire de l’Art). Il s'agit de présenter un tableau de l'histoire, l'évolution avec assez de détails pour que l'entraînement puisse en être suivi.
 
-La difficulté est de faire une place aux influences des matières exclues des sujets traités. Il est impossible dans le traitement d’une matière si vaste et si complexe de conserver pour chaque partie des coupures rigoureusement synchroniques. Mais on s efforcera du moins que le groupement et l'enchaînement logiques des œuvres et des faits ne soient jamais rompus.
+La difficulté est de faire une place aux influences des matières exclues des sujets traités. Il est impossible dans le traitement d’une matière si vaste et si complexe de conserver pour chaque partie des coupures rigoureusement synchroniques. Mais on s'efforcera du moins que le groupement et l'enchaînement logiques des œuvres et des faits ne soient jamais rompus.
 
 n) Les grands Grundrisse des Allemands sont élaborés I en collaboration d'après des plans généraux dressés par
 
@@ -6720,9 +6720,9 @@ les directeurs de la publication. Ex.: Le Grundriss de Ueberwcg.
 
 o) Il existe de grandes collections de traités ou manuels. Par ex. en français la collection des manuels Roret pour les divers arts et métiers.
 
-La nouvelle collection des t Mises au point > (Paris. Gauthier Villars) a pour but de compléter avec un minimum d’efforts l'instruction générale scientifique et de la mettre au courant de l'essentiel de la science moderne. Ce ne sont pas des traités didactiques, ni des ouvrages de documentation, mais bien des livres de lecture scientifique; nulle formule n’arrêtera le lecteur et des figures schématiques ou photographiques éclairent constamment le texte. Un index sommaire des récentes publications accompagne chaque volume. Celui-ci comprend :
+La nouvelle collection des « Mises au point » (Paris. Gauthier Villars) a pour but de compléter avec un minimum d’efforts l'instruction générale scientifique et de la mettre au courant de l'essentiel de la science moderne. Ce ne sont pas des traités didactiques, ni des ouvrages de documentation, mais bien des livres de lecture scientifique; nulle formule n’arrêtera le lecteur et des figures schématiques ou photographiques éclairent constamment le texte. Un index sommaire des récentes publications accompagne chaque volume. Celui-ci comprend :
 
-Io un rappel des principes essentiels nouveaux et anciens ;
+1o un rappel des principes essentiels nouveaux et anciens ;
 
 2° un tableau juste, assez complet et détaillé, très clair avec références et documentation (modérée) de l'état actuel des sciences, tant comme principe que comme application, en insistant davantage sur les plus récentes, peu connues du public d'âge mûr, ^ans négliger 1*historique de la science étudiée, l’enchaînement des découvertes, l'évolution des idées et doctrines et le perfectionnement des méthodes ;
 
@@ -6751,15 +6751,15 @@ Ils ne doivent pas être aussi complets que possible, mais l'auteur doit se pré
 
 b) Le traité doit être complet ; il doit être l'exposé de toutes les matières de la science à laquelle il est consacré.
 
-Il y a lieu d'envisager le traité le plus complet et en tirer ensuite des types moins complets, soit qu on y omette des parties, soit qu'on en résume d autres.
+Il y a lieu d'envisager le traité le plus complet et en tirer ensuite des types moins complets, soit qu'on y omette des parties, soit qu'on en résume d autres.
 
 En principe, il y a donc des traités de type élémentaire (minimum), moyen, supérieur (maximum).
 
 Des procédés typographiques peuvent faire distinguer les degrés de l'exposé. Par ex. dans le sommaire et dans
-(I) Yves Delage i t Sur la manière d’écrire dan* les sciences naturelles. Préface d’un mémoire sur l'Embtyo-fence des éponges s, In: Arcli, de zoologie expérimentale et générale, 2“ série, t, X. 1892. Voir aussi la préface et l'avîs au lecteur du traité de zoologie concrète du même auteur.
+(I) Yves Delage i t Sur la manière d’écrire dans les sciences naturelles. Préface d’un mémoire sur l'Embtyo-fence des éponges s, In: Arcli, de zoologie expérimentale et générale, 2“ série, t, X. 1892. Voir aussi la préface et l'avis au lecteur du traité de zoologie concrète du même auteur.
 le corps même des chapitres, les idées et les faits de première importance sont imprimés en caractères gras qui attirent l'œil. (Ex.: Cours d'histoire: Ch. Guignebert. L'Europe et le moyen âge, de Dupont Ferrière).
 
-Chaque paragraphe du texte est résumé en une phrase liminaire composée en caractères gras, (Ex. : Résumé aide-mémoire d histoire de la littérature française de De Plinval. )
+Chaque paragraphe du texte est résumé en une phrase liminaire composée en caractères gras, (Ex. : Résumé aide-mémoire d'histoire de la littérature française de De Plinval. )
 
 c) Le traité doit faire application des fotmes bibliolo-giques les plus avancées. Fout ce qui a été dit des parties et de la structure du livre se retrouve ici. Un traité en fait est la réunion en une superstructure biblio-logique de divers éléments structurés plus simples. (Par ex. : le cliapitrage, les notes historiques et autres, les tables, la bibliographie, les illustrations, etc.)
 
@@ -6778,7 +6778,7 @@ Dans le dictionnaire on expose à chaque mot ce que l'on sait de l’objet corre
 
 *136*  LE LIVRE LT LE DOCUMENT  241
 
-lois qui s'y rapportent. On (ait donc une synthèse d'explications. il en résuite qu’en général un tel article ne sera compris que par un lecteur déjà familiarisé avec les lois elles-mêmes. Les dictionnaires sont commodes pour chercher des renseignements, des détails que l'ordre alphabétique permet oc trouver aisément, mais ils ne donnent aucune Idée de l’enchaînement des lois scientifiques, c'est-à-dire de l'essentiel de la science.
+lois qui s'y rapportent. On fait donc une synthèse d'explications. il en résuite qu’en général un tel article ne sera compris que par un lecteur déjà familiarisé avec les lois elles-mêmes. Les dictionnaires sont commodes pour chercher des renseignements, des détails que l'ordre alphabétique permet oc trouver aisément, mais ils ne donnent aucune Idée de l’enchaînement des lois scientifiques, c'est-à-dire de l'essentiel de la science.
 
 Le traité se propose d'exposer cet ordre, un ordre linéaire et logique, mais il ne donne pas la moindre idée de la façon dont la science se fait. Ils sont précieux pour les gens de métier, savants ou étudiants. Dans les parties les plus avancées des sciences où l'enchaînement déductif des lois est bien conçu, ils sont d'admirables monuments de logique.
 
@@ -6804,7 +6804,7 @@ k) Le traité sera l'ouvrage essentiel de l’exposé fondamental de chaque scie
 
 l) Le traité fera partie intégrale de l'organisation de la documentation et de l'édition.
 
-Il en sera partie notamment : I" en mettant en œuvre toute la série coordonnée des formes bibliographiques élémentaires; 2" en s'établissant en corrélation avec la série des formes fondamentales de publication (encyclopédie, revue, annuaire, atlas, bibliographie) ; 3° en appliquant les règles formulées pour la publication et pour la biblio graphie ; 4“ en étant une contribution au plan de la Documentation universelle,
+Il en sera partie notamment : 1" en mettant en œuvre toute la série coordonnée des formes bibliographiques élémentaires; 2" en s'établissant en corrélation avec la série des formes fondamentales de publication (encyclopédie, revue, annuaire, atlas, bibliographie) ; 3° en appliquant les règles formulées pour la publication et pour la biblio graphie ; 4“ en étant une contribution au plan de la Documentation universelle,
 
 m) Le traité sera largement en coopération. L'organisa lion suivante, déjà largement esquissée dans la réalité, permettrait d'arriver à une documentation intégrale. Elle reposerait à la fois sur l’enseignement, sur les services scientifiques officiels et sur les sociétés scientifiques, les chaires des instituts supérieurs, les séminaires similaires de tous les pays, qui sont presque tous membres des associations internationales. Celles-ci pourraient assumer en coopération systématisée et continue, établir un traité fondamental de chaque science. Puisque les matières ont à être enseignées partout, le travail de mise au courant de la matière est déjà effectué par les professeurs. Les cours partout devraient être objectivés par un traité complet mis à la disposition des étudiants. Les assistants des maîtres, aidés d'étudiants, auraient la tâche de l'élaboration matérielle des traités au moyen des matériaux publiés de divers côtés.
 
@@ -6822,13 +6822,13 @@ m) Le traité sera largement en coopération. L'organisa lion suivante, déjà l
 
 a) L'encyclopédie est l'ouvrage qui traite ou prétend traiter de toutes les sciences humaines. L'encyclopédie est aussi le terme donné à la connaissance de tout ce que l'homme peut savoir. Le mot vient du grec cnkuklopaideia qui signifie littéralement cercle de sciences, de en dans, A;ui'/<>5 cercle et paideia, instruction science.
 
-h) Le mot encyclopédie a reçu cinq sens différents : I“ l’encyclopédie dite universelle ; t ensemble d'une science dans toutes ses notions abstraites et concrètes ; 2 l'encyclopédie dite vulgaire ; notions sommaires sur toutes les parties d'une science ou des sciences; c’est l'encyclopédie des gens cultivés; 3° l'encyclopédie comme science préliminaire, notamment pour préparer au* études; 4" 1‘encyclopédîe comme science complémentaire (compléter les lacunes des études) ; 5" l'encyclopédie philosophique : ensemble des généralités abstraites et permanentes d'une science : les normes ou premiers principes ; les constantes. ( 1 )
+h) Le mot encyclopédie a reçu cinq sens différents : 1“ l’encyclopédie dite universelle ; l'ensemble d'une science dans toutes ses notions abstraites et concrètes ; 2 l'encyclopédie dite vulgaire ; notions sommaires sur toutes les parties d'une science ou des sciences; c’est l'encyclopédie des gens cultivés; 3° l'encyclopédie comme science préliminaire, notamment pour préparer aux études; 4" l'encyclopédîe comme science complémentaire (compléter les lacunes des études) ; 5" l'encyclopédie philosophique : ensemble des généralités abstraites et permanentes d'une science : les normes ou premiers principes ; les constantes. ( 1 )
 
 c) L'encyclopédie répand des connaissances sur tout ce qu'il n’est plus permis à personne d'ignorer: science, industrie, technique, histoire, art, société. Elle permet de suivre partout le mouvement grandissant de l’évolution humaine. A notre époque la curiosité de la pensée est devenue générale et l’encyclopédie est devenue l'outil de cette curiosité. C'est l’âge oii la riche matière des dictionnaires se systématise en encyclopédies méthodiques.
 
-Nous sommes, disent toutes les œuvres, à l'âge de l'encyclopédie. Elles ajoutent: l’esprit le mieux nourri n'est pas celui qui connaît les choses, mais celui qui sait où les trouver (n'est-ce pas lâ une nouvelle version de la primitive devise de l'Institut International de Bibliographie ; < Quid seit ibi scientiae habendi est proximus »). Il laut créer l'habitude de recourir à l'encyclopédie (Encyclopédie habit). L’encyclopédie est la pierre angulaire (Cornerstone) de la Bibliothèque. Elle est le lien entre tous les livres. La voilà pénétrant déjà dans l’école et de là elle pénétrera à la maison, comme le dictionnaire a débuté aussi par l’école aux Etats-Unis. Elle est le moyen illimité de répondre aux question» sans limite». Pas besoin comme aux livres d'index placé à la fin ; tout sujet, si large ou si spécial, figure à sa pince alphabétique propre. El ils ajoutent encore: les connaissances qui ont coûté à l'homme des centaines de millions, on les achète aujourd'hui pour un prix vraiment insignifiant.
+Nous sommes, disent toutes les œuvres, à l'âge de l'encyclopédie. Elles ajoutent: l’esprit le mieux nourri n'est pas celui qui connaît les choses, mais celui qui sait où les trouver (n'est-ce pas là une nouvelle version de la primitive devise de l'Institut International de Bibliographie ; « Quid seit ibi scientiae habendi est proximus »). Il laut créer l'habitude de recourir à l'encyclopédie (Encyclopédie habit). L’encyclopédie est la pierre angulaire (Cornerstone) de la Bibliothèque. Elle est le lien entre tous les livres. La voilà pénétrant déjà dans l’école et de là elle pénétrera à la maison, comme le dictionnaire a débuté aussi par l’école aux Etats-Unis. Elle est le moyen illimité de répondre aux questions sans limite». Pas besoin comme aux livres d'index placé à la fin ; tout sujet, si large ou si spécial, figure à sa pince alphabétique propre. El ils ajoutent encore: les connaissances qui ont coûté à l'homme des centaines de millions, on les achète aujourd'hui pour un prix vraiment insignifiant.
 
-d) Les ouvrages en la forme dictionnaires sont utiles pour ccncentrer des renseignements nombreux où l'on se préoccupe plus de la précision et de la * monographie de chaque sujet » que de leurs liens de dépendance et de connexion. Ce sont pat excellence des ouvrages que l'on (I)
+d) Les ouvrages en la forme dictionnaires sont utiles pour ccncentrer des renseignements nombreux où l'on se préoccupe plus de la précision et de la « monographie de chaque sujet » que de leurs liens de dépendance et de connexion. Ce sont pat excellence des ouvrages que l'on (I)
 (I) Comp. E. Picard. Les constantes de droit, 1921, p, L
 consulte au lieu de les lire de I* première à la dernière page. Les Dictionnaires comme les Encyclopédies sont des instruments plus souples que les infidèles mémoires. Ils les aident et laissent les hommes plus libtes, plus dispos. Ils fournissent vite, à toute heure, suivant les besoins de l'instant, les renseignements, la documentation de la vie, des sciences, des métiers. Ainsi l'instrument d'information par excellence est le dictionnaire dont la forme offre un ordre plus large, mais de consultation plus nt'ée que l’ordre logique ou scolaire des questions.
 
@@ -6840,7 +6840,7 @@ Un traité et un dictionnaire ne rendent pas les mèmer offices. Quand on chcich
 
 Une science pour être complète doit sortir des limites trop étroites où on la tient souvent enchaînée et envahir les domaines qui lui étaient autrefois interdits en les traitant du point de vue de la science envisagée.
 
-Certes, sur ces sciences connexes, on n'utilisera que des livres cpmmuns et des mémoires déjà publiés, sans prétendre user du neuf ; mais ce sera déjà une œuvre bien importante que de rassembler les données éparses, de manière à les présenter dans leur ensemble. En outre, l'histoire d une science, la biographie et la bibliographie ne sont guère présentées dans les traités. En conclusion, le dictionnaire n’est pas le manuel ni le traité, il n a ni la belle ordonnance ni l’enchaînement des idées qu'on admire dans ces ouvtage». L'ordre alphabétique s'y oppose. Il brise fatalement la suite logique, les intéressantes discussions sur les points controversés. En revanche
+Certes, sur ces sciences connexes, on n'utilisera que des livres cpmmuns et des mémoires déjà publiés, sans prétendre user du neuf ; mais ce sera déjà une œuvre bien importante que de rassembler les données éparses, de manière à les présenter dans leur ensemble. En outre, l'histoire d une science, la biographie et la bibliographie ne sont guère présentées dans les traités. En conclusion, le dictionnaire n’est pas le manuel ni le traité, il n a ni la belle ordonnance ni l’enchaînement des idées qu'on admire dans ces ouvtages. L'ordre alphabétique s'y oppose. Il brise fatalement la suite logique, les intéressantes discussions sur les points controversés. En revanche
 
 
 ====
@@ -6852,12 +6852,12 @@ il donne en peu de aigues tout ce que le lecteur a besoin de savoir ; il replace
 241.222 HISTORIQUE.
 ....................
 
-L idée de réunir dans un seul ouvrage toutes les connaissances humaines est fort ancienne. Les premiers livres confondaient tout ; c'était des polygraphies dans toute la force du terme. L'œuvre du temps a consisté à distinguer les genres. Aussi les anciens livres sacrés, la Bible notamment, étaient de véritables encyclopédies. Moïse et Confucius ont été des centralisateurs. Les exposés de la philosophie antique, épanouis dans l'œuvre d'Aristote, offrent une idée de l'encyclopédie. Les écrits des poly-graphes grecs, ceux de Caton, Varon et Pline, ont un caractère encyclopédique. Au Ve siècle de notre ers, Martianus Capclla réunit en un seul livre les sept sciences qui composaient alors tout le savoir humain : grammaire, dialectique, rhétorique, géométrie, astrologie, arithmétique et musique. En avançant dans le moyen âge, on rencontre des encyclopédies spécialement consacrées à telle ou telle science et connue sous le nom de « Summae » ou IlSpécula ». Salomon, évêque de Constance, tenta au IXe siècle un OicUonarium Universale. L'œuvre littéraire gigantesque du moyen âge est l'encyclopédie d Albert Le Grand, 2I volumes in-folio dans l'édition Jammy (1615) et 38 in-quarto dans l'édition Sorgnet (I890-99). Saint-Thomas d'Aquin produisit sa Somme qui a traversé les âges. Sous le régime de saint l-ouis, au XIIIe siècle, le dominicain Vincent de Beauvais composa à la demande du roi, son Spéculum historiale, naturale, doctrinale et morale, vaste compilation destinée à reproduire les notions éparses dans les divers écrits. Cependant dans tous ces ouvrages l'idée d une encyclopédie demeurait encore incomplète. Des tentatives plus précises furent faites dès le commencement du XVIIe siècle. En 1606, un professeur de Brème, Mathias Martins. traça le plan d'une encyclopédie complète ; Henri Alated publia à Herborn une Encyclopédie VU Tomis distincta (1620). Bacon, par sa classification méthodique des connaissances humaines (1620), sera le germe de ce qui devrait au XVIIIe siècle produire de véritables encyclopédies. Le dictionnaire historique et critique de Bayle (1696) a exercé une immense influence sur la direction des idées au XVIIIe siècle. On Ta appelé une œuvre à l'allemande, une compilation informe de passages cousus à la queue les uns des autres. L'auteur ne cherchait qu'un texte, un prétexte pour développer ses propres idées.
+L idée de réunir dans un seul ouvrage toutes les connaissances humaines est fort ancienne. Les premiers livres confondaient tout ; c'était des polygraphies dans toute la force du terme. L'œuvre du temps a consisté à distinguer les genres. Aussi les anciens livres sacrés, la Bible notamment, étaient de véritables encyclopédies. Moïse et Confucius ont été des centralisateurs. Les exposés de la philosophie antique, épanouis dans l'œuvre d'Aristote, offrent une idée de l'encyclopédie. Les écrits des poly-graphes grecs, ceux de Caton, Varon et Pline, ont un caractère encyclopédique. Au Ve siècle de notre ers, Martianus Capclla réunit en un seul livre les sept sciences qui composaient alors tout le savoir humain : grammaire, dialectique, rhétorique, géométrie, astrologie, arithmétique et musique. En avançant dans le moyen âge, on rencontre des encyclopédies spécialement consacrées à telle ou telle science et connue sous le nom de « Summae » ou IlSpécula ». Salomon, évêque de Constance, tenta au IXe siècle un OicUonarium Universale. L'œuvre littéraire gigantesque du moyen âge est l'encyclopédie d'Albert Le Grand, 2I volumes in-folio dans l'édition Jammy (1615) et 38 in-quarto dans l'édition Sorgnet (I890-99). Saint-Thomas d'Aquin produisit sa Somme qui a traversé les âges. Sous le régime de saint Louis, au XIIIe siècle, le dominicain Vincent de Beauvais composa à la demande du roi, son Spéculum historiale, naturale, doctrinale et morale, vaste compilation destinée à reproduire les notions éparses dans les divers écrits. Cependant dans tous ces ouvrages l'idée d une encyclopédie demeurait encore incomplète. Des tentatives plus précises furent faites dès le commencement du XVIIe siècle. En 1606, un professeur de Brème, Mathias Martins. traça le plan d'une encyclopédie complète ; Henri Alated publia à Herborn une Encyclopédie VU Tomis distincta (1620). Bacon, par sa classification méthodique des connaissances humaines (1620), sera le germe de ce qui devrait au XVIIIe siècle produire de véritables encyclopédies. Le dictionnaire historique et critique de Bayle (1696) a exercé une immense influence sur la direction des idées au XVIIIe siècle. On Ta appelé une œuvre à l'allemande, une compilation informe de passages cousus à la queue les uns des autres. L'auteur ne cherchait qu'un texte, un prétexte pour développer ses propres idées.
 
-La plus célèbre des encyclopédies fut celle fondée par Diderot sous ce titre s Encyclopédie ou Dictionnaire s raisonné de« sciences, des arts et métiers, par une s société de gens de lettres, mis en ordre par Diderot et
+La plus célèbre des encyclopédies fut celle fondée par Diderot sous ce titre « Encyclopédie ou Dictionnaire » raisonné des sciences, des arts et métiers, par une s société de gens de lettres, mis en ordre par Diderot et
 > quant à ht partie mathématique par d Alenihert (1751-» 1772. 28 vol., suppl. 1776-1777, 5 vol.; table analytique » et raisonné, 2 vol. 1780). »
 
-En tête de 1‘Eneyclopédie fut donné le fameux Discours préliminaire, supérieur, disait Voltaire, à la Méthode de Descartes et égal à ce que Bacon a écrit de mieux.
+En tête de l'Eneyclopédie fut donné le fameux Discours préliminaire, supérieur, disait Voltaire, à la Méthode de Descartes et égal à ce que Bacon a écrit de mieux.
 
 L'Encyclopédie ne traitait que de certains sujets choisis relatifs aux lettres, aux arts, aux sciences ou aux métiers. E: elle les présentait dans leur ensemble.
 
@@ -6886,15 +6886,15 @@ a) On distingue les encyclopédies générales et spéciales, les exposés alpha
 
 On a distingué aussi les ouvrages encyclopédiques, lexicographiques et les ouvrages biographiques, ces deux dernières catégories devant cependant être tenues comme des contributions importantes à l'Encyclopédie totale.
 
-La Terminologie est insuffisamment fixée. Les termes encyclopédies et dictionnaires s'emploient indifféremment quand l'œuvre est alphabétique. Parfois le terme encyclopédique a été attribué à des traités systématiques (par ex. iEncyclopédie des sciences mathématiques).
+La Terminologie est insuffisamment fixée. Les termes encyclopédies et dictionnaires s'emploient indifféremment quand l'œuvre est alphabétique. Parfois le terme encyclopédique a été attribué à des traités systématiques (par ex. l'Encyclopédie des sciences mathématiques).
 
 b) D'une manière générale, il y a deux grands types
 
 d’encyclopédies : l'encyclopédie analytique qui prend
 
-le type de dictionnaire, qui enregistre les détails et qui sert de s dock » aux curiosités de l’esprit; l’encyclopédie synthétique qui présente les éléments essentiels et expose le savoir selon les grandes lignes de la classification.
+le type de dictionnaire, qui enregistre les détails et qui sert de « dock » aux curiosités de l’esprit; l’encyclopédie synthétique qui présente les éléments essentiels et expose le savoir selon les grandes lignes de la classification.
 
-c) Les grandes collections fractionnées en petits volumes constituent en fait de véritables encyclopédies systématiques. Ainsi les collections allemandes telles que a Gros-schen Sammlungep s et « Aus Natur und Geisteswelt » (Verlag Teubner).
+c) Les grandes collections fractionnées en petits volumes constituent en fait de véritables encyclopédies systématiques. Ainsi les collections allemandes telles que « Gros-schen Sammlungep » et « Aus Natur und Geisteswelt » (Verlag Teubner).
 
 241.224 TYPES O ENCYCLOPEDIE.
 ..............................
@@ -6914,7 +6914,7 @@ Un mécène — c'est la première fois que cela se produit — a fondé un inst
 D'autre part, une » Enciclopedia delle encidopedie » est en cours, en 16 parties spéciales de 1,000 pages, mais en vente séparément. L'œuvre sera complétée par deux volumes de dictionnaire synthétique. Comprenant tous ? les mots du savoir su.vi d'une brève interprétation et de ?
 références aux volumes où la matière a été traitée, c'est donc une fusion de la méthode alphabétique et de la méthode synthétique (trattatistico).
 
-c) L'Encyclopædia Britannica a été fondée en 1768. La 14’ édition récemment parue offre des faits typiques du degré de développement où en sont arrivées les grandes encyclopédies. L'édition a été réalisée par la coopération de 3,500 collaborateurs de partout. Il a été dépensé £ 400.00Ü avant toute impression. L'œuvre totale a coûté £ 500,000 (environ 62 millions de francs belges). Il n'y avait plus eu refonte de l'Encyclopacdia depuis vingt ans. Les éditeurs annoncent leur œuvre comme la première Encyclopaedia s humanised s, pratique au plus haut degré, complètement « pictured » (illustré) et non seulement à jour, mais s à la minute s. Elle est l'œuvre d'une firme: *The Encyclopredia Britannica Cy Ltd», qui a fait copyright tout son contenu en 1929. L'éditeur en chef a été Mr. J. L. Garvín. Les éditeurs ont formulé ainsi les buts multiples qu’ils ont eu en vue : Pour tou* ceux qui désirent comprendre le temps extraordinaire où nous vivons, les nouveaux mécanismes, les nouvelles structures sociales et économiques. Le s digest » des informations universelles que I on peut obtenir n importe ou, sur n'importe quel sujet. Toutes les connaissances assimilées par l’Humanité et les informations indispensables sur aujourd'hui. Accessibilité immédiate à toutes les connaissances, les faits et les théories, tout ce qui est arrivé dans le monde et tout ce qui existe aujourd'hui, La solution apporte à généraliser des problèmes qui se posent à chacun à chaque instant dans la vie, dire comment faire une multitude de choses. Elle répond au besoin de lecture. Elle permet de continuer seul son instruction, la matière y étant exposée par les meilleurs maîtres. ( I ) L'Encyclopédie comprend approximativement le contenu de 500 livres de format moyen. Au prix moyen de 10 s. 6 d. chacun, cela ferait £262.10 *., soit approximativement dix foi» le prix de l'Encyclopédie. Elle comprend 500 cartes, dont 192 en couleurs, et réunies en un volume avec un index géographique de 100,000 noms de lieu (Atlas-Index). Des bibliographies sont données à la fin de chaque article pour diriger la lecture. L'index alphabétique comporte un volume séparé : il comprend 500 mille rubriques, 15,000 illustrations visualisant le texte, plus de 1,200 planches, dont beaucoup en couleurs.
+c) L'Encyclopædia Britannica a été fondée en 1768. La 14’ édition récemment parue offre des faits typiques du degré de développement où en sont arrivées les grandes encyclopédies. L'édition a été réalisée par la coopération de 3,500 collaborateurs de partout. Il a été dépensé £ 400.00Ü avant toute impression. L'œuvre totale a coûté £ 500,000 (environ 62 millions de francs belges). Il n'y avait plus eu refonte de l'Encyclopacdia depuis vingt ans. Les éditeurs annoncent leur œuvre comme la première Encyclopaedia « humanised », pratique au plus haut degré, complètement « pictured » (illustré) et non seulement à jour, mais « à la minute ». Elle est l'œuvre d'une firme: «The Encyclopredia Britannica Cy Ltd», qui a fait copyright tout son contenu en 1929. L'éditeur en chef a été Mr. J. L. Garvín. Les éditeurs ont formulé ainsi les buts multiples qu’ils ont eu en vue : Pour tout ceux qui désirent comprendre le temps extraordinaire où nous vivons, les nouveaux mécanismes, les nouvelles structures sociales et économiques. Le « digest » des informations universelles que I on peut obtenir n'importe ou, sur n'importe quel sujet. Toutes les connaissances assimilées par l’Humanité et les informations indispensables sur aujourd'hui. Accessibilité immédiate à toutes les connaissances, les faits et les théories, tout ce qui est arrivé dans le monde et tout ce qui existe aujourd'hui, La solution apporte à généraliser des problèmes qui se posent à chacun à chaque instant dans la vie, dire comment faire une multitude de choses. Elle répond au besoin de lecture. Elle permet de continuer seul son instruction, la matière y étant exposée par les meilleurs maîtres. ( I ) L'Encyclopédie comprend approximativement le contenu de 500 livres de format moyen. Au prix moyen de 10 s. 6 d. chacun, cela ferait £262.10 *., soit approximativement dix fois le prix de l'Encyclopédie. Elle comprend 500 cartes, dont 192 en couleurs, et réunies en un volume avec un index géographique de 100,000 noms de lieu (Atlas-Index). Des bibliographies sont données à la fin de chaque article pour diriger la lecture. L'index alphabétique comporte un volume séparé : il comprend 500 mille rubriques, 15,000 illustrations visualisant le texte, plus de 1,200 planches, dont beaucoup en couleurs.
 
 En tête de chaque grand article traitant des grandes divisions de connaissances, il y a une introduction indiquant quels articles sont à lire pour avoir une connaissance appropriée du sujet. Ceci est une caractéristique nouvelle. (I)
 (I) La présentation dit ; e It in not only a book to consult, but a book to enjoy, without any sacrifice of that erudition which has been the peculiar glory of the Britannica in the past, it has been « humanised » so that the riches of all knowledge are accessible and intelligible to the plain man. s
@@ -6947,7 +6947,7 @@ L’originalité de l’encyclopédie, qui comptera dix à douze volumes, consis
 Les méthodes qui interviendront à l’origine dans la répartition des sujets seront de la rigoureuse et féconde
 loi de la division du travail. L’esprit de parti sera exclu. On fera appel à l’Université, mais il ne s'agit pas d’une œuvre universitaire.
 
-Les ressources? Il s agît ici d’une entreprise désintéressée. Elle ne demande rien au budget. Par des dons, des legs, l'autonomie civile devant lui être octroyée par le Conseil d’Etat, elle devra s’assurer des fonds. Ni les libraires, ni les éditeurs ne siégeront au comité. S il y a bénéfice, il ira à la caisse des lettres et des sciences. L’œuvre s’inspirera de l’esprit de dévouement qui anime les savants.
+Les ressources? Il s'agit ici d’une entreprise désintéressée. Elle ne demande rien au budget. Par des dons, des legs, l'autonomie civile devant lui être octroyée par le Conseil d’Etat, elle devra s’assurer des fonds. Ni les libraires, ni les éditeurs ne siégeront au comité. S il y a bénéfice, il ira à la caisse des lettres et des sciences. L’œuvre s’inspirera de l’esprit de dévouement qui anime les savants.
 
 241.225 ENCYCLOPEÜIES ET DICTIONNAIRES SPÉCIALISÉS.
 ....................................................
@@ -6956,13 +6956,13 @@ Les encyclopédies et dictionnaires spéciaux existent pour toutes les branches 
 
 a) Parmi les anciennes publications, on peut citer :
 
-/ encyclopédie des sciences philosophiques de Hegel ( 1817), /’encyclopédie ri anatomie et de physiologie par Tood (Londres, 1835-1859). l'encyclopédie de la littérature anglaise de Chambers (Ib43), l'encyclopédie de la littérature américaine (1857), l'encyclopédie de théologie protestante de Herzog (1853-1859).
+/ encyclopédie des sciences philosophiques de Hegel ( 1817), l’encyclopédie ri anatomie et de physiologie par Tood (Londres, 1835-1859). l'encyclopédie de la littérature anglaise de Chambers (Ib43), l'encyclopédie de la littérature américaine (1857), l'encyclopédie de théologie protestante de Herzog (1853-1859).
 
 b) En pédagogie: de 1903 à 1910 paraissent en 10 volumes « l'Ency dopa dische s Handbuch der Pädagogik » ; en 1905 le . Paedagogisch Woordenboek > hollandais: en
 
 1911 le a Nouveau dictionnaire de pédagogie » sous la direction de F. Buisson. Maintenant voici en Allemagne le « Lexikon der Pädagogik der Gegenwart » sous la direction de Picler (1930); en Italie « Pedagogía » de Santamaría dans 1*. Enciclopedia delle Enciclopedia #, M. Kormiggini.
 
-Le nouveau dictionnaire de pédagogie et d instruction primaire de F. Buisson »’est assigné ce but : Donner aux maîtres un guide pratique et sûr de toutes les connaissances qui leur sont utiles, pour qu ils orientent convenablement leur enseignement, pour qu’ils connaissent bien l'œuvre à laquelle ils sont voués et pour qu'ils aient une idée exacte de l'avenir qui les attend.
+Le nouveau dictionnaire de pédagogie et d instruction primaire de F. Buisson s'est assigné ce but : Donner aux maîtres un guide pratique et sûr de toutes les connaissances qui leur sont utiles, pour qu ils orientent convenablement leur enseignement, pour qu’ils connaissent bien l'œuvre à laquelle ils sont voués et pour qu'ils aient une idée exacte de l'avenir qui les attend.
 
 Le dictionnaire donne à la (in une table alphabétique des articles avec renvoi aux pages, pour permettre de se rendre compte de l’ensemble des sujets traités et, parcourant d’un coup d œil les titres des articles, de voir quels sont ceux où iis pourront chercher un complément d'information sur tel ou tel point donné. In fine la liste des collaborateurs en faisant remarquer que les articles non signés doivent être attribués à la Direction du Dictionnaire. La liste indique la qualité des auteurs, mais non les articles dont ils sont l'auteur dans le dictionnaire.
 
@@ -6993,19 +6993,19 @@ g) Il y a des encyclopédies juives en français, allemand, anglais, russe.
 
 VOCABULAIRE, GLOSSAIRE.
 
-a) Un dictionnaire est un recueil de mots d'une langue ou de plusieurs langues, rangés dans un ordre, tantôt méthodique, le plus souvent alphabétique. On donne aussi le nom de dictionnaire à certains recueil» ou répertoires alphabétiques (dictionnaire de chimie, d histoire naturelle, de sciences). Le lexique est un petit dictionnaire qui renferme un choix de mots, ceux qui ont été employés à une époque ou par un auteur, ou qui appartiennent à tel genre. Le Vocabulaire est un dictionnaire alphabétique contenant les mots d'une langue avec une explication succincte, ou bien les termes particulier» à une science, à un art. à une époque, à une littérature.
+a) Un dictionnaire est un recueil de mots d'une langue ou de plusieurs langues, rangés dans un ordre, tantôt méthodique, le plus souvent alphabétique. On donne aussi le nom de dictionnaire à certains recueil» ou répertoires alphabétiques (dictionnaire de chimie, d histoire naturelle, de sciences). Le lexique est un petit dictionnaire qui renferme un choix de mots, ceux qui ont été employés à une époque ou par un auteur, ou qui appartiennent à tel genre. Le Vocabulaire est un dictionnaire alphabétique contenant les mots d'une langue avec une explication succincte, ou bien les termes particulier» à une science, à un art, à une époque, à une littérature.
 N!
 Enfin, le glossaire est un dictionnaire où l'on explique certains mots moins connus.
 
 Le dictionnaire, dit Camille Lemonnier, est le trésor inépuisable de l'éloquence et du savoir humains ; c'est le recueil énorme où se décante l'expérience des âges.
 
-La lecture des anciens dictionnaires est pleine d intérêt. On se rend compte immédiatement de la conception des hommes du temps sur les sujet» éternels.
+La lecture des anciens dictionnaires est pleine d intérêt. On se rend compte immédiatement de la conception des hommes du temps sur les sujets éternels.
 
-b) Les plus anciennes compilations auxquelles on puisse donner le nom de dictionnaire de la langue ne paraissent pas remonter au delà du règne d'Auguste. On en a donné deux raisons. Pour songer à compiler un tel ouvrage, il faut que la langue sur laquelle on travaille soit déjà à son apogée sinon à son déclin et aussi que l'on ait sous les yeux la collection dis ouvrages écrits dans cette langue. Avec l'établissement du centre intellectuel d'Alexandrie, ces conditions se réalisaient. Le premier en date est le Lexique homérique d" Appollonius le sophiste, recueil des mots employés par Homère, qui parut à Alexandrie au temps d'Auguste. Il est suivi d'une série de glossaires et de dictionnaires, œuvres embryonnaires d'Androma-chus, de Pollux, d'Harpocration d'Alexandrie, de Photius de Suidas, etc.
+b) Les plus anciennes compilations auxquelles on puisse donner le nom de dictionnaire de la langue ne paraissent pas remonter au delà du règne d'Auguste. On en a donné deux raisons. Pour songer à compiler un tel ouvrage, il faut que la langue sur laquelle on travaille soit déjà à son apogée sinon à son déclin et aussi que l'on ait sous les yeux la collection dis ouvrages écrits dans cette langue. Avec l'établissement du centre intellectuel d'Alexandrie, ces conditions se réalisaient. Le premier en date est le Lexique homérique d' Appollonius le sophiste, recueil des mots employés par Homère, qui parut à Alexandrie au temps d'Auguste. Il est suivi d'une série de glossaires et de dictionnaires, œuvres embryonnaires d'Androma-chus, de Pollux, d'Harpocration d'Alexandrie, de Photius de Suidas, etc.
 
 Ce n'est qu'au XIe siècle qu'on trouve l'essai sérieux d’un dictionnaire : il est d'un certain Papia, surnommé le Lombard, qui lui donna le titre de Efemen farta m. C’est un vocabulaire latin dans lequel l'auteur a fait entrer, comme exemples, des vers et des passages grecs. Au XVe siècle Jean Crestone. carme de Plaisance, rédigea un dictionnaire grec-latin (M76). En 1523, Guarnio de Tavera publia un lexique grec intitulé : Magnum ac perutile Die-tionarium. En 1572, Henri Estienne. continuant les travaux de son père, mit à jour son fameux Thésaurus lingae graecae (5 vol. in-folio). Puis on vit paraître le premier dictionnaire où les mots français avaient été rangés par ordre alphabétique, celui de Nicot publié après la mort de l'auteur par le libraire Jacques Dupuys. Alors parut le Dictionnaire de l'Académie française (1694) dont la 17* édition a été publiée en 1844. L’Académie travaille constamment à des révisions. C’est un exemple à la fois d’une œuvre collective et d'une œuvre à édition continue.
 
-Le dictionnaire étymologique de Ménagé est de 1650 ; le dictionnaire français de Richelet, de 1680: le dictionnaire de Trévoux de 1704. le dictionnaire unicerscl de la langue française, avec la prononciation figurée (1813), le dictionnaire de la langue française de Littré.
+Le dictionnaire étymologique de Ménagé est de 1650 ; le dictionnaire français de Richelet, de 1680: le dictionnaire de Trévoux de 1704. le dictionnaire universel de la langue française, avec la prononciation figurée (1813), le dictionnaire de la langue française de Littré.
 
 Le premier dictionnaire anglais (latin-anglais) remonte nu Xe siècle, et se trouve dans une grammaire latine. Le fameux dictionnaire de Johnson qui domina tout le domaine de la lexicographie anglaise est de 1755. L'américain Noah Webster publia son dictionnaire en 1806, L'English Dialect Dictionary en 6 volumes fut achevé en 1905. Ce fut Charles Richardson (1775-1868) qui le premier fit attention à la signification changeante des mots. De là
 
@@ -7016,7 +7016,7 @@ Le premier dictionnaire anglais (latin-anglais) remonte nu Xe siècle, et se tro
 
 sortit 1*« English Oxford Dictionary » commencé par la Philological Society en 1842 et achevé en 1928 grâce au travail de J. A. H. Murray. (I)
 
-c) Un dictionnoi-e est un catalogue de mots. C'est 'a matière première de la langue enregistrée et tout nouveau dictionnaire incorpore les anciens. Un dictionnaire est ainsi un ensemble de monographies classées alphabétiquement. Ces monographies peuvent être établies suivant un même plan et embrasser toutes les mêmes éléments, présentés chaque fois dans un même ordre. Ainsi le Dictionnaire de 1« langue latine, de Freund, donne les éléments : 1° grammaticaux; 2° étymologiques; 3° exé-gé tiques; 41 synonymiques ; 5° historiques spéciaux ou chronologiques ; 6° rhétoriques ; 7° statistiques.
+c) Un dictionnoi-e est un catalogue de mots. C'est 'a matière première de la langue enregistrée et tout nouveau dictionnaire incorpore les anciens. Un dictionnaire est ainsi un ensemble de monographies classées alphabétiquement. Ces monographies peuvent être établies suivant un même plan et embrasser toutes les mêmes éléments, présentés chaque fois dans un même ordre. Ainsi le Dictionnaire de la langue latine, de Freund, donne les éléments : 1° grammaticaux; 2° étymologiques; 3° exé-gé tiques; 4° synonymiques ; 5° historiques spéciaux ou chronologiques ; 6° rhétoriques ; 7° statistiques.
 
 Dans son dictionnaire grec-français, Alexandre résume et classe au commencement des grands articles les différents sens d'un mot, en renvoyant par des chiffres aux exemples qui les confirment.
 
@@ -7034,7 +7034,7 @@ b) Les encyclopédies ont à fournir des renseignements exacts, complets et dét
 c) La forme la plus avancée serait pour chaque science une encyclopédie systématique ; 2. éditée en connexion avec l’internationale de la science qui en détient le plan et la constitution ; 3. reliée au système de publication de cette science ; 4. établie en coopération internationale et interspéciale ; 5. que chaque chapitre ne soit pas seulement l'œuvre d’un spécialiste mais d'un comité de spécialistes de divers pays se mettant d'accord sur un texte minimum et indiquant leurs variantes propres.
 d) La forme dictionnaire est appropriée au premier stade d’une science, alors qu’il s'agit de recueillir les faits. Un dictionnaire spécial peut être entrepris par un groupe d’hommes disposés à poursuivre des observations anotées et à dépouiller du point de vue de la science et de ses questions les sources documentaires qui existent.
 
-H est travaillé selon un plan d'après lequel la matière est répartie par ordre alphabétique. Le travail est réparti entre collaborateurs. On fait usage de fiches d un format arrêté d'avance. Chacun établit sur elle la matière dont il a accepté la charge. Un double des fiches est remis au Secrétaire qui collectionne le tout. Quand tout est centralisé, un Comité de rédaction met de l’ordre et rédige en forme le ou les dictionnaires.
+d) est travaillé selon un plan d'après lequel la matière est répartie par ordre alphabétique. Le travail est réparti entre collaborateurs. On fait usage de fiches d un format arrêté d'avance. Chacun établit sur elle la matière dont il a accepté la charge. Un double des fiches est remis au Secrétaire qui collectionne le tout. Quand tout est centralisé, un Comité de rédaction met de l’ordre et rédige en forme le ou les dictionnaires.
 
 e) Parlant du Dictionnaire de In Bible, Vigoroux s’exprime ainsi ; « Un dictionnaire de la Bible ne saurait remplacer un commentaire. Un dictionnaire doit nous dire nettement, précisément, sans verbiage, sans parti pris, ce qu’on sait actuellement de certain ou de probable d'un tel personnage, tel fait, telle théorie. Les articles d’un dictionnaire doivent être comme des monographies détail lées quoique concises : ils doivent résumer et condenser à notre usage ce qui a été écrit de plus judicieux sur chaque point particulier. »
 
@@ -7044,7 +7044,7 @@ g) Les auteurs, des éditeurs et des libraires se sont spécialisés dans le dom
 
 Edison avait une bibliothèque constituée uniquement de dictionnaires. Cela lui épargnait beaucoup de temps, car il y trouvait rapidement l'information dont il avait besoin.
 
-b) Sur la conception d’une encyclopédie rationnelle, universelle, internationale, voir l'exposé dans la 4° partie.
+h) Sur la conception d’une encyclopédie rationnelle, universelle, internationale, voir l'exposé dans la 4° partie.
 
 241.31 Revues. Périodiques proprement dits. 
 """"""""""""""""""""""""""""""""""""""""""""
@@ -7064,9 +7064,9 @@ a) Par publication* périodiques on entend au sens large les journaux politiques
 
 paraissant périodiquement (notamment les journaux de modes et les publications publicitaires). Au sens restreint un périodique ou c publication en série » (serial publication) est toute publication paraissant à des intervalles réguliers ou irréguliers, avec un numérotage consécutif et avec un terme non fixé d'avance. (I) Elle est sauf exception due à une collaboration. En général, elle est spécialisée quant au sujet et quant aux pays, régions ou localités. Le mot « Magazine > emprunté à la langue anglaise, désigne un périodique illustré paraissant ordinairement une fois par mois. Le IX* Congrès international des Editeurs a donné du périodique cette définition (au point de vue des tarifs postaux) « les Publications. Jour-* naux et Kevues, Recueils, Annales. Mémoires, Bulletins (en collection) paraissant au moins une fois par trimestre »
 
-la Bibliothèque Nationale de Paris, beaucoup plus large, étend la définition aux publications paraissant plus d'une fois par an. D’après le tarif postal français, cessent d’être considérées comme périodiques les publications paraissant moins d’une fois par moi».
+la Bibliothèque Nationale de Paris, beaucoup plus large, étend la définition aux publications paraissant plus d'une fois par an. D’après le tarif postal français, cessent d’être considérées comme périodiques les publications paraissant moins d’une fois par mois.
 
-b) Les connaissances relatives aux périodiques (sciences et arts du périodique) ont droit à des noms similaires aux autres connaissances et elles donnent lieu à une distribution ou classification analogue. En conséquence: 1° Pério-dicologie sera le nom de la science du périodique ; elle observera et décrira (périodicographie) ; elle expliquera par causes et effets, par genèse et état de coexistence ; elle systématisera dès lors en lois (périodiconomie) ; elle commencera donc en analyse et elle finira en synthèse. 2" Périodicotechnie sera le nom de l’art du périodique : \x manière de le lédiger, éditer, diffuser, conserver au mieux et avec le maximum d’efficience. 3° La périodico-économie sera le nom de l’ensemble des mesures tendant « organiser les efforts pour donner aux périodiques, dans Ilsociété, au degré local, régional, national, international, toute l'expansion que mérite leur utilité.
+b) Les connaissances relatives aux périodiques (sciences et arts du périodique) ont droit à des noms similaires aux autres connaissances et elles donnent lieu à une distribution ou classification analogue. En conséquence: 1° Pério-dicologie sera le nom de la science du périodique ; elle observera et décrira (périodicographie) ; elle expliquera par causes et effets, par genèse et état de coexistence ; elle systématisera dès lors en lois (périodiconomie) ; elle commencera donc en analyse et elle finira en synthèse. 2° Périodicotechnie sera le nom de l’art du périodique : \x manière de le lédiger, éditer, diffuser, conserver au mieux et avec le maximum d’efficience. 3° La périodico-économie sera le nom de l’ensemble des mesures tendant « organiser les efforts pour donner aux périodiques, dans Ilsociété, au degré local, régional, national, international, toute l'expansion que mérite leur utilité.
 
 c) Quelques chiffres donneront une idée du nombre des périodiques. En Belgique il oscille autour de 2.200. Une liste des périodiques du monde parus de Î900 à 1921 et se trouvant dans les Bibliothèques de Grande-Bretagne a relevé 24,678 titres. Le tirage des périodiques est fort différent de l’un à l’autre. Le tirage de a feuilles de loisir », par exemple, est considérable en Allemagne
 
@@ -7084,7 +7084,7 @@ Association.
 
 nous appelons une Kevue. Au début, la dénomination de ¡oumal, qui a prévalu plus tard sur celle de Gazette, fut d’abord réservée aux recueils littéraires et scientifiques. On appelait alors tournai un ouvrage périodique qui contenait les extraits des livres nouvellement imprimés avec en détail des découvertes que l’on fait tous les jours dans les arts et dans les sciences (encyclopédie). Ce fut, disait-on, un moyen inventé pour le soulagement de ceux qui sont ou trop occupés ou trop paresseux pour lire les livres entiers.
 
-1. On a distingué cinq époques dans l’histoire de la littérature périodique : 1° sa naissance au XVIIe siècle; 2, son jubilé au Xt/ill" quand en Angleterre Addison et Steele produisirent leur* brillants travaux ; 3° sa rapide expansion dans la première moitié du XIXe siècle; 4° la révolte des spécialistes dans la dernière moitié du siècle; 5" la vaste production d’aujourd’hui avec comme objectif l'approbation du public.
+1. On a distingué cinq époques dans l’histoire de la littérature périodique : 1° sa naissance au XVIIe siècle; 2° son jubilé au Xt/ill" quand en Angleterre Addison et Steele produisirent leurs brillants travaux ; 3° sa rapide expansion dans la première moitié du XIXe siècle; 4° la révolte des spécialistes dans la dernière moitié du siècle; 5° la vaste production d’aujourd’hui avec comme objectif l'approbation du public.
 
 2. La France et l’Angleterre ont marché de pair pour la développement de la presse périodique, l’une ou l’autre étant première pour tel genre ou pour tel genre. Le développement a été similaire en Allemagne, mais avec moins d'intérêt pour le périodique qu’en Angleterre.
 
@@ -7105,7 +7105,7 @@ public. En France, ce qu'on appela journaux de lecture et de récréation n’ap
 
 7. La fin du XIXe siècle vit se produire les grande» revues scientifiques sous l’empire d'une réaction et aussi par nécessité d’une communication plus ample, plus rapide et plus étendue entre savants. Ainsi la Classical Rcvicw (J667), VAsiafic Reuieu) 11675), La France fut en avance sur ces types de revues, car le Journal du Palais (Droit) date de 1672 et les Nouvelles découvertes dans toutes les parties de la médecine de 1679.
 
-8. L’illustration dans les périodiques arrive dès les années soixante, L'English lllusirated Magazine est de 1664, C’est l‘un des ancêtres du périodique illustré. En 1871 le Strand Magazine obtient un immense succès au moment même où W. T. Stead crée la Rcoieui of Revicul. Très tôt en France paraissait Le Tour du Monde de Cliartop et L’I ¡lustration qui demeure le maître parmi les illustrés. Il faut attendre le XIXe siècle pour voir se constituer des revues proprement dites et la fin de ce siècle pour assister à l’efflorescence des organes des corps scientifiques et professionnels de toute catégorie.
+8. L’illustration dans les périodiques arrive dès les années soixante, L'English lllusirated Magazine est de 1664, C’est l'un des ancêtres du périodique illustré. En 1871 le Strand Magazine obtient un immense succès au moment même où W. T. Stead crée la Rcoieui of Revicul. Très tôt en France paraissait Le Tour du Monde de Cliartop et L’Illustration qui demeure le maître parmi les illustrés. Il faut attendre le XIXe siècle pour voir se constituer des revues proprement dites et la fin de ce siècle pour assister à l’efflorescence des organes des corps scientifiques et professionnels de toute catégorie.
 
 241.313 BUT. FONCTION.
 .......................
@@ -7118,7 +7118,7 @@ c) parce que les conditions financières des travailleurs individuels ne leur pe
 241.314 CLASSES DES PERIODIQUES.
 .................................
 
-Les périodiques se divisent en deux classes principales : l" les périodiques publiés d’une manière indépendante; 2" les publications qui apparaissent sous les auspices d un corps. Les unes ont un nom individuel (ex. Annales de Bretagne), les autres ont un titre général (ex. Rapport, Bulletin, Journal). En principe chaque organisme tend à avoir sa Publication périodique. Revue ou Bulletin, en laquelle sont publiées les informations qui le concernent. En attendant la possibilité de créer leur propre publication, certains organismes disposent d’une partie ou rubrique dans les publications de tiers. La coopération pourrait conduire les associations à s’entendre pour publier ensemble ou par groupes similaires un périodique collectif. Dans une couverture commune, elle contiendrait des feuilles ou cahiers mobiles. Il y aurait là économie d’impression et de transport en même temps que bonne division du travail et bien des publication» d étendue réduite pourraient se présenter ainsi avec plus d’aspect, être »Ores d avoir accès dans les bibliothèques.
+Les périodiques se divisent en deux classes principales : l" les périodiques publiés d’une manière indépendante; 2" les publications qui apparaissent sous les auspices d un corps. Les unes ont un nom individuel (ex. Annales de Bretagne), les autres ont un titre général (ex. Rapport, Bulletin, Journal). En principe chaque organisme tend à avoir sa Publication périodique. Revue ou Bulletin, en laquelle sont publiées les informations qui le concernent. En attendant la possibilité de créer leur propre publication, certains organismes disposent d’une partie ou rubrique dans les publications de tiers. La coopération pourrait conduire les associations à s’entendre pour publier ensemble ou par groupes similaires un périodique collectif. Dans une couverture commune, elle contiendrait des feuilles ou cahiers mobiles. Il y aurait là économie d’impression et de transport en même temps que bonne division du travail et bien des publication» d étendue réduite pourraient se présenter ainsi avec plus d’aspect, être »Ores d'avoir accès dans les bibliothèques.
 
 La Revue est une forme en évolution constante et à la recherche de son ptopte équilibre. Elle tend tantôt vers le Journal, tantôt vers le Livre (quand par ex. un numéro entier est consacré à une même question, à une même œuvre, à une même personnalité et qu’il en est fait un tirage spécial parfois numéroté. (I)
 (I) Exemple: Le n° 7 de L'Architecture d'aujourd'hui, consacrée à l’œuvre d’Emile Perret. Un autre numéro sera consacrée à la Russie.
@@ -7145,10 +7145,10 @@ L'« article » est l’écrit de dimensions régulières qui s'insère dans les
 On ne citera ici que pour mémoire les noms des chapitres dont il y aurait lieu de traiter sous cette appellation générale. Il s'agit du Cycle entier des opérations
 relatives à la productio i (rédaction, impression, édition), à la distribution (librairie), a la conservation (bibliothèque), à l'utilisation (lecture, consultation).
 
-241.317 PEIVODICO-ECONOMIE. O RG A NISA TION.
+241.317 PERIODICO-ECONOMIE. O RG A NISA TION.
 ...............................................
 
-La périodico-économic traite des mesures d'organisation. En principe celles-ci se divisent en deux groupes : 1 ° celles relatives à l'organisation intérieure de l'entité productrice d'un périodique; 2° celles relatives a l’organisation générale de l'ensemble des périodiques.
+La périodico-économie traite des mesures d'organisation. En principe celles-ci se divisent en deux groupes : 1° celles relatives à l'organisation intérieure de l'entité productrice d'un périodique; 2° celles relatives a l’organisation générale de l'ensemble des périodiques.
 
 1. Organisation scientifique du travail et documentation: tous les principes et recommandations en ce qui concerne la bonne organisation de ces institutions et administrations trouvent à s'appliquer ici (organisation du bureau, organisation scientifique du travail). (I)
 
@@ -7156,9 +7156,9 @@ Les périodiques sont amenés à organiser leur propre documentation qui doit co
 
 e) les autres revues et journaux; f) les autres sources de documentation. Les revues trouvent dans leur documentation le moyen de publier instantanément des informations étendues au sujet des faits qui leur sont annoncés sommairement par lettres ou télégrammes. Connaissant la valeur de leur correspondants, ils trouvent aussi dans leurs lettres des éléments précieux d’orientation parmi les nouvelles recrues de sources tierces.
 
-2. Finances : Les revues indépendantes et qui disposent d’une rédaction et d’une administration bénévoles vivent de leurs abonnements ou s'il s'agît d'une association éditrice et de leur bulletin, des ressources qui en proviennent. On estime souvent à 300 le nombre minimum d abonnés nécessaire pour couvrir les frais d'impression et de poste. En Belgique, il existe un certain nombre d'abonnements obligatoires : a) aux publications officiel les par les communes; b) au bulletin religieux (semaine religieuse) par les paroisses aux frais des fabrique" d'église. En Belgique aussi, le gouvernement, représenté par »es divers ministères, souscrit souvent des abonnement» pour encourager les périodiques.
+2. Finances : Les revues indépendantes et qui disposent d’une rédaction et d’une administration bénévoles vivent de leurs abonnements ou s'il s'agit d'une association éditrice et de leur bulletin, des ressources qui en proviennent. On estime souvent à 300 le nombre minimum d abonnés nécessaire pour couvrir les frais d'impression et de poste. En Belgique, il existe un certain nombre d'abonnements obligatoires : a) aux publications officiel les par les communes; b) au bulletin religieux (semaine religieuse) par les paroisses aux frais des fabriques d'église. En Belgique aussi, le gouvernement, représenté par ses divers ministères, souscrit souvent des abonnements pour encourager les périodiques.
 
-3. Exposition : des expositions de périodiques ont été organisées en divergea circonstances. Elles ont été combinées avec l'exposition du Livre en général à Leipzig en 1914 et avec l'exposition de la Presse en général a Cologne en 1927 \Ptessa). Une exposition de la Presse a eu lieu a Tiff lin en 1930. Une exposition de la Presse périodique belge s eu lieu au Palais Mondial en 1922. due à la coopération de l’Union de la Presse périodique.
+3. Exposition : des expositions de périodiques ont été organisées en divergea circonstances. Elles ont été combinées avec l'exposition du Livre en général à Leipzig en 1914 et avec l'exposition de la Presse en général a Cologne en 1927 \Ptessa). Une exposition de la Presse a eu lieu a Tiff lin en 1930. Une exposition de la Presse périodique belge a eu lieu au Palais Mondial en 1922. due à la coopération de l’Union de la Presse périodique.
 (!) Il est hautement désirable de donner une organisation d’ensemble aux périodiques, en liaison avec celle de la documentation en général. (Voir ce point.)
 
 
@@ -7168,7 +7168,7 @@ e) les autres revues et journaux; f) les autres sources de documentation. Les re
 
 de l’Institut International de Bibliographie et du Musée de la Presse.
 
-4. Concentration de3 périodiques : devant le nombre considérable de périodiques, nombre qui s'accroît de jour en jour, on doit se demander s il est nécessaire qu’il y ait tant de périodiques scientifiques. Il serait désirable de voir réaliser plus de concentrations dans les périodiques, des fusions, des simplifications, des cartels. La transformation des périodiques dans de telles directions s'imposera au triple point de vue scientifique, technique et financier.
+4. Concentration de3 périodiques : devant le nombre considérable de périodiques, nombre qui s'accroît de jour en jour, on doit se demander s'il est nécessaire qu’il y ait tant de périodiques scientifiques. Il serait désirable de voir réaliser plus de concentrations dans les périodiques, des fusions, des simplifications, des cartels. La transformation des périodiques dans de telles directions s'imposera au triple point de vue scientifique, technique et financier.
 
 5. Le périodique dans les bibliothèques : Le périodique a conquis sa place dans les bibliothèques. Entré modestement chez elles, il y a plusieurs décades, il y occupe maintenant une place grandissante, au point qu’en certaines il a fait l’objet d’un département spécial. La Bibliothèque Royale de Belgique possède maintenant
 
@@ -7198,7 +7198,7 @@ Le nom de gazette (gazetta, petite pièce de monnaie de la valeur de deux liards
 L’étymologie du mot gazette est instructive. Dès 1563, les Vénitiens achetaient au prix d’une gazetta, petite pièce de monnaie, les Notizic scritte, sorte de journal manuscrit, dont l’impression était prohibée. De là le nom de gazette, devenu synonyme de journal. Quant a la Gazette de France, encouragée par Richelieu, qui y faisait insérer des pièces plus ou moins officielles, elle s’appela d’abord le Hureaa d'adresse. Ce fut au XVIIIe siècle qu’elle prit le nom de Gazette, auquel furent ajoutés plus tard les mots : de France. Comme elle était soumise à des censures plus ou moins sévères, il y eut, à différentes reprises, des gazettes à la main, c’est-à-dire manuscrites, qu’on distribuait sous le manteau.
 
 b) Il est un aspect tout grandissant du journal. C’est bien lui qui raconte la vie au jour le jour, la vie publique, et ce que, de la vie privée, il rend public. Or il est Ju Monde un grand théâtre « Theatrum Mundi ». Une pièce immense, aux multiples personnages, aux scènes compliquées, aux épisodes infinis. Le journal raconte cette grande pièce. Aux heures où le drame s’intensifie, où il devient tragédie, comédie, épopée, la lecture de la feuille quotidienne devient passionnée. Il n’y a alors si palpitant feuilleton que la simple succession des dépêches reçues de toutes les capitales. Les journaux dans leur ensemb e constituent les pièces les plus précieuses, les plus authen-
-(1) Hatin. — Bibliographie historique et critique de la Presse française. Précédé d’un essai historique et statistique sur la naissance et le progrès de la presse périodique dans les deux mondes. Paris. Didot 1866. — La Tribune de Londres a donné cette définition : < A great London daily Journal is something more than a purveyor of news, however important that element of its activities may lie. It is a mirror of the life and thought of its time; an open platform for the ventilation of Political and Social grievonces, and the advocacy of reform : an instrument by means of which Public Opinion may be instructed, guided and made effective, s
+(1) Hatin. — Bibliographie historique et critique de la Presse française. Précédé d’un essai historique et statistique sur la naissance et le progrès de la presse périodique dans les deux mondes. Paris. Didot 1866. — La Tribune de Londres a donné cette définition : « A great London daily Journal is something more than a purveyor of news, however important that element of its activities may lie. It is a mirror of the life and thought of its time; an open platform for the ventilation of Political and Social grievonces, and the advocacy of reform : an instrument by means of which Public Opinion may be instructed, guided and made effective, s
 
 
 ====
@@ -7226,7 +7226,7 @@ La science contient encore plus de choses que le journaliste le mieux intentionn
 L’exploitation d’un journal a un double caractère : entreprise de publication (information, polémique, littérature, fantaisie, reportage); entreprise de publicité (réclames. annonces, abonnements, fondation d’imprimerie).
 Les Français ne pensent plus, n’ont plus le temps de penser ; ils ne pensent plus que par leur journal. Ils ont un cerveau de papier. Drumont.
 
-Les défenseurs du journal moderne répondent à l’enquête de la Revue Bleue (1897) : « N’ayez que des choses sublimes et délicates à me confier, je parlerai un autre langage. Je ne représente plus une aristocratie intellectuelle, je représente la foule. Que la foule ait une âme, je serai une âme aussi. Je suis le Forum antique transporté à domicile: n’ayez que des orateurs dominés par l’idée de la Cité, Je suis la Bible éparse de 1 Humanité: faites-moi des révélations dignes du génie de l’Homme. Réformez-vous, je me réformerai avec vous. »
+Les défenseurs du journal moderne répondent à l’enquête de la Revue Bleue (1897) : « N’ayez que des choses sublimes et délicates à me confier, je parlerai un autre langage. Je ne représente plus une aristocratie intellectuelle, je représente la foule. Que la foule ait une âme, je serai une âme aussi. Je suis le Forum antique transporté à domicile: n’ayez que des orateurs dominés par l’idée de la Cité, Je suis la Bible éparse de l'Humanité: faites-moi des révélations dignes du génie de l’Homme. Réformez-vous, je me réformerai avec vous. »
 
 
 241.322 HISTOIRE DES JOURNAUX
@@ -7297,7 +7297,7 @@ OPINION PUBLIQUE.
 
 a) Aujourd’hui sont intéressés aux journaux: 1° le
 
-public des lecteurs ; 2n les gouvernements ; 3° les différentes organisations qui veulent éduquer et diriger les masses, créer ou entretenir des mouvements dans l'opinion; 4° les propriétaires des journaux; 5° les journalistes, écrivains, rédacteurs ; 6" le personnel ouvrier, administratif et technique ; 7° les annonciers.
+public des lecteurs ; 2n les gouvernements ; 3° les différentes organisations qui veulent éduquer et diriger les masses, créer ou entretenir des mouvements dans l'opinion; 4° les propriétaires des journaux; 5° les journalistes, écrivains, rédacteurs ; 6° le personnel ouvrier, administratif et technique ; 7° les annonciers.
 
 b) C’est par la presse que se poursuit l’œuvre de démo-lition, de défense et de reconstitution sociale. Le mot de Mgr Kettelcr est devenu célèbre : <t ai Saint Paul revenait au monde, il se ferait journaliste »,
 
@@ -7305,7 +7305,7 @@ Trois cas sont à distinguer: lu la propagation de faits et des nouvelles exacts
 
 Les journaux ont une action quotidienne continue. Il y n eu des campagnes de presse célèbres. Par exemple, celle de Cornély dans le Figaro, à propos de l'affaire Dreyfus. Chaque jour un petit article incisif, éloquent, ramassé, précis, du trait, de la bonne humeur et surtout de la persévérance, de l’unité et de la méthode. Chaque jour
 (I) M. de Tressan, France. Assemblée de la Société des Nations. Journal 1932, p. 233.
-une goutte tombait et peu à peu la trouée se faisait dans la conscience publique. Ce fut un merveilleux exemple de ténacité et de persuasion. Que dire de ce qui s*e«t passé avant et après la guerre: le bourrage de crânes.
+une goutte tombait et peu à peu la trouée se faisait dans la conscience publique. Ce fut un merveilleux exemple de ténacité et de persuasion. Que dire de ce qui s'est passé avant et après la guerre: le bourrage de crânes.
 
 c) C’est par la voie de la Presse, et non plus par les revues et les livres que les savants, les explorateurs, les novateurs exposent au public leurs nouveaux concepts, leurs découvertes, leurs théories. Par l’abaissement du prix des journaux, ceux-ci pénètrent partout, jusque dans les bourgades les plus reculées. La politique a fait place à l'information et se réfugie dans les quotidiens spéciaux.
 
@@ -7333,17 +7333,17 @@ b) Nombre. — En U>46, d'après Balby, il se publiait dons tout rUnivers enviro
 
 c) Périodicité. — On peut dire que les presses à nouvelles roulent tout le temps. On a des journaux du matin, du midi, du soir et même plusieurs éditions d'un même journal au cours de la journée.
 
-d) Etendue. — Chaque numéro du Temps représente un volume d'environ 100 pages. Voilà 2 millions de pages pour la col ection du journal. Le Bcrliner I ageblatt publie 44 pages, le Lolfal Anzeiger 48, la Gazette de Vosa 32, sans compter son supplément. Le journal anglais est immense, on le consulte, on ne le lit pas. Le journal allemand est lu du commencement à la fin. Un numéro du / imes, du Nieuwe Rotterdamschc Courant, d'un grand journal américain, contient pour un prix minime la matière d un volume in-8" de 300 pages.
+d) Etendue. — Chaque numéro du Temps représente un volume d'environ 100 pages. Voilà 2 millions de pages pour la col ection du journal. Le Bcrliner I ageblatt publie 44 pages, le Lolfal Anzeiger 48, la Gazette de Vosa 32, sans compter son supplément. Le journal anglais est immense, on le consulte, on ne le lit pas. Le journal allemand est lu du commencement à la fin. Un numéro du / imes, du Nieuwe Rotterdamschc Courant, d'un grand journal américain, contient pour un prix minime la matière d'un volume in-8" de 300 pages.
 
 e) Tirage. — On peut le connaître par les chiffres donnés de temps à autre dans les comptes et certifiés par les autorités comptables. Le Daily News and Leader publie chaque matin le chiffre de son tirage. C'est un appel à la publicité. En France, chaque jour, 300 journaux couvrent le pays de 18 millions d'exemplaires. Pendant la guerre le tirage du Petit Parisien est monté à plus de 2 millions. Le lierlincr Tagcblatt, avec ses six suppléments hebdomadaires, arrive à peine à 100,000 exemplaires.
 
-f) Rapidité d information. — La nécessité d être re premier à annoncer les nouvelles a fait faire des prodiges. En Amérique les grands journaux préparent d'avance des notices bibliographiques sur tous les grands hommes. On les remet à jour quand ils sont malades et qu il y a danger de mort. La lutte de vitesse va plus loin. Dans les derniers jours de la mort du Pape, pendant toute une semaine, un des journaux de 1 Ohio, imprima chaque matin 500 exemplaires avec ce télégramme ; « Rome. Le Pape est mort aujourd'hui. » Ces 500 exemplaires furent régulièrement détruits jusqu'au jour où la mort a été réelle. Ainsi le journal put être le premier de la Cité à annoncer la nouvelle. Pendant que se vendaient les premiers numéros, on imprimait les autres.
+f) Rapidité d information. — La nécessité d être re premier à annoncer les nouvelles a fait faire des prodiges. En Amérique les grands journaux préparent d'avance des notices bibliographiques sur tous les grands hommes. On les remet à jour quand ils sont malades et qu il y a danger de mort. La lutte de vitesse va plus loin. Dans les derniers jours de la mort du Pape, pendant toute une semaine, un des journaux de l'Ohio, imprima chaque matin 500 exemplaires avec ce télégramme ; « Rome. Le Pape est mort aujourd'hui. » Ces 500 exemplaires furent régulièrement détruits jusqu'au jour où la mort a été réelle. Ainsi le journal put être le premier de la Cité à annoncer la nouvelle. Pendant que se vendaient les premiers numéros, on imprimait les autres.
 
 241.324.1 Espèces de presse.
 .............................
 
 a) On distingue les journaux : 1° d'après leur périodicité ou le commencement de leur publicité: quotidien, hebdomadaire ou plusieurs fois par semaine, journal du soir, du midi ou du matin; 2° d’après leur destination. Ceux qui s'adressent à la masse ou à une élite ; 3° d’après
-les matières: journaux d'information, journaux politiques, journaux spéciaux; 4“ d'après leur organisation financière. Journaux constituant des entreprises commerciales; journaux d'Etat, journaux de partis politiques. Parfois désireux de posséder un journal indépendant, les abonnés en souscrivent les actions (ex. : Le Quotidien). D'autres fois la propriété du journal s'abstient systématiquement de tout ce qui est exploitation. (Ex. Christian Science Monitor.)
+les matières: journaux d'information, journaux politiques, journaux spéciaux; 4° d'après leur organisation financière. Journaux constituant des entreprises commerciales; journaux d'Etat, journaux de partis politiques. Parfois désireux de posséder un journal indépendant, les abonnés en souscrivent les actions (ex. : Le Quotidien). D'autres fois la propriété du journal s'abstient systématiquement de tout ce qui est exploitation. (Ex. Christian Science Monitor.)
 
 b) Presse Jinancièrc. — Il y avait en Belgique il y a quelques années plus de 500 journaux financiers. Leur nombre se trouve actuellement réduit à moins du quart de ce chiHrc. Le procédé de certains de ces journaux est simple : par des études circonstanciées, souvent habilement présentées, mais toujours tendancieuses, arriver à jeter la suspicion sur toutes les valeurs autres que celles du patron du journal et conclure par un conseil d'achat d'ailleurs intéressé en faveur de ces dernières,
 
@@ -7415,7 +7415,7 @@ bourse des Etats-Unis. — II** p. : Critique d’art, nouvelles du continent. �
 
 f) La manchette est la phrase que certains journaux impriment en te te, près de leur titre et qui varie chaque jour. L’Œuvre a lancé ce genre qui est difficile. Une bonne manchette doit être courte et suggestive plutôt qu'explicite. Elle n’impose pas une idée toute faite: elle donne à réfléchir.
 
-g) En dehors de la réclame tapageuse qui attire l'œil, il y a l'annonce proprement dite, qui est comme l'instrument d une société de services mutuels créée pour le journal et qui est à encourager. C’est le moyen le plus rapide et le plus direct de rapprocher l'offre et la demande. Le Times public régulièrement plusieurs pages supplémentaires d'annonces, comprenant ensemble de 60 à 80 colonnes de 300 lignes chacune. En Amérique, il y a des jours où le Herald publie 4,500 annonces répartie" en 100 colonnes et embrassant toutes les branches d'affaires, tous les besoins de la vie contemporaine. Elles sont rangées avec tant d'ordre et sous tant de rubriques diverses que le lecteur trouve sans peine ce qu'il cherche dans cet océan de lignes microscopique*. Le Times fait parfois 50.000 fr. d’annonces par jour; une feuille de Berlin, en trois semaines, a enregistré 400,000 fr. d'annonces.
+g) En dehors de la réclame tapageuse qui attire l'œil, il y a l'annonce proprement dite, qui est comme l'instrument d'une société de services mutuels créée pour le journal et qui est à encourager. C’est le moyen le plus rapide et le plus direct de rapprocher l'offre et la demande. Le Times public régulièrement plusieurs pages supplémentaires d'annonces, comprenant ensemble de 60 à 80 colonnes de 300 lignes chacune. En Amérique, il y a des jours où le Herald publie 4,500 annonces répartie" en 100 colonnes et embrassant toutes les branches d'affaires, tous les besoins de la vie contemporaine. Elles sont rangées avec tant d'ordre et sous tant de rubriques diverses que le lecteur trouve sans peine ce qu'il cherche dans cet océan de lignes microscopique*. Le Times fait parfois 50.000 fr. d’annonces par jour; une feuille de Berlin, en trois semaines, a enregistré 400,000 fr. d'annonces.
 
 Mois il y a excès maintenant : l’annonce est doublée par la réclame et triplée par la propagande.
 
@@ -7528,9 +7528,9 @@ La magie du « noir sur blanc * ou s c’est écrit » dos Mahométans, du labou
 
 1.« vanité et la fureur de la publicité dès le XVIIe siècle furent grandes. « Tel, s'il a porté un paquet en cour, a mené une compagnie d’un village à l'autre en pleine paix, ou payé le quart de quelque médiocre office, se fâche s'il ne voit pas son nom dans la Gazette... »
 
-Les fausses nouvelles au XVIIe siècle. « ... L Histoire est le récit de choses advenues ; la Gazette seulement le bruit qui court. La première est tenue de dire toujours la vérité ; la seconde fait assez si elle empêche de mentir. El elle ne nient pas, meme quand elle rapporte quelque nouvelle fausse qui lui a été donnée pour véritable, s ( 1 héophraste Renaudot, 1631.)
+Les fausses nouvelles au XVIIe siècle. « ... L Histoire est le récit de choses advenues ; la Gazette seulement le bruit qui court. La première est tenue de dire toujours la vérité ; la seconde fait assez si elle empêche de mentir. Et elle ne nient pas, meme quand elle rapporte quelque nouvelle fausse qui lui a été donnée pour véritable, s ( 1 héophraste Renaudot, 1631.)
 
-1) La grande Presse est systématiquement dévouée a tous les gouvernements successifs et contradictoires pen dant qu’ils sont au pouvoir. On a vu en France, en 1932. la Presse se prononcer en masse pour le Japon après l'avoir fait pour la Chine ; abandonnant à droite, au commande ment et d’un coup la « thèse française » pour se rallier avec effusion aux propositions I ardieu à Genève, alors que la veille, émue, elle les déclarait « une utopie criminelle et une trahison s.
+1) La grande Presse est systématiquement dévouée a tous les gouvernements successifs et contradictoires pen dant qu’ils sont au pouvoir. On a vu en France, en 1932. la Presse se prononcer en masse pour le Japon après l'avoir fait pour la Chine ; abandonnant à droite, au commande ment et d’un coup la « thèse française » pour se rallier avec effusion aux propositions I ardieu à Genève, alors que la veille, émue, elle les déclarait « une utopie criminelle et une trahison ».
 
 Certains gouvernements font passer à l'étranger, dans quelque journal de troisième ordre, un article élogieux pour leur politique, quelque déplorable a-t-elle pu être. Leurs services de Presse font ensuite reproduire cet article qui sort de leur propre officine par l'un ou l'autre journal à leur service, comme étant une approbation venue de l'étranger ! Manière coûteuse de « bourrer le crâne » du pays! Certains journaux ont des relations directes notoi rement connues avec les ministres des affaires étrangères de leur pays. Le temps. Le iimea.)
 
@@ -7544,9 +7544,9 @@ Beaucoup de journaux sont alimentés aux fonds secrets, qui ont quelquefois ét�
 
 241  DOCUMENTS BIBLIOGRAPHIQUES  *155*
 
-m) A côté des affaires publiques, il y a les affaires privées. Ici l’une des formes de l'action de la Presse est « le chantage ». Quand un journal connaît sur quelque personnalité une anecdote qu’il lui serait peu agréable que le public connaisse, il lui propose un marché en lui vendant »on silence. Des banques ou entreprises financières achètent ainsi la publicité des journaux ; ils leur achètent les numéros ou les subventionnent. M. Vallé a estimé que pour l'affaire de Panama, la Presse a reçu 14 millions. (1)
+m) A côté des affaires publiques, il y a les affaires privées. Ici l’une des formes de l'action de la Presse est « le chantage ». Quand un journal connaît sur quelque personnalité une anecdote qu’il lui serait peu agréable que le public connaisse, il lui propose un marché en lui vendant son silence. Des banques ou entreprises financières achètent ainsi la publicité des journaux ; ils leur achètent les numéros ou les subventionnent. M. Vallé a estimé que pour l'affaire de Panama, la Presse a reçu 14 millions. (1)
 
-n) Par la trustification on voit se réaliser graduellement une « Internationale de la Presse ». C'est celle-ci, hélas, bien triste à le constater, qu'on a dénommé 1‘Internationale du fascisme et l’Internationale sanglante des armements. (2) Ainsi aous nos yeux et par des voies différentes toutes matérielles se constitue une puissance spirituelle énorme qui rappelle celle des religions autrefois, des grands Pontifes qui les dirigent. Mais elles avaient, elles, de (Grands Inspirés.
+n) Par la trustification on voit se réaliser graduellement une « Internationale de la Presse ». C'est celle-ci, hélas, bien triste à le constater, qu'on a dénommé l'Internationale du fascisme et l’Internationale sanglante des armements. (2) Ainsi aous nos yeux et par des voies différentes toutes matérielles se constitue une puissance spirituelle énorme qui rappelle celle des religions autrefois, des grands Pontifes qui les dirigent. Mais elles avaient, elles, de (Grands Inspirés.
 
 241.328 LE PUBLIC. LES LECTEURS.
 .................................
@@ -7595,7 +7595,7 @@ c) Transports. — Question capitale pour la Presse, En 1929 il y eut à Genève
 
 d) Distribution. — Les journaux de Paris qui n'ont pas un service particulier de vente au numéro dans les départements chargent de ce service soit les Messageries Hachette, soit les Messageries du Petil Journal. Les dépositaires en province font connaître le nombie d exemplaires qu'ils écoulent de chaque journal. Les employés des messageries prennent au bureau du journal la quantité totale demandée et adressent à chaque dépositaire un colis ???ui contient le nombre demandé par lui de tous les journaux qu'il débite. A Paris fonctionnent des systèmes qui divisent la capitale en secteurs, dont le préposé assure les débits et reprend les invendus.
 
-Il s'est formé des services de messageries de journaux qui sont pour les journaux l'analogue des maisons d édition ou de commandes. Ils prennent les envois pour les petits marchands.
+Il s'est formé des services de messageries de journaux qui sont pour les journaux l'analogue des maisons d'édition ou de commandes. Ils prennent les envois pour les petits marchands.
 
 En France la maison Hachette a 7,000 employés dans son service ; elle sert 16,000 vendeurs de journaux, elle possède 279 autos; par son intermédiaire sont vendus 28 millions de pièces imprimées par an ou environ 77,000 par jour, dont 10 périodiques édités par elle-même.
 
@@ -7610,7 +7610,7 @@ Qn s'est beaucoup occupé depuis quelques années dans les journaux littéraires
 
 e) Le Bureau International du Travail a publié une étude sur « les conditions de travail et la vie des journalistes ». Elle passe en revue la situation des journalistes dans les divers pays aux points de vue de l'aspect général de lu profession, de la formation du journaliste, du degré d'organisation de la profession, des conditions de travail proprement dites (durée du travail, repos hebdomadaire, vacances, etc.), des salaires, du marche du travail et des institutions de prévoyance. Elle relève les différences frappantes qui existent d'un pays à un autre en ce qui concerne la situation du journaliste.
 
-Les vrais journalistes ne font pas métier de leur conviction et de leur caractère. Ils ont une conscience et défendent dan* les journaux avec sincérité ce qu ils croient être juste. Il est exact qu'un journaliste est souvent un homme plus soucieux de prendre la réalité immédiate dans ce qu'elle a de confus et de passionnant que d'étudier les phénomènes transcendants sous l'aspect de la réalité.
+Les vrais journalistes ne font pas métier de leur conviction et de leur caractère. Ils ont une conscience et défendent dans les journaux avec sincérité ce qu ils croient être juste. Il est exact qu'un journaliste est souvent un homme plus soucieux de prendre la réalité immédiate dans ce qu'elle a de confus et de passionnant que d'étudier les phénomènes transcendants sous l'aspect de la réalité.
 
 Le Congrès de la Presse Belge (août 1921) a estimé que la profession de journaliste, mission de confiance, de collaboration et d'initiation, a le caractère du mandat rémunérateur, il a repoussé la qualification d'employé, mais estime que les garanties de statut, de préavis et de congé sont nécessaires à l'exercice de ta profession. Le syndicat journaliste et le syndicat de la Presse en France ont négocié, mais sans succès, I établissement d un statut des journalistes servant de base aux conventions entre les journaux et leurs collaborateurs.
 
@@ -7698,7 +7698,7 @@ Le journal comme documentation c’est: 1° l'actualité; 2° la mise sur la tra
 
 c) Certains journaux dressent pour eux-mêmes la table des matières du contenu des numéros. Le Times publie les tables de son contenu.
 
-d) Les Archives contemporaines (système Kecsing) publient une documentation chronologique illustrée des événements mondiaux. La publication est hebdotrmda te Elle se fait en 4 langues. Un index alphabétique accompli pagne l’index cumulatif. L’index portant le numéro le plus élevé est seul à conserver, il reproduit en les corn mentant tous les précédents qui peuvent dès lors être détruits.
+d) Les Archives contemporaines (système Kecsing) publient une documentation chronologique illustrée des événements mondiaux. La publication est hebdomadaire Elle se fait en 4 langues. Un index alphabétique accompli pagne l’index cumulatif. L’index portant le numéro le plus élevé est seul à conserver, il reproduit en les corn mentant tous les précédents qui peuvent dès lors être détruits.
 
 e) Des journaux publient des revues de la Presse dans lesquelles les articles sont cités textuellement, pour venir en aide à la presse et aussi pour leurs propres services. Le Ministère des Affaires étrangères de France a organisé un service de traduction de journaux étrangers et publié des Bulletins de Presse abondamment pourvus et présentés d’une manière assez objective.
 
@@ -7720,20 +7720,20 @@ h) Les journaux sont précieux a conserver. La France, dit le bibliophile Jacob,
 
 i) La conservation des journaux soulève quatre question» différentes : 1° sous quelle forme présenter les journaux quotidiens dans les bibliothèques publiques et aussi dans les grands cercles ? 2° comment conserver des collections complètes de certains journaux (Hémérothèques) ???, 3° comment constituer des archives de la presse comprenant des exemplaires types de tous les journaux (Musée de la Presse) ; 4° comment utiliser les journaux sous forme de découpures (Encyclopédie documentaire).
 
-j) Tous les journaux du pays dans ta bibliothèque nationale, quelques grands quotidiens et les journaux locaux dans les autres, au moins un journal source de faits et de l'histoire contemporaine dan» toute bibliothèque. On relie les journaux en fin de trimestre. Ceux de consultation courante sont collés sur onglets et reliés au jour le jour. Les numéros dépareillés de plusieurs journaux que l’on désire conserver font l’objet de recueils factices où les numéro» de plusieurs organes sont classés par ordre de date.
+j) Tous les journaux du pays dans ta bibliothèque nationale, quelques grands quotidiens et les journaux locaux dans les autres, au moins un journal source de faits et de l'histoire contemporaine dans toute bibliothèque. On relie les journaux en fin de trimestre. Ceux de consultation courante sont collés sur onglets et reliés au jour le jour. Les numéros dépareillés de plusieurs journaux que l’on désire conserver font l’objet de recueils factices où les numéros de plusieurs organes sont classés par ordre de date.
 
 La Bibliothèque Nationale de Paris possède une collection complète des journaux parisiens. La Library of Con-
 gress de Washington possède des collections considérables.
 
-Dans certaines bibliothèques anglaises, les journaux sont affichés. Ils se lisent debout devant des pupitres. Les journaux les plus répandus comme le Daily Mail, le Te/e-graph, le Tirncê sont affichés à deux ou même trois exemplaires. de façon que plusieurs lecteurs puissent les compulser à la fois.
+Dans certaines bibliothèques anglaises, les journaux sont affichés. Ils se lisent debout devant des pupitres. Les journaux les plus répandus comme le Daily Mail, le Tele-graph, le Tirncê sont affichés à deux ou même trois exemplaires. de façon que plusieurs lecteurs puissent les compulser à la fois.
 
-La Bibliothèque doit posséder un choix judicieux de journaux. « Pat les journaux, elle met chacun en situation de se faire une opinion personnelle raisonnée, basée ???ijr une information pluriale et contradictoire, au lieu d'avoir seulement l’opinion toute faite de l’unique journal qu'il lit. >
+La Bibliothèque doit posséder un choix judicieux de journaux. « Pat les journaux, elle met chacun en situation de se faire une opinion personnelle raisonnée, basée ???ijr une information pluriale et contradictoire, au lieu d'avoir seulement l’opinion toute faite de l’unique journal qu'il lit. »
 
 k) On a constitué de grandes collection» de spécimens de journaux. A Aix-la-Chapelle. M. Oscar von For-kenbeek est parvenu à réunir 75,000 feuilles de journaux différentes dans le Zeitungs Muséum, subventionné par la ville. En Belgique, on s’est vivement intéressé aux collections les plus importantes. Le Musée de la Presse au Palais Mondial comprend maintenant les collections de Warzée. Vanden Broek et de Fonvent en un ensemble considérable. ( I )
 
 8. Institutions.
 
-Le journalisme a fait surgir tout un ensemble d institutions communes pour les rapports professionnels et la déontologie, pour l'aidr mutuelle, pour l’enseignement, les maisons et instituts de Presse.
+Le journalisme a fait surgir tout un ensemble d'institutions communes pour les rapports professionnels et la déontologie, pour l'aidr mutuelle, pour l’enseignement, les maisons et instituts de Presse.
 
 a) En Amérique le journalisme a pénétré dans les Universités. A Columbia, il a élevé le journaliste nu rang d'un professionnel, bien que ce soit peut être une affaire. A Berlin, à l’Université on a créé non seulement une chaire de journalisme (Zeitungswissenschaft), mais un Institut, laboratoire ou bibliothèque où 800 journaux sont découpés et classés. Il y a les Ecoles de Journalisme à l’Université de Chicago, Philadelphie, Colombo (Ohio) qui ont des cours préparatoires de journalisme. Université catholique de Lille. En Allemagne, professeur Koch à Heidelberg. Le Secrétariat du Volksverein de Miinchen-Gladbach s’e»t transformé en une école de journalisme.
 
@@ -7759,7 +7759,7 @@ Récemment, le Comité exécutif de la Fédération internationale des Journalis
 
 d) Il a été formé en mai 1933 à La Haye une Fédération internationale des Associations de directeurs et des éditeurs de journaux.
 
-e) Des Instituts du Journalisme ont été créés en divers pays. En Allemagne notamment « Deutsches Institut fur Zeîtungskunde ». Des publications spéciales ont é'.é consacrées à la théorie et à la pratique du journalisme. Ex. : en Allemagne la Zeîtungswissenschaft.
+e) Des Instituts du Journalisme ont été créés en divers pays. En Allemagne notamment « Deutsches Institut fur Zeitungskunde ». Des publications spéciales ont été consacrées à la théorie et à la pratique du journalisme. Ex. : en Allemagne la Zeitungswissenschaft.
 
 La création d'un Institut International de la Presse a été décidée par le Comité de la Fédération Internationale des Journalistes (Prague, avril 1929). C’est à la suite du vœu délibéré en Î927 par la Conférence internationale des Associations internationales de Presse.
 
@@ -7768,7 +7768,7 @@ f) Des expositions internationales de la Presse ont eu lieu dans maintes exposit
 g) La création d'une Bibliothèque (Hémérothèque) mondiale de la Presse doit retenir l'attention. Elle est appelée à devenir un Département important de la Bibliothèque Mondiale.
 9. Desiderata. Réforme.
 
-a) Parmi les objets de ces réformes, on peut indiquer les suivantes : extension du nombre de pages des journaux. multiplication des rubriques, collaboration compétente, informations sur la vie du dehors et « l’heure qu’il est dans le monde », édition de suppléments spéciaux répondant au besoin de lecture dominicale, apportant aux feuilles à la fois de la distraction, des connaissances, de l’idéal et de la beauté. Le journal populaire constitue trop souvent pour le paysan sa seule revue et sa seule bibliothèque. Il devrait être transformé en organe distributeur d'une nourriture intellectuelle, saine et abondante. C'est là un minimum de desiderata. On peut se demander, d autre part, si, sans apporter aucune restriction à !a liberté de la presse, il ne conviendrait pas d'en voir combattre les mauvais côtés par des informations plus nombreuses et plus systématisées émanant des autorités, gouvernement et administrations. La conception même du Journal officiel est demeurée quasi invariable depuis plus d'un siècle. Il y a, dans le développement et l'adaptation de l’idée maîtresse à qui il doit sa naissance, de précieuses possibilité». L'Etat doit à ses membres des informations précises, détaillées, continues sur ce qu'il veut, entreprend et propose à la conception de ses membres.
+a) Parmi les objets de ces réformes, on peut indiquer les suivantes : extension du nombre de pages des journaux. multiplication des rubriques, collaboration compétente, informations sur la vie du dehors et « l’heure qu’il est dans le monde », édition de suppléments spéciaux répondant au besoin de lecture dominicale, apportant aux feuilles à la fois de la distraction, des connaissances, de l’idéal et de la beauté. Le journal populaire constitue trop souvent pour le paysan sa seule revue et sa seule bibliothèque. Il devrait être transformé en organe distributeur d'une nourriture intellectuelle, saine et abondante. C'est là un minimum de desiderata. On peut se demander, d'autre part, si, sans apporter aucune restriction à la liberté de la presse, il ne conviendrait pas d'en voir combattre les mauvais côtés par des informations plus nombreuses et plus systématisées émanant des autorités, gouvernement et administrations. La conception même du Journal officiel est demeurée quasi invariable depuis plus d'un siècle. Il y a, dans le développement et l'adaptation de l’idée maîtresse à qui il doit sa naissance, de précieuses possibilités. L'Etat doit à ses membres des informations précises, détaillées, continues sur ce qu'il veut, entreprend et propose à la conception de ses membres.
 
 b) En ce qui concerne la lecture et la documentation par leur moyen, on peut souhaiter notamment : 1° qu'il soit constitué dans les grands centres des salles de lecture de journaux, comme en Angleterre et en Amérique, afin de combattre l’influence néfaste de la lecture d'un journal unique et tendancieux ; ces salles de lecture devraient être, autant que possible, annexées aux bibliothèques ; 2° que ces dernières organisent des collections de journaux, les unes centrales ou générales, les autres locales ou spéciales ; les journaux sont des sources importantes de 1 histoire >t des organes de la tradition ; 3° qu’il soit publié pour au moins un journal de chaque pays des tables détaillées comme celles que publie le Times et dont les index, en rappelant la date des principaux événements, puissent faciliter les recherches dans les numéros contemporains même des autres journaux. A défaut, même simultanément. que des catalogues bibliographiques manuscrits Sur fiches à plusieurs entrées soient établis au centre national de collectionnement de journaux, qu’il soit procédé à une utilisation plus généralisée et plus systématique des découpures de journaux pour alimenter la formation des Répertoires de Documentation. Il y existe des possibilités d’une meilleure utilisation à cet effet des services de presse des administrations et des argus de la Presse. Œuvres de distribution de vieux journaux; utilisation systématique des feuilles déjà lues pour étendre la lecture gratuite dans toutes les classes sociales.
 
@@ -7789,7 +7789,7 @@ la répression des délits. Par le régime qu’a mis en vigueur la loi de 1881,
 Les journaux anglais à l'inverse des journaux français, semblent avoir essentiellement pour but de renseigner vite et bien. Peu de théories, peu de considérations générales : des faits, des faits, des faits. Cette forme de journalisme suffit à elle seule à caractériser la société britannique.
 
 Le journal anglais vise l’information, le lecteur n'y cherche point une direction de conscience. Le journal français est avant tout politique. Le journal anglais dispose de forts capitaux, le journal français pas. Le journal anglais ne peut être vénal, il risque trop; le journal français est accessible aux tentations.
-( 1 ) Lors du vote de la loi scolaire par les catholiques en 1884. Le /oumal de Bruxelles créa le Bureau des démentis ; en moins d’un mois on parvint à purger les feuilles des adversaires de la plupart des canards dont elles nourrissaient leurs lecteurs à l'occasion de cette loi.
+( 1 ) Lors du vote de la loi scolaire par les catholiques en 1884. Le journal de Bruxelles créa le Bureau des démentis ; en moins d’un mois on parvint à purger les feuilles des adversaires de la plupart des canards dont elles nourrissaient leurs lecteurs à l'occasion de cette loi.
 
 (2) Le jour où nous pourrons faire une nouvelle législation 
 sur la Presse, séparer la Presse littéraire et politique 
@@ -7801,7 +7801,7 @@ besogne d’assainissement. (Franck à la Chambre Belge,
 
 2. *Allemagne*. — Les débuts de la Presse y ont été secs et impersonnels. C’est Frédéric II qui, en éveillant la conscience nationale, a donné le premier essor à la Presse, bien que sa puissance d expansion date surtout de la révolution allemande de 1848. Il y avait en 1928, 3,293 journaux et 4,730 revues. Cette Presse n'est pas centralisée comme en France; il y a de grands journaux de province.
 
-Quand Bismarck fit voter une loi contre les socialistes (1878) ils s'organisaient sous forme de sociétés sans but politique en apparence, ««cercle de fumeurs», cercle choral. Ils transportèrent leur journal en Suisse, à Zurich, d où les exemplaires entrèrent en contrebande dans toute l’Allemagne. Ils imprimèrent secrètement des feuilles volantes et continuèrent leur propagande.
+Quand Bismarck fit voter une loi contre les socialistes (1878) ils s'organisaient sous forme de sociétés sans but politique en apparence, ««cercle de fumeurs», cercle choral. Ils transportèrent leur journal en Suisse, à Zurich, d'où les exemplaires entrèrent en contrebande dans toute l’Allemagne. Ils imprimèrent secrètement des feuilles volantes et continuèrent leur propagande.
 
 A Berlin, Scherl, qui fut un colporteur vendant livres et montres, a créé la Woche, puis le Localanzeiger. puis le Tag. Le Tag. vers 1906, a deux éditions: politische qui donnait la reproduction réduite du Localanzeiger ; unter-haltung, toutes espèces d’autres nouvelles. Tous les jours de la semaine le Tag a un autre supplément : agricole, littéraire, etc. Il tire à 100,000. Le gouvernement le ¡subsi-diail car c’était précieux pour lui que le public as&ez cultivé pour lire le Tag demeure dans les opinions moyennes. En tête du Localanzeiger, on trouve en quelques mots le résumé des événements saillants du monde entier. La lecture de ce résumé donnait l’assurance immédiate que l’on pouvait être tranquille, qu’aucun événement ne forçait à modifier le cours de ses idées ou l’orientation de son activité.
 
@@ -7809,7 +7809,7 @@ En Allemagne les auteurs connus publient souvent leurs essais dans les quotidien
 
 A Berlin il y avait environ 10,000 vendeurs de journaux à la rue. dont 6,800 avaient leur place stable.
 
-Pendant la guerre^ Lu.dend.Qrff organisa la fameuse « K.riegspre'iseamt ». Wolf mentait, mentait toujours. « Le mensonge est un devoir patriotique », telle fut la devise. Le pouvoir militaire étant omnipotent, le pouvoir civil n’existait plus. La propagande du Kriegspresseamt 8 inspirait de deux principes : l’espoir et la haine.
+Pendant la guerre^ Lu.dend.Qrff organisa la fameuse « K.riegspre'iseamt ». Wolf mentait, mentait toujours. « Le mensonge est un devoir patriotique », telle fut la devise. Le pouvoir militaire étant omnipotent, le pouvoir civil n’existait plus. La propagande du Kriegspresseamt s'inspirait de deux principes : l’espoir et la haine.
 
 Il y eut tout un temps deux presses officieuses, celle de la Chancellerie et celle de von l'irpitz qui avait organisé au Ministère de la Marine un bureau de presse à tendances pangermanistes. La presse n’a guère été qu’un informateur officiel, obligé notamment d’insérer les articles préparés par l’autorité. Le gouvernement faisait publier des articles par l’intermédiaire non seulement de ses organes mais de journaux indépendants. Le gouvernement a déclaré que les articles de sources officielles ont pour but de fournir aux petits journaux des nouvelles intéressantes.
 
@@ -7822,7 +7822,7 @@ C’était l’agence nouvelle « Tranzoceana » qui envoyait les nouvelles par 
 
 agence était soutenue par les industriels et par les sub- ? sides du gouvernement.
 
-I .a législation sur la Presse en Allemagne, l'organisation, du Pressebureau, et la censure pratiquée en temps de paix, jointes à la confiance du peuple allemand, permettaient o Berlin de créer dans toute l'Allemagne l'opinion qui lui convenait sans en avoir I air. En effet, un réglement obligeait le journaliste allemand de remplacer un texte censuré par un texte accepté. Depuis l’avènement d'Hitler la Presse connaît une concentration aux mains du gouvernement.
+I .a législation sur la Presse en Allemagne, l'organisation, du Pressebureau, et la censure pratiquée en temps de paix, jointes à la confiance du peuple allemand, permettaient o Berlin de créer dans toute l'Allemagne l'opinion qui lui convenait sans en avoir l'air. En effet, un réglement obligeait le journaliste allemand de remplacer un texte censuré par un texte accepté. Depuis l’avènement d'Hitler la Presse connaît une concentration aux mains du gouvernement.
 
 3. Etats-Unis. — Le journalisme américain est devenu une formidable machine. Il compte les plus complets exemples dans la «Yellow Press» la Presse jaune. C'est le journal qui est connu comme moyen de gagner beaucoup d'argent. (La chaîne des journaux de Hearst.) A côté existe la « Human interest Press », qui fait un usage abondant des incidents oui révélent In nature humaine n fait naître les émotions. (Par ex. Le Star, de Kansas City.) L’Amérique a des « news papers » et « newspapermen ». l’Angleterre et le continent ont des journalistes. Il y a une grande différence. Les journaux américains font d’im meiises sacrifices pour utiliser tous les moyens créés par In science pour In transmission rapide de l'information. Le journal américain, comme instrument de nouvelles, est des années en avance sur les autres.
 
@@ -7845,7 +7845,7 @@ Un journal américain laisse en blanc ses pages du milieu pour permettre ainsi a
 
 La NieuWe Rotterdamsche Courant (N. R. C.) fournit l'exemple le plus avancé de la Presse hollandaise. Le vendredi 19 mai 1933, « Ochtendblad » 12 pages et le soir « Avondblad » 24. soit un total de 36 pages. Il donne en moyenne 28 ou 30 pages par jour (8 ou 10 le matin, et 20 le soir). Aussi le N. R. C. est le journal qui donne la plus grande place à l’art en général, non seulement à la littérature hollandaise, mais à la littérature de tous les pays, française, allemande, anglaise, russe. Scandinave, espagnole, italienne, etc., etc.
 
-6. Japon. — La presse japonaise est une de celles qui a le plus progressé. Eiv 1860 les Nippons connaissaient à peine les journaux. Ce sonf les Européens qui ont fondé les premiers journaux. Il y a aujourd hui 115 grands jour naux dont la moitié ont plus de 10 pages par jour et dont deux tirent 900.000 et 1.500.000 exemplaires (Tofcîo-Nichinichi et Osaka-Mainichi). Avec les périodiques pa raissant plus de 3 fois par mois, il y a 8,445 journaux. Les journaux sous forme de sociétés anonymes «ont devenus de grandes entreprises capitalistes au service du capita lisme. Il n’y a pas de grand journal exprimant la culture et l’idéologie de la masse prolétarienne.
+6. Japon. — La presse japonaise est une de celles qui a le plus progressé. Eiv 1860 les Nippons connaissaient à peine les journaux. Ce sonf les Européens qui ont fondé les premiers journaux. Il y a aujourd hui 115 grands jour naux dont la moitié ont plus de 10 pages par jour et dont deux tirent 900.000 et 1.500.000 exemplaires (Tofcîo-Nichinichi et Osaka-Mainichi). Avec les périodiques pa raissant plus de 3 fois par mois, il y a 8,445 journaux. Les journaux sous forme de sociétés anonymes sont devenus de grandes entreprises capitalistes au service du capita lisme. Il n’y a pas de grand journal exprimant la culture et l’idéologie de la masse prolétarienne.
 
 241.33 Annuaires (Almanachs, Calendriers, Adresses).
 """""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -7864,7 +7864,7 @@ humaines. Les annuaires paraissent généralement au début de chaque année pou
 
 Un annuaire donne des renseignements sur la composition des organismes officiels et privés de toute nature, de la spécialité à laquelle il se réfère (administration, sociétés, instituts de recherche et d’enseignement, presse spéciale) ; souvent des informations sur les personnalités elles-mêmes. Renseignements généraux d’ordre commercial, juridique, administratif. Données fondamentales et permanentes sur la matière.
 
-b) Il eM difficile de définir l’annuaire par des caractéristiques bien nettes. Dans ce qu'il a d'essentiel, l'Annuaire est un ensemble de données mises annuellement à jour. Mais cette définition conviendrait aussi au Traité et à toute forme d’ouvrage réédité annuellement. Pour qu'il y ait annuaires, il faut une seconde condition, qu'iî y ait matière même annuellement renouvelée. C'est le tas des statistiques et des états du personnel des organisations, des listes d’institutions existantes, des adresses des personnes, des abonnés aux services publics ou privés.
+b) Il est difficile de définir l’annuaire par des caractéristiques bien nettes. Dans ce qu'il a d'essentiel, l'Annuaire est un ensemble de données mises annuellement à jour. Mais cette définition conviendrait aussi au Traité et à toute forme d’ouvrage réédité annuellement. Pour qu'il y ait annuaires, il faut une seconde condition, qu'il y ait matière même annuellement renouvelée. C'est le tas des statistiques et des états du personnel des organisations, des listes d’institutions existantes, des adresses des personnes, des abonnés aux services publics ou privés.
 
 Les annuaires sont des documents difficiles à enfermer dans une définition simple. Ils ont — ou ils devraient avoir — de commun, d'une part le fait d’être publié» annuellement, d'autre part le fait de contenir des informations de caractère synthétique et bibliographique. Il y en a qui forment cependant des publication» annuelles et constituent une série indépendante. (Ex. : le catalogue annuel de bibliographie, le recueil annuel des bibliographies, les recueils annuels des administrations officielles (publiant des documents officiels), les recueils ou rapports des associations et les actes de certains congrès.) Les annuaires ont pour objet de mettre ou courant de la situation et des progrès dans tous les pays et en un domaine déterminé.
 
@@ -7873,16 +7873,16 @@ Une longue élaboration améliorée d’année en année a conduit aux grands an
 241.332 TYPES D'ANNUAIRES.
 ...........................
 
-a) Plusieurs annuaires ont acquis une grande réputation: T Annuaire du bureau de s longitudes, Y Annuaire du Commerce Didot-Bottin, Y Annuaire historique fondé en 1818 par Lesur, Y Annuaire du clergé de France; Y Annuaire diplomatique, Y Annuaire militaire, etc.
+a) Plusieurs annuaires ont acquis une grande réputation: l'Annuaire du bureau de s longitudes, Y Annuaire du Commerce Didot-Bottin, Y Annuaire historique fondé en 1818 par Lesur, Y Annuaire du clergé de France; Y Annuaire diplomatique, Y Annuaire militaire, etc.
 
 b) Sébastien Bottin (1764-1853) était en 1794 secrétaire général de I administration centrale du Bas-Rhin quand il y publia le premier Annuaire statistique qu'on ait vu en France. De 1809 à 1853 il continua la publication annuelle que de l a Tynna avait commencé a faire parai
 tre en 1801. A la mort de Bottin Y Almanach du commerce de Paris, des départements et des principales villes du monde fut réuni à V Annuaire du commerce de Didot. publié depuis 1797. Les mots un Bottin ou un Didot-Bottin sont devenus des sortes de nom commun pour désigner le livre d’adresses (dit almanach de cinq cent mille adresses).
 
-L annuaire Didot-Bottin en est arrivé à la 137" année de publication. La collection forme plus de 200 volumes ri constitue un très précieux répertoire de documents historiques, consultables sur demande dans l'immeuble de l’annuaire.
+L'annuaire Didot-Bottin en est arrivé à la 137" année de publication. La collection forme plus de 200 volumes ri constitue un très précieux répertoire de documents historiques, consultables sur demande dans l'immeuble de l’annuaire.
 
 L'annuaire contient aujourd'hui des adresses de tous pays, il comporte 20.000 pages en 5 volumes pesant environ 30 kilos. Mis à plat les volumes d’une »eule édition formeraient une pile neuf fois plus haute que le Mont-Blanc (
 
-c) La Belgique possède un « Annuaire permanent de documentation financière et industrielle ». C'est un recueil sur fiches mis constamment à jour, distribué hebdomadairement. publié par la collaboration d’un groupe d'expert* comptables, d’ingénieurs commerciaux, d'actuaires et de juristes. Sa 12* année comportait 5 volumes contenant environ 9,000 notes sur les sociétés dont les titres font l’objet de transaction.
+c) La Belgique possède un « Annuaire permanent de documentation financière et industrielle ». C'est un recueil sur fiches mis constamment à jour, distribué hebdomadairement. publié par la collaboration d’un groupe d'experts comptables, d’ingénieurs commerciaux, d'actuaires et de juristes. Sa 12* année comportait 5 volumes contenant environ 9,000 notes sur les sociétés dont les titres font l’objet de transaction.
 
 d) La Minerva, Jahrbuch der Gclehrtcn Welt, annuaire du monde savant, a été fondé en 1892. Elle est consacrée au progrès des relations du monde scientifique. Après la guerre a été publié 17ndex Genera/ia, directeur R. dr Montessus de Ballore (Paris Editions Spcs) donnant des indications sur 1,100 universités et grandes écoles, 315 observatoires, 3,000 bibliothèques, 775 instituts scientifiques. 250 laboratoires, 1,250 académies et sociétés savantes. 2.300 pages, 60,000 noms de notabilités intellectuelles (liste alphabétique). Prix: fr, 192.50.
 
@@ -8100,9 +8100,9 @@ c) Etablir les textes d’après la méthode qui préside aux travaux philologiq
 
 d) Présenter les œuvres telles qu'elles se sont présentées, qu'elles sont apparues à leur contemporains et conformément à la dernière volonté de l'auteur. Reproduire le texte de la dernière édition et dans l'orthographe du temps.
 
-e) Accompagner l'ouvrage: 1° d’une préface d ouvert turc large et vivante; 2" d un appareil critique; 3° de notes; A" d'un glossaire de termes; 5° de variantes; 6° de renseignements bibliographiques.
+e) Accompagner l'ouvrage: 1° d’une préface d'ouvert turc large et vivante; 2" d un appareil critique; 3° de notes; 4" d'un glossaire de termes; 5° de variantes; 6° de renseignements bibliographiques.
 
-f) Les éditions critiques doivent être établies en fonction directe de la tradition manuscrite et non sur la base d'une édition antérieure. Le texte doit reposer sur I ensemble des manuscrits qui peuvent avoir une autorité, et non sur un manuscrit arbitrairement isolé des autres, ce manuscrit fût-il le meilleur.
+f) Les éditions critiques doivent être établies en fonction directe de la tradition manuscrite et non sur la base d'une édition antérieure. Le texte doit reposer sur l'ensemble des manuscrits qui peuvent avoir une autorité, et non sur un manuscrit arbitrairement isolé des autres, ce manuscrit fût-il le meilleur.
 
 On publie les textes des éditions critiques, présentant les variantes de différentes impressions et s'il y a lieu les diverses rédactions de manuscrits. Souvent les éditions sont accompagnées de l'indication des sources et d un commentaire historique et philologique.
 
@@ -8120,9 +8120,9 @@ de sens complet peuvent être distingués par des lettrines en exposant : « Sed
 
 » scd etiam... » Sembla oie division dispense du numérotage des lignes qui augmente les irais de composition. Elle permet d’ailleurs de mettre dans l'apparat des renvois définitifs, ce qui diminue le travail, les chances d'erreur et les frais de correction. Un tel système rendrait possible pour l’avenir les renvois précis, indépendant de toute pagination et linéation.
 
-i) La disposition. — Lorsqu'une traduction accompagne un texte pour en faciliter l'intelligence et en constitue une sorte de commentaire suivi, chaque page de la traduction recevra le même numéro que In page de texte correspondante. Les alinéas de la traduction seront le^ memes que les alinéas du texte. Les numéros des chapitres et au'res divisions importantes du texte seront répétés dans la traduction.
+i) La disposition. — Lorsqu'une traduction accompagne un texte pour en faciliter l'intelligence et en constitue une sorte de commentaire suivi, chaque page de la traduction recevra le même numéro que In page de texte correspondante. Les alinéas de la traduction seront les mêmes que les alinéas du texte. Les numéros des chapitres et autres divisions importantes du texte seront répétés dans la traduction.
 
-j) Multiplier les alinéas (aller à la ligne) à chaque chapitre, à chaque paragraphe, à chaque grande unité matérielle, à des intervoiles de 10 à 20 vers, à chaque tronçon de texte finissant avec une phrase au sens complet et l'ensemble du tronçon constituant une sorte d unité logique. Cela facilite la consultation et évite pendant l'impression, de trop nombreux remaniements de lignes, lorsque des erreurs sont à corriger.
+j) Multiplier les alinéas (aller à la ligne) à chaque chapitre, à chaque paragraphe, à chaque grande unité matérielle, à des intervoiles de 10 à 20 vers, à chaque tronçon de texte finissant avec une phrase au sens complet et l'ensemble du tronçon constituant une sorte d'unité logique. Cela facilite la consultation et évite pendant l'impression, de trop nombreux remaniements de lignes, lorsque des erreurs sont à corriger.
 
 k) Entre deux renvois numériques, l'apparat critique décompose en unités critiques séparées par de doubles
 
@@ -8166,7 +8166,7 @@ La publication de textes ne va pas sans commentaires qui dépassent souvent le s
 
 I almud, des Sentences du Lombard et de nos jours des Codes, récemment des Traités internationaux.
 
-Les commentateurs donnent des versions a eux ou reproduisent les versions d'auteurs en indiquant leurs sources. Ily a des cas (par ex. des commentaires de Dante), où l'on n'a limité les noie* que par la nécessité de donner encore du texte suffisant sur chaque page.
+Les commentateurs donnent des versions a eux ou reproduisent les versions d'auteurs en indiquant leurs sources. Il y a des cas (par ex. des commentaires de Dante), où l'on n'a limité les noie* que par la nécessité de donner encore du texte suffisant sur chaque page.
 
 Pendant des siècles la culture a consisté à discuter des textes au lieu d'étudier par l'observation nu l'expérience les réalités I
 
@@ -8181,7 +8181,7 @@ Le catalogue est aussi une forme élémentaire d’exposé, qu'elle soit appliqu
 
 b) Le catalogue a été défini: Liste, énumération de personnes ou de choses classées dans un certain ordre. Le catalogue donne les caractéristiques des choses telles qu'elles résultent de leur examen et analyse. Le catalogue est le «document» dans lequel sont enregistrées les choses. Les catalogues sont les inventaires (relevé), les guides dans les recherches, les clef* des collections.
 
-c) Ily a des termes synonymes ou équivalents employés avec des sens que l'usage a distingué, à raison surtout du but proposé. Le catalogue e»t une liste raisonnée, dressée avec soin, avec méthode, dans un ordre propre à faire connaître l’importance de l'ensemble et souvent avec des détails part’culiers sur chaque objet.
+c) Il y a des termes synonymes ou équivalents employés avec des sens que l'usage a distingué, à raison surtout du but proposé. Le catalogue e»t une liste raisonnée, dressée avec soin, avec méthode, dans un ordre propre à faire connaître l’importance de l'ensemble et souvent avec des détails part’culiers sur chaque objet.
 
 Le dénombrement tend surtout à faire connaître des choses ou des personnes. L'état tend à faire connaître l'exacte situation des choses afin que la réflexion puisse ensuite s’exercer à les modifier s'il y a lieu, a les perfectionner, à les comparer avec d'autres choses de même nature. L.'inventaire est la liste des objets, principalement pour des fins juridiques ou économiques (liste d’objets après la mort d’une personne, dans un magasin, ou une usine, dans un musée), il a pour but de faire connaître
 
@@ -8190,7 +8190,7 @@ vées, c’est plutôt celle des choses a trouver, à chercher. (Keperire = retr
 
 d) Le catalogue est parmi les plus utiles des ouvrages. C’est un instrument indispensable pour les chercheurs, pour les étudiants. C’est aussi In base des acquisitions scientifiques, lu forme fondamentale que prend l'inventaire de la nature des connaissances humaines, des œuvres et des richesses créées.
 
-e) Parmi les diverses espèces de catalogues, ceux qui concernent les livres occupent une place considérable; ce sont les catalogues d’éditeurs, dr libraires, de bibliothèques et surtout les Bibliographies. Il en sera traité sous les divisions ultérieures.
+e) Parmi les diverses espèces de catalogues, ceux qui concernent les livres occupent une place considérable; ce sont les catalogues d’éditeurs, de libraires, de bibliothèques et surtout les Bibliographies. Il en sera traité sous les divisions ultérieures.
 
 f) En dehors de la documentation proprement dite et des catalogues auxquels elle donne lieu, il y a les catalo gués des objets, des êtres, des phénomènes et des per sonnes.
 
@@ -8200,7 +8200,7 @@ g) Un immense travail (catalographie) se poursuit, avec plus ou moins d’ordre 
 
 a) Coopération et continuité. — Les catalogues sont par excellence des œuvres collectives et continues et tendant à la totalité. IL vont en se complétant, se supplémentant et s'améliorant sans cesse, d'œuvre en œuvre, d’édition en édition ; le travail des devanciers est incorporé à celui des suivants. Les objets à cataloguer s’accroissant ou leur position, situation se modifiant, il y a continuité nécessaire dans le travail.
 
-b) Progrès réalisés. — A raison de ces caractéristiques, l'œuvre catalographique s’est perfectionnée dans diverses directions : I” règles précises et conventionnelles pour la rédaction de notices ; 2° organisation du travail, répartition des tâches et centralisation du travail accompli ; 3° recours à la photographie comme observateur, témoin objectif ; 4' système des fiches facilitant les intercalations et par suite la coopération et la continuité,
+b) Progrès réalisés. — A raison de ces caractéristiques, l'œuvre catalographique s’est perfectionnée dans diverses directions : 1” règles précises et conventionnelles pour la rédaction de notices ; 2° organisation du travail, répartition des tâches et centralisation du travail accompli ; 3° recours à la photographie comme observateur, témoin objectif ; 4' système des fiches facilitant les intercalations et par suite la coopération et la continuité,
 
 c) Les catalogues d objet» de collections sont souvent des contribution» de piemier ordre à l'étude de la matière. Il en est ainsi si les auteurs s’attachent à analyser minutieusement les objets catalogués, à en donner des descriptions qui correspondent à de véritables « diagnoses », si en outre ils ont soin après l’analyse de résumer les vue.» de synthèse dans quelque Introduction ou Conclusion, enfin s’il» adjoignent une bibliographie et des références aux collections similaires. (Ex. Le catalogue monumental
 
@@ -8217,9 +8217,9 @@ d) Les descriptions cataloguées permettent d'établir les catalogues de collect
 
 Les catalogues sont de diverses espèces :
 
-I" Quant à l’objet auquel ils se réfèrent: a) catalogues des choses ; matières, êtres naturels, phénomènes, faits et événements; b) catalogue des documents auxquels ont donné lieu les choses.
+1" Quant à l’objet auquel ils se réfèrent: a) catalogues des choses ; matières, êtres naturels, phénomènes, faits et événements; b) catalogue des documents auxquels ont donné lieu les choses.
 
-2’ Quant à l’étendue ou champ couvert: a) catalogue d'existence (l’universalité des choses ou des documents similaires) ; b) catalogue d'un ensemble, d’un dépôt, d une collection déterminée.
+2’ Quant à l’étendue ou champ couvert: a) catalogue d'existence (l’universalité des choses ou des documents similaires) ; b) catalogue d'un ensemble, d’un dépôt, d'une collection déterminée.
 
 3"' Quant à la forme matérielle: a) catalogue en forme de registre; b) catalogue en forme de fiches.
 
@@ -8240,7 +8240,7 @@ c) Catalogues commerciaux.
 
 Le catalogue est une liste et une description de produits, une présentation au public des qualités commerciales de ces produits. C'est un commis voyageur silencieux. Le catalogue est une publication destinée à amener des affaires. Dans son catalogue le fabricant décrit les avantages et les détails de ses marchandises, les facilités dont il dispose pour fabriquer des produits uniformes et de bonne qualité. Il y uasse en revue les procédé» de fabrication et la perfection de leur fini. Il s’y efforce par tous les moyens en son pouvoir de convaincre le lecteur que les marchandises qu'il fabrique ou qu’il vend sont justement celles qui lui conviennent le mieux, à l’exclusion des autres.
 
-Les catalogues commerciaux ont acquis une grande importance. Les notices donnent des caractéristique». Les objets »ont numérotés : ils portent parfois aussi les mots d’un code conventionnel. Des soins considérables sont apportés : présentation esthétique, illustration abondante, rédaction technique, précision et information scientifique. Les prix, variables, sont souvent indiqués dans une liste distincte du catalogue lui-même.
+Les catalogues commerciaux ont acquis une grande importance. Les notices donnent des caractéristiques. Les objets sont numérotés : ils portent parfois aussi les mots d’un code conventionnel. Des soins considérables sont apportés : présentation esthétique, illustration abondante, rédaction technique, précision et information scientifique. Les prix, variables, sont souvent indiqués dans une liste distincte du catalogue lui-même.
 
 d) Catalogues-guides.
 
@@ -8305,7 +8305,7 @@ En science, on nomme table un cadre renfermant les résultats numériques soit d
 Ie' En mathématiques les tables ont pour objet d’éviter à l’opérateur des calculs longs et pénibles en en donnant les résultats calculés dans les hypothèses aussi voisine" que possible les unes des autres. Tel est l’objet des tables de multiplication, de logarithme, de sinus et de tangente, de fonction elliptique et la table de Pythagore ou table
 (1) Spencer. Herbert. Descriptive Sociology or groups of Sociological facts. (En français par James Collier. Paris Alcan. I vol. in-folio. J
 
-H. Spencer a entrepris avec l'aide de 3 collaborateurs de présenter l’inventaire classé des faits sur lesquels doit reposer toute sociologie. Ce« faits ont donné lieu à des tables historiques «ynoptiqurs diverses en colonnes d'après les différents faits, et en extraits textuels d’ouvrages classés d'après le sujet social traité. L'œuvre devait s'étendre aux sociétés non civilisées, aux sociétés civilisées tombées en décadence et aux sociétés civilisées encore florissantes. Un premier volume seul a pu être publié de tout le travail achevé, car Spencer dépensa 4.423 livres et ne recouvrit par la vente que 1,054 livre*.
+H. Spencer a entrepris avec l'aide de 3 collaborateurs de présenter l’inventaire classé des faits sur lesquels doit reposer toute sociologie. Ce« faits ont donné lieu à des tables historiques «ynoptiqurs diverses en colonnes d'après les différents faits, et en extraits textuels d’ouvrages classés d'après le sujet social traité. L'œuvre devait s'étendre aux sociétés non civilisées, aux sociétés civilisées tombées en décadence et aux sociétés civilisées encore florissantes. Un premier volume seul a pu être publié de tout le travail achevé, car Spencer dépensa 4.423 livres et ne recouvrit par la vente que 1,054 livres.
 
 
 ====
@@ -8324,8 +8324,8 @@ a) Une table à simple entrée ne contient que deux colonnes dont l'une renferme
 
 b) Les tables à double entrée sont formées de lignes plus ou moins prolongées et en nombre plus ou moins grand, selon que l'on a donné plus ou moins de valeur à chacune des causes considérées. En général on les dispose de façon à former un cadre rectangulaire en inscrivant sur une ligne horizontale différentes valeurs de la première cause, sur une ligne verticale la valeur de In seconde cause, et en suivant le résultat dans la case placée à l'intersection de la colonne qui correspond à la valeur de la première cause et de la ligne qui correspond à celle de la seconde. Telles sont : la table de Pytha-' gore où les deux données sont les deux facteurs du produis ; les tables des fonctions elliptiques, où les données sont l’amplitude et l'excentricité.
 
-c) Une table a triple entrée, c’est-à-dire une table où 1« résultat dépendrait de ttois données pour être construite d’après le même principe, exigerait les trois dimensions ; elle ne serait donc Pas réalisable sur une feuille de papier à moins qu’on n'eut recours aux procédé» de !n géométrie
-(1) G. Bigourdan. — I-e climat de la France. 1916. Les tableaux résument un nombre immense d'observation* longuement et laborieusement poursuivies par une pléiade d’observateurs, munis des meilleurs instruments. Et les courbes qu'ils ont servi à construire les traduisent immédiatement d'une manière claire. Ils offrent le moyen de connaître pour tel point que l'on veut, les valeurs moyennes mensuelles de la température, de Ilpression rt. presque comme s’il y avait eu là une station météorologique.
+c) Une table a triple entrée, c’est-à-dire une table où le résultat dépendrait de ttois données pour être construite d’après le même principe, exigerait les trois dimensions ; elle ne serait donc Pas réalisable sur une feuille de papier à moins qu’on n'eut recours aux procédés de la géométrie
+(1) G. Bigourdan. — I-e climat de la France. 1916. Les tableaux résument un nombre immense d'observations longuement et laborieusement poursuivies par une pléiade d’observateurs, munis des meilleurs instruments. Et les courbes qu'ils ont servi à construire les traduisent immédiatement d'une manière claire. Ils offrent le moyen de connaître pour tel point que l'on veut, les valeurs moyennes mensuelles de la température, de Ilpression rt. presque comme s’il y avait eu là une station météorologique.
 descriptive. Habituellement on y supplée, ce qui est foin d être avantageux, en formant plusieurs tables à double entrée, dont chacune a pour argument la valeur de la troisième cause.
 
 7. Tables de constantes numériques.
@@ -8336,7 +8336,7 @@ Les Tables annuelles internationales de constantes et données numériques relè
 
 Des Tables critiques internationales des données numériques de physique, chimie et technologie sont publiées aussi par l’U. S. Bureau of Standards. Le Conseil national des recherches américain a créé un comité chargé de la publication des tables ciitiques.
 
-Il serait désirable de voir s’étendre à toutes les sciences la publication de tables de caractéristiques ou constantes. Ces données essentielles dans la constitution des sciences sont éparses dans un grand nombre d'ouvrages et de périodiques. La documentation nécessite »ans cesse le groupement et le regroupement des données acquises, leur systématisation, leur critique, leur publication limitée A feîfe ou telle classe de donnée*.
+Il serait désirable de voir s’étendre à toutes les sciences la publication de tables de caractéristiques ou constantes. Ces données essentielles dans la constitution des sciences sont éparses dans un grand nombre d'ouvrages et de périodiques. La documentation nécessite sans cesse le groupement et le regroupement des données acquises, leur systématisation, leur critique, leur publication limitée A feîfe ou telle classe de donnée*.
 
 8. Tables des lois de la science.
 
@@ -8376,7 +8376,7 @@ b) Il y a tout un ensemble coordonné de moyens d’il-* lustration. On peut pre
 c) Formes des atlas. — Le terme atlas s'est généralisé.
 
 Il s’est appliqué tout d’abord à une collection de cartes reliées. Il s'applique maintenant également à des recueils ???
-de planches ou tableaux se rapportant à une question spéciale. Le terme atlas tend ainsi à exprimer une forme générale. Ex. : Atlas photographique du Rhône de A. Challey. Atlas of Physiological Chemistry de Funkc. Atlas de microbiologie. Un atlas de la lune de Levy et Poi-seux construit à l'échelle de I millimètre pour 1,800 mètres. Atlas anatomique.
+de planches ou tableaux se rapportant à une question spéciale. Le terme atlas tend ainsi à exprimer une forme générale. Ex. : Atlas photographique du Rhône de A. Challey. Atlas of Physiological Chemistry de Funkc. Atlas de microbiologie. Un atlas de la lune de Levy et Poi-seux construit à l'échelle de 1 millimètre pour 1,800 mètres. Atlas anatomique.
 
 241.7 Autres espèces de Documents.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -8406,7 +8406,7 @@ Les codes »ont les instruments documentaires de la systématisation des princip
 
 c) //lèses.
 
-Les thèses sont les travaux produits par les étudiants pour obtenir certains grades académiques. Leur importance bibliographique est grande. I) y a, par ex. dans la Bibliothèque de l'Université de Lyon, 135,000 volumes et 115,000 thèses. Les thèses font avancer la science sur des points de détail ; leur sujet est le plus souvent donné par les maîtres qui aident les étudiants à les établir. Les thèses présentées aux universités sont pleines de matériaux recueillis avec soin *:t méthode.
+Les thèses sont les travaux produits par les étudiants pour obtenir certains grades académiques. Leur importance bibliographique est grande. Il y a, par ex. dans la Bibliothèque de l'Université de Lyon, 135,000 volumes et 115,000 thèses. Les thèses font avancer la science sur des points de détail ; leur sujet est le plus souvent donné par les maîtres qui aident les étudiants à les établir. Les thèses présentées aux universités sont pleines de matériaux recueillis avec soin *:t méthode.
 
 Au sens général les thèses sont des positions à l’égard de certaines questions controversées ou exposées pour la première fois. Elles sont explicites (formulées en termes mêmes par les auteurs) ou implicites (mises en forme par d autres d après les écrits originaux). Ex.: Les thèses de Doctorat, les propositions dont la condamnation est demandée à Rome.
 
@@ -8416,7 +8416,7 @@ d) G'tildes.
 
 Guide c'est le titre donné à un grand nombre d'ouvrages qui contiennent soit des renseignements, soit des préceptes et des conseils de diverses natures. Ex. « les guides de l'étranger », Guide Joenne, Btrdeker, Guides bleus, les belles publications du Touring Club italien, « le guide des mères ».
 
-Les Guides de voyage (guide Bædeker. guide Joanne, guide bleu, etc.) occupent une place particulière parmi Ica livres. Leur préparation intellectuelle exige des voyages et des recherches documentaires considérables, des enquêtes et des collaborations diverse1*. Matériellement, ils ont parfois de 500 à 600 pages, avec une impression fine et compacte, sur papier inince. contenant facilement sous le même volume la matière de quatre ou cinq romans. Leur typographie est compliquée, avec plusieurs corps différents, coupés à chaque instant de mots en gras, en italique ou en capitales ; des cartes et plans dessinés, gravés et imprimés spécialement, la plupart en plusieurs couleurs et dont chacun a du être plié et collé a la même page voulue; le tout assemblé est revêtu dune solide reliure souple.
+Les Guides de voyage (guide Bædeker. guide Joanne, guide bleu, etc.) occupent une place particulière parmi Ica livres. Leur préparation intellectuelle exige des voyages et des recherches documentaires considérables, des enquêtes et des collaborations diverses. Matériellement, ils ont parfois de 500 à 600 pages, avec une impression fine et compacte, sur papier inince. contenant facilement sous le même volume la matière de quatre ou cinq romans. Leur typographie est compliquée, avec plusieurs corps différents, coupés à chaque instant de mots en gras, en italique ou en capitales ; des cartes et plans dessinés, gravés et imprimés spécialement, la plupart en plusieurs couleurs et dont chacun a du être plié et collé a la même page voulue; le tout assemblé est revêtu dune solide reliure souple.
 
 Il entre dans les guides une énorme quantité d'érudition. Ils sont préparés par des recherches, des notes, des correspondances, des dossiers. Le guide présente un réseau d'itinéraires méthodiques: le problème consiste à décrire une surface par une série de lignes entrecroisées; à la
 façon des mailles d’un filet, chaque maille étant assez étroite pour ne laisser échapper aucune localité intéressante; chaque croisement étant muni de renvois «jui permettent commodément tous les itinéraires personnels les plus variés à travers les mailles. Pas de redites, pas de « doublons », pas de trous surtout. Et chaque chose a sa place logique. (I)
@@ -8433,9 +8433,9 @@ On fait des ouvrages intitulés « rapport sur l’état des connaissances relat
 
 La création des grands organismes internationaux spécialisés, tant officiels que privés, a permis de confier à des corps responsables et bien qualifiés la présentation des rapports annuels sur la situation dans divers domaines. Ainsi, par ex., tous les ans l'Institut International d'Agriculturc présente une vue d'ensemble sur la situation agricole du monde.
 
-Des Universités, faculté par faculté, publient des rapports annuel» sur l’activité scientifique originale de leurs maîtres et étudiants. (2)
+Des Universités, faculté par faculté, publient des rapports annuels sur l’activité scientifique originale de leurs maîtres et étudiants. (2)
 
-L'administration moderne se fait à l’intermédiaire de rapports écrits. Qu'on se représente les cabinets des Directions de Politique étrangère. C’est à travers les rapports qu'y arrive la connaissance des faits de tous les pays où des hommes luttent pour des objectifs précis et cherchent à conserver entre leurs mains les gouvernement» des affaires. La nécessité pour eux de parcourir À chaque seconde l’Europe et le monde entier, de voir un univers de pensée et d action auquel les sens de tant d’hommes restent aveugles.
+L'administration moderne se fait à l’intermédiaire de rapports écrits. Qu'on se représente les cabinets des Directions de Politique étrangère. C’est à travers les rapports qu'y arrive la connaissance des faits de tous les pays où des hommes luttent pour des objectifs précis et cherchent à conserver entre leurs mains les gouvernements des affaires. La nécessité pour eux de parcourir À chaque seconde l’Europe et le monde entier, de voir un univers de pensée et d action auquel les sens de tant d’hommes restent aveugles.
 (1) Marcel Bonmarché. — Comment on fait un guide bleu. Toute l'édition, 9 mai 1933.
 
 (2) Exemple: Faculté de Pharmacie. Rapport annuel du doyen. Annales de VUniversité de Paris, mai 1931. p. 193.
@@ -8474,18 +8474,18 @@ Minute: extrait d‘un écrit.
 Album: c'est un livre en blanc communément relié avec plus ou moins de luxe et destiné à contenir de brèves compositions littéraires, des sentences, des maximes, des pièces de musique, des signatures, des portraits, etc. Il y a des ude étant la qualité maîtres  régulières dans les feuilles doubles et destinées à placer des photographies.
 
 Lettres. Epitrcs. — Chez les Grecs et les Romains, le« écrits destinés à la correspondance étaient ordinairement expédiés sous forme de rouleau. On les exécuta d’abord
-(I) Répertoire des Peintures datées, par Isabelle Errera (Bruxelles, Van Oest. 2 vol. 25x32 de 450 p,). Le but de ce livre est de répertorier les peintures datées de toutes les écoles depuis 1085 jusqu'en 1875. c'est-à-dire 40,700 numéros environ. La date résulte, «oit de l'œuvre elle même, si elle y est inscrite, soit de documents probants, soit de références contrôlées à l’aide de travaux des auteurs les plus réputé», de catalogues de ventes, de musées, etc.
+(I) Répertoire des Peintures datées, par Isabelle Errera (Bruxelles, Van Oest. 2 vol. 25x32 de 450 p,). Le but de ce livre est de répertorier les peintures datées de toutes les écoles depuis 1085 jusqu'en 1875. c'est-à-dire 40,700 numéros environ. La date résulte, soit de l'œuvre elle même, si elle y est inscrite, soit de documents probants, soit de références contrôlées à l’aide de travaux des auteurs les plus réputé», de catalogues de ventes, de musées, etc.
 sur des feuilles de papyrus de petites dimension«; puis, à partir du IVe siècle sur des feuilles de parchemin. L'usage du papier de chiffon commença à la fin du XIIe siècle ou commencement du XIIIe. La mode de séparer le corps de la lettre de son enveloppe remonte à environ un siècle. Au début les enveloppes se faisaient à la main, plus tard b la machine. On donne le nom d épître aux lettres missives des anciens qui nous sont parvenues et, en particulier, aux lettres de Saint Paul et de quelques autres apôtres (v. Bible). Les lettres missive*, ont donné naissance à tout un genre de littérature, très étendu et très varié, *e genre épistolaire. Il comprend soit les lettres écrites réellement à des correspondants, soit les ouvrages écrits sous forme de lettres, comme les Lettres provinciales de Pascal, les Lettres persanes de Montesquieu, les romans par lettres.
 
 Billet. Ticket. Bulletin. — En usage dans l'administration. Petit document ayant pour but de certifier que Ir porteur a acquitté le prix du voyage. Le bulletin de baga ge est le reçu du bagage enregistré qui doit accompagner le voyageur par le même Vrain. Ilest l’équivalent de Illettre de voiture ou du connaissement pour le transport des marchandises par terre ou par eau.
 
-Communiqués. — La guerre a érigé les communiqués, eit genre spécial. C'est, par des organes ou des personnes autorisés, la relation officielle d'un fait. Admirables vraiment ont été les expressions trouvées pour minimiser les défaites et maximaliser les victoires ; pour mentir tout en disant la vérité sans la dire. (Voir notamment : «Plutarque a menti* de Pierrefeu.) Le communiqué est en vigueur dans les chancelleries, dans les conseils des ministres et dans les informations données à la presse par les organismes de tout ordre. Il s'agit de présenter les faits en peu de mot», de les rendre intérssants et de les utiliser pour sa cause.
+Communiqués. — La guerre a érigé les communiqués, eit genre spécial. C'est, par des organes ou des personnes autorisés, la relation officielle d'un fait. Admirables vraiment ont été les expressions trouvées pour minimiser les défaites et maximaliser les victoires ; pour mentir tout en disant la vérité sans la dire. (Voir notamment : «Plutarque a menti* de Pierrefeu.) Le communiqué est en vigueur dans les chancelleries, dans les conseils des ministres et dans les informations données à la presse par les organismes de tout ordre. Il s'agit de présenter les faits en peu de mots, de les rendre intérssants et de les utiliser pour sa cause.
 
 Actes notariés. — Il y a des actes que Von authentifie et faire cette opération est la fonction des notaires depuis les Romains (notae).
 
 Actes de congrès. Il est des congrès qui se sont réunis sur des questions spéciales et dont les rapports ont constitué de véritables encyclopédies de la question nouvelle.
 
-Reccffe*. — En toute matière il y a les recettes pratiques Elles se transmettent ordinairement de bouche en bouche ou par la pratique. Elles finissent maintenant par s écrire. Ainsi se technicisé, se scientise tout ce qui a été empirique dans In vie, dans les meliers, dans l'éducation des enfants, dans l'art de conduire les hommes et les affaires.
+Reccffe*. — En toute matière il y a les recettes pratiques Elles se transmettent ordinairement de bouche en bouche ou par la pratique. Elles finissent maintenant par s'écrire. Ainsi se technicisé, se scientise tout ce qui a été empirique dans la vie, dans les meliers, dans l'éducation des enfants, dans l'art de conduire les hommes et les affaires.
 
 Journal de bord. — Le journal de bord est un registre que le pilote d’un navire est obligé de tenir, sur lequel il marque régulièrement chaque jour les vents qui ont régnés, le chemin qu’a fait le navire, la latitude observée ou estimée, les profondeurs, etc., en un mot toutes les remarques qui peuvent intéresser la navigation. Par
 
@@ -8493,7 +8493,7 @@ Journal de bord. — Le journal de bord est un registre que le pilote d’un nav
 
 241  DOCUMENTS BIBLIOGRAPHIQUES  *177*
 
-l'ordonnance de la marine de 1689, le capitaine commandant un vaisseau du roi est obligé de tenir un journal exact de »0 route. Ces journaux au retour de chaque campagne »ont réunis au dépôt des cartes et plans de la marine; et 1« observations et remarques qui s’y trouvent, servent à perfectionner T hydrographie et la construction des cartes marines.
+l'ordonnance de la marine de 1689, le capitaine commandant un vaisseau du roi est obligé de tenir un journal exact de la route. Ces journaux au retour de chaque campagne sont réunis au dépôt des cartes et plans de la marine; et l'observations et remarques qui s’y trouvent, servent à perfectionner l'hydrographie et la construction des cartes marines.
 
 Livre dca origines fSiud Book) — Le où «Ont enregistrés des êtres vivants en vue de connaître leur hérédité et leur ascendance. Ainsi le Stud Book des chevaux. Le Stud Book des chiens établi en Belgique par la Société Royale de St-Hubert. On a établi un Stud Book international de certaines plantes.
 
@@ -8535,7 +8535,7 @@ Une même œuvre prend des formes variées : ses éditions successives, l’éta
 241.81 Edition.
 """"""""""""""""
 
-a) L'édition est l'indication concernant le numéro d'ordre de chacune des réimpressions d'une œuvre. Il ne faut pas confondre les termes tirage, réimpression et édition. Les uns et les autres signifient le résultat de l'action d'imprimer une œuvre. Mai» la réimpression se distingue de l'édition nouvelle. Il y a réimpression lorsqu’on se borne à reproduire »an# modification#, ajoutes ni retranchements l’édition antérieure. On tire sur com
+a) L'édition est l'indication concernant le numéro d'ordre de chacune des réimpressions d'une œuvre. Il ne faut pas confondre les termes tirage, réimpression et édition. Les uns et les autres signifient le résultat de l'action d'imprimer une œuvre. Mais la réimpression se distingue de l'édition nouvelle. Il y a réimpression lorsqu’on se borne à reproduire »an# modification#, ajoutes ni retranchements l’édition antérieure. On tire sur com
 
 (I) Ex.: Grade!. Cour» d'architecture.
 
@@ -8551,7 +8551,7 @@ c) L'édition est clandestine ou publique, définitive ou provisoire, approximat
 
 d) Certaines éditions sont dites « définitives ». Expression malheureuse. Qu’est-ce qui est définitif ? L édition de 1917 des « Fleurs du Mal » de Baudelaire a vu ajouter encore un certain nombre de poèmes à l'édition dite définitive.
 
-e) Souvent les éditions successives ne se distinguent de la première que par une meilleure systématisation des idées et une documentation plus complète, l'idée maîtresse demeurant inchangée. Les diverses éditions d'un ouvrage en constituent en quelque sorte l'évolution. Celle-ci dans une certaine mesure se conjugue avec l’évolution de Ja science contemporaine. Les éditions successives doivent donc compléter l’œuvre et la corriger parallèlement au progrès incessant des découverte*. L’œuvre d’un auteur se perfectionne a travers des éditions successive*. Un ouvrage, parti de quelques pages finit par former un gros volume. L’édition successive d’une œuvre va en se développant et en s’améliorant. Elle rappelle le germe qui grandit, la plante qui meurt chaque année et Tenait au printemps suivant, toute renouvelée dans sa sève et ses verdures, toute agrandie après le repos fécond de l’hiver.
+e) Souvent les éditions successives ne se distinguent de la première que par une meilleure systématisation des idées et une documentation plus complète, l'idée maîtresse demeurant inchangée. Les diverses éditions d'un ouvrage en constituent en quelque sorte l'évolution. Celle-ci dans une certaine mesure se conjugue avec l’évolution de Ja science contemporaine. Les éditions successives doivent donc compléter l’œuvre et la corriger parallèlement au progrès incessant des découvertes. L’œuvre d’un auteur se perfectionne a travers des éditions successives. Un ouvrage, parti de quelques pages finit par former un gros volume. L’édition successive d’une œuvre va en se développant et en s’améliorant. Elle rappelle le germe qui grandit, la plante qui meurt chaque année et Tenait au printemps suivant, toute renouvelée dans sa sève et ses verdures, toute agrandie après le repos fécond de l’hiver.
 
 f) Des ouvrages ont cent ans d'existence et par des éditions successives sont constamment rajeunis à travers les années. Ainsi le n Stieler Atlas » édité par Julius Pertes (lrw édition en 1823). De même « L'Atlas Vidal Lahlache » est constamment tenu à jour, s’améliorant et se complétant. Il est des livres qui se publient en édition» annuelles. Ex. : Les « Leitfaden für den Unterricht der Géographie ».
 
@@ -8563,7 +8563,7 @@ g) Un roman avant d’être publié en livre paraît aujourd'hui dans une revue 
 n) L'exemplaire est une œuvre complète, faisant abstraction du nombre de pages et aussi des volumes et tomes
 qu'elle comprend. C'est l’unité faisant partie du tirage multipliée d’une œuvre, d’une grande œuvre. Une bibliothèque, par exemole, peut posséder trois exemplaires d’une même œuvre, l'un en un volume, l'autre en deux, le troisième en quatre.
 
-b) Les exemplaires d’une œuvre, surtout d’une œuvre ancienne, peuvent différer entr’eux par leur état de complétude et de conservation, les notes manuscrites ou annexes. Ces modalités ajoutent à fa valeur de f’ouvrage et jouent un grand rôle en Bibliophilie. D’autre part, les exemplaires sont dans des lien» de propriété avec leurs possesseurs et en portent souvent la marque sous forme d’inscription, d'ex-libris ou d’armoiries sur la reliure.
+b) Les exemplaires d’une œuvre, surtout d’une œuvre ancienne, peuvent différer entr’eux par leur état de complétude et de conservation, les notes manuscrites ou annexes. Ces modalités ajoutent à fa valeur de f’ouvrage et jouent un grand rôle en Bibliophilie. D’autre part, les exemplaires sont dans des liens de propriété avec leurs possesseurs et en portent souvent la marque sous forme d’inscription, d'ex-libris ou d’armoiries sur la reliure.
 
 241.83 Traductions.
 """"""""""""""""""""
@@ -8589,7 +8589,7 @@ Par la tranimiuion. par la reproduction de« œuvres particulières de chaque pe
 
 2. Historique.
 
-On a traduit de tout temps, surtout aux époques passées, alors que l’étude des langues était moins poussée. Ptolé-mée Pbifadefphc fit traduire en grec pour les propos de la Bibliothèque alexandrine un nombre apparemment immense d ouvrages apporté«, dit-on, de tous les pays du monde. Il faut faire une mention spéciale aux traducteurs juifs, qui ont joue un rôle important, mais obscur, comme intermédiaires intellectuels pendant tout le moyen âge. Certains ont traduit en arabe des ouvrages grecs, ou en hébreu des ouvrages arabes et syriaques qui eux-mêmes reproduisaient souvent les originaux grecs, les versions hébraïques ont été ensuite traduites a leur tour en latin, et c'est par cette voie qu'une partie des ouvrages d'Aristote. d’Avicenne. d'Averroès, plusieurs auteurs techniques de l’antiquité paraissent être parvenus à la connaissance de l’Europe occidentale. Sous la dynastie des Han, en Chine, les livres boudhiques apportés de l’Inde sont officiellement traduits. Avec les dernières éditions, la Bible est traduite maintenant en 886 langues ou dialecte«,
+On a traduit de tout temps, surtout aux époques passées, alors que l’étude des langues était moins poussée. Ptolé-mée Pbifadefphc fit traduire en grec pour les propos de la Bibliothèque alexandrine un nombre apparemment immense d'ouvrages apportés, dit-on, de tous les pays du monde. Il faut faire une mention spéciale aux traducteurs juifs, qui ont joue un rôle important, mais obscur, comme intermédiaires intellectuels pendant tout le moyen âge. Certains ont traduit en arabe des ouvrages grecs, ou en hébreu des ouvrages arabes et syriaques qui eux-mêmes reproduisaient souvent les originaux grecs, les versions hébraïques ont été ensuite traduites a leur tour en latin, et c'est par cette voie qu'une partie des ouvrages d'Aristote. d’Avicenne. d'Averroès, plusieurs auteurs techniques de l’antiquité paraissent être parvenus à la connaissance de l’Europe occidentale. Sous la dynastie des Han, en Chine, les livres boudhiques apportés de l’Inde sont officiellement traduits. Avec les dernières éditions, la Bible est traduite maintenant en 886 langues ou dialectes,
 
 3. Traductions caractéristiques.
 
@@ -8599,7 +8599,7 @@ Le« Editions Montaigne (Paris) publient la collection « Les chefs-d’œuvre d
 
 4 Disposition» typographiques de la traduction.
 
-On a donné divers dispositifs aux traductions. Traduction juxtalinéaire, éventuellement en deux couleurs, t raduction en note, au pied des pages. Publication en double texte placé en regard. (I) Traduction en publication séparée (partie du maître, partie de« élèves, ou partie des devoirs corrigés).
+On a donné divers dispositifs aux traductions. Traduction juxtalinéaire, éventuellement en deux couleurs, traduction en note, au pied des pages. Publication en double texte placé en regard. (I) Traduction en publication séparée (partie du maître, partie de« élèves, ou partie des devoirs corrigés).
 (I) Voir par exemple « Formation de la Houille ». par le Prof, Potomé, traduit par le R. P. Gaspa rScbmitz S.J.
 5. Difficultés de la Traduction.
 
@@ -8660,7 +8660,7 @@ On peut faire acte de grande initiative en traduisant des ouvrages d’avant-gar
 
 Dans l’ensemble quelle est la proportion de la pensée écrite, traduite dans les diverses langues. Des coefficients pour en juger seraient intéressants à établir suivant la formule Aa Ab i Ac i Ad... ifc Az.
 
-Le nombre de traductions va en augmentant, mais augmente aussi le nombre des œuvres originales. En réalité, on constate : I" Que tout n’est pas traduit. On ne traduit pas toutes les œuvres, ni tous les auteurs. Pour être traduit un ouvrage doit avoir une grande notoriété. 2° On traduit avec retard. 3° On traduit incomplètement (En général seulement l’ouvrage principal de l’auteur.) 4e’ On traduit plus ou moins exactement. 5° Les traductions en restent généralement à une ou deux édition* rapidement rendues surannées par la parution successive de trois ou quatre éditions refondues de l'original.
+Le nombre de traductions va en augmentant, mais augmente aussi le nombre des œuvres originales. En réalité, on constate : 1" Que tout n’est pas traduit. On ne traduit pas toutes les œuvres, ni tous les auteurs. Pour être traduit un ouvrage doit avoir une grande notoriété. 2° On traduit avec retard. 3° On traduit incomplètement (En général seulement l’ouvrage principal de l’auteur.) 4e’ On traduit plus ou moins exactement. 5° Les traductions en restent généralement à une ou deux édition* rapidement rendues surannées par la parution successive de trois ou quatre éditions refondues de l'original.
 
 8. Applications de la traduction.
 
@@ -8677,7 +8677,7 @@ L'œuvre de traduction peut-elle être abandonnée à elle-même et à l'initiat
 
 241  DOCUMENTS BIBLIOGRAPHIQUES  *181*
 
-2 L'Index translationum, Répertoire international des Traductions est publié par llnstiiut International de Coopération intellectuelle. Il donne trimestriellement la liste des traductions paraissant dans les principaux pays et tirées des bibliographies nationales. Pour commencer, il a annoncé les traductions paraissant en Allemagne, Espagne. Etats-Unis, France, Grande-Bretagne et Italie. (Le n° 1. juillet 1931, par ex., comprend 915 titres.)
+2 L'Index translationum, Répertoire international des Traductions est publié par l'Institut International de Coopération intellectuelle. Il donne trimestriellement la liste des traductions paraissant dans les principaux pays et tirées des bibliographies nationales. Pour commencer, il a annoncé les traductions paraissant en Allemagne, Espagne. Etats-Unis, France, Grande-Bretagne et Italie. (Le n° 1. juillet 1931, par ex., comprend 915 titres.)
 
 3'1 Sur le rapport de M. Ciarlautini concernant les traductions. le Bureau permanent du Congrès international des Editeurs est chargé d'une étude tendant à constituer un organisme international de renseignements relatifs aux
 
@@ -8710,9 +8710,9 @@ rassemblent parfois dans un ordre logique et coordonné les meilleures pages éc
 241.85 Arrangement. Transcription.
 """""""""""""""""""""""""""""""""""
 
-a) II s agit ici non de copie (reproduction), mais de transformation apportée au texte original pour quelque fin utile. Deux fins en particuliers : 1° Adapter un texte à une catégorie de lecteurs. La traduction en une autre langue en est le cas typique. Les a éditions à l’usage de » en sont un autre. On y remplace les mots difficiles par d'autres plus simples, ou l'on multiplie les notes explicatives. Ainsi pour les éditions scolaires (ex. l'Epitomsée. histoire sainte en latin tirée de la Bible, par Lhomond), aussi pour les œuvres de vulgarisation (ex. les ouvrages de Nicolas Koubakine). 2° Disposer les éléments d'un texte dans un ordre différent plis directement utilisable. Ce cas «e distingue du résumé et de l’extrait, auquel généralement il participe, par ce caractère d’ordre interverti«. Par ex. pour la mécanisation des opérations administra tives et comptables des données d’une entreprise. Les données des documenta originaux (conventions, lettre, procès verbaux) sont retrannerites. La paraphrase d’une lettre-convention. par ex., est la reproduction de l’original avec seulement modification ou interversion de certains mots.
+a) II s agit ici non de copie (reproduction), mais de transformation apportée au texte original pour quelque fin utile. Deux fins en particuliers : 1° Adapter un texte à une catégorie de lecteurs. La traduction en une autre langue en est le cas typique. Les a éditions à l’usage de » en sont un autre. On y remplace les mots difficiles par d'autres plus simples, ou l'on multiplie les notes explicatives. Ainsi pour les éditions scolaires (ex. l'Epitomsée. histoire sainte en latin tirée de la Bible, par Lhomond), aussi pour les œuvres de vulgarisation (ex. les ouvrages de Nicolas Koubakine). 2° Disposer les éléments d'un texte dans un ordre différent plis directement utilisable. Ce cas se distingue du résumé et de l’extrait, auquel généralement il participe, par ce caractère d’ordre interverti«. Par ex. pour la mécanisation des opérations administra tives et comptables des données d’une entreprise. Les données des documenta originaux (conventions, lettre, procès verbaux) sont retrannerites. La paraphrase d’une lettre-convention. par ex., est la reproduction de l’original avec seulement modification ou interversion de certains mots.
 
-b) Version. — Les éditions de l'œuvre d’un auteur préparées à son intervention constituent largement une histoire des modifications de sa pensée ou des conditions nouvelles dans lesquelles a pu s'exercer son travail. 2. Un auteur peut à ce point avoir transformé sa propre œuvre, qu’il s'agit moins d’édition que de version nouvelle. Montherlant a réclamé le droit pour un auteur et jusqu'à 1 âge du pied dans la tombe, de revoir et de corriger ses ouvrages ». Un écrivain, dit François de Roux, doit être libre d'améliorer et même d’abîmer une œuvre de lui. Les différentes versions d’un ouvrage de premier ordre ne se perdent jamais et chacun, tan* que l'auteur est en vie, peut toujours choisir celle qu’il préfère.
+b) Version. — Les éditions de l'œuvre d’un auteur préparées à son intervention constituent largement une histoire des modifications de sa pensée ou des conditions nouvelles dans lesquelles a pu s'exercer son travail. 2. Un auteur peut à ce point avoir transformé sa propre œuvre, qu’il s'agit moins d’édition que de version nouvelle. Montherlant a réclamé le droit pour un auteur et jusqu'à l'âge du pied dans la tombe, de revoir et de corriger ses ouvrages ». Un écrivain, dit François de Roux, doit être libre d'améliorer et même d’abîmer une œuvre de lui. Les différentes versions d’un ouvrage de premier ordre ne se perdent jamais et chacun, tant que l'auteur est en vie, peut toujours choisir celle qu’il préfère.
 
 c) Les livres capitaux, les livres saints ont fini par subir une rédaction « historique ». Les transcriptions, les omissions, les adjonctions et les traductions ont pu être de nature à exercer sur la forme originale d'expression une influence dissolvante.
 
@@ -8724,7 +8724,7 @@ d) I .'adaptation de l’œuvre peut se faire à l’une des formes littéraire,
 
 *182*  LE LIVRE ET LE DOCUMENT  241
 
-lire une pièce d’un roman, on fait un roman d une pièce, et aussi un scénario de cinéma. Ex. : Sapho de Daudet.
+lire une pièce d’un roman, on fait un roman d'une pièce, et aussi un scénario de cinéma. Ex. : Sapho de Daudet.
 
 e) Dans les livres classiques élémentaires, on trouve le volume du maître en contre-partie à celui de l’élève. C’est un réarrangement de la même matière.
 
@@ -8787,7 +8787,7 @@ Les supercheries littéraires étaient très familières aux écrivains du XVIe 
 
 d) Citation. — En science les vérités s'accumulent et en leur qualité des vérités deviennent des « lieux communs«. Impossible d avancer un exposé si chaque phrase doit être rapportée à son auteur d'origine. La littérature ayant comme caractère propre la création, l'emprunt est sévèrement jugé. En Histoire, en Philologie, les citations sont de stricte obligation car ce sont des sciences de témoignages ou de texte. La citation a aussi pour but de renvoyer à des sources où peuvent être trouves des développements étendus.
 
-La citation peut se faire soit en termes exprès, soit en résumant I idée, soit en signalant à titre d'information qu’on *e trouvera bien de consulter aussi tel ouvrage, ho il en indiquant de la Bibliographie du sujet.
+La citation peut se faire soit en termes exprès, soit en résumant l'idée, soit en signalant à titre d'information qu’on se trouvera bien de consulter aussi tel ouvrage, ho il en indiquant de la Bibliographie du sujet.
 
 5. Méconnaissance du plagiat.
 
@@ -8798,9 +8798,9 @@ des écrits (passages) d'auteurs dont les ouvrages avaient disparu, par ex. au m
 241.87 Œuvres complètes.
 """""""""""""""""""""""""
 
-Une œuvre peut prendre place dans la collection des œuvres complètes de l’auteur, ou dans d'autres collections constituées sur des bases diverse*.
+Une œuvre peut prendre place dans la collection des œuvres complètes de l’auteur, ou dans d'autres collections constituées sur des bases diverses.
 
-De certains ouvrages il est fait ce qu'on appelle les « grandes éditions ». Ainsi la Ditta G. Barbera à Florence réimprime T édition nationale des œuvres de Galilée. (Le opéré de Galileo Galilei.) Elle comprendra 21 volumes in 4". 11,500 pages ornées d'un grand nombre de dessins, de fac-similé» et d’autographes, notamment les notes autographes d'Antonio Favoro éditeur de l'édition antérieure. On publiera trois volumes par an. Prix 4*500 lires. L'édition sera sur papier à la main en cnrncières Bodoriani.
+De certains ouvrages il est fait ce qu'on appelle les « grandes éditions ». Ainsi la Ditta G. Barbera à Florence réimprime l'édition nationale des œuvres de Galilée. (Le opéré de Galileo Galilei.) Elle comprendra 21 volumes in 4". 11,500 pages ornées d'un grand nombre de dessins, de fac-similé» et d’autographes, notamment les notes autographes d'Antonio Favoro éditeur de l'édition antérieure. On publiera trois volumes par an. Prix 4*500 lires. L'édition sera sur papier à la main en cnrncières Bodoriani.
 
 241.88 Continuité des œuvres.
 """"""""""""""""""""""""""""""
@@ -8825,7 +8825,7 @@ La science des manuscrits, connaissance des manuscrits, de leur authenticité, d
 242.12 Historique.
 """""""""""""""""""
 
-Les plus anciens manuscrits connus ont été trouvés dans les tombeaux égyptiens; ils sont tous sur papyrus et au moins contemporains de Moïse, Les plus anciens manuscrits grecs et romains sont également sur papyrus. Ils ont été découverts sous la forme de rouleaux carbonisés dans les ruines d Hcrculanum.
+Les plus anciens manuscrits connus ont été trouvés dans les tombeaux égyptiens; ils sont tous sur papyrus et au moins contemporains de Moïse, Les plus anciens manuscrits grecs et romains sont également sur papyrus. Ils ont été découverts sous la forme de rouleaux carbonisés dans les ruines d'Herculanum.
 
 Les manuscrits les plus anciens et par conséquent les plus précieux, sont écrits sur parchemin ou sur papyrus. A part quelques papyrus égyptiens, aucun manuscrit ne remonte au delà du IIe siècle de notre ère. Les manuscrits sur papier de chiffe ne sont pas antérieurs au XIIIe siècle. Tantôt les manuscrits sont disposés en rouleaux, d'où le nom de volume; tantôt ils forment des feuillets distincts et reliés (codiccs). Pendant le moyen âge, les moines montrèrent beaucoup de zèle pour multiplier les livres par de bonnes copies et les conserver à la postérité; leur» manuscrits, et en particulier les missels, offrent des enluminures très riches et des lettres ornées avec beaucoup d'art.
 ( ??? ) Quérnrd. — Les supercheries littéraires.
@@ -8863,7 +8863,7 @@ A. Confusion et tentative pour y remédier. (1) Confusion de lettres et syllabes
 
 Les manuscrits sont conservés dans les bibliothèques. Ils y donnent lieu à des fonds spéciaux, éventuellement à des sections, départements ou cabinets. Ces fonds y représentent des valeurs intellectuelles et économiques considérables.
 
-Parmi les bibliothèques les plus riches en manuscrits, il faut citer la Bibliothèque du Vatican, la Bibliothèque Nationale à Pari», celle du British Muséum à Londres. La Bibliothèque Royale à Bruxelles est aussi fort riche, procédant de l'ancienne bibliothèque des Ducs de Bourgogne. Les Bibliothèques américaines ont acquis beaucoup de manuscrits, rendant tributaires d’elles les travailleurs européens.
+Parmi les bibliothèques les plus riches en manuscrits, il faut citer la Bibliothèque du Vatican, la Bibliothèque Nationale à Paris, celle du British Muséum à Londres. La Bibliothèque Royale à Bruxelles est aussi fort riche, procédant de l'ancienne bibliothèque des Ducs de Bourgogne. Les Bibliothèques américaines ont acquis beaucoup de manuscrits, rendant tributaires d’elles les travailleurs européens.
 
 242.16 Catalogue de manuscrits.
 """"""""""""""""""""""""""""""""
@@ -8888,15 +8888,15 @@ On a imprimé le Catalogue général des Manuscrits des Bibliothèques de France
 
 Les travaux auxquels donnent lieu les manuscrits sont :
 
-I ' Les reproductions ; 2° les éditions ; 3° les études.
+1° Les reproductions ; 2° les éditions ; 3° les études.
 
-I" Reproduction de manuscrits. — Elles sont ou typographiques ou photographiques : diverses copies peuvent exister d’une même œuvre, déposées dans diverses collections. Les copies n’ont pas toutes une valeur. Il existe souvent des fragments outre les œuvres complètes.
+1" Reproduction de manuscrits. — Elles sont ou typographiques ou photographiques : diverses copies peuvent exister d’une même œuvre, déposées dans diverses collections. Les copies n’ont pas toutes une valeur. Il existe souvent des fragments outre les œuvres complètes.
 
-Il importe d’arriver à la reproduction intégrale du document. Toute impression procure des exemplaires qui sont des copies exactes de l’original. Il n’en était pas ainsi pour les manuscrits. Par l’invention de la xylographie et de I imprimerie, cette copie est devenue de plus en plus mécanique et automatique. La photographie donne maintenant une copie exacte qui n’a pas besoin d’être relue et corrigée comme la copie manuscrite ou typographique. Pour que nul n’ignore qu’il s’agit de copie, on en fait mention, d’où une première différence avec l’original. Les foutes ou erreurs involontaires sont d’autres différences. Seule la reproduction fidèle de ces manuscrits par les procédés photomécaniques les plus perfectionnés peut préserver les manuscrits d’une ruine complète, en même temps qu’elle présente l’immense avantage de les mettre à lu portée de tous les travailleurs sous l’aspect même des originaux. (I) La reproduction des manuscrits est opérée tantôt par extrait, tantôt intégralement.
+Il importe d’arriver à la reproduction intégrale du document. Toute impression procure des exemplaires qui sont des copies exactes de l’original. Il n’en était pas ainsi pour les manuscrits. Par l’invention de la xylographie et de l'imprimerie, cette copie est devenue de plus en plus mécanique et automatique. La photographie donne maintenant une copie exacte qui n’a pas besoin d’être relue et corrigée comme la copie manuscrite ou typographique. Pour que nul n’ignore qu’il s’agit de copie, on en fait mention, d’où une première différence avec l’original. Les foutes ou erreurs involontaires sont d’autres différences. Seule la reproduction fidèle de ces manuscrits par les procédés photomécaniques les plus perfectionnés peut préserver les manuscrits d’une ruine complète, en même temps qu’elle présente l’immense avantage de les mettre à lu portée de tous les travailleurs sous l’aspect même des originaux. (I) La reproduction des manuscrits est opérée tantôt par extrait, tantôt intégralement.
 
 De remarquables reproductions en couleurs ont été réalisées (notamment celle du Bréviaire Grimaldi).
 
-2" Edition des manuscrits. — Les éditions de manuscrits donnent lieu à un travail considérable. Les œuvres anciennes sont conservées par diverses copies manuscrites, entières ou fragmentaires. Dans l’édition, Ils’agit de faire choix entre les meilleures versions des diverses copies.
+2" Edition des manuscrits. — Les éditions de manuscrits donnent lieu à un travail considérable. Les œuvres anciennes sont conservées par diverses copies manuscrites, entières ou fragmentaires. Dans l’édition, Il s’agit de faire choix entre les meilleures versions des diverses copies.
 
 Les manuscrits édités constituent un texte critique plus ou moins conjectural basé sur la comparaison (collation) de tous les manuscrit* (MSS) existants d’une œuvre donnée.
 
@@ -8916,7 +8916,7 @@ f) présenter une analyse de l’œuvre et de son objet;
 
 g) présenter en planches hors texte un fac-similé; reconstituer un tableau des armoiries ;
 
-h) présenter les variantes, les discuter, adopter l'une d’entr’elles (leçons). Par la comparaison de manuscrits, compléter le texte de l’un par le texte de l'autre en tenant compte de la valeur des copistes-scribes, de leur manière de procéder (scribes peu soigneux mais respectueux d*i texte transcrit, scribes attentifs à combler les lacunes mais introduisant des mots de leur invention).
+h) présenter les variantes, les discuter, adopter l'une d’entr’elles (leçons). Par la comparaison de manuscrits, compléter le texte de l’un par le texte de l'autre en tenant compte de la valeur des copistes-scribes, de leur manière de procéder (scribes peu soigneux mais respectueux du texte transcrit, scribes attentifs à combler les lacunes mais introduisant des mots de leur invention).
 
 i) Discuter les données qu'apportent les miniatures pour l’élucidation du texte. Parfois les miniatures sont supérieures en exactitude au texte et émanent d artistes mieux informés que les auteurs eux-mêmes, eventuellement de collaborateurs ;
 
@@ -8951,18 +8951,18 @@ On a découvert des buttes entières de papyrus, sorte de débarras de documents
 
 La « Papyrologie » est la science qui a pour objet de déchiffrer les manuscrits sur papyrus.
 
-Cette branche de la paléographie a pris une importance considérable au cours de ces dernières années ; en très peu de temps, les documents qu’elle nous a révélés ont permis d’élucider une foule de points obscurs ou mal connus dans 1*histoire politique et littéraire de la Grèce. C'est presque exclusivement aux découvertes faites en Egypte que nous sommes redevables de ces résultats, non seulement parce qu'après la décadence de la Grèce propre le royaume des Ptolémées devint le foyer de la vie et de la pensée helléniques, mais parce que l'usage du papyrus y était plus courant que dans les autres pays, et aussi en raison des conditions climatériques et des coutumes funéraires qui favorisaient la conservation des objets les plus délicats.
+Cette branche de la paléographie a pris une importance considérable au cours de ces dernières années ; en très peu de temps, les documents qu’elle nous a révélés ont permis d’élucider une foule de points obscurs ou mal connus dans l'histoire politique et littéraire de la Grèce. C'est presque exclusivement aux découvertes faites en Egypte que nous sommes redevables de ces résultats, non seulement parce qu'après la décadence de la Grèce propre le royaume des Ptolémées devint le foyer de la vie et de la pensée helléniques, mais parce que l'usage du papyrus y était plus courant que dans les autres pays, et aussi en raison des conditions climatériques et des coutumes funéraires qui favorisaient la conservation des objets les plus délicats.
 
 La tâche est délicate : le déchiffrement et la reconstitu-lion de ces manuscrits. Ces documents nous sont parvenus eu effet, le plus souvent en fort mauvais état ; trouvés les uns au milieu des ruines — quelquefois dans des jarres où on avait l'habitude de les serrer, mais trop fréquemment dans les décombres ou les anciens tas d’ordures, les autres dans les sarcophages, où ils avaient servi au cartonnage des momies, ils sont parfois brisés, souvent à moitié effacés par l'humidité, presque toujours déchirés. Pour arriver à dérouler et à étaler sans les émietter ces feuilles séculaires, le papyrologue doit être doublé d'un chimiste et d'un manipulateur adroit, qui sache procéder à ce travail minutieux avec autant de dextérité que de patience; il faut savoir aussi assouplir le manuscrit sans en altérer les caractères, ranger dans l’ordre voulu les divers feuillets d’un même rouleau ou les fragments d un même feuillet, etc. Puis vient la lecture proprement dite, qui n’est généralement pas des plus aisées: certains papyrus, surtout les « papiers d'affaires », sont tracés d’une écriture courante, dont les caractères ne se distinguent pas sans peine, où les mots ne sont pas séparés, où manquent un grand nombre de signes d'orthographe et de ponctuation, où abondent les corrections confuses et les abréviations conventionnelles ; pour s'y reconnaître, il faut à la fois un coup d’œil perspicace et des connaissances très spéciale». Ces difficultés sont plus sensibles pour les papyrologues que pour les autres paléographes ; car la plupart des papyrus contiennent. soit des actes rédigés d'ordinaire sans grand soin matériel, soit des copies hâtives d’œuvres classiques,
 sortes d' « édition à bon marché », où les inadvertances sont fréquentes, et qui ne sont pas non plus calligraphiés comme les parchemins du moyen âge. œuvre de patience et d art, auxquelles les moines consacraient les nombreux loisirs de leur existence oisive.
 
-En présence de ces documents détériorés, confus, incomplets, Ja critique des textes s'est imposée comme première tâche aux paléographes et aux philologues qui avaient entrepris de les éditer ou de les commenter. Si en France, en Allemagne, en Italie, ailleurs, ont été faites de nombreuses publications, c'est surtout à l'école anglaise que l'on est redevable, semble-t-il, des plus importants travaux, dans cet ordre d’idée».
+En présence de ces documents détériorés, confus, incomplets, la critique des textes s'est imposée comme première tâche aux paléographes et aux philologues qui avaient entrepris de les éditer ou de les commenter. Si en France, en Allemagne, en Italie, ailleurs, ont été faites de nombreuses publications, c'est surtout à l'école anglaise que l'on est redevable, semble-t-il, des plus importants travaux, dans cet ordre d’idée».
 
-Les documents d’origine papyrographique se répartissent en deux groupes distincts : les papyrus littéraires et les papyrus non littéraires. Les premiers sont de beaucoup les moins nombreux: dan» le loi le plus important, celui d’Oxyrhynchos, ils forment tout au plus un sixième du total. Il» consistent, avons-nous dit, en copies généralement assez médiocres des ouvrages en prose ou en vers de läge classique; malgré leur» défauts, l’intérêt en e»t considérable D’abord ces papyrus, dont la majeure partie date des trois derniers siècles avant notre ère, »ont de beaucoup antérieurs aux plus anciens manuscrit» que nous possédions déjà ; ils dénoncent ainsi bien des altérations qui se sont produites dan» les textes sous la main des scribes du moyen âge. Puis, il» nous font connaître des parties nouvelles de certaines œuvres qui nous étaient parvenues très mutilées ; des morceaux plus ou moins étendus de poésie épique, lyrique ou dramatique, des passages parfois assez longs d'historiens, d’orateurs, de philosophes, de théologiens sont venus s’ajouter de cette façon, aux fragments que l'antiquité nous avait transmis.
+Les documents d’origine papyrographique se répartissent en deux groupes distincts : les papyrus littéraires et les papyrus non littéraires. Les premiers sont de beaucoup les moins nombreux: dan» le loi le plus important, celui d’Oxyrhynchos, ils forment tout au plus un sixième du total. Il» consistent, avons-nous dit, en copies généralement assez médiocres des ouvrages en prose ou en vers de läge classique; malgré leurs défauts, l’intérêt en e»t considérable D’abord ces papyrus, dont la majeure partie date des trois derniers siècles avant notre ère, »ont de beaucoup antérieurs aux plus anciens manuscrit» que nous possédions déjà ; ils dénoncent ainsi bien des altérations qui se sont produites dans les textes sous la main des scribes du moyen âge. Puis, ils nous font connaître des parties nouvelles de certaines œuvres qui nous étaient parvenues très mutilées ; des morceaux plus ou moins étendus de poésie épique, lyrique ou dramatique, des passages parfois assez longs d'historiens, d’orateurs, de philosophes, de théologiens sont venus s’ajouter de cette façon, aux fragments que l'antiquité nous avait transmis.
 
 Enfin et surtout, plusieurs ouvrages entièrement perdus, et dont nous ne savions guère que le nom. nous ont été restitués par quelque « coup de pioche heureux » ou par une trouvaille... chez un brocanteur indigène.
 
-Les papyrus non littéraires, dont on connaît déjà plusieurs milliers, comprennent des actes privés ou publics des genres les plus divers; baux, procès-verbaux, ventes, prêts, devis, mémoire», reçus, pétitions ou requêtes. Ici'res d’affaires, dépositions de plaignants et de témoins, rapports de police, résultats d’enquêtes judiciaires, etc. Ces documents, dont les plus importants et les plus nombreux datent de l’époque romaine, sont d’un intérêt capital pour l’étude des institutions publiques et des relations privées sous la domination impériale; comme le gouvernement centrai laissait aux provinces une certaine autonomie dans l’administration des affaires purement locales, c'est encore d'une civilisation hellénique que ces écrit» sont les produits et les témoignages concret». Les renseignements que ces papyrus nous fournissent »ont assez précis pour avoir permis à plusieurs historiens de trancher des questions jusqu'alors très confuses et de
+Les papyrus non littéraires, dont on connaît déjà plusieurs milliers, comprennent des actes privés ou publics des genres les plus divers; baux, procès-verbaux, ventes, prêts, devis, mémoires, reçus, pétitions ou requêtes. Ici'res d’affaires, dépositions de plaignants et de témoins, rapports de police, résultats d’enquêtes judiciaires, etc. Ces documents, dont les plus importants et les plus nombreux datent de l’époque romaine, sont d’un intérêt capital pour l’étude des institutions publiques et des relations privées sous la domination impériale; comme le gouvernement centrai laissait aux provinces une certaine autonomie dans l’administration des affaires purement locales, c'est encore d'une civilisation hellénique que ces écrits sont les produits et les témoignages concrets. Les renseignements que ces papyrus nous fournissent »ont assez précis pour avoir permis à plusieurs historiens de trancher des questions jusqu'alors très confuses et de
 
 ====
 
@@ -8985,7 +8985,7 @@ c) Depuis quelque temps on étudie attentivement les manuscrits des grands auteu
 
 a) On comprend, sous ce nom, des livres toujours Sort recherchés qui remontent aux origines de l’imprimerie et parurent avant 1500, 1512 ou 1520. On distingue les incunables xylographiques, obtenus au moyen de planches et les incunables typographiques, composés en caractères mobiles. Les premiers sont les plus anciens, mais de date incertaine; quelques-uns cependant paraissent remonter au delà de 1440.
 
-b) Le nombre total des livres du XVe siècle est étonnamment grand. Le Hcpertorium Btbltographtcum de Haim en a enregistré 16,300. Le Gesamtkotalog der IVicgendruk. édité par la Commission prussienne (1925) y n ajouté un tel complément qu on peut s attendre un jour à 30.000.
+b) Le nombre total des livres du XVe siècle est étonnamment grand. Le Repertorium Bibliographicum de Haim en a enregistré 16,300. Le Gesamtkotalog der IVicgendruk. édité par la Commission prussienne (1925) y n'ajouté un tel complément qu'on peut s'attendre un jour à 30.000.
 
 c) En Bibliographie et dans les Bibliothèques, on traite généralement les Incunables comme une classe spéciale d’ouvrages à cause de leur valeur et parce qu’ils font la transition entre la période des manuscrits et celle des impressions du XVIe siècle. Cependant à fa fin du XVe siècle, le livre moderne était établi en ses dispositions essentielles. Les caractères du type de Jenson et d’Alde lui donnent aussi un haut degré de lisibilité. (I)
 
@@ -9012,7 +9012,7 @@ e) Reconstitution par l'image des choses.
 
 La carte permet aussi la reconstitution de choses par l'image. Ainsi, on peut dresser un véritable atlas physique de tous les aspects géographiques d’un même lieu do la terre aux diverses époques de l'évolution géologique.
 
-En traçant ainsi une série de cartes géographiques pour lcd périodes successives de 1 histoire terrestre, on voit comme dans un kaléidoscope mouvant, les mers changer à chaque instant de forme et de place, les continents émerger un instunt, puis s'enfoncer sous les eaux. Il semble qu'à tracer tes transformations, on pourrait apercevoir certains traits relativement constants et un rythme, une période dans la inarche de ces flux et de ces reflux. Peut-être de les dater par rapprochement avec des influences astronomiques à phases connues. (1) De Launay: Histoire de la Terre, p, 82-83.
+En traçant ainsi une série de cartes géographiques pour lcd périodes successives de l'histoire terrestre, on voit comme dans un kaléidoscope mouvant, les mers changer à chaque instant de forme et de place, les continents émerger un instunt, puis s'enfoncer sous les eaux. Il semble qu'à tracer tes transformations, on pourrait apercevoir certains traits relativement constants et un rythme, une période dans la inarche de ces flux et de ces reflux. Peut-être de les dater par rapprochement avec des influences astronomiques à phases connues. (1) De Launay: Histoire de la Terre, p, 82-83.
 (I) Phillips, - List of Works relating to cartography, Washington, 1901. — Warne. F. I. - 1919. Cartography in lien lessons. In-vol. XlV-159 p. Washington. Illustrations. — De Marchi, L. (Padova). - La reppresentazione della Superficia terrestre. Scientia, 1919. —- Fordham. - Maps, their history Characteristics and uses. — U. S. Library of Congress, Division of Maps: List of Geographical Atlases. Washington, 1919-20. 4 vol. by P. L. Phillips. List cf Geographical Atlases. Jeorg W. L. G. Post War Atlases. In Geog rev. 13 (1923), p. 582-98.
 
 
@@ -9024,7 +9024,7 @@ La carte est un moyen de marquer le connu et l’inconnu. E*. : La comparaison d
 
 f) Pour l'enfant amoureux de cartes et d'estampes. l'Univers est égal à son vaste appétit. Comme le monde est grand à la clarté des lampes ; aux yeux du souvenir que le monde est petit. (Baudelaire.)
 
-g) Les cartes et plans ont deux caractéristiques essentielles: I" être la représentation de l'espace (superficie
+g) Les cartes et plans ont deux caractéristiques essentielles: 1" être la représentation de l'espace (superficie
 
 ou trois dimensions) et par là être une espèce du genre qui s'étend à tous les exposés à base du lieu (voir n" 224) ; 2“ être cette représentation de Lespace sous forme conventionnelle et abstraite et par là être ainsi une espèce du genre qui s'étend à toutes les images schématiques (voir nu 222.32). Le fait pour une carte ou un plan d'avoir une existence autonome ou de faire partie d'un autre document est secondaire, bien qu'il s'en suive certains effets documentaires,
 
@@ -9141,11 +9141,11 @@ On a fait des cartes peintes murales fixes (par ex. les grandes cartes du Musée
 
 Les cartes de voyage se sont multipliées. Pour la France, par ex., cartes Michelin: cartes de France au 1/200.000“ en 86 feuilles cartonnées ou entoilées; cartes Tour Je France en 25 coupures. Cartes du service géographique de l’armée, telle la carte au 1/80,000“ en 274 feuilles révisées périodiquement par les officiers du service géographique. Elles sont en coupures en pochettes, elles ont des cartes d’assemblage.
 
-On a publié des cartes-plan qui développent une sorte de panorama en images et suivant une échelle établie, de tout ce que l’on voit des deux côté* d’une route suivie. (Ed. J. Burrow et C°: A motor Tour through the Cathédral Cities in the South.)
+On a publié des cartes-plan qui développent une sorte de panorama en images et suivant une échelle établie, de tout ce que l’on voit des deux côtés d’une route suivie. (Ed. J. Burrow et C°: A motor Tour through the Cathédral Cities in the South.)
 
 Les cartes cyclistes avec les profils en long du chemin parcouru.
 
-Parlant des cartes de M. Maurice Lugeon sur la région des Hautes Alpes. M. Millioud dit : « DessinAes d’après des photographies obtenues à l'aide d*un procédé spécial, elles sont d'un relief, d'une précision et pourtant d’une simplicité a nous rendre rêveurs. C’est encore et plus que jamais de la science, mais c'est plus, c'est du grand art. Comment ces vues schématiques, avec leur coloration si riche et si délicate, mais toute conventionnelle, peuvent-
+Parlant des cartes de M. Maurice Lugeon sur la région des Hautes Alpes. M. Millioud dit : « DessinAes d’après des photographies obtenues à l'aide d'un procédé spécial, elles sont d'un relief, d'une précision et pourtant d’une simplicité a nous rendre rêveurs. C’est encore et plus que jamais de la science, mais c'est plus, c'est du grand art. Comment ces vues schématiques, avec leur coloration si riche et si délicate, mais toute conventionnelle, peuvent-
 
 
 ====
@@ -9164,7 +9164,7 @@ La carte marine est une représentation schématique de la mer et du littoral en
 
 Le relevé des cartes sous-marines par le projecteur d'ultra-son remplace les sondages. Il est autrement sûr, rapide et économique. On dirige le projecteur d'après le retour en écho de l'onde envoyée.
 
-4. Cartes aériennes. — Elles constituent un nouveau type de carte. Elles doivent servir à la navigation aérienne. Ces cartes constituent en même temps une contribution à la cartographie générale à laquelle elles apportent la contribution d'une vision de la surface terrestre prise de haut et * à vol d'oiseau ». Elles ressuscitent ainsi l'ancien procédé des vues cavalières. Aux procédés de la prise d’avion s'est ajouté celui en bnllon sphérique ou cerf-volant offrant des vues perpendiculaires. Ex. : Carte aéronautique de la France. Projection cylindrique. (Desmons. Paris, Challamel.)
+4. Cartes aériennes. — Elles constituent un nouveau type de carte. Elles doivent servir à la navigation aérienne. Ces cartes constituent en même temps une contribution à la cartographie générale à laquelle elles apportent la contribution d'une vision de la surface terrestre prise de haut et « à vol d'oiseau ». Elles ressuscitent ainsi l'ancien procédé des vues cavalières. Aux procédés de la prise d’avion s'est ajouté celui en bnllon sphérique ou cerf-volant offrant des vues perpendiculaires. Ex. : Carte aéronautique de la France. Projection cylindrique. (Desmons. Paris, Challamel.)
 
 5. Cartes astronomiques. Les cartes et atlas astronomiques ont acquis une grande perfection. II faut leur rapporter les catalogues d'étoiles commencés par les anciens. Le catalogue de Ptolémée (Almageste) renferme 1,022 étoiles. On a catalogué depuis lors plus de 300,000 étoiles, dont 10,000 étoiles double», plus de 7 ou 8,000 nébuleuses. La carte photographique du ciel comprendra toutes les étoiles jusqu'à In 14" grandeur. (Voir ce qui a été dit précédemment de l’Atlas du ciel sous le
 
@@ -9275,7 +9275,7 @@ Les documents dont il s'agit ici ont pour caractéristique de genre d'être des 
 
 Il y a lieu de traiter distinctement notion, histoire, espèces : 1° de l'image en général; 2° de la science de l'image : l'iconographie ; 3° des publications et recueils d'images; 4° des collections d'images; Iconographia UniversaltB ; 5° des catalogues d’images: Iconobibliogra-phie ; Iconobibliographica VnivcrsaUs; 6° des collections, des clichés ou matières d’images.
 
-Parmi les images il est quelques grandes catégories ; I" les estampes et gravures, eaux-fortes; 2° les photographies ; 3° les cartes postales illustrées ; 4d les cartes à jouer; 5° les livres d'images pour les enfants. On est amené quelquefois à constituer ur> seul groupe de toutes les images sur papier ou carton quel que soit : a) le procédé d’établissement (à la main ou par l'appareil photographique) ou de reproduction, à la main, mécaniquement ou terminés à la main ; b) à l'état d’original, de copie ou de reproduction; c) le texte qui les accompagne comme titre, légende ou explication sommaire, les images étant tenues pour l'essentiel et le texte l'accessoire; d) le fait d'être ou non encadrées; e) le sujet qu’elles présentent (images scientifiques, scolaires, religieuses. etc.); f) la colorisation (noir ou en couleurs chromos).
+Parmi les images il est quelques grandes catégories ; 1" les estampes et gravures, eaux-fortes; 2° les photographies ; 3° les cartes postales illustrées ; 4d les cartes à jouer; 5° les livres d'images pour les enfants. On est amené quelquefois à constituer ur> seul groupe de toutes les images sur papier ou carton quel que soit : a) le procédé d’établissement (à la main ou par l'appareil photographique) ou de reproduction, à la main, mécaniquement ou terminés à la main ; b) à l'état d’original, de copie ou de reproduction; c) le texte qui les accompagne comme titre, légende ou explication sommaire, les images étant tenues pour l'essentiel et le texte l'accessoire; d) le fait d'être ou non encadrées; e) le sujet qu’elles présentent (images scientifiques, scolaires, religieuses. etc.); f) la colorisation (noir ou en couleurs chromos).
 
 On a été amené a donner à certaines images les dimensions usuelles des cartes postales. Ces images avec les cartes postales peuvent constituer une collection classée. Les livres d’images pour les enfants constituent une importante catégorie.
 
@@ -9362,7 +9362,7 @@ On a commencé à établir à l'I. I. B. un Dictionnaire iconographique décimal
 
 6. Index iconographique univertel.
 
-Les Congrès internationaux ont préconisé l'établissement d’un Index Iconographique Universel, relevant les images dessinées, gravées, photographiées, séparées ou jointes aux ouvrages, en donnant la liste par auteur et par matières traitées, indiquant les lieux de dépôt. Des travaux remarquables existent dans cet ordre d’idées. Par ex. : 17ndex locuplctiaaimus iconum botanicarum, VIndex of Portraits de la Idbrary of Congress. L’élaboration des index particuliers devrait être répartie par pays, par matières, par époques, selon un plan d ensemble à la manière de la Bibliographie. Une méthode commune devrait être adoptée (règles catalographiques. formats, classification). Un Index Central sur fiches devrait concentrer, au premier stade, l'Index des Index, au second stade la Somme des Index. A raison des affinités étroites entre l'un et l'autre, l'Index Iconographique Universel doit être rattaché au Képertoire Bibliographique Universel. (Voir Code des Kêgles n" 63.)
+Les Congrès internationaux ont préconisé l'établissement d’un Index Iconographique Universel, relevant les images dessinées, gravées, photographiées, séparées ou jointes aux ouvrages, en donnant la liste par auteur et par matières traitées, indiquant les lieux de dépôt. Des travaux remarquables existent dans cet ordre d’idées. Par ex. : 17ndex locuplctiaaimus iconum botanicarum, VIndex of Portraits de la Idbrary of Congress. L’élaboration des index particuliers devrait être répartie par pays, par matières, par époques, selon un plan d ensemble à la manière de la Bibliographie. Une méthode commune devrait être adoptée (règles catalographiques. formats, classification). Un Index Central sur fiches devrait concentrer, au premier stade, l'Index des Index, au second stade la Somme des Index. A raison des affinités étroites entre l'un et l'autre, l'Index Iconographique Universel doit être rattaché au Képertoire Bibliographique Universel. (Voir Code des Rêgles n" 63.)
 
 7. Collection de clichés, cuivre, bois.
 
@@ -9370,14 +9370,14 @@ A raison de leur intérêt, de leur valeur, et du coût de production, on est am
 
 Les clichés ont diverses (ormes : les plaques de verre négatives, les diapositives pour projection, les simili ou photogravures destinés à l’impression. Des mesures doivent être prises pour les conserver car ils constituent une valeur réelle et ils sont de nature, par le prêt, à améliorer, grandement l'Enseignement, les conférences, les publications. Il y a aussi les bois et les cuivres. On a récemment mis en lumière l'importance des grandes chalcographies nationales, formées de cuivres gravés (notamment celles du Louvre à Paris). ,
 
-Un mot français unique manque pour dénoncer semblable collection. Le Buffalo Muséum of Science, qui a 70,000 clichés avec manuscrits descriptifs, l'appelle « l.antern SUde Library s.
+Un mot français unique manque pour dénoncer semblable collection. Le Buffalo Museum of Science, qui a 70,000 clichés avec manuscrits descriptifs, l'appelle « Lantern SUde Library ».
 
 242.32 Dessin.
 """""""""""""""
 
-a) La sculpture, la peinture, l’architecture sont fondées sur le dessin, qui n'est pas moins nécessaire aux arts industriels qu'aux beaux-arts. Tout le dessin est dan*
+a) La sculpture, la peinture, l’architecture sont fondées sur le dessin, qui n'est pas moins nécessaire aux arts industriels qu'aux beaux-arts. Tout le dessin est dans
 195 ???
-le contour et le profil des objets. Selon les moyens employés, on distingue le dessin au crayon, au pastel, à l’estompe, à la plume, etc. Au point de vue de l'exécution, le dessin est une simple esquisse, un croquis, ou bien une étude, une académie, un carton. On distingue au?si le dessin au trait seulement, et le dessin ombré, le dessin lithographique pour gravure. La propriété des dessins de fabrique est protégée pa* la loi. Par des procédés mécaniques, on produit aujourd’hui des copies réduites et très précises de dessins donnés. (Voir n° 222.31 sous 5 à 8.)
+le contour et le profil des objets. Selon les moyens employés, on distingue le dessin au crayon, au pastel, à l’estompe, à la plume, etc. Au point de vue de l'exécution, le dessin est une simple esquisse, un croquis, ou bien une étude, une académie, un carton. On distingue aussi le dessin au trait seulement, et le dessin ombré, le dessin lithographique pour gravure. La propriété des dessins de fabrique est protégée pa* la loi. Par des procédés mécaniques, on produit aujourd’hui des copies réduites et très précises de dessins donnés. (Voir n° 222.31 sous 5 à 8.)
 
 b) La caricature joue un grand rôle. Il se rencontre parfois « qu’une illustration de journal renferme dans le hasard heureux d’une caricature le résumé de toute une situation politique ou sociale ». (Bourget.)
 
@@ -9416,7 +9416,7 @@ d) La gravure est à étudier à un double point de vue : en tant que forme docu
 
 La gravure a une longue histoire. La xylographie est l'impression faite sur planche de bois gravé. Les livres imprimés par ce procédé se disent les xylographes. Ils n ont ni date, ni signature; ils sont presque toujours les résumés très sommaires de grandes œuvres destinées au peuple et accompagnées d'images pour mieux retenir son attention. La gravure a eu des hauts et des bas (voir n® 222 31).
 
-Depuis quelques années, il se produit une sorte de renaissance de la gravure, sur bois et au burin. Elle laisse aux procédé» photomécaniques ce qu'ils peuvent mieux réaliser maintenant ; mais elle donne à I artis'e inventant lui-m£mt* son œuvre, le moyen de la concevoir en fonction de la technique. De nos temps l’expression directe et synthétique d'une émotion subjective va remplaçant la recherche de la transposition raffinée et analytique de l'obœrvation objective. (I)
+Depuis quelques années, il se produit une sorte de renaissance de la gravure, sur bois et au burin. Elle laisse aux procédé» photomécaniques ce qu'ils peuvent mieux réaliser maintenant ; mais elle donne à l'artiste inventant lui-même son œuvre, le moyen de la concevoir en fonction de la technique. De nos temps l’expression directe et synthétique d'une émotion subjective va remplaçant la recherche de la transposition raffinée et analytique de l'obœrvation objective. (I)
 
 3. Ethnologie.
 
@@ -9493,13 +9493,13 @@ criptions recommandant leur candidat. Certaines organisations démocratiques ont
 
 blanches. La foule, nuit et jour, est influencée par la
 
-réclame des partis qui frappe ses yeux, ses oreilles. Les affiches, les éditions de journaux, 1» caricature se
+réclame des partis qui frappe ses yeux, ses oreilles. Les affiches, les éditions de journaux, la caricature se
 
 succèdent.
 
-L’Angleterre a pris des mesures, au cours de la guerre, pour l’étude des ressources économiques de l'Empire et créer un mouvement pratique d’affaires pouvant lui prrmet're de remplacer par les produits de l'Empire ceux qu elle retirait auparavant des empires centraux.
+L’Angleterre a pris des mesures, au cours de la guerre, pour l’étude des ressources économiques de l'Empire et créer un mouvement pratique d’affaires pouvant lui permettre de remplacer par les produits de l'Empire ceux qu elle retirait auparavant des empires centraux.
 
-C'est 1’lmperial Institute de Londres, associé ou Colonial Office et aux Chambres de Commerce de l'Empire qui a incité ce mouvement.
+C'est l'lmperial Institute de Londres, associé ou Colonial Office et aux Chambres de Commerce de l'Empire qui a incité ce mouvement.
 
 Des expositions d'affiches électorales comparées ont été organisées au Palais Mondial.
 
@@ -9593,7 +9593,7 @@ L Notion.
 
 a) La photographie est l'art de fixer sur une plaque couverte de substance impressionnable à la lumière, les images obtenues avec l’aide d’une chambre obscure. Llle est une méthode permettant d'obtenir par l'action de radiation« visibles ou invisibles l'image durable d'un sujet. (E. Picard.) La reproduction de cette image s'appelle aussi photographie.
 
-b) La photographie cat donc l'« écriture à l’aide de la lumière » (photo-lumière, graphein-écrire). Depuis son invention elle a répondu de plus en plus à cette définition. Il y a maintenant trois manières d'écrire un texte ou un dessin : à la main, à la machine (dactylographie ou imprimerie, grande et petite), à la photographie. Lamartine définissait la photographie une collaboration de l'artiste avec le soleil.
+b) La photographie est donc l'« écriture à l’aide de la lumière » (photo-lumière, graphein-écrire). Depuis son invention elle a répondu de plus en plus à cette définition. Il y a maintenant trois manières d'écrire un texte ou un dessin : à la main, à la machine (dactylographie ou imprimerie, grande et petite), à la photographie. Lamartine définissait la photographie une collaboration de l'artiste avec le soleil.
 
 La méthode photographique est appelée à remplacer de plus en plus la méthode visuelle. L’objectif, la plaque ou le film, le papier sur lequel l'image reproduite parvient a être fixée, sa multiplication en documents photographiques, c'est là un processus véritablement amplificateur de l'œil et amené à se substituer à lui. non seulement dans l'observation scientifique, mais dans la vie pratique (Travail. Education, Récréation),
 
@@ -9615,7 +9615,7 @@ c) Comme documents, on distingue la photographie d'art, la photographie d’amat
 
 4. Le domaine de la photographie.
 
-a) On peut dire que la photographie est une manière d écrire basée sur les principes mathématiques, physiques et chimiques. La photographie est la plus importante des machines intellectuelles inventées par l'homme. Non seulement elle reproduit, mais elle produit les documents et représente la réalité directement sans l’intermédiaire d’un cerveau. En faveur de la photographie, il y a la présomption qu'elle ne peut pas tromper, qu'elle est un témoin irrécusable et irréfutable, qu il n y a pas à faire la part de I*« équation personnelle ». La photographie a donc fait reculer le dessin. D’autre part elle doit lui
+a) On peut dire que la photographie est une manière d'écrire basée sur les principes mathématiques, physiques et chimiques. La photographie est la plus importante des machines intellectuelles inventées par l'homme. Non seulement elle reproduit, mais elle produit les documents et représente la réalité directement sans l’intermédiaire d’un cerveau. En faveur de la photographie, il y a la présomption qu'elle ne peut pas tromper, qu'elle est un témoin irrécusable et irréfutable, qu il n y a pas à faire la part de l'« équation personnelle ». La photographie a donc fait reculer le dessin. D’autre part elle doit lui
 
 
 ====
@@ -9656,7 +9656,7 @@ tirulails, ch. VI), pour l'architecture (J. Jamin : Congrès international de Ph
 
 b) Il demeure essentiel à la photographie d'obtenir des
 
-images exactes. La niéJ ode décrite par M. L. Estanave (Académie des Sciences, Paris, 16 juin 1930) lui a permis cl obtenir J image aérienne du sujet, visible à toute distance et présentant en vision binoculaire tous les caractères de la photographie intégrale, image unique, en grandeur naturelle avec son relief et la même variation de champ qu’on observerait si l’on se déplaçait devant le sujet lui-même,
+images exactes. La niéJ ode décrite par M. L. Estanave (Académie des Sciences, Paris, 16 juin 1930) lui a permis d'obtenir l'image aérienne du sujet, visible à toute distance et présentant en vision binoculaire tous les caractères de la photographie intégrale, image unique, en grandeur naturelle avec son relief et la même variation de champ qu’on observerait si l’on se déplaçait devant le sujet lui-même,
 
 c) Les C ongrès ont réglementé déjà largement les formats des plaques, des appareils, des épreuves stéréoscopiques, des fiches, etc. La standardisation apporte d’heureux résultats, Ily a lieu de l’étendre aussi aux publications et collections et d’intégrer les formats de la photographie a la série des formats de la Documentation générale, De grand format (tableau), moyen format (feuille), petit format (fiche), format film (microgramme) ou formats métriques intermédiaires.
 
@@ -9693,9 +9693,9 @@ a) La photographie composite (Galtonienne). Elle ne retient que les traits capit
 
 b) La Gastrophotographie est la photographie appliquée au contrôle visuel de l'estomac, venu en aide au diagnostic médical (apareil de F. Bac, Porges et Hcilpcm). (2)
 
-c) Pour le chronométrage des temps de travail, on a placé de petites lampes électriques à des points convenablement choisis du corps de l’homme (main, tête), on a pholographié ensuite les mouvement*. Les trames lumineuses figurent les trajectoires des lampes électriques.
+c) Pour le chronométrage des temps de travail, on a placé de petites lampes électriques à des points convenablement choisis du corps de l’homme (main, tête), on a pholographié ensuite les mouvements. Les trames lumineuses figurent les trajectoires des lampes électriques.
 
-d) La niétrographic est la technique nouvelle qui emploie l’objectif pour mesurer les images. M. Andieu dans son ouvrage « Les révélations du dessin et de la photographie à la guerre », décrit la manière d’utiliser la représentation du paysage sous quelque forme qu elle soit, au moyen de mesures métriques. Après enquêtes auprès de toutes les catégories de gens, médecins, artistes, topographes militaires, il a dégagé une façon normale de regarder les objets, c’est-à-dire l’angle optique sous lequel l'œil voit. Il est arrivé ainsi à une sorte de distance humaine, réflexe ou acquise, dont il a fait la clef d un système. Par là il rend simple et commode l'exploitation de la perspective et de son inverse, en faisant abstraction des règles géométriques.
+d) La niétrographic est la technique nouvelle qui emploie l’objectif pour mesurer les images. M. Andieu dans son ouvrage « Les révélations du dessin et de la photographie à la guerre », décrit la manière d’utiliser la représentation du paysage sous quelque forme qu'elle soit, au moyen de mesures métriques. Après enquêtes auprès de toutes les catégories de gens, médecins, artistes, topographes militaires, il a dégagé une façon normale de regarder les objets, c’est-à-dire l’angle optique sous lequel l'œil voit. Il est arrivé ainsi à une sorte de distance humaine, réflexe ou acquise, dont il a fait la clef d un système. Par là il rend simple et commode l'exploitation de la perspective et de son inverse, en faisant abstraction des règles géométriques.
 
 e) La photographie métrique, appelée aussi photogram-métrie. donne une image absolument conforme aux mesures métriques. Elle permet d’arrêter les proportions de
 (1) L. Moholy Nagy : Une vision nouvelle.
@@ -9706,7 +9706,7 @@ e) La photographie métrique, appelée aussi photogram-métrie. donne une image 
 
 *202*  LE LIVRE ET LE DOCUMENT  242
 
-grandeur et de distance des objets et de pouvoir repro-duire ln photographie comme plan sur n’importe qu elle échelle. La photographie stéréophotogrammétrique elle, a l'avantage de donner une vue plastique à l'image.
+grandeur et de distance des objets et de pouvoir repro-duire la photographie comme plan sur n’importe qu'elle échelle. La photographie stéréophotogrammétrique elle, a l'avantage de donner une vue plastique à l'image.
 
 7. P holographie aérienne.
 
@@ -9739,12 +9739,12 @@ pour les spectateurs : une seule pose photographique pour chacune des images suc
 
 i) Photographie automatique, — L’administration hollandaise des téléphones, section d'Amsterdam, a mis en fonctionnement un système remarquable de comptabilité photographique pour ses 30,000 abonnés. Tous les postes reliés par fils ont leur compteur disposé côte à côte, par groupe de 100. dans une grande salle. Chaque mois un appareil photographique automatique placé sur rail et balayant tous les compteurs un à un de ses foyers lutni-iieuit, enregistre microscopiquement sur film continu les consommations du mois. Dans une salle annexe fonctionne en plusieurs exemplaires l'appareil à établir les factures des abonnés. Le film du mois est projeté, agrandi sur un verre mat, avec parallèlement le film du mois précédent. Une dactylographe transcrit à la machine sur papier les chiffres des deux mois placés en regard : le jeu de machines à calculer branché sur la machine à écrire, opère automatiquement le décompte : nombres index du mois courant, nombre index du mois précédent,-X prix au kilowat. Le contrôle est opéré par une seconde machine qui transcrit le nombre dans l'ordre inverse de la première : les erreurs ne sont donc à rechercher que dans les limites de deux totaux discordants. Cette méthode a mis fin aux contestations. Toute la comptabilité de deux ans résumée en (30,000 abonnés X 24 mois — 720,000 X 2 nombres 1,440,000 nombres) n'occupe dans les archives que le cinquième d'un mètre cube.
 
-j) La photographie intégrale. — L'appareil visuel des insectes est formé d'un très grand nombre d’yeux extrêmement petits, ayant chacun une cornée, un cristallin et une rétine. Il y en a 25,000 et plus chez certaines espèces et il est vraisemblable que toutes ces images partielles formées sur l’ensemble des rétines donnent un relief fortement accusé. De plus cette disposition doit permettre aussi la variation du champ de vision suivant le déplacement de l'animal et des objets différents peuvent ainsi lui apparaître successivement. Cabriei Lippmann, en 1909, s'est demandé s'il serait possible de réaliser un système de photographie intégrale permettant de rendre toute la variété qu'offre la vue directe des objets et il a indiqué les principes d'une solution de ce problème difficile. Rappelant l'œil composé des insectes, il est formé une Image qui nous < représente le monde extérieur s'encadrant en apparence entre les bords de l'épreuve comme si ces bords étaient ceux d’une fenêtre ouverte sur la réalité ». En 1921, Estanave (Marseille) a utilisé pour remplir le rôle de plaque gaufrée ces minuscules loupes qui s'incrustent dans certains porte-plumes d'en-fanta (loupes Stanhope). Il a réalisé ainsi, en téumssant 1.160 de ces loupes en un bloc rigide, des photographies
+j) La photographie intégrale. — L'appareil visuel des insectes est formé d'un très grand nombre d’yeux extrêmement petits, ayant chacun une cornée, un cristallin et une rétine. Il y en a 25,000 et plus chez certaines espèces et il est vraisemblable que toutes ces images partielles formées sur l’ensemble des rétines donnent un relief fortement accusé. De plus cette disposition doit permettre aussi la variation du champ de vision suivant le déplacement de l'animal et des objets différents peuvent ainsi lui apparaître successivement. Cabriei Lippmann, en 1909, s'est demandé s'il serait possible de réaliser un système de photographie intégrale permettant de rendre toute la variété qu'offre la vue directe des objets et il a indiqué les principes d'une solution de ce problème difficile. Rappelant l'œil composé des insectes, il est formé une Image qui nous « représente le monde extérieur s'encadrant en apparence entre les bords de l'épreuve comme si ces bords étaient ceux d’une fenêtre ouverte sur la réalité ». En 1921, Estanave (Marseille) a utilisé pour remplir le rôle de plaque gaufrée ces minuscules loupes qui s'incrustent dans certains porte-plumes d'en-fanta (loupes Stanhope). Il a réalisé ainsi, en téumssant 1.160 de ces loupes en un bloc rigide, des photographies
 d objets très brillants répondant aux conditions de la Théorie Lippmann. Beaucoup reste à faire, mais la photographie intégrale est possible.
 
 8 Organisation,
 
-a) La photographie a donné lieu a diverses mesures d'organisation et divers organismes caractéristiques. La photographie relève de la documentation. L'ensemble des photographies existantes constitue l'image photographique du monde. Il y a lieu d'organiser et d'inclure l'organisation de la photographie dans l'organisation générale de la documentation. En 1906 s'est tenu a Marseille le Congrès International de Photographie documentaire. L'Lnstitut International de Bibliographie et sa section de Photographie documentaire y ont présenté un premier ensemble systématique des règles concernant l'organisation, le classement, la collaboration. (Voir les Actes de ce Congrès tt Bulletin de l'Institut International de Bibliographie et Annuaire de ta Vie Internationale, p. 2434.) Ce premier ensemble amplifié, précisé et mis en rapport avec la documentation générale, a été traité à nouveau dans le Code des Règles pour l'Organisation de la Bibliographie et de la Documentation qui ont été présentés successivement à la Conférence Bibliographique internationale de 1910 (voir Actes) et au Congrès International des Associations Internationales (1910, actes P- 168). La photographie documentaire et l'Iconographie générale sont traitées ensemble dan» le chapitre VI de ces codes. Voir publication n° 119. Code de 1*1. I. B. pour l'organisation internationale de la Photographie.
+a) La photographie a donné lieu a diverses mesures d'organisation et divers organismes caractéristiques. La photographie relève de la documentation. L'ensemble des photographies existantes constitue l'image photographique du monde. Il y a lieu d'organiser et d'inclure l'organisation de la photographie dans l'organisation générale de la documentation. En 1906 s'est tenu a Marseille le Congrès International de Photographie documentaire. L'Lnstitut International de Bibliographie et sa section de Photographie documentaire y ont présenté un premier ensemble systématique des règles concernant l'organisation, le classement, la collaboration. (Voir les Actes de ce Congrès tt Bulletin de l'Institut International de Bibliographie et Annuaire de ta Vie Internationale, p. 2434.) Ce premier ensemble amplifié, précisé et mis en rapport avec la documentation générale, a été traité à nouveau dans le Code des Règles pour l'Organisation de la Bibliographie et de la Documentation qui ont été présentés successivement à la Conférence Bibliographique internationale de 1910 (voir Actes) et au Congrès International des Associations Internationales (1910, actes P- 168). La photographie documentaire et l'Iconographie générale sont traitées ensemble dans le chapitre VI de ces codes. Voir publication n° 119. Code de 1*1. I. B. pour l'organisation internationale de la Photographie.
 
 b) Il s'est formé des organes propres à la photographie, des centres de production et d'édition. Certaines grandes maisons ont une place considérable, par ex. : Braun, Bois-sonnaa et Alinari, les artistes de la photographie.
 
@@ -9754,7 +9754,7 @@ d) Des agences photographiques procurent aux journaux les vues des faits du jour
 
 9, Reproduction des documents existants. Photocopie.
 
-a) La photographie est venu apporter le moyen sûr et économique de reproduire des documents anciens. En premier lieu il s'agit des manuscrits. Les congrès internationaux du Livre, des Bibliothèques, de la Bibliographie, sont revenus à maintes reprises sur ce sujet. En 1898 et 1905, il s'est meme tenu un Congrès international pour la reproduction des manuscrit*. Plus récemment, ¡a Commission de Coopération Intellectuelle de la Société des Nations a abordé la question. Dans les assemblées scientifiques, on a demandé la publication des fiches phototypiques représentant les types originaux des espèces décrites par les anciens auteurs (mémoires de Levai et E Joubin). D’une manière générale, des mesures doivent
+a) La photographie est venu apporter le moyen sûr et économique de reproduire des documents anciens. En premier lieu il s'agit des manuscrits. Les congrès internationaux du Livre, des Bibliothèques, de la Bibliographie, sont revenus à maintes reprises sur ce sujet. En 1898 et 1905, il s'est meme tenu un Congrès international pour la reproduction des manuscrits. Plus récemment, ¡a Commission de Coopération Intellectuelle de la Société des Nations a abordé la question. Dans les assemblées scientifiques, on a demandé la publication des fiches phototypiques représentant les types originaux des espèces décrites par les anciens auteurs (mémoires de Levai et E Joubin). D’une manière générale, des mesures doivent
 
 
 ====
@@ -9764,11 +9764,11 @@ a) La photographie est venu apporter le moyen sûr et économique de reproduire 
 être prises pour la reproduction immédiate en photographie 
 des documents uniques ou rares dans tous les domaines.
 
-Les procédés photographiques de reproduction ont été employés récemment pour reproduire les s Histoires des vingt-quatre dynasties » de 1195. l’Edition « PENA » qui doit comprendre 800 volumes avec environ 130 mille pages. C'est l'histoire de cinq millénaires de la civilisation chinoise. Les œuvres originales sont datées depuis 1034 A. J. C. Par la photographie, on a pu en réduire le format original. L’œuvre montre la belle avance qu avait la Chine dans les procédés des planches de lettres gravées qui précéda la typographie proprement dite.,
+Les procédés photographiques de reproduction ont été employés récemment pour reproduire les « Histoires des vingt-quatre dynasties » de 1195. l’Edition « PENA » qui doit comprendre 800 volumes avec environ 130 mille pages. C'est l'histoire de cinq millénaires de la civilisation chinoise. Les œuvres originales sont datées depuis 1034 A. J. C. Par la photographie, on a pu en réduire le format original. L’œuvre montre la belle avance qu avait la Chine dans les procédés des planches de lettres gravées qui précéda la typographie proprement dite.,
 
 b) Avec le nombre, la dispersion et les prix croissants des livres, des journaux et des revues techniques, il .n’est plus guère possible au particulier d'en acquérir régulièrement, les plus importants même.
 
-L’achat au numéro des périodiques contenant les articles que renseignent les fiches est certes une solution déjà moins onéreuse. Toutefois, elle oblige les lecteurs à une correspondance compliquée et les éditeurs à conserver, pour Ica dépareiller ensuite, des collections complète». Comme le nombre des exemplaires en stock est forcément limité, et que les numéros s'épuisent d'une manière inégale, les éditeurs sont souvent dans l'impossibilité de pourvoir à la demande. La consultation de Bibliothèques e~t toujours possible mais il faut aussi que les articles puissent être joints aux dossiers d’études. La solution est dans la Photocopie des articles selon les méthodes de la photographie normale ou de la photographie microscopique.
+L’achat au numéro des périodiques contenant les articles que renseignent les fiches est certes une solution déjà moins onéreuse. Toutefois, elle oblige les lecteurs à une correspondance compliquée et les éditeurs à conserver, pour Ica dépareiller ensuite, des collections complètes. Comme le nombre des exemplaires en stock est forcément limité, et que les numéros s'épuisent d'une manière inégale, les éditeurs sont souvent dans l'impossibilité de pourvoir à la demande. La consultation de Bibliothèques e~t toujours possible mais il faut aussi que les articles puissent être joints aux dossiers d’études. La solution est dans la Photocopie des articles selon les méthodes de la photographie normale ou de la photographie microscopique.
 
 c) Il y a les perfectionnements des procédés de reproduction à grandeur, notamment : La Schwartz-Weiss, photographie réelle du Noir Blanc, le Photostat, le Corn-tophote, etc. ( I )
 
@@ -9797,7 +9797,7 @@ c) Une classification générale de la projection donne les divisions suivantes 
 
 Le livre projeté.
 
-a) Nous avons proposé, dès 1906, avec Robert Gold-schmidt (I), de donner au livre ou aux document» en général une forme nouvelle: celle de uolumen en mi nîature obtenus comme suit : chaque page, élément ou combinaison de pages est photographiée directement but une pellicule ou film du format cinématographique universel, Les images ainsi obtenues se présentent succès-rivement, étant juxtaposées côte à côte sur la bande filmée et dans les dimensions réduites de 18 X 24 mm,
+a) Nous avons proposé, dès 1906, avec Robert Gold-schmidt (I), de donner au livre ou aux documents en général une forme nouvelle: celle de uolumen en mi nîature obtenus comme suit : chaque page, élément ou combinaison de pages est photographiée directement but une pellicule ou film du format cinématographique universel, Les images ainsi obtenues se présentent succès-rivement, étant juxtaposées côte à côte sur la bande filmée et dans les dimensions réduites de 18 X 24 mm,
 
 (I) Bulletin de Vlnatitat International de Bibliographie, 1906. R. Goldschmidt et Paul Otlet : La Conservation et la Diffusion de la Pensée. Le Livre microphotique. Publication n" 144 de 1*1. I. B. — L’idée depuis a fait son chemin et le procédé tend à devenir universel.
 
@@ -9839,9 +9839,9 @@ divers appareils ont été réalisés (Photoscope. Cinéscope, Zeiss, etc.).
 
 d) Bibliothèque, Institut, Musée, Office d’administration étendu. Bureau d’études industrielles. Ecole, peut donc avoir aujourd'hui son microphote et commencer sa collection de l’Encyclopédie : acquérant les films ou en produisant eux-mêmes. Demain tout travailleur intellectuel aura sur sa table cet instrument nouveau qui doublera les moyens de sa documentation en lui offrant, sous une forme merveilleusement réduite, un Musée et une Bibliothèque.
 
-e) Le format microphote est de 18 X 24 mm. (image de cinéma) ou de 24 mm. de large sur 23 mm. de haut. Ci qui permet d'insérer en largeur et en hauteur n’importe quel document sans que l'on doive retourner le film. Pour la bonne mise en pages, tenir compte alors de ce que les images doivent s’insérer dans un cadre 24 X 33 ou multiples de ces dimensions. Les documents noirs t.t gris sont les seuls qu’on puisse photographier sans surprise, les couleurs donnant des tons gris ou noirs. Les textes à placer sous les images doivent être calligraphiés à l’encre de Chine sur fond blanc ou tapés à la machine avec un ruban bien noir. Ne pas mettre trop de texte sous les vues et bien proportionner la grandeur des caractères à celle des images. Il est utile de porter sur l’image une marque de collection, un numéro de repère, un indice de classement, un titre. Le« vues sont montées en bandes s’enroulant en bobines. Un microfilm en bobines peut se composer de 20 à 60 images, mais il n'y a pas de limite de longueur, Elles sont aussi utilisables, image par image, montées en petites plaques dans un encadrement métallique et mobile pouvant dès lors recevoir toute espèce de classement différent. On a créé de petit» appareils de prise de vue (le Pliotoscopique, le Cent vues, etc.).
+e) Le format microphote est de 18 X 24 mm. (image de cinéma) ou de 24 mm. de large sur 23 mm. de haut. Ci qui permet d'insérer en largeur et en hauteur n’importe quel document sans que l'on doive retourner le film. Pour la bonne mise en pages, tenir compte alors de ce que les images doivent s’insérer dans un cadre 24 X 33 ou multiples de ces dimensions. Les documents noirs t.t gris sont les seuls qu’on puisse photographier sans surprise, les couleurs donnant des tons gris ou noirs. Les textes à placer sous les images doivent être calligraphiés à l’encre de Chine sur fond blanc ou tapés à la machine avec un ruban bien noir. Ne pas mettre trop de texte sous les vues et bien proportionner la grandeur des caractères à celle des images. Il est utile de porter sur l’image une marque de collection, un numéro de repère, un indice de classement, un titre. Les vues sont montées en bandes s’enroulant en bobines. Un microfilm en bobines peut se composer de 20 à 60 images, mais il n'y a pas de limite de longueur, Elles sont aussi utilisables, image par image, montées en petites plaques dans un encadrement métallique et mobile pouvant dès lors recevoir toute espèce de classement différent. On a créé de petit» appareils de prise de vue (le Pliotoscopique, le Cent vues, etc.).
 
-i) La projection des microfilms a été opérée d’une manière automatique (autofilm). Cette projection c*t continue, en cycle, recommençante, et ne demande d intervention humaine que pour la première mise en mou veraent. L’appareil se compose de la lanterne, du film, d'un mécanisme de rotation, d’un écran et d'une prise de courant.
+i) La projection des microfilms a été opérée d’une manière automatique (autofilm). Cette projection c*t continue, en cycle, recommençante, et ne demande d'intervention humaine que pour la première mise en mou veraent. L’appareil se compose de la lanterne, du film, d'un mécanisme de rotation, d’un écran et d'une prise de courant.
 
 On peut projeter en plein jour avec un avant-corps noir devant l’écran. L’appareil est placé dans un lieu public (galerie d'exposition ou de musée, vitrine, coin de rue ou de parc). Il s’adresse au passant. C'est une sorte de publicité murale applicable pour la diffusion de toute espèce d’information. Des lampes à lire ont été construites qu’on place sur le document (BuscK, Berlin), On a construit des lunettes spéciales (agrandisseur binoculaire Zeiss).
 (I) Hanauer, J. — Das Kleinstlichtbild im Dienste von Technik und Wissenschaft. — Das Technisch Blatt. Beilage der Frankfurter Zeitung, 5 Sept. 1929.
@@ -9853,7 +9853,7 @@ On peut projeter en plein jour avec un avant-corps noir devant l’écran. L’a
 
 3. Projectiona diapositives.
 
-Les diapositives sur verre ont longtemps été les seules, hiles «ont lourdes, fragiles, coûteuses. Le Congrès international de Photographie en a unifié le format. Il en a été constitué des collections dans les centres d études.
+Les diapositives sur verre ont longtemps été les seules, hiles sont lourdes, fragiles, coûteuses. Le Congrès international de Photographie en a unifié le format. Il en a été constitué des collections dans les centres d études.
 
 4 Projection des corps opaques.
 
@@ -9888,7 +9888,7 @@ et visibles à plusieurs kilomètres de distance. Voilà le ciel appelé à joue
 
 I. Notion.
 
-Les archives constituent une partie de la documentation générale. Non seulement leurs méthodes et leurs installa*' lions te transforment, mais aussi la conception de leur objet. « Archives » (écrit avec une majuscule) désigne soit le bâtiment (dépôt) des Archives, soit l’ensemble des collections y conservées, soit encore l’administration des Archives. « Archives » (écrit avec minuscule) désigne une collection déterminée, importante ou non ; l’expression est synonyme de collection ou fond d’archives. Un fond d’archives est l’ensemble des documents écrits, destinés ou imprimés, reçus ex officio par une administration ou par ses employés, ou émanant d eux, pour autant que ces documents étaient destinés à reposer sous cette admh nislration ou ces employés. (1)
+Les archives constituent une partie de la documentation générale. Non seulement leurs méthodes et leurs installa*' tions te transforment, mais aussi la conception de leur objet. « Archives » (écrit avec une majuscule) désigne soit le bâtiment (dépôt) des Archives, soit l’ensemble des collections y conservées, soit encore l’administration des Archives. « Archives » (écrit avec minuscule) désigne une collection déterminée, importante ou non ; l’expression est synonyme de collection ou fond d’archives. Un fond d’archives est l’ensemble des documents écrits, destinés ou imprimés, reçus ex officio par une administration ou par ses employés, ou émanant d eux, pour autant que ces documents étaient destinés à reposer sous cette admh nislration ou ces employés. (1)
 
 Par archives, on entend donc 3 choses :
 
@@ -9900,9 +9900,9 @@ Par archives, on entend donc 3 choses :
 
 2 Historique.
 
-Les ancien» conservaient dans leurs temples les archives, de même que le Trésor public. Dans les premiers temps de la monarchie française, les rois se faisaient suivre de leurs archives en voyage et même à la guerre, les expo^ »ant ainsi à bien des dangers. Sans parler ici des archives des autres Etats, ni surtout des archives incomparables du Vatican, les Archives nationales françaises furent vraiment organisées sous Louis XIV (1688). Elles ont été réorganisées en 1870 et rentrent dans les attributions du ministère de l'Instruction publique. Elles comprennent trois sections : historique, législative et judiciaire, administrative et domaniale.
+Les anciens conservaient dans leurs temples les archives, de même que le Trésor public. Dans les premiers temps de la monarchie française, les rois se faisaient suivre de leurs archives en voyage et même à la guerre, les expo^ »ant ainsi à bien des dangers. Sans parler ici des archives des autres Etats, ni surtout des archives incomparables du Vatican, les Archives nationales françaises furent vraiment organisées sous Louis XIV (1688). Elles ont été réorganisées en 1870 et rentrent dans les attributions du ministère de l'Instruction publique. Elles comprennent trois sections : historique, législative et judiciaire, administrative et domaniale.
 
-Les collections publiques les plus anciennement classées sont le trésor des chartes, les archives des Parlements et de la Cour des Comptes. Les grandes collections formées par des particuliers ont donné à Colbert l'idée d'un •ystème général de conservation et de classement des archives nationales. On organisa d'abord celles des ministres. Clairambault. le jeune, sous les ordres de Louvois. réunit les Archives de la Marine & St-Germain-en-Laye, et
+Les collections publiques les plus anciennement classées sont le trésor des chartes, les archives des Parlements et de la Cour des Comptes. Les grandes collections formées par des particuliers ont donné à Colbert l'idée d'un système général de conservation et de classement des archives nationales. On organisa d'abord celles des ministres. Clairambault. le jeune, sous les ordres de Louvois. réunit les Archives de la Marine & St-Germain-en-Laye, et
 (I) Cuvelier. — Bulletin de l’Association Bibl. et Arch, de Belgique, 1908, p. 40.
 
 ====
@@ -9918,7 +9918,7 @@ Les diverses espèces d’archives sont : 1° les archives des particuliers comp
 4 Fonctions et utilisation.
 
 Les archives sont de plus en plus fouillées et refouillées. C’est que l’Histoire cesse d*être une spécialité, le récit des événements politiques ayant rapport avec l’autorité, donc avec les princes aux temps passés. L’histoire, c’est ¡a relation de ce que toiles choses ont été dans le passé, les personnes, les objets, les œuvres, les idées, les sciences. les arts, le travail, tout l’homme et toute la civilisation. Les archives alors sont des sources parmi lesquelles investiguer l’état passé, l’état transitoire et fugitif du
-(1) L’art. 12 des statuts du Parti de l’ordre politique national à Genève porte : * En ca» de dissolution les » archives sont détruites en tout ou en partie ou eon-a fiées en mains sûres par ordre du chef, avec interdic-» tion de les laisser consulter avant l’expiration d’un délai » de cinquante ans, sous peine de droit et tous dommages et intérêts. » Il demeure toujours important que des mesures soient prises contre la destruction d’archives d'associations et d’archives de particuliers ayant été associés à la vie publique. Tous lieux de conservation, moyennant garantie, devraient être les dépôts d’archives nationales. Un grand dépôt international devra trouver sa place au Mundaneum.
+(1) L’art. 12 des statuts du Parti de l’ordre politique national à Genève porte : * En cas de dissolution les » archives sont détruites en tout ou en partie ou eon-a fiées en mains sûres par ordre du chef, avec interdic-» tion de les laisser consulter avant l’expiration d’un délai » de cinquante ans, sous peine de droit et tous dommages et intérêts. » Il demeure toujours important que des mesures soient prises contre la destruction d’archives d'associations et d’archives de particuliers ayant été associés à la vie publique. Tous lieux de conservation, moyennant garantie, devraient être les dépôts d’archives nationales. Un grand dépôt international devra trouver sa place au Mundaneum.
 242 ???
 
 5 Institutions connexes.
@@ -9959,7 +9959,7 @@ LE LIVRE ET LE DOCUMENT
 
 DOCUMENTS GRAPHIQUES 242 *209*
 
-La musique touche à la documentation de plusieurs manières: ???o Elle a des rapports avec la parole, qui en a avec l’écriture. La musique est la langue des sons harmonieux, comme la langue est le mode d'expression des idées. 2U Elle donne lieu à des documents destinés à la hxor et à la conserver : partitions musicales. 3° Ello a réalisé une notation fort intéressante, dont l’étude comparée montre bien que la notation du langage par l'alphabet n’est qu’un cas particulier de la notation en général. 4J Elle fait entrer l’esprit dans un domaine nouveau de relations, 5" La musique n’est pas indépendante des autres matières ; elle déhorde sur la littérature et la philosophie, l’ethnologie, les amusements, et par toutes ces ramifications. elle est rattachée a la documentation générale.
+La musique touche à la documentation de plusieurs manières: 1o Elle a des rapports avec la parole, qui en a avec l’écriture. La musique est la langue des sons harmonieux, comme la langue est le mode d'expression des idées. 2U Elle donne lieu à des documents destinés à la hxor et à la conserver : partitions musicales. 3° Ello a réalisé une notation fort intéressante, dont l’étude comparée montre bien que la notation du langage par l'alphabet n’est qu’un cas particulier de la notation en général. 4J Elle fait entrer l’esprit dans un domaine nouveau de relations, 5" La musique n’est pas indépendante des autres matières ; elle déhorde sur la littérature et la philosophie, l’ethnologie, les amusements, et par toutes ces ramifications. elle est rattachée a la documentation générale.
 
 b) La musique est en soi tout un monde. Les sons qu’elle met en œuvre se succèdent dans le temps, exprimant soit des sensations agréables pour l’ouïe, soit des sentiments de nature diverse. La musique des maîtres peut agir sur le tréfond de l'aine et transformer meme la personnalité. Avec la musique, nous sortons du domaine des idées rationnelles, liées entr’elles par des liens logiques et exprimées en mots. Nous sortons aussi du domaine des formes et des couleurs susceptibles de représenter des réalités existantes ou imaginées. Nous entrons dans une sphère différente où des relations de types nouveaux sont établies entre sons.
 
